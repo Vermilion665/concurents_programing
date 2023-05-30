@@ -20,7 +20,7 @@ def get_links():
         # в ответе на запрос случайной статьи в resp.url будет ссылка на эту статью
         #resp = s.get(RANDOM_URL, headers=HEADERS)
         #url = resp.url
-        url = 'https://en.wikipedia.org/wiki/Blasphemy_law_in_Egypt'
+        url = 'https://en.wikipedia.org/wiki/Textbook'
         html = s.get(url, headers=HEADERS).text
         # получаем объект BeautifulSoup
         soup = BeautifulSoup(html, 'html.parser')
@@ -41,7 +41,7 @@ def download_page(link: str)-> None:
         resp = s.get(link, headers=HEADERS)
         path = os.getcwd()
         filename = link.rstrip("/").split("/")[-1]
-        full_path = os.path.join(path, 'Downloads', filename)
+        full_path = os.path.join(path, 'download', filename)
 
         with open(full_path, 'wb') as file:
             file.write(resp.content)

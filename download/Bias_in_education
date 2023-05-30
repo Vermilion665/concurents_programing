@@ -1,0 +1,1103 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Bias in curricula - Wikipedia</title>
+<script>document.documentElement.className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled";(function(){var cookie=document.cookie.match(/(?:^|; )enwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"e9579acd-7525-42f6-bec3-01e505a398fc","wgCSPNonce":false,
+"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Bias_in_curricula","wgTitle":"Bias in curricula","wgCurRevisionId":1127825876,"wgRevisionId":1127825876,"wgArticleId":3912778,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","All articles with bare URLs for citations","Articles with bare URLs for citations from June 2022","Articles with DOC/DOCX file bare URLs for citations","CS1 errors: missing title","CS1 errors: bare URL","CS1: long volume value","Articles with short description","Short description matches Wikidata","All articles with unsourced statements","Articles with unsourced statements from September 2015","All articles lacking reliable references","Articles lacking reliable references from February 2021","Articles with unsourced statements from February 2021","Articles with unsourced statements from December 2022",
+"Articles with unsourced statements from December 2017","Bias","Education issues","Pedagogy","Textbook controversies"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Bias_in_curricula","wgRelevantArticleId":3912778,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Bias_in_education","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgInternalRedirectTargetUrl":"/wiki/Bias_in_curricula","wgEditSubmitButtonLabelPublish":true,
+"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q17004903","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.ui.button":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","mediawiki.ui.icon":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","ext.scribunto.logs",
+"site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.ui.button%2Cicon%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.10">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-crossorigin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Bias in curricula - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Bias_in_curricula">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Bias_in_curricula&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Bias_in_curricula">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Bias_in_curricula rootpage-Bias_in_curricula skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-main-menu-dropdown mw-ui-icon-flush-left mw-ui-icon-flush-right"  >
+	<input type="checkbox"
+		id="vector-main-menu-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-main-menu-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Main menu"
+		
+	/>
+	<label
+		id="vector-main-menu-dropdown-label"
+		for="vector-main-menu-dropdown-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+
+		<span class="vector-menu-heading-label">Main menu</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box-notice vector-language-sidebar-alert mw-message-box">Language links are at the top of the page across from the title.</div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt=""
+		aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia"
+			src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline"
+			alt="The Free Encyclopedia"
+			src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search"
+	
+		id=""
+		class="mw-ui-button mw-ui-quiet mw-ui-icon-element search-toggle"
+		title="Search Wikipedia [f]"accesskey="f"><span class="mw-ui-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-moved">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Bias+in+curricula" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bias+in+curricula" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-user-menu mw-ui-icon-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox"
+		id="vector-user-links-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-user-links-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Personal tools"
+		
+	/>
+	<label
+		id="vector-user-links-dropdown-label"
+		for="vector-user-links-dropdown-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Bias+in+curricula" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="mw-ui-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bias+in+curricula" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="mw-ui-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Bias_in_school_textbooks"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Bias_in_school_textbooks">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Bias in school textbooks</div>
+		</a>
+		
+		<ul id="toc-Bias_in_school_textbooks-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Religious_bias"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Religious_bias">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Religious bias</div>
+		</a>
+		
+		<ul id="toc-Religious_bias-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Gender_bias"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Gender_bias">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Gender bias</div>
+		</a>
+		
+		<ul id="toc-Gender_bias-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-By_country_or_region"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#By_country_or_region">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>By country or region</div>
+		</a>
+		
+			<button aria-controls="toc-By_country_or_region-sublist" class="mw-ui-icon mw-ui-icon-wikimedia-expand mw-ui-icon-small vector-toc-toggle">
+				Toggle By country or region subsection
+			</button>
+		
+		<ul id="toc-By_country_or_region-sublist" class="vector-toc-list">
+			<li id="toc-Australia"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Australia">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1</span>Australia</div>
+			</a>
+			
+			<ul id="toc-Australia-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Europe"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Europe">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.2</span>Europe</div>
+			</a>
+			
+			<ul id="toc-Europe-sublist" class="vector-toc-list">
+				<li id="toc-UK"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#UK">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.2.1</span>UK</div>
+			</a>
+			
+			<ul id="toc-UK-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-United_States"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#United_States">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.3</span>United States</div>
+			</a>
+			
+			<ul id="toc-United_States-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Asia"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Asia">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.4</span>Asia</div>
+			</a>
+			
+			<ul id="toc-Asia-sublist" class="vector-toc-list">
+				<li id="toc-Middle_East"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Middle_East">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.4.1</span>Middle East</div>
+			</a>
+			
+			<ul id="toc-Middle_East-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-India"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#India">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.4.2</span>India</div>
+			</a>
+			
+			<ul id="toc-India-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Japan"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Japan">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.4.3</span>Japan</div>
+			</a>
+			
+			<ul id="toc-Japan-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Pakistan"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Pakistan">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.4.4</span>Pakistan</div>
+			</a>
+			
+			<ul id="toc-Pakistan-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Turkey"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Turkey">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.4.5</span>Turkey</div>
+			</a>
+			
+			<ul id="toc-Turkey-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Further_reading"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Further_reading">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Further reading</div>
+		</a>
+		
+		<ul id="toc-Further_reading-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>See also</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="mw-ui-button mw-ui-quiet mw-ui-icon-flush-left mw-ui-icon-element"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="mw-ui-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+				
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-menu vector-dropdown vector-menu-dropdown vector-page-titlebar-toc mw-ui-icon-flush-left"  >
+	<input type="checkbox"
+		id="vector-page-titlebar-toc-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-titlebar-toc"
+		class="vector-menu-checkbox "
+		
+		aria-label="Toggle the table of contents"
+		
+	/>
+	<label
+		id="vector-page-titlebar-toc-label"
+		for="vector-page-titlebar-toc-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+
+		<span class="vector-menu-heading-label">Toggle the table of contents</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Bias in curricula</span></h1>
+				
+							
+<div id="p-lang-btn" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox"
+		id="p-lang-btn-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-lang-btn"
+		class="vector-menu-checkbox mw-interlanguage-selector"
+		aria-label="Go to an article in another language. Available in 3 languages"
+		
+		
+	/>
+	<label
+		id="p-lang-btn-label"
+		for="p-lang-btn-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-progressive mw-portlet-lang-heading-3"
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+
+		<span class="vector-menu-heading-label">3 languages</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A7%D9%86%D8%AD%D9%8A%D8%A7%D8%B2_%D9%81%D9%8A_%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85" title="الانحياز في التعليم – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E5%81%8F%E5%90%91%E6%95%99%E8%82%B2" title="偏向教育 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-pa mw-list-item"><a href="https://pa.wikipedia.org/wiki/%E0%A8%B8%E0%A8%BF%E0%A9%B1%E0%A8%96%E0%A8%BF%E0%A8%86_%E0%A8%B5%E0%A8%BF%E0%A9%B1%E0%A8%9A_%E0%A8%AA%E0%A9%B1%E0%A8%96%E0%A8%AA%E0%A8%BE%E0%A8%A4" title="ਸਿੱਖਿਆ ਵਿੱਚ ਪੱਖਪਾਤ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target"><span>ਪੰਜਾਬੀ</span></a></li></ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q17004903#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+				</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Bias_in_curricula" title="View the content page [c]" accesskey="c" class=""><span>Article</span></a>
+</li>
+<li id="ca-talk" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Talk:Bias_in_curricula" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t" class=""><span>Talk</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+								
+
+<div id="p-variants" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-variants emptyPortlet"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-label="Change language variant"
+		
+		
+	/>
+	<label
+		id="p-variants-label"
+		for="p-variants-checkbox"
+		class="vector-menu-heading "
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+
+	</div>
+</div>
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Bias_in_curricula" class=""><span>Read</span></a>
+</li>
+<li id="ca-edit" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=Bias_in_curricula&amp;action=edit" title="Edit this page [e]" accesskey="e" class=""><span>Edit</span></a>
+</li>
+<li id="ca-history" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=Bias_in_curricula&amp;action=history" title="Past revisions of this page [h]" accesskey="h" class=""><span>View history</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="More options">
+								
+<div id="vector-page-tools-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox"
+		id="vector-page-tools-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-tools-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Tools"
+		
+	/>
+	<label
+		id="vector-page-tools-dropdown-label"
+		for="vector-page-tools-dropdown-checkbox"
+		class="vector-menu-heading "
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-menu-heading-label">Tools</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Bias_in_curricula"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Bias_in_curricula&amp;action=edit"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Bias_in_curricula&amp;action=history"><span>View history</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Bias_in_curricula" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Bias_in_curricula" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Bias_in_curricula&amp;oldid=1127825876" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Bias_in_curricula&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Bias_in_curricula&amp;id=1127825876&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q17004903" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Bias_in_curricula&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Bias_in_curricula&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="More options">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"><span class="mw-redirectedfrom">(Redirected from <a href="/w/index.php?title=Bias_in_education&amp;redirect=no" class="mw-redirect" title="Bias in education">Bias in education</a>)</span></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Bias in educational textbooks</div>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">"Textbook controversies" redirects here. For other uses, see <a href="/wiki/Textbook_controversies_(disambiguation)" class="mw-disambig" title="Textbook controversies (disambiguation)">Textbook controversies (disambiguation)</a>.</div>
+<p><b>Bias in curricula</b> refers to real or perceived <a href="/wiki/Bias" title="Bias">bias</a> in the <a href="/wiki/Educational_system" title="Educational system">educational</a> textbooks.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Bias_in_school_textbooks">Bias in school textbooks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bias_in_curricula&amp;action=edit&amp;section=1" title="Edit section: Bias in school textbooks">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The content of school textbooks is often the issue of debate, as their target audience is young people, and the term "whitewashing" is the one commonly used to refer to selective removal of critical or damaging evidence or comment.<sup id="cite_ref-7forms_1-0" class="reference"><a href="#cite_note-7forms-1">&#91;1&#93;</a></sup><sup id="cite_ref-Washpost_2-0" class="reference"><a href="#cite_note-Washpost-2">&#91;2&#93;</a></sup><sup id="cite_ref-whitewashhist_3-0" class="reference"><a href="#cite_note-whitewashhist-3">&#91;3&#93;</a></sup> The <a href="/wiki/Historical_revisionism_(political)" class="mw-redirect" title="Historical revisionism (political)">reporting of military atrocities in history</a> is extremely controversial, as in the case of the <a href="/wiki/Holocaust" class="mw-redirect" title="Holocaust">Holocaust</a> (or <a href="/wiki/Holocaust_denial" title="Holocaust denial">Holocaust denial</a>) and the <a href="/wiki/Winter_Soldier_Investigation" title="Winter Soldier Investigation">Winter Soldier Investigation</a> of the <a href="/wiki/Vietnam_War" title="Vietnam War">Vietnam War</a>.  The representation of every society's flaws or misconduct is typically downplayed in favor of a more nationalist or patriotic view. Also, <a href="/wiki/Christians" title="Christians">Christians</a> and other religionists have at times attempted to block the teaching of the theory of <a href="/wiki/Evolution" title="Evolution">evolution</a> in schools, as evolutionary theory appears to contradict their <a href="/wiki/Religion" title="Religion">religious beliefs</a>; the teaching of <a href="/wiki/Creationism" title="Creationism">creationism</a> as a science is likewise blocked from many public schools.  In the context of secondary-school education, the way facts and history are presented greatly influences the interpretation of contemporary thought, opinion and socialization. One legitimate argument for censoring the type of information disseminated is based on the inappropriate quality of such material for the young. The use of the "inappropriate" distinction is in itself controversial, as it can be used to enforce wider and more politically motivated censorship.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2015)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="Religious_bias">Religious bias</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bias_in_curricula&amp;action=edit&amp;section=2" title="Edit section: Religious bias">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Many countries and states have guidelines against bias in education, but they are not always implemented. The guidelines of the <a href="/wiki/California" title="California">California</a> Department of Education (Code 60044) state the following: "No <a href="/wiki/Religious_belief" class="mw-redirect" title="Religious belief">religious belief</a> or practice may be held up to ridicule and no religious group may be portrayed as inferior." "Any explanation or description of a religious belief or practice should be present in a manner that does not encourage or discourage belief or indoctrinate the student in any particular religious belief."<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>On the basis of these guidelines, the Board of Education of <a href="/wiki/California" title="California">California</a> corrected in 2005 misrepresentations of <a href="/wiki/Hinduism" title="Hinduism">Hinduism</a>, <a href="/wiki/Judaism" title="Judaism">Judaism</a> and <a href="/wiki/Islam" title="Islam">Islam</a> in schoolbooks.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup class="noprint Inline-Template noprint noexcerpt Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:NOTRS" class="mw-redirect" title="Wikipedia:NOTRS"><span title="This claim needs references to better sources. (February 2021)">better&#160;source&#160;needed</span></a></i>&#93;</sup> Many of these misrepresentations were described as biased, erroneous or culturally derogatory. All 500 changes proposed by Jews, dozens by Hindus and about 100 changes proposed by Muslims were accepted.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="Your explanation here (February 2021)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="Gender_bias">Gender bias</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bias_in_curricula&amp;action=edit&amp;section=3" title="Edit section: Gender bias">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to fourth edition of annual Global Education Monitoring Report of UNESCO, 2020, depiction of female characters are less frequent and often discriminatory in school text books of many countries.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> According to Prof Rae Lesser Blumberg women are either absent in school textbooks or usually depicted in subservient roles, perpetuate gender imbalance, Blumberg says when millions of children are dropped out of schools, issue of gender bias in education remains on back burner and does not make headline.<sup id="cite_ref-:2_7-0" class="reference"><a href="#cite_note-:2-7">&#91;7&#93;</a></sup> According to Valeria Perasso endemic Gender bias is endemic in primary school textbooks across continents.<sup id="cite_ref-:2_7-1" class="reference"><a href="#cite_note-:2-7">&#91;7&#93;</a></sup> As per Unesco report pervasive sexist attitudes in school textbooks are invisible obstacles in educating girls, undermine their life expectations, careers, and  gender equality.<sup id="cite_ref-:2_7-2" class="reference"><a href="#cite_note-:2-7">&#91;7&#93;</a></sup> According to Aaron Benavot females are almost   underrepresented in textbooks and curricula, Whether counted in lines of text, proportion of named characters, mentions in titles, citations in indexes or other criteria.<sup id="cite_ref-:2_7-3" class="reference"><a href="#cite_note-:2-7">&#91;7&#93;</a></sup> Stereotypes of Gender roles, absence from scenes , gender-biased language,<sup id="cite_ref-:2_7-4" class="reference"><a href="#cite_note-:2-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="By_country_or_region">By country or region</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bias_in_curricula&amp;action=edit&amp;section=4" title="Edit section: By country or region">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Australia">Australia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bias_in_curricula&amp;action=edit&amp;section=5" title="Edit section: Australia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A recent study of student evaluations of teaching (SET) from a large public university in <a href="/wiki/Sydney" title="Sydney">Sydney</a> focused on gender and cultural bias.<sup id="cite_ref-Johnston_e0209749_8-0" class="reference"><a href="#cite_note-Johnston_e0209749-8">&#91;8&#93;</a></sup>  The dataset of more than 523,000 individual student surveys across 5 different faculties spanned a seven year period 2010-2016. There were 2,392 unique courses and 3,123 individual teachers in the dataset. The researchers concluded, "We detected statistically significant bias against women and staff with non-English language backgrounds, although these effects do not appear in every faculty. Our findings on the effect of cultural background is novel and significant because in <a href="/wiki/Australia" title="Australia">Australia</a>, where the population is culturally diverse, current policy and administrative actions have focussed on addressing gender bias, but less on cultural or racial bias. We found some evidence that the proportion of women or staff with non-English language backgrounds in a faculty may be negatively correlated with bias, i.e., having a diverse teaching staff population may reduce bias. We also found that due to the magnitude of these potential biases, the SET scores are likely to be flawed as a measure of teaching performance. Finally, we found no evidence that student’s unconscious bias changes with the level of their degree program."<sup id="cite_ref-Johnston_e0209749_8-1" class="reference"><a href="#cite_note-Johnston_e0209749-8">&#91;8&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Europe">Europe</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bias_in_curricula&amp;action=edit&amp;section=6" title="Edit section: Europe">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="UK">UK</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bias_in_curricula&amp;action=edit&amp;section=7" title="Edit section: UK">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Political bias, racial bias, the issue of homosexuality, trans activism and the representation of Muhammed have all caused educational controversy in the last decade or two.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2022)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h3><span class="mw-headline" id="United_States">United States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bias_in_curricula&amp;action=edit&amp;section=8" title="Edit section: United States">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Many recent allegations against the <a href="/wiki/United_States" title="United States">United States</a> have surfaced about the hiding of many historical facts from the public through public education and thus luring the public to believing that the actions taken by the <a href="/wiki/Federal_government_of_the_United_States" title="Federal government of the United States">U.S. government</a> are justified and provide a global benefit.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2017)">citation needed</span></a></i>&#93;</sup>
+</p><p>On the political left, professors <a href="/wiki/Howard_Zinn" title="Howard Zinn">Howard Zinn</a> and <a href="/wiki/James_Loewen" class="mw-redirect" title="James Loewen">James Loewen</a> allege that United States history as presented in school textbooks has a conservative bias.  <i><a href="/wiki/A_People%27s_History_of_the_United_States" title="A People&#39;s History of the United States">A People's History of the United States</a></i>, by American historian and political scientist Zinn, seeks to present American history through the eyes of groups rarely heard in mainstream histories.  Loewen spent two years at the Smithsonian Institution studying and comparing twelve American history textbooks widely used throughout the United States. His findings were published in <i><a href="/wiki/Lies_My_Teacher_Told_Me" title="Lies My Teacher Told Me">Lies My Teacher Told Me: Everything Your High School History Textbook Got Wrong</a></i>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>On the political right, professor <a href="/wiki/Larry_Schweikart" title="Larry Schweikart">Larry Schweikart</a> makes the opposite case: he alleges in his <i>48 Liberal Lies About American History</i> that United States history education has a liberal bias.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p><p>In a landmark book called "The Trouble with Textbooks," <a href="/wiki/Gary_A._Tobin" class="mw-redirect" title="Gary A. Tobin">Gary A. Tobin</a> and Dennis R. Ybarra show how some American textbooks contain anti-Semitic versions of Jewish history and faith, particularly in relation to <a href="/wiki/Christianity" title="Christianity">Christianity</a> and <a href="/wiki/Islam" title="Islam">Islam</a>. The authors found that some U.S. textbooks "tend to discredit the ties between <a href="/wiki/Jews" title="Jews">Jews</a> and the <a href="/wiki/Land_of_Israel" title="Land of Israel">Land of Israel</a>. <a href="/wiki/Israel" title="Israel">Israel</a> is blamed for starting wars in the region and being colonialist. Jews are charged with deicide in the killing of <a href="/wiki/Jesus" title="Jesus">Jesus</a>. All in all, there are repeated misrepresentations that cross the line into bigotry."<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Asia">Asia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bias_in_curricula&amp;action=edit&amp;section=9" title="Edit section: Asia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Middle_East">Middle East</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bias_in_curricula&amp;action=edit&amp;section=10" title="Edit section: Middle East">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Palestinian school text books have come under repeated criticism for <a href="/wiki/Anti-Zionism" title="Anti-Zionism">anti-Israeli bias</a>.  An independent study of Palestinian textbooks by Professor <a href="/wiki/Nathan_J._Brown_(political_scientist)" title="Nathan J. Brown (political scientist)">Nathan Brown</a> of <a href="/wiki/George_Washington_University" title="George Washington University">George Washington University</a> in <a href="/wiki/Washington,_D.C." title="Washington, D.C.">Washington, DC</a>, found that <a href="/wiki/Palestinian_National_Authority" title="Palestinian National Authority">Palestine National Authority</a>-authored books avoid treating anything controversial regarding Palestinian national identity, and while highly nationalistic, do not incite hatred, violence and anti-Semitism. It cannot be described as a “peace curriculum”either, but the charges against it are often wildly exaggerated or inaccurate.
+</p><p>An analysis of <a href="/wiki/Textbooks_in_Israel" title="Textbooks in Israel">Israeli textbooks</a> in 2000 by the <a href="/wiki/Center_for_Monitoring_the_Impact_of_Peace" class="mw-redirect" title="Center for Monitoring the Impact of Peace">Center for Monitoring the Impact of Peace</a> (CMIP), found that there was no indoctrination against the <a href="/wiki/Arabs" title="Arabs">Arabs</a> as a nation, nor a negative presentation of <a href="/wiki/Islam" title="Islam">Islam</a>. However in 2012, <a href="/wiki/Nurit_Peled-Elhanan" title="Nurit Peled-Elhanan">Nurit Peled-Elhanan</a>, a professor of language and education at the <a href="/wiki/Hebrew_University_of_Jerusalem" title="Hebrew University of Jerusalem">Hebrew University of Jerusalem</a>, published <i>Palestine in Israeli School Books: Ideology and Propaganda in Education</i>, an account of her study of the contents of Israeli school books, finding that Israeli school books do in fact promote <a href="/wiki/Racism" title="Racism">racism</a> against and negative images of Arabs, and prepare Israeli children for compulsory military service.
+</p>
+<h4><span class="mw-headline" id="India">India</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bias_in_curricula&amp;action=edit&amp;section=11" title="Edit section: India">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Main articles: <a href="/wiki/NCERT_textbook_controversies" title="NCERT textbook controversies">NCERT textbook controversies</a> and <a href="/wiki/Karnataka_textbook_controversy" title="Karnataka textbook controversy">Karnataka textbook controversy</a></div>
+<p>In 1982 the <a href="/wiki/NCERT" class="mw-redirect" title="NCERT">NCERT</a> (National Council of Educational Research and Training) issued guidelines for the rewriting of schoolbooks.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> It stipulated that: "Characterization of the medieval period as a time of conflict between <a href="/wiki/Hindus" title="Hindus">Hindus</a> and <a href="/wiki/Muslims" title="Muslims">Muslims</a> is forbidden."<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+In April 1989 the <a href="/wiki/West_Bengal" title="West Bengal">West Bengal</a> Board of Secondary Education had issued instructions to schools and publishers of textbooks that "Muslim rule should never attract any <a href="/wiki/Criticism" title="Criticism">criticism</a>. Destruction of <a href="/wiki/Temple" title="Temple">temples</a> by Muslim rulers and invaders should not be mentioned."<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> Schools and publishers have been asked to ignore and delete mention of forcible conversions to Islam. Some academicians have felt that these "corrections" were politically motivated and that they are censorship.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p><p><a href="/wiki/Arun_Shourie" title="Arun Shourie">Arun Shourie</a> criticized these changes in schoolbooks and claimed: <i>The most extensive deletions are ordered in regard to the chapter on "<a href="/wiki/Aurangzeb" title="Aurangzeb">Aurangzeb</a>'s policy on religion". Every allusion to what he actually did to the Hindus, to their temples, to the very leitmotif of his rule – to spread the sway of Islam – are directed to be excised from the book. ... "In a word, no forcible conversions, no <a href="/wiki/Massacres" class="mw-redirect" title="Massacres">massacres</a>, no <a href="https://en.wiktionary.org/wiki/destruction" class="extiw" title="wikt:destruction">destruction</a> of temples. ... Muslim historians of those times are in raptures at the heap of Kafirs [sic] who have been dispatched to hell. Muslim historians are forever lavishing praise on the ruler for the temples he has destroyed, ... Law books like The Hedaya prescribe exactly the options to which these little textbooks alluded. All whitewashed away. Objective <a href="/wiki/Whitewash" title="Whitewash">whitewash</a> for objective history. And today if anyone seeks to restore truth to these textbooks, the shout, "Communal rewriting of history.""</i><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Japan">Japan</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bias_in_curricula&amp;action=edit&amp;section=12" title="Edit section: Japan">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>See <a href="/wiki/Japanese_textbook_controversy" class="mw-redirect" title="Japanese textbook controversy">Japanese textbook controversy</a></li></ul>
+<h4><span class="mw-headline" id="Pakistan">Pakistan</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bias_in_curricula&amp;action=edit&amp;section=13" title="Edit section: Pakistan">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Pakistani_textbooks_controversy" title="Pakistani textbooks controversy">Pakistani textbooks controversy</a></div>
+<p>Bias in education has been a common feature in the curriculum of many <a href="/wiki/South_Asia" title="South Asia">South Asian</a> countries. According to Waghmar, many of the <a href="/wiki/Oriental" class="mw-redirect" title="Oriental">oriental</a> societies are plagued by visceral nationalism and post-imperial neurosis where state-sanctioned dogmas suppress eclectic historical readings.<sup id="cite_ref-waghmar_17-0" class="reference"><a href="#cite_note-waghmar-17">&#91;17&#93;</a></sup> Issues such as the preaching of hatred and obscurantism and the distortion of history in <a href="/wiki/Pakistan" title="Pakistan">Pakistan</a> have led the international scholars to suggest the need for coordinated efforts amongst the historians to produce a composite history of the <a href="/wiki/Subcontinent" class="mw-redirect" title="Subcontinent">subcontinent</a> as a common <a href="/wiki/South_Asia" title="South Asia">South Asian</a> reader.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> Bias against <a href="/wiki/Indian_people" title="Indian people">Indians</a> and <a href="/wiki/Hindus" title="Hindus">Hindus</a>, as well as other religious minorities, have been found in Pakistani schoolbooks.<sup id="cite_ref-Vali_Nasr_19-0" class="reference"><a href="#cite_note-Vali_Nasr-19">&#91;19&#93;</a></sup> However, Nelson here stresses the need for any <a href="/wiki/Education_reform" title="Education reform">educational reform</a> to be based at the needs of the level of local communities.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</p><p>The bias in Pakistani textbooks was studied by Rubina Saigol, Pervez Hoodbhoy, K. K. Aziz, I. A. Rahman, Mubarak Ali, A. H. Nayyar, Ahmed Saleem, Yvette Rosser and others.
+</p><p>A study by Nayyar &amp; Salim (2003) that was conducted with 30 experts of <a href="/wiki/Education_in_Pakistan" title="Education in Pakistan">Pakistan's education system</a>, found that the textbooks contain statements that seek to create hate against Hindus. There was also an emphasis on <a href="/wiki/Jihad" title="Jihad">Jihad</a>, Shahadat, wars and military heroes. The study reported that the textbooks also had a lot of gender-biased stereotypes. Some of the problems in Pakistani textbooks cited in the report were: <i>"Insensitivity to the existing religious diversity of the nation"; "Incitement to militancy and violence, including encouragement of Jehad and Shahadat"; a "glorification of war and the use of force"; "Inaccuracies of fact and omissions that serve to substantially distort the nature and significance of actual events in our history"; "Perspectives that encourage <a href="/wiki/Prejudice" title="Prejudice">prejudice</a>, <a href="/wiki/Bigotry" class="mw-redirect" title="Bigotry">bigotry</a> and <a href="/wiki/Discrimination" title="Discrimination">discrimination</a> towards fellow citizens, especially women and religious minorities, and other towards nations" and "Omission of concepts ... that could encourage critical selfawareness among students".</i><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</p><p>These problems still seem to persist: The Curriculum Wing of the Federal Ministry of Education rejected a textbook in December 2003 because of two serious objections: The textbook contained the text of letter of a non-Muslim, and it contained the story of a family were both husband and wife worked and were sharing their household chores. In February 2004, a textbook was disapproved by the Curriculum Wing because it didn't contain enough material on jihad.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</p><p>Pakistani textbooks were relatively unbiased up to 1972, but were rewritten and completely altered under <a href="/wiki/Zulfikar_Ali_Bhutto" title="Zulfikar Ali Bhutto">Bhutto</a>'s and especially under <a href="/wiki/Muhammad_Zia-ul-Haq" title="Muhammad Zia-ul-Haq">Zia</a>'s (1977–88) rule.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup> The bias in <a href="/wiki/Pakistan" title="Pakistan">Pakistani</a> textbooks was also documented by Yvette Rosser (2003). She wrote that  "in the past few decades, social studies textbooks in <a href="/wiki/Pakistan" title="Pakistan">Pakistan</a> have been used as locations to articulate the hatred that Pakistani policy makers have attempted to inculcate towards their <a href="/wiki/Hindu" class="mw-redirect" title="Hindu">Hindu</a> neighbours",  and that as a result "in the minds of generations of <a href="/wiki/Pakistanis" title="Pakistanis">Pakistanis</a>, indoctrinated by the 'Ideology of Pakistan' are lodged fragments of hatred and suspicion."<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</p><p>Professors who have been critical of Pakistani politics or corruption have are sometimes discriminated against. Dr. Parvez Hoodbhoy, who was also a critic of Pakistani politics, had troubles leaving the country for a lecture in the Physics department at <a href="/wiki/MIT" class="mw-redirect" title="MIT">MIT</a>, because he was denied a <i>NOC (No Objection Certificate)</i> necessary for travels abroad.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup>
+</p><p>One of the omissions in Pakistani textbooks is <a href="/wiki/Operation_Gibraltar" title="Operation Gibraltar">Operation Gibraltar</a>. Operation Gibraltar, which provoked the <a href="/wiki/Indian_Army" title="Indian Army">Indian Army</a> attack on <a href="/wiki/Lahore" title="Lahore">Lahore</a>, is not mentioned in most history textbooks. According to Pakistani textbooks, Lahore was attacked without any provocation on the part of the <a href="/wiki/Pakistani_army" class="mw-redirect" title="Pakistani army">Pakistani army</a>.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup> The rule of Islamic invaders like <a href="/wiki/Mahmud_of_Ghazni" title="Mahmud of Ghazni">Mahmud of Ghazni</a> is glorified, while the much more peaceful Islamic ruler <a href="/wiki/Akbar" title="Akbar">Akbar</a> is often ignored in Pakistani textbooks.
+</p><p>The Pakistani Curriculum document for classes K-V stated in 1995 that "at the completion of Class-V, the child should be able to":
+</p>
+<ul><li>"Acknowledge and identify forces that may be working against Pakistan."[pg 154]</li>
+<li>"Demonstrate by actions a belief in the fear of <a href="/wiki/Allah" title="Allah">Allah</a>." [pg154]</li>
+<li>"Make speeches on Jehad and Shahadat" [pg154]</li>
+<li>"Understand <a href="/wiki/Hindu%E2%80%93Islamic_relations" title="Hindu–Islamic relations">Hindu-Muslim differences</a> and the resultant need for Pakistan." [pg154]</li>
+<li>"<a href="/wiki/India" title="India">India</a>'s evil designs against Pakistan." [pg154]</li>
+<li>"Be safe from rumour mongers who spread false news" [pg158]</li>
+<li>"Visit police stations" [pg158]</li>
+<li>"Collect pictures of policemen, soldiers, and National Guards" [pg158]</li>
+<li>"Demonstrate respect for the leaders of Pakistan" [pg153]<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup></li></ul>
+<h4><span class="mw-headline" id="Turkey">Turkey</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bias_in_curricula&amp;action=edit&amp;section=14" title="Edit section: Turkey">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Turkish schools, regardless of whether they are public or private, are required to teach history based on the <a href="/wiki/Turkish_textbook_controversies" title="Turkish textbook controversies">textbooks</a> approved by the <a href="/wiki/Ministry_of_Education_(Turkey)" class="mw-redirect" title="Ministry of Education (Turkey)">Ministry of Education</a>.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup><sup id="cite_ref-Gocek_29-0" class="reference"><a href="#cite_note-Gocek-29">&#91;29&#93;</a></sup> The state uses its monopoly to increase support for the official position of <a href="/wiki/Armenian_genocide_denial" title="Armenian genocide denial">Armenian genocide denial</a>,<sup id="cite_ref-Gocek_29-1" class="reference"><a href="#cite_note-Gocek-29">&#91;29&#93;</a></sup><sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup><sup class="reference nowrap"><span title="Page / location: 105">&#58;&#8202;105&#8202;</span></sup> demonizing <a href="/wiki/Armenians" title="Armenians">Armenians</a> and presenting them as enemies.<sup id="cite_ref-Aybak13_31-0" class="reference"><a href="#cite_note-Aybak13-31">&#91;31&#93;</a></sup><sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup> For decades, these textbooks omitted any mention of Armenians as part of <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman</a> history.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup><sup id="cite_ref-Gurp234_34-0" class="reference"><a href="#cite_note-Gurp234-34">&#91;34&#93;</a></sup> Since the 1980s, textbooks discuss the "events of 1915", but deflect the blame from the <a href="/wiki/State_organisation_of_the_Ottoman_Empire" class="mw-redirect" title="State organisation of the Ottoman Empire">Ottoman government</a> to other actors, especially imperialist powers who allegedly manipulated the Armenians to achieve their nefarious goals of undermining the empire, and the Armenians themselves, for allegedly committing treason and presenting a threat to the empire. Some textbooks admit that deportations occur and Armenians died, but present this action as necessary and justified. Most recently, textbooks have accused Armenians of perpetrating genocide against <a href="/wiki/Islam_in_Turkey" title="Islam in Turkey">Turkish Muslims</a>.<sup id="cite_ref-Gurp234_34-1" class="reference"><a href="#cite_note-Gurp234-34">&#91;34&#93;</a></sup><sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup><sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup> In 2003, students in each grade level were instructed to write essays refuting the genocide.<sup id="cite_ref-FOOTNOTEDixon2010b115_37-0" class="reference"><a href="#cite_note-FOOTNOTEDixon2010b115-37">&#91;37&#93;</a></sup>
+</p><p>Teachers are instructed to tell seventh-year students:
+</p>
+<style data-mw-deduplicate="TemplateStyles:r996844942">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style><blockquote class="templatequote"><p>State to your students that the Russians also made some Armenians revolt on this front and murder many of our civilian citizens. Explain that the Ottoman State took certain measures following these developments, and in May 1915 implemented the ‘Tehcir Kanunu’ [Displacement Law] regarding the migration and settlement of Armenians in the battleground. Explain that care was taken to ensure that the land in which the Armenians who had to migrate were to settle was fertile, that police stations were established for their security and that measures were taken to ensure they could practice their previous jobs and professions.<sup id="cite_ref-Aybak13_31-1" class="reference"><a href="#cite_note-Aybak13-31">&#91;31&#93;</a></sup></p></blockquote>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bias_in_curricula&amp;action=edit&amp;section=15" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Dull L.J. (2021) Citizenship and Nationhood in Black and White: Silences of Slavery in Textbooks. In: Hildebrandt-Wypych D., Wiseman A.W. (eds) Comparative Perspectives on School Textbooks. Palgrave Macmillan, Cham. https://doi.org/10.1007/978-3-030-68719-9_3</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bias_in_curricula&amp;action=edit&amp;section=16" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Academic_bias" title="Academic bias">Academic bias</a></li>
+<li><a href="/wiki/American_Association_of_University_Professors" title="American Association of University Professors">American Association of University Professors</a></li>
+<li><a href="/wiki/Critical_pedagogy" title="Critical pedagogy">Critical pedagogy</a></li>
+<li><a href="/wiki/Criticism_of_Wikipedia" title="Criticism of Wikipedia">Criticism of Wikipedia</a></li>
+<li><a href="/wiki/Discrimination_in_education" title="Discrimination in education">Discrimination in education</a></li>
+<li><a href="/wiki/Early_childhood_education" title="Early childhood education">Early childhood education</a></li>
+<li><a href="/wiki/Eurocentrism" title="Eurocentrism">Eurocentrism</a></li>
+<li><a href="/wiki/Historical_negationism#In_textbooks" title="Historical negationism">Historical negationism §&#160;In textbooks</a></li>
+<li><a href="/wiki/Pedagogy" title="Pedagogy">Pedagogy</a></li>
+<li><a href="/wiki/Philosophy_of_education" title="Philosophy of education">Philosophy of education</a></li>
+<li><a href="/wiki/Saudi_Arabian_textbook_controversy" title="Saudi Arabian textbook controversy">Saudi Arabian textbook controversy</a></li>
+<li><a href="/wiki/Selective_omission" title="Selective omission">Selective omission</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bias_in_curricula&amp;action=edit&amp;section=17" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-7forms-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-7forms_1-0">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFSadker" class="citation web cs1">Sadker, David. <a rel="nofollow" class="external text" href="http://www.sadker.org/curricularbias.html">"Seven Forms of Bias in Instructional Materials"</a>. <i>sadker.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 September</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=sadker.org&amp;rft.atitle=Seven+Forms+of+Bias+in+Instructional+Materials&amp;rft.aulast=Sadker&amp;rft.aufirst=David&amp;rft_id=http%3A%2F%2Fwww.sadker.org%2Fcurricularbias.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABias+in+curricula" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Washpost-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Washpost_2-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFStrauss2014" class="citation news cs1">Strauss, Valerie (12 September 2014). <a rel="nofollow" class="external text" href="https://www.washingtonpost.com/blogs/answer-sheet/wp/2014/09/12/proposed-texas-textbooks-are-inaccurate-biased-and-politicized-new-report-finds/">"Proposed Texas textbooks are inaccurate, biased and politicized, new report finds"</a>. <i>Washington Post</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 September</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Washington+Post&amp;rft.atitle=Proposed+Texas+textbooks+are+inaccurate%2C+biased+and+politicized%2C+new+report+finds&amp;rft.date=2014-09-12&amp;rft.aulast=Strauss&amp;rft.aufirst=Valerie&amp;rft_id=https%3A%2F%2Fwww.washingtonpost.com%2Fblogs%2Fanswer-sheet%2Fwp%2F2014%2F09%2F12%2Fproposed-texas-textbooks-are-inaccurate-biased-and-politicized-new-report-finds%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABias+in+curricula" class="Z3988"></span></span>
+</li>
+<li id="cite_note-whitewashhist-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-whitewashhist_3-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFCzitrom2010" class="citation web cs1">Czitrom, Daniel (22 March 2010). <a rel="nofollow" class="external text" href="http://edition.cnn.com/2010/OPINION/03/18/czitrom.texas.textbooks/">"Texas school board whitewashes history"</a>. <i>cnn.com</i>. CNN<span class="reference-accessdate">. Retrieved <span class="nowrap">3 September</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=cnn.com&amp;rft.atitle=Texas+school+board+whitewashes+history&amp;rft.date=2010-03-22&amp;rft.aulast=Czitrom&amp;rft.aufirst=Daniel&amp;rft_id=http%3A%2F%2Fedition.cnn.com%2F2010%2FOPINION%2F03%2F18%2Fczitrom.texas.textbooks%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABias+in+curricula" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">California State Law, Education Code 60044, <a rel="nofollow" class="external text" href="http://www.cde.ca.gov/ci/cr/cf/documents/socialcontent.pdf">Standards for Evaluating Instructional Materials for Social Content, 2000 Edition</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140209090548/http://www.cde.ca.gov/ci/cr/cf/documents/socialcontent.pdf">Archived</a> February 9, 2014, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. Retrieved on 15 June 2008</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.cde.ca.gov/be/ag/ag/yr05/documents/bluenov05item05.doc">http://www.cde.ca.gov/be/ag/ag/yr05/documents/bluenov05item05.doc</a><sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Bare_URLs" title="Wikipedia:Bare URLs"><span title="A full citation of this image file is required to prevent link rot. (June 2022)">bare URL DOX/DOCX file</span></a></i>&#93;</sup></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFService" class="citation web cs1">Service, Tribune News. <a rel="nofollow" class="external text" href="https://www.tribuneindia.com/news/jobs-careers/unesco-report-reveals-covert-gender-bias-in-school-textbooks-106139">"UNESCO report reveals covert gender bias in school textbooks"</a>. <i>Tribuneindia News Service</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-07-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Tribuneindia+News+Service&amp;rft.atitle=UNESCO+report+reveals+covert+gender+bias+in+school+textbooks&amp;rft.aulast=Service&amp;rft.aufirst=Tribune+News&amp;rft_id=https%3A%2F%2Fwww.tribuneindia.com%2Fnews%2Fjobs-careers%2Funesco-report-reveals-covert-gender-bias-in-school-textbooks-106139&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABias+in+curricula" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:2-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-:2_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:2_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:2_7-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:2_7-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-:2_7-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFPerasso2017" class="citation news cs1">Perasso, Valeria (2017-10-09). <a rel="nofollow" class="external text" href="https://www.bbc.com/news/world-41421406">"100 Women: 'We can't teach girls of the future with books of the past'<span class="cs1-kern-right"></span>"</a>. <i>BBC News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-12-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+News&amp;rft.atitle=100+Women%3A+%27We+can%27t+teach+girls+of+the+future+with+books+of+the+past%27&amp;rft.date=2017-10-09&amp;rft.aulast=Perasso&amp;rft.aufirst=Valeria&amp;rft_id=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-41421406&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABias+in+curricula" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Johnston_e0209749-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Johnston_e0209749_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Johnston_e0209749_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFJohnstonAbelStoneWaters2019" class="citation journal cs1">Johnston, E. L.; Abel, R.; Stone, M.; Waters, D.; Slavich, E.; Shepherd, L. J.; Fan, Y. (2019-02-13). <a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6373838">"Gender and cultural bias in student evaluations: Why representation matters"</a>. <i>PLOS ONE</i>. <b>14</b> (2): e0209749. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/2019PLoSO..1409749F">2019PLoSO..1409749F</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.1371%2Fjournal.pone.0209749">10.1371/journal.pone.0209749</a></span>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/1932-6203">1932-6203</a>. <a href="/wiki/PMC_(identifier)" class="mw-redirect" title="PMC (identifier)">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6373838">6373838</a></span>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="https://pubmed.ncbi.nlm.nih.gov/30759093">30759093</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=PLOS+ONE&amp;rft.atitle=Gender+and+cultural+bias+in+student+evaluations%3A+Why+representation+matters&amp;rft.volume=14&amp;rft.issue=2&amp;rft.pages=e0209749&amp;rft.date=2019-02-13&amp;rft_id=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC6373838%23id-name%3DPMC&amp;rft_id=info%3Abibcode%2F2019PLoSO..1409749F&amp;rft_id=info%3Apmid%2F30759093&amp;rft_id=info%3Adoi%2F10.1371%2Fjournal.pone.0209749&amp;rft.issn=1932-6203&amp;rft.aulast=Johnston&amp;rft.aufirst=E.+L.&amp;rft.au=Abel%2C+R.&amp;rft.au=Stone%2C+M.&amp;rft.au=Waters%2C+D.&amp;rft.au=Slavich%2C+E.&amp;rft.au=Shepherd%2C+L.+J.&amp;rft.au=Fan%2C+Y.&amp;rft_id=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC6373838&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABias+in+curricula" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.c-span.org/video/?155006-1/peoples-history-united-states">"People's History United States, Jan 26 2000 - Video - C-SPAN.org"</a>. <i>C-SPAN.org</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=C-SPAN.org&amp;rft.atitle=People%27s+History+United+States%2C+Jan+26+2000+-+Video+-+C-SPAN.org&amp;rft_id=https%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F155006-1%2Fpeoples-history-united-states&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABias+in+curricula" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.c-span.org/video/?281756-1/48-liberal-lies-american-history">"48 Liberal Lies American History, Sep 23 2008 - Video - C-SPAN.org"</a>. <i>C-SPAN.org</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=C-SPAN.org&amp;rft.atitle=48+Liberal+Lies+American+History%2C+Sep+23+2008+-+Video+-+C-SPAN.org&amp;rft_id=https%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F281756-1%2F48-liberal-lies-american-history&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABias+in+curricula" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.israelnationalnews.com/News/News.aspx/127797">"U.S. Textbooks: 'Jesus was Palestinian'<span class="cs1-kern-right"></span>"</a>. <i>Israel National News</i>. 28 September 2008.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Israel+National+News&amp;rft.atitle=U.S.+Textbooks%3A+%27Jesus+was+Palestinian%27&amp;rft.date=2008-09-28&amp;rft_id=http%3A%2F%2Fwww.israelnationalnews.com%2FNews%2FNews.aspx%2F127797&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABias+in+curricula" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">(Indian Express 17 January 1982, New Delhi; Shourie 1998)</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">(Elst 1992)</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">(Shourie 1998)</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">(The Statesman, 21 May 1989)</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Arun Shourie (1998)</span>
+</li>
+<li id="cite_note-waghmar-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-waghmar_17-0">^</a></b></span> <span class="reference-text">Waghmar, B. (2005). <i><a rel="nofollow" class="external text" href="https://archive.today/20130121114423/http://www.dawn.com/weekly/books/archive/050227/books4.htm">Pakistan Studies: The State of the Craft</a></i>. <a href="/wiki/Dawn_(newspaper)" title="Dawn (newspaper)">Dawn</a>. 27 February. p. 5. Retrieved on 9 June 2008.</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Verghese, B.G. (2004). <i><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080827051342/http://www.hinduonnet.com/2004/06/23/stories/2004062301721000.htm">Myth and hate as history</a><sup><a href="/wiki/Template:Usurped/doc" title="Template:Usurped/doc">[Usurped!]</a></sup></i>. <a href="/wiki/The_Hindu" title="The Hindu">The Hindu</a>. 23 June. Retrieved on 7 June 2008.</span>
+</li>
+<li id="cite_note-Vali_Nasr-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-Vali_Nasr_19-0">^</a></b></span> <span class="reference-text">Seyyed Vali Reza Nasr, The Vanguard of the Islamic Revolution: The Jama`at-i Islami of Pakistan (University of California Press, 1994) p121-122</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Nelson, M.J. (2006). <a rel="nofollow" class="external text" href="http://caliber.ucpress.net/doi/pdf/10.1525/as.2006.46.5.699?cookieSet=1">Muslims, Markets, and the Meaning of ‘A Good Education’ in Pakistan</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110724115410/http://caliber.ucpress.net/doi/pdf/10.1525/as.2006.46.5.699?cookieSet=1">Archived</a> 2011-07-24 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. <i>Asian Survey</i>. 46(5). pp. 699-720.</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">(Nayyar &amp; Salim 2003)</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">(Nayyar 2004)</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060115095656/http://in.news.yahoo.com/031122/43/29ozt.html">"Pakistani social studies textbooks creating havoc"</a>. 15 January 2006. Archived from <a rel="nofollow" class="external text" href="http://in.news.yahoo.com/031122/43/29ozt.html">the original</a> on 15 January 2006.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pakistani+social+studies+textbooks+creating+havoc&amp;rft.date=2006-01-15&amp;rft_id=http%3A%2F%2Fin.news.yahoo.com%2F031122%2F43%2F29ozt.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABias+in+curricula" class="Z3988"></span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">(Rosser 2003)</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><i>www.pakistan-facts.com</i> <a rel="nofollow" class="external text" href="http://www.pakistan-facts.com/staticpages/index.php?page=20030403171005709">http://www.pakistan-facts.com/staticpages/index.php?page=20030403171005709</a><span class="reference-accessdate">. Retrieved <span class="nowrap">13 January</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.pakistan-facts.com&amp;rft_id=http%3A%2F%2Fwww.pakistan-facts.com%2Fstaticpages%2Findex.php%3Fpage%3D20030403171005709&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABias+in+curricula" class="Z3988"></span> <span class="cs1-visible-error citation-comment"><code class="cs1-code">{{<a href="/wiki/Template:Cite_web" title="Template:Cite web">cite web</a>}}</code>: </span><span class="cs1-visible-error citation-comment">Missing or empty <code class="cs1-code">&#124;title=</code> (<a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">help</a>)</span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"> <a rel="nofollow" class="external text" href="http://www.pakistan-facts.com/staticpages/index.php?page%3D20030403171005709">http://www.pakistan-facts.com/staticpages/index.php?page%3D20030403171005709</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-02-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.pakistan-facts.com%2Fstaticpages%2Findex.php%3Fpage%253D20030403171005709&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABias+in+curricula" class="Z3988"></span> <span class="cs1-visible-error citation-comment"><code class="cs1-code">{{<a href="/wiki/Template:Cite_web" title="Template:Cite web">cite web</a>}}</code>: </span><span class="cs1-visible-error citation-comment">Missing or empty <code class="cs1-code">&#124;title=</code> (<a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">help</a>)</span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">(National Bureau of Curriculum and Textbooks Federal Ministry of Education, 1995 Government of Pakistan. Pervez Hoodbhoy - What Are They Teaching In Pakistani Schools Today? <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"> <a rel="nofollow" class="external text" href="http://www.pakistan-facts.com/article.php?story%3D20030428231558859">http://www.pakistan-facts.com/article.php?story%3D20030428231558859</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-02-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.pakistan-facts.com%2Farticle.php%3Fstory%253D20030428231558859&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABias+in+curricula" class="Z3988"></span> <span class="cs1-visible-error citation-comment"><code class="cs1-code">{{<a href="/wiki/Template:Cite_web" title="Template:Cite web">cite web</a>}}</code>: </span><span class="cs1-visible-error citation-comment">Missing or empty <code class="cs1-code">&#124;title=</code> (<a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">help</a>)</span>)</span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFEkmekçioğlu2016" class="citation book cs1">Ekmekçioğlu, Lerna (2016). <i>Recovering Armenia: The Limits of Belonging in Post-Genocide Turkey</i>. Stanford University Press. p.&#160;xii. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8047-9706-1" title="Special:BookSources/978-0-8047-9706-1"><bdi>978-0-8047-9706-1</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Recovering+Armenia%3A+The+Limits+of+Belonging+in+Post-Genocide+Turkey&amp;rft.pages=xii&amp;rft.pub=Stanford+University+Press&amp;rft.date=2016&amp;rft.isbn=978-0-8047-9706-1&amp;rft.aulast=Ekmek%C3%A7io%C4%9Flu&amp;rft.aufirst=Lerna&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABias+in+curricula" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Gocek-29"><span class="mw-cite-backlink">^ <a href="#cite_ref-Gocek_29-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Gocek_29-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFGöçek2015" class="citation book cs1"><a href="/wiki/Fatma_M%C3%BCge_G%C3%B6%C3%A7ek" title="Fatma Müge Göçek">Göçek, Fatma Müge</a> (2015). <a href="/wiki/Denial_of_Violence" title="Denial of Violence"><i>Denial of Violence: Ottoman Past, Turkish Present and Collective Violence Against the Armenians, 1789–2009</i></a>. Oxford University Press. pp.&#160;63–64. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-19-933420-9" title="Special:BookSources/978-0-19-933420-9"><bdi>978-0-19-933420-9</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Denial+of+Violence%3A+Ottoman+Past%2C+Turkish+Present+and+Collective+Violence+Against+the+Armenians%2C+1789%E2%80%932009&amp;rft.pages=63-64&amp;rft.pub=Oxford+University+Press&amp;rft.date=2015&amp;rft.isbn=978-0-19-933420-9&amp;rft.aulast=G%C3%B6%C3%A7ek&amp;rft.aufirst=Fatma+M%C3%BCge&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABias+in+curricula" class="Z3988"></span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFDixon2010b" class="citation journal cs1 cs1-prop-long-vol">Dixon, Jennifer M. (2010b). <a rel="nofollow" class="external text" href="https://www.ijelp.org/ijelp-special-issues">"Education and National Narratives: Changing Representations of the Armenian Genocide in History Textbooks in Turkey"</a>. <i>International Journal for Education Law and Policy</i>. 2010 Special Issue: 103–126.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=International+Journal+for+Education+Law+and+Policy&amp;rft.atitle=Education+and+National+Narratives%3A+Changing+Representations+of+the+Armenian+Genocide+in+History+Textbooks+in+Turkey&amp;rft.volume=2010+Special+Issue&amp;rft.pages=103-126&amp;rft.date=2010&amp;rft.aulast=Dixon&amp;rft.aufirst=Jennifer+M.&amp;rft_id=https%3A%2F%2Fwww.ijelp.org%2Fijelp-special-issues&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABias+in+curricula" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Aybak13-31"><span class="mw-cite-backlink">^ <a href="#cite_ref-Aybak13_31-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Aybak13_31-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFAybak2016" class="citation journal cs1">Aybak, Tunç (2016). <a rel="nofollow" class="external text" href="https://eprints.mdx.ac.uk/21615/1/Geopolitics_of_Denial_Draft_13_aug_11_15.pdf">"Geopolitics of Denial: Turkish State's 'Armenian Problem'<span class="cs1-kern-right"></span>"</a> <span class="cs1-format">(PDF)</span>. <i>Journal of Balkan and Near Eastern Studies</i>. <b>18</b> (2): 125–144. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1080%2F19448953.2016.1141582">10.1080/19448953.2016.1141582</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:147690827">147690827</a>. <q>This officially distributed educational material reconstructs the history in line with the denial policies of the government portraying the Armenians as backstabbers and betrayers, who are portrayed as a threat to the sovereignty and identity of modern Turkey. The demonization of the Armenians in Turkish education is a prevailing occurrence that is underwritten by the government to reinforce the denial discourse.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Balkan+and+Near+Eastern+Studies&amp;rft.atitle=Geopolitics+of+Denial%3A+Turkish+State%27s+%27Armenian+Problem%27&amp;rft.volume=18&amp;rft.issue=2&amp;rft.pages=125-144&amp;rft.date=2016&amp;rft_id=info%3Adoi%2F10.1080%2F19448953.2016.1141582&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A147690827%23id-name%3DS2CID&amp;rft.aulast=Aybak&amp;rft.aufirst=Tun%C3%A7&amp;rft_id=https%3A%2F%2Feprints.mdx.ac.uk%2F21615%2F1%2FGeopolitics_of_Denial_Draft_13_aug_11_15.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABias+in+curricula" class="Z3988"></span></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFGalip2020" class="citation book cs1">Galip, Özlem Belçim (2020). <i>New Social Movements and the Armenian Question in Turkey: Civil Society vs. the State</i>. Springer International Publishing. p.&#160;186. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-030-59400-8" title="Special:BookSources/978-3-030-59400-8"><bdi>978-3-030-59400-8</bdi></a>. <q>Additionally, for instance, the racism and language of hatred in officially approved  school  textbooks  is  very  intense.  These  books  still  show  Armenians as the enemies, so it would be necessary for these books to be amended...</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=New+Social+Movements+and+the+Armenian+Question+in+Turkey%3A+Civil+Society+vs.+the+State&amp;rft.pages=186&amp;rft.pub=Springer+International+Publishing&amp;rft.date=2020&amp;rft.isbn=978-3-030-59400-8&amp;rft.aulast=Galip&amp;rft.aufirst=%C3%96zlem+Bel%C3%A7im&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABias+in+curricula" class="Z3988"></span></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFCheterian2015" class="citation book cs1"><a href="/wiki/Vicken_Cheterian" title="Vicken Cheterian">Cheterian, Vicken</a> (2015). <i>Open Wounds: Armenians, Turks and a Century of Genocide</i>. Hurst. p.&#160;64. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-84904-458-5" title="Special:BookSources/978-1-84904-458-5"><bdi>978-1-84904-458-5</bdi></a>. <q>The ruling Turkish elite subsequently chose to erase any trace of the Armenians from Turkish history. In the period between 1945 and the 1980s, school textbooks in Turkey made no mention of the Armenians in the Ottoman Empire or the deportation of 1915. The Armenians had simply ceased to exist.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Open+Wounds%3A+Armenians%2C+Turks+and+a+Century+of+Genocide&amp;rft.pages=64&amp;rft.pub=Hurst&amp;rft.date=2015&amp;rft.isbn=978-1-84904-458-5&amp;rft.aulast=Cheterian&amp;rft.aufirst=Vicken&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABias+in+curricula" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Gurp234-34"><span class="mw-cite-backlink">^ <a href="#cite_ref-Gurp234_34-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Gurp234_34-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFGürpınar2016" class="citation journal cs1">Gürpınar, Doğan (2016). "The manufacturing of denial: the making of the Turkish 'official thesis' on the Armenian genocide between 1974 and 1990". <i>Journal of Balkan and Near Eastern Studies</i>. <b>18</b> (3): 217–240 [234]. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1080%2F19448953.2016.1176397">10.1080/19448953.2016.1176397</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:148518678">148518678</a>. <q>The Armenians were conspicuous by their absence in the school curriculum for decades. Their historical existence in Anatolia was deliberately dismissed... This deliberate omission ceased abruptly in the mid-1980s when a new sub-chapter was introduced tellingly entitled 'Armenian problem'... This sub-chapter depicted the 'Armenian problem' as an exploit and machination of Great Powers (i.e. Britain and Russia) who exploited Armenians as instruments to destabilize the Ottoman Empire and impose their mischievous plots."<span class="cs1-kern-right"></span></q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Balkan+and+Near+Eastern+Studies&amp;rft.atitle=The+manufacturing+of+denial%3A+the+making+of+the+Turkish+%27official+thesis%27+on+the+Armenian+genocide+between+1974+and+1990&amp;rft.volume=18&amp;rft.issue=3&amp;rft.pages=217-240+234&amp;rft.date=2016&amp;rft_id=info%3Adoi%2F10.1080%2F19448953.2016.1176397&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A148518678%23id-name%3DS2CID&amp;rft.aulast=G%C3%BCrp%C4%B1nar&amp;rft.aufirst=Do%C4%9Fan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABias+in+curricula" class="Z3988"></span><br /><a href="#CITEREFDixon2010b">Dixon 2010b</a>, p.&#160;104. "In the 1950s, 60s and 70s, Turkish high school students did not learn anything about Armenians' existence in the Ottoman Empire or about their deportation during World War I (WWI). Starting in the 1980s, however, high school history textbooks taught Turkish students that Armenians rose up and violently attacked the Ottoman government and innocent fellow citizens prior to and during WWI, and that the government forcibly relocated Armenians in order to protect and preserve the Turkish nation. A decade later, Turkish high school students were told that Armenians were traitors and propagandists who had tried to take advantage of the weakness of the Ottoman Empire and had 'stabbed Turks in the back. And more recently, high school history textbooks in Turkey described the 'Turkish-Armenian War' that took place between Turks and Armenians following the end of World War 1,160 and mentioned that recent research and excavations have documented the fact that Armenians committed genocide against Turks."</span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBilali2013" class="citation journal cs1">Bilali, Rezarta (2013). "National Narrative and Social Psychological Influences in Turks' Denial of the Mass Killings of Armenians as Genocide: Understanding Denial". <i>Journal of Social Issues</i>. <b>69</b> (1): 16–33. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1111%2Fjosi.12001">10.1111/josi.12001</a>. <q>The interpretations of this period of history in Turkish textbooks include accounts that may be interpreted as psychological justifications or excuses to deflect responsibility: (a) blaming Armenians for treason or for attacking Turkish–Muslim populations; (b) claiming that violent acts were in self-defense (protection from territorial loss and/or protection of the Turkish population that was being targeted by Armenian banditry); (c) shifting responsibility to external factors and third parties (claiming that Armenian deaths were a result of hardship); (d) claiming benevolent motivations behind the deportations (stopping the inter-communal warfare). These interpretations exemplify how moral disengagement mechanisms operate at the level of collective narratives. Three targets of attribution can be readily identified: the in-group (i.e., denial of responsibility), the out-group (i.e., blaming the victim), and situational factors (i.e., blaming third parties or circumstances).</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Social+Issues&amp;rft.atitle=National+Narrative+and+Social+Psychological+Influences+in+Turks%27+Denial+of+the+Mass+Killings+of+Armenians+as+Genocide%3A+Understanding+Denial&amp;rft.volume=69&amp;rft.issue=1&amp;rft.pages=16-33&amp;rft.date=2013&amp;rft_id=info%3Adoi%2F10.1111%2Fjosi.12001&amp;rft.aulast=Bilali&amp;rft.aufirst=Rezarta&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABias+in+curricula" class="Z3988"></span></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFDixon2010a" class="citation journal cs1"><a href="/wiki/Jennifer_M._Dixon" class="mw-redirect" title="Jennifer M. Dixon">Dixon, Jennifer M.</a> (2010a). "Defending the Nation? Maintaining Turkey's Narrative of the Armenian Genocide". <i>South European Society and Politics</i>. <b>15</b> (3): 467–485. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1080%2F13608746.2010.513605">10.1080/13608746.2010.513605</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:144494811">144494811</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=South+European+Society+and+Politics&amp;rft.atitle=Defending+the+Nation%3F+Maintaining+Turkey%27s+Narrative+of+the+Armenian+Genocide&amp;rft.volume=15&amp;rft.issue=3&amp;rft.pages=467-485&amp;rft.date=2010&amp;rft_id=info%3Adoi%2F10.1080%2F13608746.2010.513605&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A144494811%23id-name%3DS2CID&amp;rft.aulast=Dixon&amp;rft.aufirst=Jennifer+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABias+in+curricula" class="Z3988"></span></span>
+</li>
+<li id="cite_note-FOOTNOTEDixon2010b115-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEDixon2010b115_37-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFDixon2010b">Dixon 2010b</a>, p.&#160;115.</span>
+</li>
+</ol></div></div>
+<ul><li>K.K.Aziz. (2004) <i><a href="/wiki/The_Murder_of_History" title="The Murder of History">The Murder of History&#160;: A Critique of History Textbooks used in Pakistan</a>.</i> <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/969-402-126-X" title="Special:BookSources/969-402-126-X">969-402-126-X</a> Vanguard.<a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20051125095351/http://web.mid-day.com/columns/mayank_shekhar/2004/december/98885.htm">[1]</a></li>
+<li>Agarwal, Vishal.<i> Misrepresentation and Stereotyping of Hindu Dharma in History Textbooks in India.</i> 2004. <a rel="nofollow" class="external autonumber" href="http://vishalagarwal.voiceofdharma.org/articles/indhistory/misrep.htm">[2]</a></li>
+<li>Agarwal, Vishal. <i>Review of Romila Thapar’s ‘Ancient India, A Textbook of History for Middle Schools’ NCERT</i>: New Delhi (1987) 2002. <a rel="nofollow" class="external autonumber" href="http://vishalagarwal.voiceofdharma.org/articles/indhistory/thapar.htm">[3]</a></li>
+<li>Elst, Koenraad. (1992) <i><a href="/wiki/Negationism_in_India" class="mw-redirect" title="Negationism in India">Negationism in India</a> - Concealing the Record of Islam.</i></li>
+<li>Nayyar, A.H. &amp; Salim, Ahmad. <i>The Subtle Subversion: The State of Curricula and Text-books in Pakistan - Urdu, English, Social Studies and Civics.</i> Sustainable Development Policy Institute. <a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20051109090607/http://www.sdpi.org/whats_new/reporton/State%20of%20Curr%26TextBooks.pdf">[4]</a> <a rel="nofollow" class="external autonumber" href="https://archive.today/20061005151444/http://www.sdpi.org/help/research_and_news_bulletin/nbjanfeb04/articles/text%20only/text%20only.htm">[5]</a> <a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20140410224423/http://www.countercurrents.org/ipk-sarwar030404.htm">[6]</a></li>
+<li>Rosser, Yvette. <i>Indoctrinating Minds: Politics of Education in Bangladesh</i>, RUPA, New Delhi, 2004. <a rel="nofollow" class="external autonumber" href="http://www.observerindia.com/publications/monograph/indminds.htm">[7]</a>.</li>
+<li>--- <i>Islamization of Pakistani Social Studies Textbooks</i>, RUPA, New Delhi, 2003.</li>
+<li>--- "The Clandestine Curriculum: The Temple of Doom in the Classroom", <i>Education About Asia</i>, Volume 6, Number 3, Winter 2001 (Association of Asian Studies) <a rel="nofollow" class="external autonumber" href="http://www.infinityfoundation.com/mandala/s_es/s_es_rosse_EAA_frameset.htm">[8]</a> <a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20120217041127/http://www.pakistan-facts.com/staticpages/index.php?page=20030403171005709">[9]</a>.</li>
+<li>---"Hegemony and Historiography: The Politics of Pedagogy", <i>Asia Review</i>, Dhaka, Fall 1999.</li>
+<li>---"Stereotypes in Schooling: Negative Pressures in the American Educational System on Hindu Identity Formation", Hindu Diaspora: Global Perspectives, Rukmani, ed. Concordia University, Montreal, Canada, 1999 <a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20050108064134/http://www.mssu.edu/projectsouthasia/tsa/VIN1/Rosser.htm">[10]</a>.</li>
+<li>Shourie, Arun. <i><a href="/wiki/Eminent_Historians:_Their_Technology,_Their_Line,_Their_Fraud" class="mw-redirect" title="Eminent Historians: Their Technology, Their Line, Their Fraud">Eminent Historians: Their Technology, Their Line, Their Fraud</a></i>. New Delhi, 1998. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/8190019988" title="Special:BookSources/8190019988">8190019988</a> <a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20130606012304/http://arunshourie.voiceofdharma.com/articles/hogwash.htm">[11]</a></li>
+<li>Dr A H Nayyar. Twisted truth: Press and politicians make gains from SDPI curriculum report  SDPI Research and News Bulletin Vol. 11, No. 1, January - February 2004</li>
+<li>Pervez Hoodbhoy - <i>What Are They Teaching In Pakistani Schools Today?</i> (International Movement for a Just World) <a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20100701145339/http://www.pakistan-facts.com/article.php?story=20030428231558859">[12]</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.india-forum.com/categories/California-Textbook-Episode/">Bias in education in California</a></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bias_in_curricula&amp;action=edit&amp;section=18" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://wayback.archive-it.org/all/20090316061629/http://www.buzzle.com/editorials/6-25-2004-55919.asp">Indian school textbooks to be scrapped because of anti-Muslim bias</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.edchange.org/multicultural/papers/genderbias.html">Gender bias</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060217010628/http://www.eshiusa.org/Documents/SamplesCATextbook2005.htm">Examples of inaccuracies and biases in Californian textbooks</a> <a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20060630010203/http://www.eshiusa.org/ESHI_Anant_TextbookJan2006.htm">[13]</a></li></ul>
+<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Biases" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Biases" title="Template:Biases"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Biases" title="Template talk:Biases"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Biases&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Biases" style="font-size:114%;margin:0 4em"><a href="/wiki/Bias" title="Bias">Biases</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><div style="display: inline-block; line-height: 1.2em; padding: .1em 0;"><a href="/wiki/Cognitive_bias" title="Cognitive bias">Cognitive biases</a></div></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Acquiescence_bias" title="Acquiescence bias">Acquiescence</a></li>
+<li><a href="/wiki/Ambiguity_effect" title="Ambiguity effect">Ambiguity</a></li>
+<li><a href="/wiki/Anchoring_(cognitive_bias)" title="Anchoring (cognitive bias)">Anchoring</a></li>
+<li><a href="/wiki/Attentional_bias" title="Attentional bias">Attentional</a></li>
+<li><a href="/wiki/Attribution_bias" title="Attribution bias">Attribution</a>
+<ul><li><a href="/wiki/Actor%E2%80%93observer_asymmetry" title="Actor–observer asymmetry">Actor–observer</a></li>
+<li><a href="/wiki/Fundamental_attribution_error" title="Fundamental attribution error">Correspondence</a></li></ul></li>
+<li><a href="/wiki/Authority_bias" title="Authority bias">Authority</a></li>
+<li><a href="/wiki/Automation_bias" title="Automation bias">Automation</a></li>
+<li><a href="/wiki/Availability_heuristic" title="Availability heuristic">Availability</a>
+<ul><li><a href="/wiki/Mean_world_syndrome" title="Mean world syndrome">Mean world</a></li></ul></li>
+<li><a href="/wiki/Belief_bias" title="Belief bias">Belief</a></li>
+<li><a href="/wiki/Bias_blind_spot" title="Bias blind spot">Blind spot</a></li>
+<li><a href="/wiki/Choice-supportive_bias" title="Choice-supportive bias">Choice-supportive</a></li>
+<li><a href="/wiki/Escalation_of_commitment" title="Escalation of commitment">Commitment</a></li>
+<li><a href="/wiki/Confirmation_bias" title="Confirmation bias">Confirmation</a></li>
+<li><a href="/wiki/Compassion_fade" title="Compassion fade">Compassion fade</a></li>
+<li><a href="/wiki/Congruence_bias" title="Congruence bias">Congruence</a></li>
+<li><a href="/wiki/Courtesy_bias" class="mw-redirect" title="Courtesy bias">Courtesy</a></li>
+<li><a href="/wiki/Cultural_bias" title="Cultural bias">Cultural</a></li>
+<li><a href="/wiki/Distinction_bias" title="Distinction bias">Distinction</a></li>
+<li><a href="/wiki/Dunning%E2%80%93Kruger_effect" title="Dunning–Kruger effect">Dunning–Kruger</a></li>
+<li><a href="/wiki/Egocentric_bias" title="Egocentric bias">Egocentric</a>
+<ul><li><a href="/wiki/Curse_of_knowledge" title="Curse of knowledge">Curse of knowledge</a></li></ul></li>
+<li><a href="/wiki/Emotional_bias" title="Emotional bias">Emotional</a></li>
+<li><a href="/wiki/Extrinsic_incentives_bias" title="Extrinsic incentives bias">Extrinsic incentives</a></li>
+<li><a href="/wiki/Fading_affect_bias" title="Fading affect bias">Fading affect</a></li>
+<li><a href="/wiki/Framing_effect_(psychology)" title="Framing effect (psychology)">Framing</a></li>
+<li><a href="/wiki/Frequency_illusion" title="Frequency illusion">Frequency</a></li>
+<li><a href="/wiki/Halo_effect" title="Halo effect">Halo effect</a></li>
+<li><a href="/wiki/Hindsight_bias" title="Hindsight bias">Hindsight</a></li>
+<li><a href="/wiki/Horn_effect" title="Horn effect">Horn effect</a></li>
+<li><a href="/wiki/Hostile_attribution_bias" title="Hostile attribution bias">Hostile attribution</a></li>
+<li><a href="/wiki/Impact_bias" title="Impact bias">Impact</a></li>
+<li><a href="/wiki/Implicit_stereotype" title="Implicit stereotype">Implicit</a></li>
+<li><a href="/wiki/In-group_favoritism" title="In-group favoritism">In-group</a></li>
+<li><a href="/wiki/Mere-exposure_effect" title="Mere-exposure effect">Mere-exposure effect</a></li>
+<li><a href="/wiki/Negativity_bias" title="Negativity bias">Negativity</a></li>
+<li><a href="/wiki/Normalcy_bias" title="Normalcy bias">Normalcy</a></li>
+<li><a href="/wiki/Omission_bias" title="Omission bias">Omission</a></li>
+<li><a href="/wiki/Optimism_bias" title="Optimism bias">Optimism</a></li>
+<li><a href="/wiki/Out-group_homogeneity" title="Out-group homogeneity">Out-group homogeneity</a></li>
+<li><a href="/wiki/Outcome_bias" title="Outcome bias">Outcome</a></li>
+<li><a href="/wiki/Overton_window" title="Overton window">Overton window</a></li>
+<li><a href="/wiki/Precision_bias" title="Precision bias">Precision</a></li>
+<li><a href="/wiki/Present_bias" title="Present bias">Present</a></li>
+<li><a href="/wiki/Pro-innovation_bias" title="Pro-innovation bias">Pro-innovation</a></li>
+<li><a href="/wiki/Response_bias" title="Response bias">Response</a></li>
+<li><a href="/wiki/Restraint_bias" title="Restraint bias">Restraint</a></li>
+<li><a href="/wiki/Self-serving_bias" title="Self-serving bias">Self-serving</a></li>
+<li><a href="/wiki/Social_comparison_bias" title="Social comparison bias">Social comparison</a></li>
+<li><a href="/wiki/Social_influence_bias" title="Social influence bias">Social influence bias</a></li>
+<li><a href="/wiki/Status_quo_bias" title="Status quo bias">Status quo</a></li>
+<li><a href="/wiki/Attribute_substitution" title="Attribute substitution">Substitution</a></li>
+<li><a href="/wiki/Time-saving_bias" title="Time-saving bias">Time-saving</a></li>
+<li><a href="/wiki/Trait_ascription_bias" title="Trait ascription bias">Trait ascription</a></li>
+<li><a href="/wiki/Turkey_illusion" title="Turkey illusion">Turkey illusion</a></li>
+<li><a href="/wiki/Von_Restorff_effect" title="Von Restorff effect">von Restorff effect</a></li>
+<li><a href="/wiki/Zero-risk_bias" title="Zero-risk bias">Zero-risk</a></li>
+<li><a href="/wiki/Cognitive_bias_in_animals" title="Cognitive bias in animals">In animals</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Bias_(statistics)" title="Bias (statistics)">Statistical biases</a></th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Bias_of_an_estimator" title="Bias of an estimator">Estimator</a></li>
+<li><a href="/wiki/Forecast_bias" title="Forecast bias">Forecast</a></li>
+<li><a href="/wiki/Healthy_user_bias" title="Healthy user bias">Healthy user</a></li>
+<li><a href="/wiki/Information_bias_(epidemiology)" title="Information bias (epidemiology)">Information</a>
+<ul><li><a href="/wiki/Information_bias_(psychology)" title="Information bias (psychology)">Psychological</a></li></ul></li>
+<li><a href="/wiki/Lead_time_bias" title="Lead time bias">Lead time</a></li>
+<li><a href="/wiki/Length_time_bias" title="Length time bias">Length time</a></li>
+<li><a href="/wiki/Participation_bias" title="Participation bias">Non-response</a></li>
+<li><a href="/wiki/Observer_bias" title="Observer bias">Observer</a></li>
+<li><a href="/wiki/Omitted-variable_bias" title="Omitted-variable bias">Omitted-variable</a></li>
+<li><a href="/wiki/Participation_bias" title="Participation bias">Participation</a></li>
+<li><a href="/wiki/Recall_bias" title="Recall bias">Recall</a></li>
+<li><a href="/wiki/Sampling_bias" title="Sampling bias">Sampling</a></li>
+<li><a href="/wiki/Selection_bias" title="Selection bias">Selection</a></li>
+<li><a href="/wiki/Self-selection_bias" title="Self-selection bias">Self-selection</a></li>
+<li><a href="/wiki/Social-desirability_bias" title="Social-desirability bias">Social desirability</a></li>
+<li><a href="/wiki/Spectrum_bias" title="Spectrum bias">Spectrum</a></li>
+<li><a href="/wiki/Survivorship_bias" title="Survivorship bias">Survivorship</a></li>
+<li><a href="/wiki/Systematic_error" class="mw-redirect" title="Systematic error">Systematic error</a></li>
+<li><a href="/wiki/Systemic_bias" title="Systemic bias">Systemic</a></li>
+<li><a href="/wiki/Verification_bias" title="Verification bias">Verification</a></li>
+<li><a href="/wiki/Wet_bias" title="Wet bias">Wet</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other biases</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Academic_bias" title="Academic bias">Academic</a></li>
+<li><a href="/wiki/Funding_bias" title="Funding bias">Funding</a></li>
+<li><a href="/wiki/FUTON_bias" class="mw-redirect" title="FUTON bias">FUTON</a></li>
+<li><a href="/wiki/Inductive_bias" title="Inductive bias">Inductive</a></li>
+<li><a href="/wiki/Infrastructure_bias" title="Infrastructure bias">Infrastructure</a></li>
+<li><a href="/wiki/Inherent_bias" title="Inherent bias">Inherent</a></li>
+<li><a href="/wiki/Bias_in_education" class="mw-redirect" title="Bias in education">In education</a></li>
+<li><a href="/wiki/Media_bias" title="Media bias">Media</a>
+<ul><li><a href="/wiki/False_balance" title="False balance">False balance</a></li>
+<li><a href="/wiki/United_States_news_media_and_the_Vietnam_War" title="United States news media and the Vietnam War">Vietnam War</a></li>
+<li><a href="/wiki/Media_of_Norway" class="mw-redirect" title="Media of Norway">Norway</a></li>
+<li><a href="/wiki/Media_bias_in_South_Asia" title="Media bias in South Asia">South Asia</a></li>
+<li><a href="/wiki/Media_of_Sweden" class="mw-redirect" title="Media of Sweden">Sweden</a></li>
+<li><a href="/wiki/Media_bias_in_the_United_States" title="Media bias in the United States">United States</a></li>
+<li><a href="/wiki/Media_coverage_of_the_Arab%E2%80%93Israeli_conflict" title="Media coverage of the Arab–Israeli conflict">Arab–Israeli conflict</a></li>
+<li><a href="/wiki/Media_portrayal_of_the_Ukrainian_crisis" class="mw-redirect" title="Media portrayal of the Ukrainian crisis">Ukraine</a></li></ul></li>
+<li><a href="/wiki/Net_bias" title="Net bias">Net</a></li>
+<li><a href="/wiki/Political_bias" title="Political bias">Political bias</a></li>
+<li><a href="/wiki/Publication_bias" title="Publication bias">Publication</a></li>
+<li><a href="/wiki/Reporting_bias" title="Reporting bias">Reporting</a></li>
+<li><a href="/wiki/White_hat_bias" title="White hat bias">White hat</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Bias reduction</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Cognitive_bias_mitigation" title="Cognitive bias mitigation">Cognitive bias mitigation</a></li>
+<li><a href="/wiki/Debiasing" title="Debiasing">Debiasing</a></li>
+<li><a href="/wiki/Heuristic_(psychology)" title="Heuristic (psychology)">Heuristics in judgment and decision-making</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>Lists: <a href="/wiki/List_of_cognitive_biases" title="List of cognitive biases">General</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/List_of_cognitive_biases#Memory_biases" title="List of cognitive biases">Memory</a></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1373
+Cached time: 20230528134802
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.553 seconds
+Real time usage: 0.694 seconds
+Preprocessor visited node count: 3310/1000000
+Post‐expand include size: 85457/2097152 bytes
+Template argument size: 5514/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 11/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 87089/5000000 bytes
+Lua time usage: 0.340/10.000 seconds
+Lua memory usage: 9284125/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  614.226      1 -total
+ 40.01%  245.744      1 Template:Reflist
+ 19.21%  118.021     10 Template:Cite_web
+ 12.60%   77.384      1 Template:Biases
+ 12.21%   74.981      1 Template:Navbox
+  9.82%   60.335      6 Template:Fix
+  9.77%   60.023      1 Template:Short_description
+  9.29%   57.036      4 Template:Citation_needed
+  7.28%   44.722      1 Template:Redirect
+  6.18%   37.990      1 Template:Sfn
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3912778-0!canonical and timestamp 20230528134802 and revision id 1127825876. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Bias_in_curricula&amp;oldid=1127825876">https://en.wikipedia.org/w/index.php?title=Bias_in_curricula&amp;oldid=1127825876</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Bias" title="Category:Bias">Bias</a></li><li><a href="/wiki/Category:Education_issues" title="Category:Education issues">Education issues</a></li><li><a href="/wiki/Category:Pedagogy" title="Category:Pedagogy">Pedagogy</a></li><li><a href="/wiki/Category:Textbook_controversies" title="Category:Textbook controversies">Textbook controversies</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:All_articles_with_bare_URLs_for_citations" title="Category:All articles with bare URLs for citations">All articles with bare URLs for citations</a></li><li><a href="/wiki/Category:Articles_with_bare_URLs_for_citations_from_June_2022" title="Category:Articles with bare URLs for citations from June 2022">Articles with bare URLs for citations from June 2022</a></li><li><a href="/wiki/Category:Articles_with_DOC/DOCX_file_bare_URLs_for_citations" title="Category:Articles with DOC/DOCX file bare URLs for citations">Articles with DOC/DOCX file bare URLs for citations</a></li><li><a href="/wiki/Category:CS1_errors:_missing_title" title="Category:CS1 errors: missing title">CS1 errors: missing title</a></li><li><a href="/wiki/Category:CS1_errors:_bare_URL" title="Category:CS1 errors: bare URL">CS1 errors: bare URL</a></li><li><a href="/wiki/Category:CS1:_long_volume_value" title="Category:CS1: long volume value">CS1: long volume value</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2015" title="Category:Articles with unsourced statements from September 2015">Articles with unsourced statements from September 2015</a></li><li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li><li><a href="/wiki/Category:Articles_lacking_reliable_references_from_February_2021" title="Category:Articles lacking reliable references from February 2021">Articles lacking reliable references from February 2021</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2021" title="Category:Articles with unsourced statements from February 2021">Articles with unsourced statements from February 2021</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2022" title="Category:Articles with unsourced statements from December 2022">Articles with unsourced statements from December 2022</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2017" title="Category:Articles with unsourced statements from December 2017">Articles with unsourced statements from December 2017</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 16 December 2022, at 21:43<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Bias_in_curricula&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class='vector-settings'>
+	
+<button
+	id=""
+	class="mw-ui-button mw-ui-icon-element vector-limited-width-toggle"
+	><span class="mw-ui-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+
+</button>
+
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1350","wgBackendResponseTime":159,"wgPageParseReport":{"limitreport":{"cputime":"0.553","walltime":"0.694","ppvisitednodes":{"value":3310,"limit":1000000},"postexpandincludesize":{"value":85457,"limit":2097152},"templateargumentsize":{"value":5514,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":87089,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  614.226      1 -total"," 40.01%  245.744      1 Template:Reflist"," 19.21%  118.021     10 Template:Cite_web"," 12.60%   77.384      1 Template:Biases"," 12.21%   74.981      1 Template:Navbox","  9.82%   60.335      6 Template:Fix","  9.77%   60.023      1 Template:Short_description","  9.29%   57.036      4 Template:Citation_needed","  7.28%   44.722      1 Template:Redirect","  6.18%   37.990      1 Template:Sfn"]},"scribunto":{"limitreport-timeusage":{"value":"0.340","limit":"10.000"},"limitreport-memusage":{"value":9284125,"limit":52428800},"limitreport-logs":"anchor_id_list = table#1 {\n    [\"CITEREFAybak2016\"] = 1,\n    [\"CITEREFBilali2013\"] = 1,\n    [\"CITEREFCheterian2015\"] = 1,\n    [\"CITEREFCzitrom2010\"] = 1,\n    [\"CITEREFDixon2010a\"] = 1,\n    [\"CITEREFDixon2010b\"] = 1,\n    [\"CITEREFEkmekçioğlu2016\"] = 1,\n    [\"CITEREFGalip2020\"] = 1,\n    [\"CITEREFGöçek2015\"] = 1,\n    [\"CITEREFGürpınar2016\"] = 1,\n    [\"CITEREFJohnstonAbelStoneWaters2019\"] = 1,\n    [\"CITEREFPerasso2017\"] = 1,\n    [\"CITEREFSadker\"] = 1,\n    [\"CITEREFService\"] = 1,\n    [\"CITEREFStrauss2014\"] = 1,\n}\ntemplate_list = table#1 {\n    [\"Bare URL DOC\"] = 1,\n    [\"Better source needed\"] = 1,\n    [\"Biases\"] = 1,\n    [\"Blockquote\"] = 1,\n    [\"Citation needed\"] = 4,\n    [\"Cite book\"] = 4,\n    [\"Cite journal\"] = 6,\n    [\"Cite news\"] = 2,\n    [\"Cite web\"] = 10,\n    [\"Harvnb\"] = 1,\n    [\"ISBN\"] = 2,\n    [\"Main\"] = 2,\n    [\"Redirect\"] = 1,\n    [\"Reflist\"] = 1,\n    [\"Rp\"] = 1,\n    [\"Section link\"] = 1,\n    [\"Sfn\"] = 1,\n    [\"Short description\"] = 1,\n    [\"Usurped\"] = 1,\n    [\"Webarchive\"] = 2,\n}\narticle_whitelist = table#1 {\n}\n"},"cachereport":{"origin":"mw1373","timestamp":"20230528134802","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Bias in curricula","url":"https:\/\/en.wikipedia.org\/wiki\/Bias_in_curricula","sameAs":"http:\/\/www.wikidata.org\/entity\/Q17004903","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q17004903","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-01-31T22:20:43Z","dateModified":"2022-12-16T21:43:46Z","headline":"bias in educational textbooks"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Bias in curricula","url":"https:\/\/en.wikipedia.org\/wiki\/Bias_in_curricula","sameAs":"http:\/\/www.wikidata.org\/entity\/Q17004903","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q17004903","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-01-31T22:20:43Z","dateModified":"2022-12-16T21:43:46Z","headline":"bias in educational textbooks"}</script>
+</body>
+</html>
