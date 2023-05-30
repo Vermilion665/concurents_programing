@@ -1,0 +1,1104 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Peak signal-to-noise ratio - Wikipedia</title>
+<script>document.documentElement.className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled";(function(){var cookie=document.cookie.match(/(?:^|; )enwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"e802a6c2-b865-46f7-b863-1350add9fcdc","wgCSPNonce":false,
+"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Peak_signal-to-noise_ratio","wgTitle":"Peak signal-to-noise ratio","wgCurRevisionId":1145027401,"wgRevisionId":1145027401,"wgArticleId":1281455,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Articles with short description","Short description is different from Wikidata","Image compression","Noise (graphics)","Film and video technology","Digital television","Engineering ratios"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Peak_signal-to-noise_ratio","wgRelevantArticleId":1281455,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"PSNR","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en",
+"pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgInternalRedirectTargetUrl":"/wiki/Peak_signal-to-noise_ratio","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q3373850","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready",
+"user":"ready","user.options":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","mediawiki.ui.button":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","mediawiki.ui.icon":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups",
+"ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.ui.button%2Cicon%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.10">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-crossorigin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Peak signal-to-noise ratio - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Peak_signal-to-noise_ratio">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Peak_signal-to-noise_ratio&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Peak_signal-to-noise_ratio rootpage-Peak_signal-to-noise_ratio skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-main-menu-dropdown mw-ui-icon-flush-left mw-ui-icon-flush-right"  >
+	<input type="checkbox"
+		id="vector-main-menu-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-main-menu-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Main menu"
+		
+	/>
+	<label
+		id="vector-main-menu-dropdown-label"
+		for="vector-main-menu-dropdown-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+
+		<span class="vector-menu-heading-label">Main menu</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box-notice vector-language-sidebar-alert mw-message-box">Language links are at the top of the page across from the title.</div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt=""
+		aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia"
+			src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline"
+			alt="The Free Encyclopedia"
+			src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search"
+	
+		id=""
+		class="mw-ui-button mw-ui-quiet mw-ui-icon-element search-toggle"
+		title="Search Wikipedia [f]"accesskey="f"><span class="mw-ui-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-moved">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Peak+signal-to-noise+ratio" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Peak+signal-to-noise+ratio" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-user-menu mw-ui-icon-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox"
+		id="vector-user-links-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-user-links-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Personal tools"
+		
+	/>
+	<label
+		id="vector-user-links-dropdown-label"
+		for="vector-user-links-dropdown-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Peak+signal-to-noise+ratio" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="mw-ui-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Peak+signal-to-noise+ratio" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="mw-ui-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Definition"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Definition">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Definition</div>
+		</a>
+		
+			<button aria-controls="toc-Definition-sublist" class="mw-ui-icon mw-ui-icon-wikimedia-expand mw-ui-icon-small vector-toc-toggle">
+				Toggle Definition subsection
+			</button>
+		
+		<ul id="toc-Definition-sublist" class="vector-toc-list">
+			<li id="toc-Application_in_color_images"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Application_in_color_images">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1</span>Application in color images</div>
+			</a>
+			
+			<ul id="toc-Application_in_color_images-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Quality_estimation_with_PSNR"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Quality_estimation_with_PSNR">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Quality estimation with PSNR</div>
+		</a>
+		
+		<ul id="toc-Quality_estimation_with_PSNR-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Performance_comparison"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Performance_comparison">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Performance comparison</div>
+		</a>
+		
+		<ul id="toc-Performance_comparison-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Variants"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Variants">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Variants</div>
+		</a>
+		
+		<ul id="toc-Variants-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>See also</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="mw-ui-button mw-ui-quiet mw-ui-icon-flush-left mw-ui-icon-element"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="mw-ui-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+				
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-menu vector-dropdown vector-menu-dropdown vector-page-titlebar-toc mw-ui-icon-flush-left"  >
+	<input type="checkbox"
+		id="vector-page-titlebar-toc-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-titlebar-toc"
+		class="vector-menu-checkbox "
+		
+		aria-label="Toggle the table of contents"
+		
+	/>
+	<label
+		id="vector-page-titlebar-toc-label"
+		for="vector-page-titlebar-toc-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+
+		<span class="vector-menu-heading-label">Toggle the table of contents</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Peak signal-to-noise ratio</span></h1>
+				
+							
+<div id="p-lang-btn" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox"
+		id="p-lang-btn-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-lang-btn"
+		class="vector-menu-checkbox mw-interlanguage-selector"
+		aria-label="Go to an article in another language. Available in 17 languages"
+		
+		
+	/>
+	<label
+		id="p-lang-btn-label"
+		for="p-lang-btn-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-progressive mw-portlet-lang-heading-17"
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+
+		<span class="vector-menu-heading-label">17 languages</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Relaci%C3%B3_pic_de_senyal_a_soroll" title="Relació pic de senyal a soroll – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/PSNR" title="PSNR – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/PSNR" title="PSNR – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Peak_Signal_to_Noise_Ratio" title="Peak Signal to Noise Ratio – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%B5%9C%EB%8C%80_%EC%8B%A0%ED%98%B8_%EB%8C%80_%EC%9E%A1%EC%9D%8C%EB%B9%84" title="최대 신호 대 잡음비 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Nisbah_puncak_sinyal_terhadap_derau" title="Nisbah puncak sinyal terhadap derau – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Peak_signal-to-noise_ratio" title="Peak signal-to-noise ratio – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/PSNR" title="PSNR – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%BC%E3%82%AF%E4%BF%A1%E5%8F%B7%E5%AF%BE%E9%9B%91%E9%9F%B3%E6%AF%94" title="ピーク信号対雑音比 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Szczytowy_stosunek_sygna%C5%82u_do_szumu" title="Szczytowy stosunek sygnału do szumu – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Rela%C3%A7%C3%A3o_sinal-ru%C3%ADdo_de_pico" title="Relação sinal-ruído de pico – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BA%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BE%D1%82%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%B0_%D0%BA_%D1%88%D1%83%D0%BC%D1%83" title="Пиковое отношение сигнала к шуму – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/PSNR" title="PSNR – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/PSNR" title="PSNR – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/PSNR" title="PSNR – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/PSNR" title="PSNR – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E5%B3%B0%E5%80%BC%E4%BF%A1%E5%99%AA%E6%AF%94" title="峰值信噪比 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li></ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3373850#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+				</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Peak_signal-to-noise_ratio" title="View the content page [c]" accesskey="c" class=""><span>Article</span></a>
+</li>
+<li id="ca-talk" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Talk:Peak_signal-to-noise_ratio" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t" class=""><span>Talk</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+								
+
+<div id="p-variants" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-variants emptyPortlet"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-label="Change language variant"
+		
+		
+	/>
+	<label
+		id="p-variants-label"
+		for="p-variants-checkbox"
+		class="vector-menu-heading "
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+
+	</div>
+</div>
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Peak_signal-to-noise_ratio" class=""><span>Read</span></a>
+</li>
+<li id="ca-edit" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=Peak_signal-to-noise_ratio&amp;action=edit" title="Edit this page [e]" accesskey="e" class=""><span>Edit</span></a>
+</li>
+<li id="ca-history" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=Peak_signal-to-noise_ratio&amp;action=history" title="Past revisions of this page [h]" accesskey="h" class=""><span>View history</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="More options">
+								
+<div id="vector-page-tools-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox"
+		id="vector-page-tools-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-tools-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Tools"
+		
+	/>
+	<label
+		id="vector-page-tools-dropdown-label"
+		for="vector-page-tools-dropdown-checkbox"
+		class="vector-menu-heading "
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-menu-heading-label">Tools</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Peak_signal-to-noise_ratio"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Peak_signal-to-noise_ratio&amp;action=edit"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Peak_signal-to-noise_ratio&amp;action=history"><span>View history</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Peak_signal-to-noise_ratio" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Peak_signal-to-noise_ratio" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Peak_signal-to-noise_ratio&amp;oldid=1145027401" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Peak_signal-to-noise_ratio&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Peak_signal-to-noise_ratio&amp;id=1145027401&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3373850" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Peak_signal-to-noise_ratio&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Peak_signal-to-noise_ratio&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="More options">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"><span class="mw-redirectedfrom">(Redirected from <a href="/w/index.php?title=PSNR&amp;redirect=no" class="mw-redirect" title="PSNR">PSNR</a>)</span></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Metric used to measure signal quality</div>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">For broader coverage of this topic, see <a href="/wiki/Signal-to-noise_ratio" title="Signal-to-noise ratio">Signal-to-noise ratio</a>.</div>
+<p><b>Peak signal-to-noise ratio</b> (<b>PSNR</b>) is an engineering term for the ratio between the maximum possible power of a <a href="/wiki/Signal_(information_theory)" class="mw-redirect" title="Signal (information theory)">signal</a> and the power of corrupting <a href="/wiki/Noise" title="Noise">noise</a> that affects the fidelity of its representation. Because many signals have a very wide <a href="/wiki/Dynamic_range" title="Dynamic range">dynamic range</a>, PSNR is usually expressed as a <a href="/wiki/Logarithm" title="Logarithm">logarithmic</a> quantity using the <a href="/wiki/Decibel" title="Decibel">decibel</a> scale.
+</p><p>PSNR is commonly used to quantify reconstruction quality for images and video subject to <a href="/wiki/Lossy_compression" title="Lossy compression">lossy compression</a>.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Definition">Definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Peak_signal-to-noise_ratio&amp;action=edit&amp;section=1" title="Edit section: Definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>PSNR is most easily defined via the <a href="/wiki/Mean_squared_error" title="Mean squared error">mean squared error</a> (<i>MSE</i>). Given a noise-free <i>m</i>×<i>n</i> monochrome image <i>I</i> and its noisy approximation <i>K</i>, <i>MSE</i> is defined as
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\mathit {MSE}}={\frac {1}{m\,n}}\sum _{i=0}^{m-1}\sum _{j=0}^{n-1}[I(i,j)-K(i,j)]^{2}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi class="MJX-tex-mathit" mathvariant="italic">M</mi>
+            <mi class="MJX-tex-mathit" mathvariant="italic">S</mi>
+            <mi class="MJX-tex-mathit" mathvariant="italic">E</mi>
+          </mrow>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mrow>
+              <mi>m</mi>
+              <mspace width="thinmathspace" />
+              <mi>n</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <munderover>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mo>=</mo>
+            <mn>0</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+            <mo>&#x2212;<!-- − --></mo>
+            <mn>1</mn>
+          </mrow>
+        </munderover>
+        <munderover>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>j</mi>
+            <mo>=</mo>
+            <mn>0</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+            <mo>&#x2212;<!-- − --></mo>
+            <mn>1</mn>
+          </mrow>
+        </munderover>
+        <mo stretchy="false">[</mo>
+        <mi>I</mi>
+        <mo stretchy="false">(</mo>
+        <mi>i</mi>
+        <mo>,</mo>
+        <mi>j</mi>
+        <mo stretchy="false">)</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>K</mi>
+        <mo stretchy="false">(</mo>
+        <mi>i</mi>
+        <mo>,</mo>
+        <mi>j</mi>
+        <mo stretchy="false">)</mo>
+        <msup>
+          <mo stretchy="false">]</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\mathit {MSE}}={\frac {1}{m\,n}}\sum _{i=0}^{m-1}\sum _{j=0}^{n-1}[I(i,j)-K(i,j)]^{2}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7a7f91eed974a12060dca7f4ef94ff615707034e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.338ex; width:38.677ex; height:7.676ex;" alt="{\displaystyle {\mathit {MSE}}={\frac {1}{m\,n}}\sum _{i=0}^{m-1}\sum _{j=0}^{n-1}[I(i,j)-K(i,j)]^{2}.}"></span></dd></dl>
+<p>The PSNR (in <a href="/wiki/Decibel" title="Decibel">dB</a>) is defined as
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\begin{aligned}{\mathit {PSNR}}&amp;=10\cdot \log _{10}\left({\frac {{\mathit {MAX}}_{I}^{2}}{\mathit {MSE}}}\right)\\&amp;=20\cdot \log _{10}\left({\frac {{\mathit {MAX}}_{I}}{\sqrt {\mathit {MSE}}}}\right)\\&amp;=20\cdot \log _{10}({\mathit {MAX}}_{I})-10\cdot \log _{10}({\mathit {MSE}}).\end{aligned}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true">
+            <mtr>
+              <mtd>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mi class="MJX-tex-mathit" mathvariant="italic">P</mi>
+                    <mi class="MJX-tex-mathit" mathvariant="italic">S</mi>
+                    <mi class="MJX-tex-mathit" mathvariant="italic">N</mi>
+                    <mi class="MJX-tex-mathit" mathvariant="italic">R</mi>
+                  </mrow>
+                </mrow>
+              </mtd>
+              <mtd>
+                <mi></mi>
+                <mo>=</mo>
+                <mn>10</mn>
+                <mo>&#x22C5;<!-- ⋅ --></mo>
+                <msub>
+                  <mi>log</mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mn>10</mn>
+                  </mrow>
+                </msub>
+                <mo>&#x2061;<!-- ⁡ --></mo>
+                <mrow>
+                  <mo>(</mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mfrac>
+                      <msubsup>
+                        <mrow class="MJX-TeXAtom-ORD">
+                          <mrow class="MJX-TeXAtom-ORD">
+                            <mi class="MJX-tex-mathit" mathvariant="italic">M</mi>
+                            <mi class="MJX-tex-mathit" mathvariant="italic">A</mi>
+                            <mi class="MJX-tex-mathit" mathvariant="italic">X</mi>
+                          </mrow>
+                        </mrow>
+                        <mrow class="MJX-TeXAtom-ORD">
+                          <mi>I</mi>
+                        </mrow>
+                        <mrow class="MJX-TeXAtom-ORD">
+                          <mn>2</mn>
+                        </mrow>
+                      </msubsup>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mi class="MJX-tex-mathit" mathvariant="italic">M</mi>
+                        <mi class="MJX-tex-mathit" mathvariant="italic">S</mi>
+                        <mi class="MJX-tex-mathit" mathvariant="italic">E</mi>
+                      </mrow>
+                    </mfrac>
+                  </mrow>
+                  <mo>)</mo>
+                </mrow>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd />
+              <mtd>
+                <mi></mi>
+                <mo>=</mo>
+                <mn>20</mn>
+                <mo>&#x22C5;<!-- ⋅ --></mo>
+                <msub>
+                  <mi>log</mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mn>10</mn>
+                  </mrow>
+                </msub>
+                <mo>&#x2061;<!-- ⁡ --></mo>
+                <mrow>
+                  <mo>(</mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mfrac>
+                      <msub>
+                        <mrow class="MJX-TeXAtom-ORD">
+                          <mrow class="MJX-TeXAtom-ORD">
+                            <mi class="MJX-tex-mathit" mathvariant="italic">M</mi>
+                            <mi class="MJX-tex-mathit" mathvariant="italic">A</mi>
+                            <mi class="MJX-tex-mathit" mathvariant="italic">X</mi>
+                          </mrow>
+                        </mrow>
+                        <mrow class="MJX-TeXAtom-ORD">
+                          <mi>I</mi>
+                        </mrow>
+                      </msub>
+                      <msqrt>
+                        <mrow class="MJX-TeXAtom-ORD">
+                          <mi class="MJX-tex-mathit" mathvariant="italic">M</mi>
+                          <mi class="MJX-tex-mathit" mathvariant="italic">S</mi>
+                          <mi class="MJX-tex-mathit" mathvariant="italic">E</mi>
+                        </mrow>
+                      </msqrt>
+                    </mfrac>
+                  </mrow>
+                  <mo>)</mo>
+                </mrow>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd />
+              <mtd>
+                <mi></mi>
+                <mo>=</mo>
+                <mn>20</mn>
+                <mo>&#x22C5;<!-- ⋅ --></mo>
+                <msub>
+                  <mi>log</mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mn>10</mn>
+                  </mrow>
+                </msub>
+                <mo>&#x2061;<!-- ⁡ --></mo>
+                <mo stretchy="false">(</mo>
+                <msub>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mi class="MJX-tex-mathit" mathvariant="italic">M</mi>
+                      <mi class="MJX-tex-mathit" mathvariant="italic">A</mi>
+                      <mi class="MJX-tex-mathit" mathvariant="italic">X</mi>
+                    </mrow>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mi>I</mi>
+                  </mrow>
+                </msub>
+                <mo stretchy="false">)</mo>
+                <mo>&#x2212;<!-- − --></mo>
+                <mn>10</mn>
+                <mo>&#x22C5;<!-- ⋅ --></mo>
+                <msub>
+                  <mi>log</mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mn>10</mn>
+                  </mrow>
+                </msub>
+                <mo>&#x2061;<!-- ⁡ --></mo>
+                <mo stretchy="false">(</mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mi class="MJX-tex-mathit" mathvariant="italic">M</mi>
+                    <mi class="MJX-tex-mathit" mathvariant="italic">S</mi>
+                    <mi class="MJX-tex-mathit" mathvariant="italic">E</mi>
+                  </mrow>
+                </mrow>
+                <mo stretchy="false">)</mo>
+                <mo>.</mo>
+              </mtd>
+            </mtr>
+          </mtable>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\begin{aligned}{\mathit {PSNR}}&amp;=10\cdot \log _{10}\left({\frac {{\mathit {MAX}}_{I}^{2}}{\mathit {MSE}}}\right)\\&amp;=20\cdot \log _{10}\left({\frac {{\mathit {MAX}}_{I}}{\sqrt {\mathit {MSE}}}}\right)\\&amp;=20\cdot \log _{10}({\mathit {MAX}}_{I})-10\cdot \log _{10}({\mathit {MSE}}).\end{aligned}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/78688e810162581830c3c836161fdc476973982b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -7.772ex; margin-bottom: -0.233ex; width:46.529ex; height:17.176ex;" alt="{\displaystyle {\begin{aligned}{\mathit {PSNR}}&amp;=10\cdot \log _{10}\left({\frac {{\mathit {MAX}}_{I}^{2}}{\mathit {MSE}}}\right)\\&amp;=20\cdot \log _{10}\left({\frac {{\mathit {MAX}}_{I}}{\sqrt {\mathit {MSE}}}}\right)\\&amp;=20\cdot \log _{10}({\mathit {MAX}}_{I})-10\cdot \log _{10}({\mathit {MSE}}).\end{aligned}}}"></span></dd></dl>
+<p>Here, <i>MAX<sub>I</sub></i> is the maximum possible pixel value of the image. When the pixels are represented using 8 bits per sample, this is 255. More generally, when samples are represented using linear <a href="/wiki/Pulse-code_modulation" title="Pulse-code modulation">PCM</a> with <i>B</i> bits per sample, <i>MAX<sub>I</sub></i> is 2<sup><var>B</var></sup>&#160;−&#160;1.
+</p>
+<h3><span class="mw-headline" id="Application_in_color_images">Application in color images</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Peak_signal-to-noise_ratio&amp;action=edit&amp;section=2" title="Edit section: Application in color images">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>For <a href="/wiki/Color_image" class="mw-redirect" title="Color image">color images</a> with three <a href="/wiki/RGB" class="mw-redirect" title="RGB">RGB</a> values per pixel, the definition of PSNR is the same except that the MSE is the sum over all squared value differences (now for each color, i.e. three times as many differences as in a monochrome image) divided by image size and by three. Alternately, for color images the image is converted to a different <a href="/wiki/Color_space" title="Color space">color space</a> and PSNR is reported against each channel of that color space, e.g., <a href="/wiki/YCbCr" title="YCbCr">YCbCr</a> or <a href="/wiki/HSL_and_HSV" title="HSL and HSV">HSL</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Quality_estimation_with_PSNR">Quality estimation with PSNR</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Peak_signal-to-noise_ratio&amp;action=edit&amp;section=3" title="Edit section: Quality estimation with PSNR">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>PSNR is most commonly used to measure the quality of reconstruction of lossy compression <a href="/wiki/Codec" title="Codec">codecs</a> (e.g., for <a href="/wiki/Image_compression" title="Image compression">image compression</a>). The signal in this case is the original data, and the noise is the error introduced by compression. When comparing compression codecs, PSNR is an <i>approximation</i> to human perception of reconstruction quality.
+</p><p>Typical values for the PSNR in <a href="/wiki/Lossy_compression" title="Lossy compression">lossy</a> image and video compression are between 30 and 50&#160;dB, provided the bit depth is 8&#160;<a href="/wiki/Bit" title="Bit">bits</a>, where higher is better. The processing quality of 12-bit images is considered high when the PSNR value is 60 dB or higher.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> For 16-bit data typical values for the PSNR are between 60 and 80&#160;dB.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> Acceptable values for wireless transmission quality loss are considered to be about 20&#160;dB to 25&#160;dB.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>In the absence of noise, the two images <i>I</i> and <i>K</i> are identical, and thus the MSE is zero. In this case the PSNR is infinite (or undefined, see <a href="/wiki/Division_by_zero" title="Division by zero">Division by zero</a>).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1096954695/mw-parser-output/.tmulti">.mw-parser-output .tmulti .multiimageinner{display:flex;flex-direction:column}.mw-parser-output .tmulti .trow{display:flex;flex-direction:row;clear:left;flex-wrap:wrap;width:100%;box-sizing:border-box}.mw-parser-output .tmulti .tsingle{margin:1px;float:left}.mw-parser-output .tmulti .theader{clear:both;font-weight:bold;text-align:center;align-self:center;background-color:transparent;width:100%}.mw-parser-output .tmulti .thumbcaption{background-color:transparent}.mw-parser-output .tmulti .text-align-left{text-align:left}.mw-parser-output .tmulti .text-align-right{text-align:right}.mw-parser-output .tmulti .text-align-center{text-align:center}@media all and (max-width:720px){.mw-parser-output .tmulti .thumbinner{width:100%!important;box-sizing:border-box;max-width:none!important;align-items:center}.mw-parser-output .tmulti .trow{justify-content:center}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:100%!important;box-sizing:border-box;text-align:center}.mw-parser-output .tmulti .tsingle .thumbcaption{text-align:left}.mw-parser-output .tmulti .trow>.thumbcaption{text-align:center}}</style><div class="thumb tmulti tnone center"><div class="thumbinner multiimageinner" style="width:816px;max-width:816px"><div class="trow"><div class="tsingle" style="width:202px;max-width:202px"><div class="thumbimage"><a href="/wiki/File:PSNR-example-base.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/PSNR-example-base.png/200px-PSNR-example-base.png" decoding="async" width="200" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/PSNR-example-base.png/300px-PSNR-example-base.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/PSNR-example-base.png/400px-PSNR-example-base.png 2x" data-file-width="2028" data-file-height="1521" /></a></div><div class="thumbcaption">Original uncompressed image</div></div><div class="tsingle" style="width:202px;max-width:202px"><div class="thumbimage"><a href="/wiki/File:PSNR-example-comp-90.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/PSNR-example-comp-90.jpg/200px-PSNR-example-comp-90.jpg" decoding="async" width="200" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/PSNR-example-comp-90.jpg/300px-PSNR-example-comp-90.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/PSNR-example-comp-90.jpg/400px-PSNR-example-comp-90.jpg 2x" data-file-width="2028" data-file-height="1521" /></a></div><div class="thumbcaption">Q=90, PSNR 45.53dB</div></div><div class="tsingle" style="width:202px;max-width:202px"><div class="thumbimage"><a href="/wiki/File:PSNR-example-comp-30.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/PSNR-example-comp-30.jpg/200px-PSNR-example-comp-30.jpg" decoding="async" width="200" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/PSNR-example-comp-30.jpg/300px-PSNR-example-comp-30.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/PSNR-example-comp-30.jpg/400px-PSNR-example-comp-30.jpg 2x" data-file-width="2028" data-file-height="1521" /></a></div><div class="thumbcaption">Q=30, PSNR 36.81dB</div></div><div class="tsingle" style="width:202px;max-width:202px"><div class="thumbimage"><a href="/wiki/File:PSNR-example-comp-10.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/PSNR-example-comp-10.jpg/200px-PSNR-example-comp-10.jpg" decoding="async" width="200" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/PSNR-example-comp-10.jpg/300px-PSNR-example-comp-10.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/PSNR-example-comp-10.jpg/400px-PSNR-example-comp-10.jpg 2x" data-file-width="2028" data-file-height="1521" /></a></div><div class="thumbcaption">Q=10, PSNR 31.45dB</div></div></div><div class="trow" style="display:flex"><div class="thumbcaption">Example <a href="/wiki/Luma_(video)" title="Luma (video)">luma</a> PSNR values for a <a href="/wiki/Libjpeg" title="Libjpeg">cjpeg</a> compressed image at various quality levels.</div></div></div></div>
+<h2><span class="mw-headline" id="Performance_comparison">Performance comparison</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Peak_signal-to-noise_ratio&amp;action=edit&amp;section=4" title="Edit section: Performance comparison">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Although a higher PSNR generally indicates that the reconstruction is of higher quality, in some cases it may not. One has to be extremely careful with the range of validity of this metric; it is only conclusively valid when it is used to compare results from the same codec (or codec type) and same content.<sup id="cite_ref-:0_10-0" class="reference"><a href="#cite_note-:0-10">&#91;10&#93;</a></sup>
+</p><p>Generally, PSNR has been shown to perform poorly compared to other <a href="/wiki/Video_quality" title="Video quality">quality metrics</a> when it comes to estimating the <a href="/wiki/Image_quality" title="Image quality">quality of images</a> and particularly videos as perceived by humans.<sup id="cite_ref-:0_10-1" class="reference"><a href="#cite_note-:0-10">&#91;10&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Variants">Variants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Peak_signal-to-noise_ratio&amp;action=edit&amp;section=5" title="Edit section: Variants">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>PSNR-HVS<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> is an extension of PSNR that incorporates properties of the human visual system such as <a href="/wiki/Contrast_(vision)" title="Contrast (vision)">contrast perception</a>.
+</p><p>PSNR-HVS-M improves on PSNR-HVS by additionally taking into account <a href="/wiki/Visual_masking" title="Visual masking">visual masking</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> In a 2007 study, it delivered better approximations of human visual quality judgements than PSNR and <a href="/wiki/Structural_similarity" title="Structural similarity">SSIM</a> by large margin. It was also shown to have a distinct advantage over <a href="/w/index.php?title=DCTune&amp;action=edit&amp;redlink=1" class="new" title="DCTune (page does not exist)">DCTune</a> and PSNR-HVS.<sup id="cite_ref-PSNR-HVS-M_14-0" class="reference"><a href="#cite_note-PSNR-HVS-M-14">&#91;14&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Peak_signal-to-noise_ratio&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Data_compression_ratio" title="Data compression ratio">Data compression ratio</a></li>
+<li><a href="/wiki/Perceptual_Evaluation_of_Video_Quality" title="Perceptual Evaluation of Video Quality">Perceptual Evaluation of Video Quality</a> (PEVQ)</li>
+<li><a href="/wiki/Structural_similarity" title="Structural similarity">Structural similarity</a> (SSIM) index</li>
+<li><a href="/wiki/Subjective_video_quality" title="Subjective video quality">Subjective video quality</a></li>
+<li><a href="/wiki/Video_Multimethod_Assessment_Fusion" title="Video Multimethod Assessment Fusion">Video Multimethod Assessment Fusion</a></li>
+<li><a href="/wiki/Video_quality" title="Video quality">Video quality</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Peak_signal-to-noise_ratio&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFOriani" class="citation web cs1">Oriani, Emanuele. <a rel="nofollow" class="external text" href="http://qpsnr.youlink.org/">"qpsnr: A quick PSNR/SSIM analyzer for Linux"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">6 April</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=qpsnr%3A+A+quick+PSNR%2FSSIM+analyzer+for+Linux&amp;rft.aulast=Oriani&amp;rft.aufirst=Emanuele&amp;rft_id=http%3A%2F%2Fqpsnr.youlink.org%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APeak+signal-to-noise+ratio" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://netpbm.sourceforge.net/doc/pnmpsnr.html">"pnmpsnr User Manual"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">6 April</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=pnmpsnr+User+Manual&amp;rft_id=http%3A%2F%2Fnetpbm.sourceforge.net%2Fdoc%2Fpnmpsnr.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APeak+signal-to-noise+ratio" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFFaragallahEl-HosenyEl-ShafaiEl-Rahman2021" class="citation journal cs1">Faragallah, Osama S.; El-Hoseny, Heba; El-Shafai, Walid; El-Rahman, Wael Abd; El-Sayed, Hala S.; El-Rabaie, El-Sayed M.; El-Samie, Fathi E. Abd; Geweid, Gamal G. N. (2021). <a rel="nofollow" class="external text" href="https://doi.org/10.1109%2FACCESS.2020.3048315">"A Comprehensive Survey Analysis for Present Solutions of Medical Image Fusion and Future Directions"</a>. <i>IEEE Access</i>. <b>9</b>: 11358–11371. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.1109%2FACCESS.2020.3048315">10.1109/ACCESS.2020.3048315</a></span>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/2169-3536">2169-3536</a>. <q>This paper presents a survey study of medical imaging modalities and their characteristics. In addition, different medical image fusion approaches and their appropriate quality metrics are presented.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IEEE+Access&amp;rft.atitle=A+Comprehensive+Survey+Analysis+for+Present+Solutions+of+Medical+Image+Fusion+and+Future+Directions&amp;rft.volume=9&amp;rft.pages=11358-11371&amp;rft.date=2021&amp;rft_id=info%3Adoi%2F10.1109%2FACCESS.2020.3048315&amp;rft.issn=2169-3536&amp;rft.aulast=Faragallah&amp;rft.aufirst=Osama+S.&amp;rft.au=El-Hoseny%2C+Heba&amp;rft.au=El-Shafai%2C+Walid&amp;rft.au=El-Rahman%2C+Wael+Abd&amp;rft.au=El-Sayed%2C+Hala+S.&amp;rft.au=El-Rabaie%2C+El-Sayed+M.&amp;rft.au=El-Samie%2C+Fathi+E.+Abd&amp;rft.au=Geweid%2C+Gamal+G.+N.&amp;rft_id=https%3A%2F%2Fdoi.org%2F10.1109%252FACCESS.2020.3048315&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APeak+signal-to-noise+ratio" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFChervyakovLyakhovNagornov2020" class="citation journal cs1">Chervyakov, Nikolay; Lyakhov, Pavel; Nagornov, Nikolay (2020-02-11). <a rel="nofollow" class="external text" href="https://doi.org/10.3390%2Fapp10041223">"Analysis of the Quantization Noise in Discrete Wavelet Transform Filters for 3D Medical Imaging"</a>. <i>Applied Sciences</i>. <b>10</b> (4): 1223. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.3390%2Fapp10041223">10.3390/app10041223</a></span>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/2076-3417">2076-3417</a>. <q>The image processing quality is considered high if PSNR value is greater than 60 dB for images with 12 bits per color.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Applied+Sciences&amp;rft.atitle=Analysis+of+the+Quantization+Noise+in+Discrete+Wavelet+Transform+Filters+for+3D+Medical+Imaging&amp;rft.volume=10&amp;rft.issue=4&amp;rft.pages=1223&amp;rft.date=2020-02-11&amp;rft_id=info%3Adoi%2F10.3390%2Fapp10041223&amp;rft.issn=2076-3417&amp;rft.aulast=Chervyakov&amp;rft.aufirst=Nikolay&amp;rft.au=Lyakhov%2C+Pavel&amp;rft.au=Nagornov%2C+Nikolay&amp;rft_id=https%3A%2F%2Fdoi.org%2F10.3390%252Fapp10041223&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APeak+signal-to-noise+ratio" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFWelstead1999" class="citation book cs1">Welstead, Stephen T. (1999). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=evGyv-mogukC&amp;q=image%20compression%20acceptable%20PSNR&amp;pg=PA156"><i>Fractal and wavelet image compression techniques</i></a>. SPIE Publication. pp.&#160;155–156. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8194-3503-3" title="Special:BookSources/978-0-8194-3503-3"><bdi>978-0-8194-3503-3</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Fractal+and+wavelet+image+compression+techniques&amp;rft.pages=155-156&amp;rft.pub=SPIE+Publication&amp;rft.date=1999&amp;rft.isbn=978-0-8194-3503-3&amp;rft.aulast=Welstead&amp;rft.aufirst=Stephen+T.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DevGyv-mogukC%26q%3Dimage%2520compression%2520acceptable%2520PSNR%26pg%3DPA156&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APeak+signal-to-noise+ratio" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRaouf_Hamzaoui,_Dietmar_Saupe2006" class="citation book cs1">Raouf Hamzaoui, Dietmar Saupe (May 2006).  Barni, Mauro (ed.). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=FmqPOsEYRsEC&amp;q=image%20compression%20acceptable%20PSNR&amp;pg=PA168"><i>Fractal Image Compression</i></a>. <i>Document and Image Compression</i>. Vol.&#160;968. CRC Press. pp.&#160;168–169. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780849335563" title="Special:BookSources/9780849335563"><bdi>9780849335563</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">5 April</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Fractal+Image+Compression&amp;rft.pages=168-169&amp;rft.pub=CRC+Press&amp;rft.date=2006-05&amp;rft.isbn=9780849335563&amp;rft.au=Raouf+Hamzaoui%2C+Dietmar+Saupe&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DFmqPOsEYRsEC%26q%3Dimage%2520compression%2520acceptable%2520PSNR%26pg%3DPA168&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APeak+signal-to-noise+ratio" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Thomos, N., Boulgouris, N. V., &amp; Strintzis, M. G. (2006, January). Optimized Transmission of JPEG2000 Streams Over Wireless Channels. IEEE Transactions on Image Processing , 15 (1).</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Xiangjun, L., &amp; Jianfei, C. Robust transmission of JPEG2000 encoded images over packet loss channels. ICME 2007 (pp. 947-950). School of Computer Engineering, <a href="/wiki/Nanyang_Technological_University" title="Nanyang Technological University">Nanyang Technological University</a>.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSalomon2007" class="citation book cs1">Salomon, David (2007). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=ujnQogzx_2EC&amp;q=PSNR%20infinite&amp;pg=PA281"><i>Data Compression: The Complete Reference</i></a> (4&#160;ed.). Springer. p.&#160;281. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1846286025" title="Special:BookSources/978-1846286025"><bdi>978-1846286025</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">26 July</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Data+Compression%3A+The+Complete+Reference&amp;rft.pages=281&amp;rft.edition=4&amp;rft.pub=Springer&amp;rft.date=2007&amp;rft.isbn=978-1846286025&amp;rft.aulast=Salomon&amp;rft.aufirst=David&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DujnQogzx_2EC%26q%3DPSNR%2520infinite%26pg%3DPA281&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APeak+signal-to-noise+ratio" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:0-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFHuynh-ThuGhanbari2008" class="citation journal cs1">Huynh-Thu, Q.; Ghanbari, M. (2008). "Scope of validity of PSNR in image/video quality assessment". <i>Electronics Letters</i>. <b>44</b> (13): 800. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/2008ElL....44..800H">2008ElL....44..800H</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1049%2Fel%3A20080522">10.1049/el:20080522</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Electronics+Letters&amp;rft.atitle=Scope+of+validity+of+PSNR+in+image%2Fvideo+quality+assessment&amp;rft.volume=44&amp;rft.issue=13&amp;rft.pages=800&amp;rft.date=2008&amp;rft_id=info%3Adoi%2F10.1049%2Fel%3A20080522&amp;rft_id=info%3Abibcode%2F2008ElL....44..800H&amp;rft.aulast=Huynh-Thu&amp;rft.aufirst=Q.&amp;rft.au=Ghanbari%2C+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APeak+signal-to-noise+ratio" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFHuynh-ThuGhanbari2012" class="citation journal cs1">Huynh-Thu, Quan; Ghanbari, Mohammed (2012-01-01). "The accuracy of PSNR in predicting video quality for different video scenes and frame rates". <i>Telecommunication Systems</i>. <b>49</b> (1): 35–48. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1007%2Fs11235-010-9351-x">10.1007/s11235-010-9351-x</a>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/1018-4864">1018-4864</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:43713764">43713764</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Telecommunication+Systems&amp;rft.atitle=The+accuracy+of+PSNR+in+predicting+video+quality+for+different+video+scenes+and+frame+rates&amp;rft.volume=49&amp;rft.issue=1&amp;rft.pages=35-48&amp;rft.date=2012-01-01&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A43713764%23id-name%3DS2CID&amp;rft.issn=1018-4864&amp;rft_id=info%3Adoi%2F10.1007%2Fs11235-010-9351-x&amp;rft.aulast=Huynh-Thu&amp;rft.aufirst=Quan&amp;rft.au=Ghanbari%2C+Mohammed&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APeak+signal-to-noise+ratio" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Egiazarian, Karen, Jaakko Astola, Nikolay Ponomarenko, Vladimir Lukin, Federica Battisti, and Marco Carli (2006). "New full-reference quality metrics based on HVS." In Proceedings of the Second International Workshop on Video Processing and Quality Metrics, vol. 4.</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFPonomarenkoIeremeievLukinEgiazarian2011" class="citation journal cs1">Ponomarenko, N.; Ieremeiev, O.; Lukin, V.; Egiazarian, K.; Carli, M. (February 2011). <a rel="nofollow" class="external text" href="https://ieeexplore.ieee.org/document/5744476">"Modified image visual quality metrics for contrast change and mean shift accounting"</a>. <i>2011 11th International Conference the Experience of Designing and Application of CAD Systems in Microelectronics (CADSM)</i>: 305–311.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=2011+11th+International+Conference+the+Experience+of+Designing+and+Application+of+CAD+Systems+in+Microelectronics+%28CADSM%29&amp;rft.atitle=Modified+image+visual+quality+metrics+for+contrast+change+and+mean+shift+accounting&amp;rft.pages=305-311&amp;rft.date=2011-02&amp;rft.aulast=Ponomarenko&amp;rft.aufirst=N.&amp;rft.au=Ieremeiev%2C+O.&amp;rft.au=Lukin%2C+V.&amp;rft.au=Egiazarian%2C+K.&amp;rft.au=Carli%2C+M.&amp;rft_id=https%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F5744476&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APeak+signal-to-noise+ratio" class="Z3988"></span></span>
+</li>
+<li id="cite_note-PSNR-HVS-M-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-PSNR-HVS-M_14-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFNikolay_PonomarenkoFlavia_SilvestriKaren_EgiazarianMarco_Carli" class="citation cs2 cs1-prop-foreign-lang-source">Nikolay Ponomarenko; Flavia Silvestri; Karen Egiazarian; Marco Carli; Jaakko Astola; Vladimir Lukin, <a rel="nofollow" class="external text" href="http://ponomarenko.info/vpqm07_p.pdf">"On between-coefficient contrast masking of DCT basis functions"</a> <span class="cs1-format">(PDF)</span>, <i>CD-ROM Proceedings of the Third International Workshop on Video Processing and Quality Metrics for Consumer Electronics VPQM-07, 25.–26. Januar 2007</i> (in German), Scottsdale AZ</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=CD-ROM+Proceedings+of+the+Third+International+Workshop+on+Video+Processing+and+Quality+Metrics+for+Consumer+Electronics+VPQM-07%2C+25.%E2%80%9326.+Januar+2007&amp;rft.atitle=On+between-coefficient+contrast+masking+of+DCT+basis+functions&amp;rft.au=Nikolay+Ponomarenko&amp;rft.au=Flavia+Silvestri&amp;rft.au=Karen+Egiazarian&amp;rft.au=Marco+Carli&amp;rft.au=Jaakko+Astola&amp;rft.au=Vladimir+Lukin&amp;rft_id=http%3A%2F%2Fponomarenko.info%2Fvpqm07_p.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APeak+signal-to-noise+ratio" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Noise_(physics_and_telecommunications)" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Noise" title="Template:Noise"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Noise" title="Template talk:Noise"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Noise&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Noise_(physics_and_telecommunications)" style="font-size:114%;margin:0 4em"><a href="/wiki/Noise_(spectral_phenomenon)" title="Noise (spectral phenomenon)">Noise</a> (physics and telecommunications)</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">General</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Acoustic_quieting" title="Acoustic quieting">Acoustic quieting</a></li>
+<li><a href="/wiki/Distortion" title="Distortion">Distortion</a></li>
+<li><a href="/wiki/Active_noise_control" title="Active noise control">Noise cancellation</a></li>
+<li><a href="/wiki/Noise_control" title="Noise control">Noise control</a></li>
+<li><a href="/wiki/Noise_measurement" title="Noise measurement">Noise measurement</a></li>
+<li><a href="/wiki/Noise_power" title="Noise power">Noise power</a></li>
+<li><a href="/wiki/Noise_reduction" title="Noise reduction">Noise reduction</a></li>
+<li><a href="/wiki/Noise_temperature" title="Noise temperature">Noise temperature</a></li>
+<li><a href="/wiki/Phase_distortion" title="Phase distortion">Phase distortion</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Noise in...</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Noise" title="Noise">Audio</a></li>
+<li><a href="/wiki/Architectural_acoustics" title="Architectural acoustics">Buildings</a></li>
+<li><a href="/wiki/Noise_(electronics)" title="Noise (electronics)">Electronics</a></li>
+<li><a href="/wiki/Noise_pollution" title="Noise pollution">Environment</a></li>
+<li><a href="/wiki/Noise_regulation" title="Noise regulation">Government regulation</a></li>
+<li><a href="/wiki/Health_effects_from_noise" title="Health effects from noise">Human health</a></li>
+<li><a href="/wiki/Image_noise" title="Image noise">Images</a></li>
+<li><a href="/wiki/Noise_(radio)" class="mw-redirect" title="Noise (radio)">Radio</a></li>
+<li><a href="/wiki/Soundproofing" title="Soundproofing">Rooms</a></li>
+<li><a href="/wiki/Noise_and_vibration_on_maritime_vessels" title="Noise and vibration on maritime vessels">Ships</a></li>
+<li><a href="/wiki/Sound_masking" title="Sound masking">Sound masking</a></li>
+<li><a href="/wiki/Noise_barrier" title="Noise barrier">Transportation</a></li>
+<li><a href="/wiki/Noise_(video)" title="Noise (video)">Video</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Class of noise</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Additive_white_Gaussian_noise" title="Additive white Gaussian noise">Additive white Gaussian noise</a> (AWGN)</li>
+<li><a href="/wiki/Atmospheric_noise" title="Atmospheric noise">Atmospheric noise</a></li>
+<li><a href="/wiki/Background_noise" title="Background noise">Background noise</a></li>
+<li><a href="/wiki/Brownian_noise" title="Brownian noise">Brownian noise</a></li>
+<li><a href="/wiki/Burst_noise" title="Burst noise">Burst noise</a></li>
+<li><a href="/wiki/Cosmic_noise" title="Cosmic noise">Cosmic noise</a></li>
+<li><a href="/wiki/Flicker_noise" title="Flicker noise">Flicker noise</a></li>
+<li><a href="/wiki/Gaussian_noise" title="Gaussian noise">Gaussian noise</a></li>
+<li><a href="/wiki/Grey_noise" title="Grey noise">Grey noise</a></li>
+<li><a href="/wiki/Jitter" title="Jitter">Jitter</a></li>
+<li><a href="/wiki/Johnson%E2%80%93Nyquist_noise" title="Johnson–Nyquist noise">Johnson–Nyquist noise</a> (thermal noise)</li>
+<li><a href="/wiki/Pink_noise" title="Pink noise">Pink noise</a></li>
+<li><a href="/wiki/Quantization_error" class="mw-redirect" title="Quantization error">Quantization error</a> (or q. noise)</li>
+<li><a href="/wiki/Shot_noise" title="Shot noise">Shot noise</a></li>
+<li><a href="/wiki/White_noise" title="White noise">White noise</a></li>
+<li>Coherent noise
+<ul><li><a href="/wiki/Value_noise" title="Value noise">Value noise</a></li>
+<li><a href="/wiki/Gradient_noise" title="Gradient noise">Gradient noise</a></li>
+<li><a href="/wiki/Worley_noise" title="Worley noise">Worley noise</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Engineering <br />terms</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Channel_noise_level" title="Channel noise level">Channel noise level</a></li>
+<li><a href="/wiki/Circuit_noise_level" title="Circuit noise level">Circuit noise level</a></li>
+<li><a href="/wiki/Effective_input_noise_temperature" title="Effective input noise temperature">Effective input noise temperature</a></li>
+<li><a href="/wiki/Equivalent_noise_resistance" title="Equivalent noise resistance">Equivalent noise resistance</a></li>
+<li><a href="/wiki/Equivalent_pulse_code_modulation_noise" title="Equivalent pulse code modulation noise">Equivalent pulse code modulation noise</a></li>
+<li><a href="/wiki/Impulse_noise_(audio)" class="mw-redirect" title="Impulse noise (audio)">Impulse noise (audio)</a></li>
+<li><a href="/wiki/Noise_figure" title="Noise figure">Noise figure</a></li>
+<li><a href="/wiki/Noise_floor" title="Noise floor">Noise floor</a></li>
+<li><a href="/wiki/Noise_shaping" title="Noise shaping">Noise shaping</a></li>
+<li><a href="/wiki/Noise_spectral_density" title="Noise spectral density">Noise spectral density</a></li>
+<li><a href="/wiki/Noise,_vibration,_and_harshness" title="Noise, vibration, and harshness">Noise, vibration, and harshness</a> (NVH)</li>
+<li><a href="/wiki/Phase_noise" title="Phase noise">Phase noise</a></li>
+<li><a href="/wiki/Pseudorandom_noise" title="Pseudorandom noise">Pseudorandom noise</a></li>
+<li><a href="/wiki/Statistical_noise" class="mw-redirect" title="Statistical noise">Statistical noise</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Ratios</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Carrier-to-noise_ratio" title="Carrier-to-noise ratio">Carrier-to-noise ratio</a> (<i>C</i>/<i>N</i>)</li>
+<li><a href="/wiki/Carrier-to-receiver_noise_density" class="mw-redirect" title="Carrier-to-receiver noise density">Carrier-to-receiver noise density</a> (<i>C</i>/<i>kT</i>)</li>
+<li><i><a href="/wiki/DBrnC" class="mw-redirect" title="DBrnC">dBrnC</a></i></li>
+<li><i><a href="/wiki/Eb/N0" title="Eb/N0">E<sub>b</sub>/N<sub>0</sub></a></i> (energy per bit to noise density)</li>
+<li><i><a href="/wiki/Eb/N0#Relation_to_Es.2FN0" title="Eb/N0">E<sub>s</sub>/N<sub>0</sub></a></i> (energy per symbol to noise density)</li>
+<li><a href="/wiki/Modulation_error_ratio" title="Modulation error ratio">Modulation error ratio</a> (<i>MER</i>)</li>
+<li><a href="/wiki/SINAD" title="SINAD">Signal, noise and distortion</a> (<i>SINAD</i>)</li>
+<li><a href="/wiki/Signal-to-interference_ratio" title="Signal-to-interference ratio">Signal-to-interference ratio</a> (<i>S</i>/<i>I</i>)</li>
+<li><a href="/wiki/Signal-to-noise_ratio" title="Signal-to-noise ratio">Signal-to-noise ratio</a> (<i>S</i>/<i>N</i>,&#160;<i>SNR</i>)</li>
+<li><a href="/wiki/Signal-to-noise_ratio_(imaging)" title="Signal-to-noise ratio (imaging)">Signal-to-noise ratio (imaging)</a></li>
+<li><a href="/wiki/Signal-to-interference-plus-noise_ratio" title="Signal-to-interference-plus-noise ratio">Signal-to-interference-plus-noise ratio</a> (<i>SINR</i>)</li>
+<li><a href="/wiki/Signal-to-quantization-noise_ratio" title="Signal-to-quantization-noise ratio">Signal-to-quantization-noise ratio</a> (<i>SQNR</i>)</li>
+<li><a href="/wiki/Contrast-to-noise_ratio" title="Contrast-to-noise ratio">Contrast-to-noise ratio</a> (<i>CNR</i>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related topics</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/List_of_noise_topics" title="List of noise topics">List of noise topics</a></li>
+<li><a href="/wiki/Acoustics" title="Acoustics">Acoustics</a></li>
+<li><a href="/wiki/Colors_of_noise" title="Colors of noise">Colors of noise</a></li>
+<li><a href="/wiki/Interference_(communication)" title="Interference (communication)">Interference (communication)</a></li>
+<li><a href="/wiki/Noise_generator" title="Noise generator">Noise generator</a></li>
+<li><a href="/wiki/Spectrum_analyzer" title="Spectrum analyzer">Spectrum analyzer</a></li>
+<li><a href="/wiki/Thermal_radiation" title="Thermal radiation">Thermal radiation</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Denoise <br />methods</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">General</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Low-pass_filter" title="Low-pass filter">Low-pass filter</a></li>
+<li><a href="/wiki/Median_filter" title="Median filter">Median filter</a></li>
+<li><a href="/wiki/Total_variation_denoising" title="Total variation denoising">Total variation denoising</a></li>
+<li><a href="/wiki/Wavelet#Wavelet_denoising" title="Wavelet">Wavelet denoising</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2D (Image)</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Gaussian_blur" title="Gaussian blur">Gaussian blur</a></li>
+<li><a href="/wiki/Anisotropic_diffusion" title="Anisotropic diffusion">Anisotropic diffusion</a></li>
+<li><a href="/wiki/Bilateral_filter" title="Bilateral filter">Bilateral filter</a></li>
+<li><a href="/wiki/Non-local_means" title="Non-local means">Non-local means</a></li>
+<li><a href="/wiki/Block-matching_and_3D_filtering" title="Block-matching and 3D filtering">Block-matching and 3D filtering</a> (BM3D)</li>
+<li><a href="/wiki/Shrinkage_Fields_(image_restoration)" title="Shrinkage Fields (image restoration)">Shrinkage Fields</a></li>
+<li><a href="/wiki/Autoencoder#Denoising_autoencoder_(DAE)" title="Autoencoder">Denoising autoencoder</a> (DAE)</li>
+<li><a href="/wiki/Deep_Image_Prior" class="mw-redirect" title="Deep Image Prior">Deep Image Prior</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox" aria-labelledby="Machine_learning_evaluation_metrics" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Machine_learning_evaluation_metrics" title="Template:Machine learning evaluation metrics"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/w/index.php?title=Template_talk:Machine_learning_evaluation_metrics&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Machine learning evaluation metrics (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Machine_learning_evaluation_metrics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Machine_learning_evaluation_metrics" style="font-size:114%;margin:0 4em"><a href="/wiki/Machine_learning" title="Machine learning">Machine learning</a> evaluation metrics</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Regression_analysis" title="Regression analysis">Regression</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"><a href="/wiki/Mean_squared_error" title="Mean squared error">MSE</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Mean_absolute_error" title="Mean absolute error">MAE</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Symmetric_mean_absolute_percentage_error" title="Symmetric mean absolute percentage error">sMAPE</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Mean_absolute_percentage_error" title="Mean absolute percentage error">MAPE</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Mean_absolute_scaled_error" title="Mean absolute scaled error">MASE</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Mean_squared_prediction_error" title="Mean squared prediction error">MSPE</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Root_mean_square" title="Root mean square">RMS</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Root-mean-square_deviation" title="Root-mean-square deviation">RMSE/RMSD</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Coefficient_of_determination" title="Coefficient of determination">R2</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Mean_directional_accuracy" title="Mean directional accuracy">MDA</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Median_absolute_deviation" title="Median absolute deviation">MAD</a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Statistical_classification" title="Statistical classification">Classification</a></th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"><a href="/wiki/F-score" title="F-score">F-score</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/P4-metric" title="P4-metric">P4</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Accuracy_and_precision" title="Accuracy and precision">Accuracy</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Precision_and_recall" title="Precision and recall">Precision</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Precision_and_recall" title="Precision and recall">Recall</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Cohen%27s_kappa" title="Cohen&#39;s kappa">Kappa</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Phi_coefficient" title="Phi coefficient">MCC</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Area_under_curve" class="mw-redirect" title="Area under curve">AUC</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Receiver_operating_characteristic" title="Receiver operating characteristic">ROC</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Sensitivity_and_specificity" title="Sensitivity and specificity">Sensitivity and specificity</a>&#160;<b>&#183;</b>&#32;<a href="/w/index.php?title=Logarithmic_Loss&amp;action=edit&amp;redlink=1" class="new" title="Logarithmic Loss (page does not exist)">Logarithmic Loss</a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Cluster_analysis" title="Cluster analysis">Clustering</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"><a href="/wiki/Silhouette_(clustering)" title="Silhouette (clustering)">Silhouette</a>&#160;<b>&#183;</b>&#32;<a href="/w/index.php?title=Calinski-Harabasz&amp;action=edit&amp;redlink=1" class="new" title="Calinski-Harabasz (page does not exist)">Calinski-Harabasz</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Davies%E2%80%93Bouldin_index" title="Davies–Bouldin index">Davies-Bouldin</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Dunn_index" title="Dunn index">Dunn index</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Hopkins_statistic" title="Hopkins statistic">Hopkins statistic</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Jaccard_index" title="Jaccard index">Jaccard index</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Rand_index" title="Rand index">Rand index</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Similarity_measure" title="Similarity measure">Similarity measure</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Simple_matching_coefficient" title="Simple matching coefficient">SMC</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/SimHash" title="SimHash">SimHash</a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ranking_(information_retrieval)" title="Ranking (information retrieval)">Ranking</a></th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"><a href="/wiki/Mean_reciprocal_rank" title="Mean reciprocal rank">MRR</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Definite_clause_grammar" title="Definite clause grammar">DCG</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/NDCG" class="mw-redirect" title="NDCG">NDCG</a>&#160;<b>&#183;</b>&#32; <a href="/wiki/Average_precision" class="mw-redirect" title="Average precision">AP</a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computer_Vision" class="mw-redirect" title="Computer Vision">Computer Vision</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"><a href="/wiki/PSNR" class="mw-redirect" title="PSNR">PSNR</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/SSIM" class="mw-redirect" title="SSIM">SSIM</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Intersection_over_union" class="mw-redirect" title="Intersection over union">IoU</a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Natural_language_processing" title="Natural language processing">NLP</a></th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"><a href="/wiki/Perplexity" title="Perplexity">Perplexity</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/BLEU" title="BLEU">BLEU</a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Deep Learning Related Metrics</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"><a href="/wiki/Inception_score" title="Inception score">Inception score</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Fr%C3%A9chet_inception_distance" title="Fréchet inception distance">FID</a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Recommender_system" title="Recommender system">Recommender system</a></th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"><a href="/wiki/Coverage_probability" title="Coverage probability">Coverage</a> &#160;<b>&#183;</b>&#32; <a href="/w/index.php?title=Intra-list_Similarity&amp;action=edit&amp;redlink=1" class="new" title="Intra-list Similarity (page does not exist)">Intra-list Similarity</a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Similarity</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"><a href="/wiki/Cosine_similarity" title="Cosine similarity">Cosine similarity</a> &#160;<b>&#183;</b>&#32; <a href="/wiki/Euclidean_distance" title="Euclidean distance">Euclidean distance</a> &#160;<b>&#183;</b>&#32; <a href="/wiki/Pearson_correlation_coefficient" title="Pearson correlation coefficient">Pearson correlation coefficient</a></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><a href="/wiki/Confusion_matrix" title="Confusion matrix">Confusion matrix</a></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1430
+Cached time: 20230528133329
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.284 seconds
+Real time usage: 0.387 seconds
+Preprocessor visited node count: 1138/1000000
+Post‐expand include size: 65789/2097152 bytes
+Template argument size: 544/2097152 bytes
+Highest expansion depth: 8/100
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 53302/5000000 bytes
+Lua time usage: 0.177/10.000 seconds
+Lua memory usage: 6409993/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  298.353      1 -total
+ 41.01%  122.358      1 Template:Reflist
+ 27.73%   82.744      3 Template:Navbox
+ 25.34%   75.594      1 Template:Noise
+ 20.30%   60.573      2 Template:Cite_web
+ 16.45%   49.065      1 Template:Short_description
+  9.18%   27.395      2 Template:Pagetype
+  8.10%   24.181      5 Template:Cite_journal
+  7.22%   21.553      1 Template:Broader
+  4.76%   14.209      1 Template:Multiple_image
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1281455-0!canonical and timestamp 20230528133328 and revision id 1145027401. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Peak_signal-to-noise_ratio&amp;oldid=1145027401">https://en.wikipedia.org/w/index.php?title=Peak_signal-to-noise_ratio&amp;oldid=1145027401</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Image_compression" title="Category:Image compression">Image compression</a></li><li><a href="/wiki/Category:Noise_(graphics)" title="Category:Noise (graphics)">Noise (graphics)</a></li><li><a href="/wiki/Category:Film_and_video_technology" title="Category:Film and video technology">Film and video technology</a></li><li><a href="/wiki/Category:Digital_television" title="Category:Digital television">Digital television</a></li><li><a href="/wiki/Category:Engineering_ratios" title="Category:Engineering ratios">Engineering ratios</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 16 March 2023, at 21:49<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Peak_signal-to-noise_ratio&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class='vector-settings'>
+	
+<button
+	id=""
+	class="mw-ui-button mw-ui-icon-element vector-limited-width-toggle"
+	><span class="mw-ui-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+
+</button>
+
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1373","wgBackendResponseTime":111,"wgPageParseReport":{"limitreport":{"cputime":"0.284","walltime":"0.387","ppvisitednodes":{"value":1138,"limit":1000000},"postexpandincludesize":{"value":65789,"limit":2097152},"templateargumentsize":{"value":544,"limit":2097152},"expansiondepth":{"value":8,"limit":100},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":53302,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  298.353      1 -total"," 41.01%  122.358      1 Template:Reflist"," 27.73%   82.744      3 Template:Navbox"," 25.34%   75.594      1 Template:Noise"," 20.30%   60.573      2 Template:Cite_web"," 16.45%   49.065      1 Template:Short_description","  9.18%   27.395      2 Template:Pagetype","  8.10%   24.181      5 Template:Cite_journal","  7.22%   21.553      1 Template:Broader","  4.76%   14.209      1 Template:Multiple_image"]},"scribunto":{"limitreport-timeusage":{"value":"0.177","limit":"10.000"},"limitreport-memusage":{"value":6409993,"limit":52428800}},"cachereport":{"origin":"mw1430","timestamp":"20230528133329","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Peak signal-to-noise ratio","url":"https:\/\/en.wikipedia.org\/wiki\/Peak_signal-to-noise_ratio","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3373850","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3373850","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-12-15T15:26:45Z","dateModified":"2023-03-16T21:49:58Z","headline":"metric used to measure picture quality"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Peak signal-to-noise ratio","url":"https:\/\/en.wikipedia.org\/wiki\/Peak_signal-to-noise_ratio","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3373850","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3373850","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-12-15T15:26:45Z","dateModified":"2023-03-16T21:49:58Z","headline":"metric used to measure picture quality"}</script>
+</body>
+</html>

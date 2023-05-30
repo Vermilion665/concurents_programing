@@ -1,0 +1,1109 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>ISO/IEC JTC 1 - Wikipedia</title>
+<script>document.documentElement.className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled";(function(){var cookie=document.cookie.match(/(?:^|; )enwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"44be5d29-fc1e-480d-aba3-0c0849562ef7","wgCSPNonce":false,
+"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"ISO/IEC_JTC_1","wgTitle":"ISO/IEC JTC 1","wgCurRevisionId":1134412860,"wgRevisionId":1134412860,"wgArticleId":13229421,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: missing periodical","Use Oxford spelling from January 2012","All articles with unsourced statements","Articles with unsourced statements from May 2021","ISO/IEC technical committees"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"ISO/IEC_JTC_1","wgRelevantArticleId":13229421,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,
+"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q911765","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.ui.button":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready",
+"mediawiki.ui.icon":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.ui.button%2Cicon%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.10">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-crossorigin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="ISO/IEC JTC 1 - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/ISO/IEC_JTC_1">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=ISO/IEC_JTC_1&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/ISO/IEC_JTC_1">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-ISO_IEC_JTC_1 rootpage-ISO_IEC_JTC_1 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-main-menu-dropdown mw-ui-icon-flush-left mw-ui-icon-flush-right"  >
+	<input type="checkbox"
+		id="vector-main-menu-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-main-menu-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Main menu"
+		
+	/>
+	<label
+		id="vector-main-menu-dropdown-label"
+		for="vector-main-menu-dropdown-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+
+		<span class="vector-menu-heading-label">Main menu</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box-notice vector-language-sidebar-alert mw-message-box">Language links are at the top of the page across from the title.</div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt=""
+		aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia"
+			src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline"
+			alt="The Free Encyclopedia"
+			src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search"
+	
+		id=""
+		class="mw-ui-button mw-ui-quiet mw-ui-icon-element search-toggle"
+		title="Search Wikipedia [f]"accesskey="f"><span class="mw-ui-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-moved">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=ISO%2FIEC+JTC+1" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=ISO%2FIEC+JTC+1" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-user-menu mw-ui-icon-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox"
+		id="vector-user-links-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-user-links-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Personal tools"
+		
+	/>
+	<label
+		id="vector-user-links-dropdown-label"
+		for="vector-user-links-dropdown-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=ISO%2FIEC+JTC+1" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="mw-ui-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=ISO%2FIEC+JTC+1" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="mw-ui-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-History"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#History">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>History</div>
+		</a>
+		
+			<button aria-controls="toc-History-sublist" class="mw-ui-icon mw-ui-icon-wikimedia-expand mw-ui-icon-small vector-toc-toggle">
+				Toggle History subsection
+			</button>
+		
+		<ul id="toc-History-sublist" class="vector-toc-list">
+			<li id="toc-Leadership"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Leadership">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1</span>Leadership</div>
+			</a>
+			
+			<ul id="toc-Leadership-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-PAS_transposition_process"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#PAS_transposition_process">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>PAS transposition process</div>
+		</a>
+		
+		<ul id="toc-PAS_transposition_process-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Scope_and_mission"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Scope_and_mission">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Scope and mission</div>
+		</a>
+		
+		<ul id="toc-Scope_and_mission-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Guiding_principles"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Guiding_principles">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Guiding principles</div>
+		</a>
+		
+		<ul id="toc-Guiding_principles-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Members"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Members">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Members</div>
+		</a>
+		
+		<ul id="toc-Members-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Structure"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Structure">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>Structure</div>
+		</a>
+		
+		<ul id="toc-Structure-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>See also</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Notes"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Notes">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>Notes</div>
+		</a>
+		
+		<ul id="toc-Notes-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">10</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="mw-ui-button mw-ui-quiet mw-ui-icon-flush-left mw-ui-icon-element"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="mw-ui-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+				
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-menu vector-dropdown vector-menu-dropdown vector-page-titlebar-toc mw-ui-icon-flush-left"  >
+	<input type="checkbox"
+		id="vector-page-titlebar-toc-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-titlebar-toc"
+		class="vector-menu-checkbox "
+		
+		aria-label="Toggle the table of contents"
+		
+	/>
+	<label
+		id="vector-page-titlebar-toc-label"
+		for="vector-page-titlebar-toc-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+
+		<span class="vector-menu-heading-label">Toggle the table of contents</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">ISO/IEC JTC 1</span></h1>
+				
+							
+<div id="p-lang-btn" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox"
+		id="p-lang-btn-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-lang-btn"
+		class="vector-menu-checkbox mw-interlanguage-selector"
+		aria-label="Go to an article in another language. Available in 7 languages"
+		
+		
+	/>
+	<label
+		id="p-lang-btn-label"
+		for="p-lang-btn-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-progressive mw-portlet-lang-heading-7"
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+
+		<span class="vector-menu-heading-label">7 languages</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/ISO/IEC_JTC_1" title="ISO/IEC JTC 1 – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/ISO/IEC_JTC_1" title="ISO/IEC JTC 1 – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Joint_Technical_Committee_1" title="Joint Technical Committee 1 – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/ISO/IEC_JTC_1" title="ISO/IEC JTC 1 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/ISO/IEC_JTC_1" title="ISO/IEC JTC 1 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/ISO/IEC_JTC1" title="ISO/IEC JTC1 – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/ISO/IEC_JTC_1" title="ISO/IEC JTC 1 – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li></ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q911765#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+				</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/ISO/IEC_JTC_1" title="View the content page [c]" accesskey="c" class=""><span>Article</span></a>
+</li>
+<li id="ca-talk" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Talk:ISO/IEC_JTC_1" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t" class=""><span>Talk</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+								
+
+<div id="p-variants" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-variants emptyPortlet"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-label="Change language variant"
+		
+		
+	/>
+	<label
+		id="p-variants-label"
+		for="p-variants-checkbox"
+		class="vector-menu-heading "
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+
+	</div>
+</div>
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/ISO/IEC_JTC_1" class=""><span>Read</span></a>
+</li>
+<li id="ca-edit" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=ISO/IEC_JTC_1&amp;action=edit" title="Edit this page [e]" accesskey="e" class=""><span>Edit</span></a>
+</li>
+<li id="ca-history" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=ISO/IEC_JTC_1&amp;action=history" title="Past revisions of this page [h]" accesskey="h" class=""><span>View history</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="More options">
+								
+<div id="vector-page-tools-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox"
+		id="vector-page-tools-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-tools-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Tools"
+		
+	/>
+	<label
+		id="vector-page-tools-dropdown-label"
+		for="vector-page-tools-dropdown-checkbox"
+		class="vector-menu-heading "
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-menu-heading-label">Tools</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/ISO/IEC_JTC_1"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=ISO/IEC_JTC_1&amp;action=edit"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=ISO/IEC_JTC_1&amp;action=history"><span>View history</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/ISO/IEC_JTC_1" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/ISO/IEC_JTC_1" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=ISO/IEC_JTC_1&amp;oldid=1134412860" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=ISO/IEC_JTC_1&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=ISO%2FIEC_JTC_1&amp;id=1134412860&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q911765" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=ISO%2FIEC_JTC_1&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=ISO/IEC_JTC_1&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="More options">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard"><caption class="infobox-title fn org">ISO/IEC JTC 1 &#8212; Information Technology</caption><tbody><tr><th scope="row" class="infobox-label" style="padding-right:0.6em;">Formation</th><td class="infobox-data note">1987</td></tr><tr><th scope="row" class="infobox-label" style="padding-right:0.6em;">Type</th><td class="infobox-data"><a href="/wiki/Standards_organization" title="Standards organization">Standards organization</a></td></tr><tr><th scope="row" class="infobox-label" style="padding-right:0.6em;">Purpose</th><td class="infobox-data">Development of worldwide <a href="/wiki/Information_and_communications_technology" title="Information and communications technology">information and communications technology</a> (ICT) standards for business and consumer applications</td></tr><tr><th scope="row" class="infobox-label" style="padding-right:0.6em;">Location</th><td class="infobox-data label"><style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><div class="plainlist"><ul><li><a href="/wiki/Washington,_D.C." title="Washington, D.C.">Washington, D.C.</a></li></ul></div></td></tr><tr><th scope="row" class="infobox-label" style="padding-right:0.6em;"><div style="display: inline-block; line-height: 1.2em; padding: .1em 0;">Region served </div></th><td class="infobox-data">Worldwide</td></tr><tr><th scope="row" class="infobox-label" style="padding-right:0.6em;"><div style="display: inline-block; line-height: 1.2em; padding: .1em 0;">Chairperson</div></th><td class="infobox-data">Phil Wennblom<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" class="infobox-label" style="padding-right:0.6em;"><div style="display: inline-block; line-height: 1.2em; padding: .1em 0;">Parent organization</div></th><td class="infobox-data"><a href="/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">International Organization for Standardization</a> (ISO) and <a href="/wiki/International_Electrotechnical_Commission" title="International Electrotechnical Commission">International Electrotechnical Commission</a> (IEC)</td></tr><tr><th scope="row" class="infobox-label" style="padding-right:0.6em;">Website</th><td class="infobox-data"><span class="url"><a rel="nofollow" class="external text" href="http://www.iso.org/iso/jtc1_home.html">www<wbr />.iso<wbr />.org<wbr />/iso<wbr />/jtc1<wbr />_home<wbr />.html</a></span></td></tr></tbody></table>
+<p class="mw-empty-elt">
+</p><p><b>ISO/IEC JTC 1</b>, entitled "Information technology", is a joint technical committee (JTC) of the <a href="/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">International Organization for Standardization</a> (ISO) and the <a href="/wiki/International_Electrotechnical_Commission" title="International Electrotechnical Commission">International Electrotechnical Commission</a> (IEC). Its purpose is to develop, maintain and promote standards in the fields of <a href="/wiki/Information_and_communications_technology" title="Information and communications technology">information and communications technology</a> (ICT).
+</p><p>JTC 1 has been responsible for many critical IT standards, ranging from the <a href="/wiki/Joint_Photographic_Experts_Group" title="Joint Photographic Experts Group">Joint Photographic Experts Group</a> (JPEG) image formats and <a href="/wiki/Moving_Picture_Experts_Group" title="Moving Picture Experts Group">Moving Picture Experts Group</a> (MPEG) audio and video formats<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;a&#93;</a></sup> to the <a href="/wiki/C_(programming_language)" title="C (programming language)">C</a> and <a href="/wiki/C%2B%2B" title="C++">C++ programming languages</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;b&#93;</a></sup>
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ISO/IEC_JTC_1&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>ISO/IEC JTC 1 was formed in 1987 as a merger between ISO/TC 97 (Information Technology) and IEC/TC 83, with IEC/SC 47B joining later. The intent was to bring together, in a single committee, the IT standardization activities of the two parent organizations in order to avoid duplicative or possibly incompatible standards. At the time of its formation, the mandate of JTC 1 was to develop base standards in information technology upon which other technical committees could build. This would allow for the development of domain and application specific standards that could be applicable to specific business domains, while also ensuring the interoperation and function of the standards on a consistent base.<sup id="cite_ref-doc_4-0" class="reference"><a href="#cite_note-doc-4">&#91;2&#93;</a></sup>
+</p><p>In its first 15 years, JTC 1 brought about many standards in the information technology sector, including standards in the fields of multimedia (such as <a href="/wiki/MPEG" class="mw-redirect" title="MPEG">MPEG</a>), IC cards (or "<a href="/wiki/Smart_card" title="Smart card">smart cards</a>"), <a href="/wiki/Computer_security" title="Computer security">ICT security</a>, <a href="/wiki/Programming_language" title="Programming language">programming languages</a>, and character sets (such as the <a href="/wiki/Universal_Character_Set" class="mw-redirect" title="Universal Character Set">Universal Character Set</a>).<sup id="cite_ref-doc_4-1" class="reference"><a href="#cite_note-doc-4">&#91;2&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;3&#93;</a></sup> In the early 2000s, the organization expanded its standards development into fields such as security and authentication, bandwidth/connection management, storage and data management, software and systems engineering, service protocols, portable computing devices, and certain societal aspects such as data protection and cultural and linguistic adaptability.
+</p><p>For more than 25 years, JTC 1 has provided a standards development environment where experts come together to develop worldwide Information and Communication Technology (ICT) standards for business and consumer applications.  JTC 1 is also addressing such critical areas as <a href="/wiki/Teleconference" title="Teleconference">teleconferences</a> and e-meetings, <a href="/wiki/Cloud_Data_Management_Interface" title="Cloud Data Management Interface">cloud data management interface</a>, <a href="/wiki/Biometrics" title="Biometrics">biometrics</a> in identity management, sensor networks for <a href="/wiki/Smart_grid" title="Smart grid">smart grid</a> systems, and corporate governance of ICT implementation. As technologies converge, JTC 1 acts as a system integrator, especially in areas of standardization in which many consortia and forums are active. JTC 1 provides the standards approval environment for integrating diverse and complex ICT technologies. These standards rely upon the core infrastructure technologies developed by JTC 1 centers of expertise complemented by specifications developed in other organizations.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;4&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;5&#93;</a></sup> There are over 2800 published JTC 1 standards developed by some 2100 technical experts from around the world, many of which are freely available for download.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;6&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;7&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Leadership">Leadership</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ISO/IEC_JTC_1&amp;action=edit&amp;section=2" title="Edit section: Leadership">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2008, Ms. Karen Higginbottom of <a href="/wiki/Hewlett-Packard" title="Hewlett-Packard">HP</a> was elected as chair.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;8&#93;</a></sup> In a 2013 interview, she described priorities, including cloud computing standards and adaptations of existing standards.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;9&#93;</a></sup> After Higginbottom's nine-year term expired in 2017, Mr. Phil Wennblom of <a href="/wiki/Intel" title="Intel">Intel</a> was elected as chair at the JTC 1 Plenary meeting in <a href="/wiki/Vladivostok,_Russia" class="mw-redirect" title="Vladivostok, Russia">Vladivostok, Russia</a>.
+</p>
+<h2><span class="mw-headline" id="PAS_transposition_process">PAS transposition process</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ISO/IEC_JTC_1&amp;action=edit&amp;section=3" title="Edit section: PAS transposition process">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>JTC 1 has implemented a process to transpose "publicly available specifications" (PAS) into international ISO/IEC standards.  The PAS transposition process allows a PAS to be approved as an ISO/IEC standard in less than a year, as opposed to a full length process that can take up to 4 years.  Consortia, such as <a href="/wiki/OASIS_(organization)" title="OASIS (organization)">OASIS</a>, <a href="/wiki/Trusted_Computing_Group" title="Trusted Computing Group">Trusted Computing Group</a> (TCG), <a href="/wiki/The_Open_Group" title="The Open Group">The Open Group</a>, <a href="/wiki/Object_Management_Group" title="Object Management Group">Object Management Group</a> (OMG), <a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">W3C</a>, <a href="/wiki/Distributed_Management_Task_Force" title="Distributed Management Task Force">Distributed Management Task Force</a> (DMTF), <a href="/wiki/Storage_Networking_Industry_Association" title="Storage Networking Industry Association">Storage Networking Industry Association</a> (SNIA), <a href="/wiki/Open_Geospatial_Consortium" title="Open Geospatial Consortium">Open Geospatial Consortium</a> (OGC), <a href="/wiki/GS1" title="GS1">GS1</a>, Spice User Group, <a href="/wiki/Open_Connectivity_Foundation" title="Open Connectivity Foundation">Open Connectivity Foundation (OCF)</a>, NESMA, <a href="/wiki/Society_of_Motion_Picture_and_Television_Engineers" title="Society of Motion Picture and Television Engineers">Society of Motion Picture and Television Engineers</a> (SMPTE), <a href="/wiki/Khronos_Group" title="Khronos Group">Khronos Group</a>, or <a href="/w/index.php?title=Joint_Development_Foundation&amp;action=edit&amp;redlink=1" class="new" title="Joint Development Foundation (page does not exist)">Joint Development Foundation</a> use this process to transpose their specifications in an efficient manner into ISO/IEC standards.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;10&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Scope_and_mission">Scope and mission</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ISO/IEC_JTC_1&amp;action=edit&amp;section=4" title="Edit section: Scope and mission">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The scope of ISO/IEC JTC 1 is "International standardization in the field of information technology".  Its official mandate is to develop, maintain, promote and facilitate IT standards required by global markets meeting business and user requirements concerning: 
+</p>
+<ul><li>The design and development of IT systems and tools</li>
+<li>The performance and quality of IT products and systems</li>
+<li>The security of IT systems and information</li>
+<li>The portability of application programs</li>
+<li>The interoperability of IT products and systems</li>
+<li>The unified tools and environments</li>
+<li>The harmonized IT vocabulary</li>
+<li>The user-friendly and ergonomically-designed user interfaces</li></ul>
+<h2><span class="mw-headline" id="Guiding_principles">Guiding principles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ISO/IEC_JTC_1&amp;action=edit&amp;section=5" title="Edit section: Guiding principles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>JTC 1 has a number of principles that guide standards development within the organization, which include:<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;11&#93;</a></sup>
+</p>
+<ul><li>Standards development conducted with full attention to a strong business-like approach (e.g., cost effective, short development times, market-oriented results)</li>
+<li>Providing a wide range of quality products and services, within the JTC 1 scope and mission, to cover identified global needs</li>
+<li>Promoting the use of its products and services and the timely implementation of JTC 1 standards within the form of useful products on a worldwide basis</li>
+<li>Ensuring that its user needs, including multicultural requirements, are fully met, such that its products and services promote international trade</li>
+<li>Recognizing the value of the work of other organizations and the contribution they make to international IT standardization and complementing existing and forthcoming JTC 1 programs through other leading edge activity with the objective of providing the best standards worldwide</li>
+<li>Providing a standards development environment which attracts technical experts and users having identified standardization needs</li></ul>
+<h2><span class="mw-headline" id="Members">Members</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ISO/IEC_JTC_1&amp;action=edit&amp;section=6" title="Edit section: Members">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Like its ISO and IEC parent organizations, members of JTC&#160;1 are national standards bodies. One national standards body represents each member country, and the members are referred to within JTC&#160;1 as "national bodies" (NBs). A member can either have participating (P-member) or observing (O-member) status, with the main differences being the ability to participate at the <a href="/wiki/Working_group" title="Working group">working group</a> level in the drafting of standards and to vote on proposed standards (although O-members may submit comments). As of May 2021, JTC&#160;1 has 35 P-members and 65 O-members, and thus 100 member NBs.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;12&#93;</a></sup> The secretariat of JTC&#160;1 is the <a href="/wiki/American_National_Standards_Institute" title="American National Standards Institute">American National Standards Institute</a> (ANSI), which is the national standards body for the United States member NB.
+</p><p>Other organizations can participate as Liaison Members, some of which are internal to ISO/IEC and some of which are external. Liaison relationships can be established at different levels within JTC&#160;1&#160;– i.e., at the JTC&#160;1 level, the subcommittee level, or at the level of a specific working group within a subcommittee. Altogether, as of May 2021, there are about 120 external organizations that are in liaison with JTC&#160;1 at one level or another.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;13&#93;</a></sup> The liaison relationships established directly at the JTC&#160;1 level are:<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2021)">citation needed</span></a></i>&#93;</sup>
+</p>
+<ul><li><a href="/wiki/European_Commission" title="European Commission">European Commission</a> (EC)</li>
+<li><a href="/wiki/Ecma_International" title="Ecma International">Ecma International</a></li>
+<li><a href="/wiki/International_Telecommunication_Union" title="International Telecommunication Union">International Telecommunication Union</a> (ITU), including <a href="/wiki/ITU-T_Study_Group_16" title="ITU-T Study Group 16">ITU-T Study Group 16</a> on Multimedia</li></ul>
+<h2><span class="mw-headline" id="Structure">Structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ISO/IEC_JTC_1&amp;action=edit&amp;section=7" title="Edit section: Structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Most work on the development of standards is done by subcommittees (SCs), each of which deals with a particular field. Most of these subcommittees have several <a href="/wiki/Working_group" title="Working group">working groups</a> (WGs). Subcommittees, working groups, special working groups (SWGs), and study groups (SGs) within JTC 1 are:<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;14&#93;</a></sup>
+</p>
+<table class="wikitable">
+
+<tbody><tr class="hintergrundfarbe5">
+<th>Advisory Groups</th>
+<th>Title
+</th></tr>
+<tr>
+<td>ISO/IEC JTC 1/JAG</td>
+<td>JTC 1 advisory group
+</td></tr>
+<tr>
+<td>ISO/IEC JTC 1/AG 1</td>
+<td>Communications
+</td></tr>
+<tr>
+<td>ISO/IEC JTC 1/AG 2</td>
+<td>JTC 1 Emerging Technology and Innovation (JETI)
+</td></tr>
+<tr>
+<td>ISO/IEC JTC 1/AG 6 <i>(disbanded)</i></td>
+<td>Autonomous and Data Rich Vehicles
+</td></tr>
+<tr>
+<td>ISO/IEC JTC 1/AG 8</td>
+<td>Meta Reference Architecture and Reference Architecture for Systems Integration
+</td></tr>
+<tr>
+<td>ISO/IEC JTC 1/AG 10</td>
+<td>Outreach
+</td></tr>
+<tr>
+<td>ISO/IEC JTC 1/AG 14</td>
+<td>Systems Integration Facilitation (SIF)
+</td></tr>
+<tr>
+<td>ISO/IEC JTC 1/AG 15</td>
+<td>Standards and Regulations
+</td></tr>
+<tr>
+<td>ISO/IEC JTC 1/AG 17</td>
+<td>Meeting guidelines - SD 19
+</td></tr>
+<tr>
+<td>ISO/IEC JTC 1/AG 18</td>
+<td>Vocabulary
+</td></tr>
+<tr>
+<td>ISO/IEC JTC 1/AG 19</td>
+<td>Coordination with ISO TC 20/SC 16 on Unmanned Aircraft Systems (UAS)
+</td></tr>
+<tr class="hintergrundfarbe5">
+<th>Ad Hoc Groups</th>
+<th>Title
+</th></tr>
+<tr>
+<td>ISO/IEC JTC 1/AHG 4</td>
+<td>Collaboration Across Domains
+</td></tr>
+<tr>
+<td>ISO/IEC JTC 1/AHG 5</td>
+<td>JTC 1 Standards Made Freely Available
+</td></tr>
+<tr class="hintergrundfarbe5">
+<th>Working Groups</th>
+<th>Title
+</th></tr>
+<tr>
+<td><a href="/wiki/ISO/IEC_JTC_1/WG_7" title="ISO/IEC JTC 1/WG 7">ISO/IEC JTC 1/WG 7</a> <i>(disbanded)</i></td>
+<td>Sensor networks
+</td></tr>
+<tr>
+<td>ISO/IEC JTC 1/WG 9  <i>(disbanded)</i></td>
+<td>Big data
+</td></tr>
+<tr>
+<td>ISO/IEC JTC 1/WG 10 <i>(disbanded)</i></td>
+<td>Internet of things (IoT)
+</td></tr>
+<tr>
+<td>ISO/IEC JTC 1/WG 11</td>
+<td>Smart cities
+</td></tr>
+<tr>
+<td>ISO/IEC JTC 1/WG 12</td>
+<td>3D printing and scanning
+</td></tr>
+<tr>
+<td>ISO/IEC JTC 1/WG 13</td>
+<td>Trustworthiness
+</td></tr>
+<tr>
+<td>ISO/IEC JTC 1/WG 14</td>
+<td>Quantum computing
+</td></tr>
+<tr class="hintergrundfarbe5">
+<th>Subcommittees</th>
+<th>Title
+</th></tr>
+<tr>
+<td><a href="/wiki/ISO/IEC_JTC_1/SC_2" title="ISO/IEC JTC 1/SC 2">ISO/IEC JTC 1/SC 2</a></td>
+<td>Coded character sets
+</td></tr>
+<tr>
+<td><a href="/wiki/ISO/IEC_JTC_1/SC_6" title="ISO/IEC JTC 1/SC 6">ISO/IEC JTC 1/SC 6</a></td>
+<td>Telecommunications and information exchange between systems
+</td></tr>
+<tr>
+<td><a href="/wiki/ISO/IEC_JTC_1/SC_7" title="ISO/IEC JTC 1/SC 7">ISO/IEC JTC 1/SC 7</a></td>
+<td>Software and systems engineering
+</td></tr>
+<tr>
+<td><a href="/wiki/ISO/IEC_JTC_1/SC_17" title="ISO/IEC JTC 1/SC 17">ISO/IEC JTC 1/SC 17</a></td>
+<td>Cards and security devices for personal identification
+</td></tr>
+<tr>
+<td><a href="/wiki/ISO/IEC_JTC_1/SC_22" title="ISO/IEC JTC 1/SC 22">ISO/IEC JTC 1/SC 22</a></td>
+<td>Programming languages, their environments and system software interfaces
+</td></tr>
+<tr>
+<td><a href="/wiki/ISO/IEC_JTC_1/SC_23" title="ISO/IEC JTC 1/SC 23">ISO/IEC JTC 1/SC 23</a></td>
+<td>Digitally Recorded Media for Information Interchange and Storage
+</td></tr>
+<tr>
+<td><a href="/wiki/ISO/IEC_JTC_1/SC_24" title="ISO/IEC JTC 1/SC 24">ISO/IEC JTC 1/SC 24</a></td>
+<td>Computer graphics, image processing and environmental data representation
+</td></tr>
+<tr>
+<td><a href="/wiki/ISO/IEC_JTC_1/SC_25" title="ISO/IEC JTC 1/SC 25">ISO/IEC JTC 1/SC 25</a></td>
+<td>Interconnection of information technology equipment
+</td></tr>
+<tr>
+<td><a href="/wiki/ISO/IEC_JTC_1/SC_27" title="ISO/IEC JTC 1/SC 27">ISO/IEC JTC 1/SC 27</a></td>
+<td>Information security, cybersecurity and privacy protection
+</td></tr>
+<tr>
+<td><a href="/wiki/ISO/IEC_JTC_1/SC_28" title="ISO/IEC JTC 1/SC 28">ISO/IEC JTC 1/SC 28</a></td>
+<td>Office equipment
+</td></tr>
+<tr>
+<td><a href="/wiki/ISO/IEC_JTC_1/SC_29" title="ISO/IEC JTC 1/SC 29">ISO/IEC JTC 1/SC 29</a></td>
+<td>Coding of audio, picture, multimedia and hypermedia information
+</td></tr>
+<tr>
+<td><a href="/wiki/ISO/IEC_JTC_1/SC_31_Automatic_identification_and_data_capture_techniques" class="mw-redirect" title="ISO/IEC JTC 1/SC 31 Automatic identification and data capture techniques">ISO/IEC JTC 1/SC 31</a></td>
+<td>Automatic identification and data capture techniques
+</td></tr>
+<tr>
+<td><a href="/wiki/ISO/IEC_JTC_1/SC_32" title="ISO/IEC JTC 1/SC 32">ISO/IEC JTC 1/SC 32</a></td>
+<td>Data management and interchange
+</td></tr>
+<tr>
+<td><a href="/wiki/ISO/IEC_JTC_1/SC_34" title="ISO/IEC JTC 1/SC 34">ISO/IEC JTC 1/SC 34</a></td>
+<td>Document description and processing languages
+</td></tr>
+<tr>
+<td><a href="/wiki/ISO/IEC_JTC_1/SC_35_User_interfaces" class="mw-redirect" title="ISO/IEC JTC 1/SC 35 User interfaces">ISO/IEC JTC 1/SC 35</a></td>
+<td>User interfaces
+</td></tr>
+<tr>
+<td><a href="/wiki/ISO/IEC_JTC_1/SC_36" title="ISO/IEC JTC 1/SC 36">ISO/IEC JTC 1/SC 36</a></td>
+<td>Information technology for learning, education and training
+</td></tr>
+<tr>
+<td><a href="/wiki/ISO/IEC_JTC_1/SC_37" title="ISO/IEC JTC 1/SC 37">ISO/IEC JTC 1/SC 37</a></td>
+<td>Biometrics
+</td></tr>
+<tr>
+<td><a href="/wiki/ISO/IEC_JTC_1/SC_38" title="ISO/IEC JTC 1/SC 38">ISO/IEC JTC 1/SC 38</a></td>
+<td>Cloud computing and distributed platforms
+</td></tr>
+<tr>
+<td><a href="/wiki/ISO/IEC_JTC_1/SC_39" title="ISO/IEC JTC 1/SC 39">ISO/IEC JTC 1/SC 39</a></td>
+<td>Sustainability for and by information technology
+</td></tr>
+<tr>
+<td><a href="/wiki/ISO/IEC_JTC_1/SC_40" title="ISO/IEC JTC 1/SC 40">ISO/IEC JTC 1/SC 40</a></td>
+<td>IT service management and IT governance
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=ISO/IEC_JTC_1/SC_41&amp;action=edit&amp;redlink=1" class="new" title="ISO/IEC JTC 1/SC 41 (page does not exist)">ISO/IEC JTC 1/SC 41</a></td>
+<td>Internet of things and related technologies
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=ISO/IEC_JTC_1/SC_42&amp;action=edit&amp;redlink=1" class="new" title="ISO/IEC JTC 1/SC 42 (page does not exist)">ISO/IEC JTC 1/SC 42</a></td>
+<td>Artificial intelligence
+</td></tr>
+<tr class="hintergrundfarbe5">
+<th>Study Groups</th>
+<th>Title
+</th></tr>
+<tr>
+<td>ISO/IEC JTC 1/SG 1 <i>(disbanded)</i></td>
+<td>Smart cities
+</td></tr>
+<tr>
+<td>ISO/IEC JTC 1/SG 2 <i>(disbanded)</i></td>
+<td>Big data
+</td></tr>
+<tr>
+<td>ISO/IEC JTC 1/SG 3</td>
+<td>3D Printing and scanning
+</td></tr>
+<tr class="hintergrundfarbe5">
+<th>Special Working Groups</th>
+<th>Title
+</th></tr>
+<tr>
+<td><a href="/wiki/ISO/IEC_JTC_1/SWG-A" title="ISO/IEC JTC 1/SWG-A">ISO/IEC JTC 1/SWG 1</a> <i>(disbanded)</i></td>
+<td>Accessibility (SWG-A)
+</td></tr>
+<tr>
+<td>ISO/IEC JTC 1/SWG 2 <i>(disbanded)</i></td>
+<td>Directives
+</td></tr>
+<tr>
+<td>ISO/IEC JTC 1/SWG 3 <i>(disbanded)</i></td>
+<td>Planning
+</td></tr>
+<tr>
+<td><a href="/wiki/ISO/IEC_JTC_1/SWG_5" title="ISO/IEC JTC 1/SWG 5">ISO/IEC JTC 1/SWG 5</a> <i>(disbanded)</i></td>
+<td>Internet of things (IoT)
+</td></tr>
+<tr>
+<td>ISO/IEC JTC 1/SWG 6 <i>(disbanded)</i></td>
+<td>Management
+</td></tr>
+<tr>
+<td>ISO/IEC JTC 1/SWG 7 <i>(disbanded)</i></td>
+<td>JTC 1 JAG group on emerging technologies and innovations (JETI)
+</td></tr></tbody></table>
+<p>Each subcommittee can have subgroups created for specific purposes:
+</p>
+<ul><li><b>Study Groups (SGs)</b> are chartered to investigate the need and feasibility of additional standardization and/or guidance in a technical area.  The main objective of a Study Group is to understand the current activities in a particular area and make recommendations to JTC 1 or a specific subcommittee.</li>
+<li><b>Working Groups (WGs)</b> are established to expedite development of one or more approved work items, and will exist as long as it has responsibility for approved work items.</li>
+<li><b>Other Working Groups (OWGs)</b> undertake specific tasks between the meetings of a subcommittee.  These tasks are defined in the terms of reference of the OWG.</li></ul>
+<p>Subcommittees can be created to deal with new situations (SC 37 was established in 2002; SC 38 in 2009; SC 39 in 2012; and SC 40 in 2013) or disbanded if the area of work is no longer relevant. There is no requirement for any member body to maintain status on any or all of the subcommittees.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ISO/IEC_JTC_1&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">International Organization for Standardization</a></li>
+<li><a href="/wiki/International_Electrotechnical_Commission" title="International Electrotechnical Commission">International Electrotechnical Commission</a></li>
+<li><a href="/wiki/American_National_Standards_Institute" title="American National Standards Institute">American National Standards Institute</a></li>
+<li><a href="/wiki/List_of_IEC_technical_committees" title="List of IEC technical committees">List of IEC technical committees</a></li>
+<li><a href="/wiki/List_of_ISO_standards" title="List of ISO standards">List of ISO standards</a></li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ISO/IEC_JTC_1&amp;action=edit&amp;section=9" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist reflist-lower-alpha">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">The JPEG and MPEG work is in the <a href="/wiki/ISO/IEC_JTC_1/SC_29" title="ISO/IEC JTC 1/SC 29">ISO/IEC JTC 1/SC 29</a> subcommittee, entitled "Coding of audio, picture, multimedia and hypermedia information".</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">C and C++ is standardized in the <a href="/wiki/ISO/IEC_JTC_1/SC_22" title="ISO/IEC JTC 1/SC 22">ISO/IEC JTC 1/SC 22</a> subcommittee entitled "Programming languages, their environments and system software interfaces", within which working group 14 is responsible for C and 21 is responsible for C++.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ISO/IEC_JTC_1&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1011085734"><div class="reflist reflist-columns references-column-width reflist-columns-2">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.iso.org/isoiec-jtc-1.html">"ISO/IEC JTC 1"</a>. <i>www.iso.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-06-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.iso.org&amp;rft.atitle=ISO%2FIEC+JTC+1&amp;rft_id=https%3A%2F%2Fwww.iso.org%2Fisoiec-jtc-1.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AISO%2FIEC+JTC+1" class="Z3988"></span></span>
+</li>
+<li id="cite_note-doc-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-doc_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-doc_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFISO/IEC2012" class="citation cs2">ISO/IEC (2012), <i>ISO/IEC JTC 1 Standing Document N 2</i>, ISO/IEC</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=ISO%2FIEC+JTC+1+Standing+Document+N+2&amp;rft.pub=ISO%2FIEC&amp;rft.date=2012&amp;rft.au=ISO%2FIEC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AISO%2FIEC+JTC+1" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://mpeg.chiariglione.org/standards">"MPEG: Standards"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-06-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=MPEG%3A+Standards&amp;rft_id=http%3A%2F%2Fmpeg.chiariglione.org%2Fstandards&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AISO%2FIEC+JTC+1" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRajchel,_Lisa2012" class="citation web cs1">Rajchel, Lisa (2012-06-18). <a rel="nofollow" class="external text" href="http://www.iso.org/iso/home/news_index/news_archive/news.htm?refid=Ref1601">"25 years of ISO/IEC JTC 1 - We've come a long way!"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-06-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=25+years+of+ISO%2FIEC+JTC+1+-+We%27ve+come+a+long+way%21&amp;rft.date=2012-06-18&amp;rft.au=Rajchel%2C+Lisa&amp;rft_id=http%3A%2F%2Fwww.iso.org%2Fiso%2Fhome%2Fnews_index%2Fnews_archive%2Fnews.htm%3Frefid%3DRef1601&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AISO%2FIEC+JTC+1" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFPodio,_Fernando_L.2012" class="citation journal cs1">Podio, Fernando L. (2012-09-05). "Published International Biometric Standards Developed by ISO/IEC JTC 1/SC 37 – Biometrics".</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Published+International+Biometric+Standards+Developed+by+ISO%2FIEC+JTC+1%2FSC+37+%E2%80%93+Biometrics&amp;rft.date=2012-09-05&amp;rft.au=Podio%2C+Fernando+L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AISO%2FIEC+JTC+1" class="Z3988"></span> <span class="cs1-hidden-error citation-comment"><code class="cs1-code">{{<a href="/wiki/Template:Cite_journal" title="Template:Cite journal">cite journal</a>}}</code>: </span><span class="cs1-hidden-error citation-comment">Cite journal requires <code class="cs1-code">&#124;journal=</code> (<a href="/wiki/Help:CS1_errors#missing_periodical" title="Help:CS1 errors">help</a>)</span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFISO" class="citation web cs1">ISO. <a rel="nofollow" class="external text" href="http://www.iso.org/iso/home/store/catalogue_tc/catalogue_tc_browse.htm?commid=45020&amp;published=on&amp;includesc=true">"Standards and projects under the direct responsibility of ISO/IEC JTC 1 Secretariat and its SCs"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">17 June</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Standards+and+projects+under+the+direct+responsibility+of+ISO%2FIEC+JTC+1+Secretariat+and+its+SCs&amp;rft.au=ISO&amp;rft_id=http%3A%2F%2Fwww.iso.org%2Fiso%2Fhome%2Fstore%2Fcatalogue_tc%2Fcatalogue_tc_browse.htm%3Fcommid%3D45020%26published%3Don%26includesc%3Dtrue&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AISO%2FIEC+JTC+1" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFISO/IEC_JTC_1" class="citation web cs1">ISO/IEC JTC 1. <a rel="nofollow" class="external text" href="http://standards.iso.org/ittf/PubliclyAvailableStandards/index.html">"Freely Available Standards"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-06-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Freely+Available+Standards&amp;rft.au=ISO%2FIEC+JTC+1&amp;rft_id=http%3A%2F%2Fstandards.iso.org%2Fittf%2FPubliclyAvailableStandards%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AISO%2FIEC+JTC+1" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFgenb" class="citation web cs1">genb. <a rel="nofollow" class="external text" href="http://www.incits.org/news-events/press-releases/international-technology-standards-group-elects-hps-karen-higginbottom-as-chair">"International Technology Standards Group Elects HP's Karen Higginbottom as Chair"</a>. <i><a href="/wiki/INCITS" class="mw-redirect" title="INCITS">INCITS</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-06-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=INCITS&amp;rft.atitle=International+Technology+Standards+Group+Elects+HP%27s+Karen+Higginbottom+as+Chair&amp;rft.au=genb&amp;rft_id=http%3A%2F%2Fwww.incits.org%2Fnews-events%2Fpress-releases%2Finternational-technology-standards-group-elects-hps-karen-higginbottom-as-chair&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AISO%2FIEC+JTC+1" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://iecetech.org/index.php/Technical-Committees/2013-03/Profile-Karen-Higginbottom">"Profile: Karen Higginbottom | IEC e-tech | Issue 03/2013"</a>. <i>IEC e-tech</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-06-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IEC+e-tech&amp;rft.atitle=Profile%3A+Karen+Higginbottom+%7C+IEC+e-tech+%7C+Issue+03%2F2013&amp;rft_id=http%3A%2F%2Fiecetech.org%2Findex.php%2FTechnical-Committees%2F2013-03%2FProfile-Karen-Higginbottom&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AISO%2FIEC+JTC+1" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFDardailler,_Daniel2012" class="citation web cs1">Dardailler, Daniel (2012-10-15). <a rel="nofollow" class="external text" href="http://www.w3.org/2010/04/pasfaq">"W3C PAS FAQ"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-06-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=W3C+PAS+FAQ&amp;rft.date=2012-10-15&amp;rft.au=Dardailler%2C+Daniel&amp;rft_id=http%3A%2F%2Fwww.w3.org%2F2010%2F04%2Fpasfaq&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AISO%2FIEC+JTC+1" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFISO" class="citation web cs1">ISO. <a rel="nofollow" class="external text" href="http://www.iso.org/iso/home/standards_development/list_of_iso_technical_committees/jtc1_home.htm#JTC_1_mission_and_principles">"JTC 1 Mission and Principles"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-06-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=JTC+1+Mission+and+Principles&amp;rft.au=ISO&amp;rft_id=http%3A%2F%2Fwww.iso.org%2Fiso%2Fhome%2Fstandards_development%2Flist_of_iso_technical_committees%2Fjtc1_home.htm%23JTC_1_mission_and_principles&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AISO%2FIEC+JTC+1" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.iso.org/iso/home/standards_development/list_of_iso_technical_committees/iso_technical_committee_participation.htm?commid=45020">"ISO/IEC JTC 1 – Information Technology: Participating Countries"</a>. <i><a href="/wiki/ISO" class="mw-redirect" title="ISO">ISO</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2021-05-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ISO&amp;rft.atitle=ISO%2FIEC+JTC+1+%E2%80%93+Information+Technology%3A+Participating+Countries&amp;rft_id=http%3A%2F%2Fwww.iso.org%2Fiso%2Fhome%2Fstandards_development%2Flist_of_iso_technical_committees%2Fiso_technical_committee_participation.htm%3Fcommid%3D45020&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AISO%2FIEC+JTC+1" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://jtc1info.org/about/partners/">"Partner organizations"</a>. <i>ISO/IEC JTC&#160;1</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2021-05-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ISO%2FIEC+JTC+1&amp;rft.atitle=Partner+organizations&amp;rft_id=https%3A%2F%2Fjtc1info.org%2Fabout%2Fpartners%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AISO%2FIEC+JTC+1" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFISO" class="citation web cs1">ISO. <a rel="nofollow" class="external text" href="http://www.iso.org/iso/standards_development/technical_committees/list_of_iso_technical_committees/iso_technical_committee.htm?commid=45020">"JTC 1 - Information technology"</a>. ISO<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-11-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=JTC+1+-+Information+technology&amp;rft.pub=ISO&amp;rft.au=ISO&amp;rft_id=http%3A%2F%2Fwww.iso.org%2Fiso%2Fstandards_development%2Ftechnical_committees%2Flist_of_iso_technical_committees%2Fiso_technical_committee.htm%3Fcommid%3D45020&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AISO%2FIEC+JTC+1" class="Z3988"></span></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ISO/IEC_JTC_1&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.iso.org/iso/jtc1_home">ISO/IEC JTC 1 page at ISO</a></li>
+<li><a rel="nofollow" class="external text" href="https://jtc1info.org/">JTC1 homepage</a></li></ul>
+<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="International_Electrotechnical_Commission" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:International_Electrotechnical_Commission" title="Template:International Electrotechnical Commission"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:International_Electrotechnical_Commission" title="Template talk:International Electrotechnical Commission"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:International_Electrotechnical_Commission&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="International_Electrotechnical_Commission" style="font-size:114%;margin:0 4em"><a href="/wiki/International_Electrotechnical_Commission" title="International Electrotechnical Commission">International Electrotechnical Commission</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Subsidiaries</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/CISPR" title="CISPR">CISPR</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_IEC_technical_committees" title="List of IEC technical committees">Technical committees</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/IEC_TC_12" class="mw-redirect" title="IEC TC 12">TC 12</a></li>
+<li><a href="/wiki/IEC_TC_25" title="IEC TC 25">TC 25</a></li>
+<li><a href="/wiki/IEC_TC_57" title="IEC TC 57">TC 57</a></li>
+<li><a class="mw-selflink selflink">JTC 1</a>
+<ul><li><a href="/wiki/ISO/IEC_JTC_1/SC_2" title="ISO/IEC JTC 1/SC 2">JTC 1/SC 2</a></li>
+<li><a href="/wiki/ISO/IEC_JTC_1/SC_6" title="ISO/IEC JTC 1/SC 6">JTC 1/SC 6</a></li>
+<li><a href="/wiki/ISO/IEC_JTC_1/SC_7" title="ISO/IEC JTC 1/SC 7">JTC 1/SC 7</a></li>
+<li><a href="/wiki/ISO/IEC_JTC_1/SC_17" title="ISO/IEC JTC 1/SC 17">JTC 1/SC 17</a></li>
+<li><a href="/wiki/ISO/IEC_JTC_1/SC_22" title="ISO/IEC JTC 1/SC 22">JTC 1/SC 22</a></li>
+<li><a href="/wiki/ISO/IEC_JTC_1/SC_23" title="ISO/IEC JTC 1/SC 23">JTC 1/SC 23</a></li>
+<li><a href="/wiki/ISO/IEC_JTC_1/SC_24" title="ISO/IEC JTC 1/SC 24">JTC 1/SC 24</a></li>
+<li><a href="/wiki/ISO/IEC_JTC_1/SC_25" title="ISO/IEC JTC 1/SC 25">JTC 1/SC 25</a></li>
+<li><a href="/wiki/ISO/IEC_JTC_1/SC_27" title="ISO/IEC JTC 1/SC 27">JTC 1/SC 27</a></li>
+<li><a href="/wiki/ISO/IEC_JTC_1/SC_28" title="ISO/IEC JTC 1/SC 28">JTC 1/SC 28</a></li>
+<li><a href="/wiki/ISO/IEC_JTC_1/SC_29" title="ISO/IEC JTC 1/SC 29">JTC 1/SC 29</a></li>
+<li><a href="/wiki/ISO/IEC_JTC_1/SC_31_Automatic_identification_and_data_capture_techniques" class="mw-redirect" title="ISO/IEC JTC 1/SC 31 Automatic identification and data capture techniques">JTC 1/SC 31</a></li>
+<li><a href="/wiki/ISO/IEC_JTC_1/SC_32" title="ISO/IEC JTC 1/SC 32">JTC 1/SC 32</a></li>
+<li><a href="/wiki/ISO/IEC_JTC_1/SC_34" title="ISO/IEC JTC 1/SC 34">JTC 1/SC 34</a></li>
+<li><a href="/wiki/ISO/IEC_JTC_1/SC_35_User_interfaces" class="mw-redirect" title="ISO/IEC JTC 1/SC 35 User interfaces">JTC 1/SC 35</a></li>
+<li><a href="/wiki/ISO/IEC_JTC_1/SC_36" title="ISO/IEC JTC 1/SC 36">JTC 1/SC 36</a></li>
+<li><a href="/wiki/ISO/IEC_JTC_1/SC_37" title="ISO/IEC JTC 1/SC 37">JTC 1/SC 37</a></li>
+<li><a href="/wiki/ISO/IEC_JTC_1/SC_38" title="ISO/IEC JTC 1/SC 38">JTC 1/SC 38</a></li>
+<li><a href="/wiki/ISO/IEC_JTC_1/SC_39" title="ISO/IEC JTC 1/SC 39">JTC 1/SC 39</a></li>
+<li><a href="/wiki/ISO/IEC_JTC_1/SC_40" title="ISO/IEC JTC 1/SC 40">JTC 1/SC 40</a></li>
+<li><a href="/wiki/ISO/IEC_JTC_1/SWG-A" title="ISO/IEC JTC 1/SWG-A">JTC 1/SWG-A</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Information_Technology_Task_Force" title="Information Technology Task Force">Information Technology Task Force</a></li>
+<li><a href="/wiki/International_Electrotechnical_Vocabulary" title="International Electrotechnical Vocabulary">International Electrotechnical Vocabulary</a></li>
+<li><a href="/wiki/List_of_IEC_standards" title="List of IEC standards">List of IEC standards</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1476
+Cached time: 20230528140200
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.291 seconds
+Real time usage: 0.366 seconds
+Preprocessor visited node count: 2129/1000000
+Post‐expand include size: 40611/2097152 bytes
+Template argument size: 2379/2097152 bytes
+Highest expansion depth: 12/100
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 48310/5000000 bytes
+Lua time usage: 0.179/10.000 seconds
+Lua memory usage: 6447842/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  324.969      1 -total
+ 40.16%  130.498      2 Template:Reflist
+ 29.21%   94.920     11 Template:Cite_web
+ 23.01%   74.764      1 Template:Infobox_organization
+ 21.26%   69.082      1 Template:Infobox
+ 19.56%   63.567      1 Template:ISO/IEC_JTC_1
+ 18.61%   60.470      1 Template:Navbox
+  9.99%   32.473      1 Template:Citation_needed
+  9.16%   29.761      1 Template:Fix
+  6.18%   20.076      2 Template:Category_handler
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:13229421-0!canonical and timestamp 20230528140159 and revision id 1134412860. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=ISO/IEC_JTC_1&amp;oldid=1134412860">https://en.wikipedia.org/w/index.php?title=ISO/IEC_JTC_1&amp;oldid=1134412860</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Category</a>: <ul><li><a href="/wiki/Category:ISO/IEC_technical_committees" title="Category:ISO/IEC technical committees">ISO/IEC technical committees</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_missing_periodical" title="Category:CS1 errors: missing periodical">CS1 errors: missing periodical</a></li><li><a href="/wiki/Category:Use_Oxford_spelling_from_January_2012" title="Category:Use Oxford spelling from January 2012">Use Oxford spelling from January 2012</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2021" title="Category:Articles with unsourced statements from May 2021">Articles with unsourced statements from May 2021</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 18 January 2023, at 15:25<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=ISO/IEC_JTC_1&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class='vector-settings'>
+	
+<button
+	id=""
+	class="mw-ui-button mw-ui-icon-element vector-limited-width-toggle"
+	><span class="mw-ui-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+
+</button>
+
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1405","wgBackendResponseTime":100,"wgPageParseReport":{"limitreport":{"cputime":"0.291","walltime":"0.366","ppvisitednodes":{"value":2129,"limit":1000000},"postexpandincludesize":{"value":40611,"limit":2097152},"templateargumentsize":{"value":2379,"limit":2097152},"expansiondepth":{"value":12,"limit":100},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":48310,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  324.969      1 -total"," 40.16%  130.498      2 Template:Reflist"," 29.21%   94.920     11 Template:Cite_web"," 23.01%   74.764      1 Template:Infobox_organization"," 21.26%   69.082      1 Template:Infobox"," 19.56%   63.567      1 Template:ISO/IEC_JTC_1"," 18.61%   60.470      1 Template:Navbox","  9.99%   32.473      1 Template:Citation_needed","  9.16%   29.761      1 Template:Fix","  6.18%   20.076      2 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.179","limit":"10.000"},"limitreport-memusage":{"value":6447842,"limit":52428800}},"cachereport":{"origin":"mw1476","timestamp":"20230528140200","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"ISO\/IEC JTC 1","url":"https:\/\/en.wikipedia.org\/wiki\/ISO\/IEC_JTC_1","sameAs":"http:\/\/www.wikidata.org\/entity\/Q911765","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q911765","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-09-12T11:15:13Z","dateModified":"2023-01-18T15:25:24Z","headline":"technical committee of the International Organization for Standardization and International Electrotechnical Commission"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"ISO\/IEC JTC 1","url":"https:\/\/en.wikipedia.org\/wiki\/ISO\/IEC_JTC_1","sameAs":"http:\/\/www.wikidata.org\/entity\/Q911765","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q911765","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-09-12T11:15:13Z","dateModified":"2023-01-18T15:25:24Z","headline":"technical committee of the International Organization for Standardization and International Electrotechnical Commission"}</script>
+</body>
+</html>

@@ -1,0 +1,1245 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>SWF - Wikipedia</title>
+<script>document.documentElement.className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled";(function(){var cookie=document.cookie.match(/(?:^|; )enwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"1931b2a2-a4e3-4f49-ad6a-5d60240e1295","wgCSPNonce":false,
+"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"SWF","wgTitle":"SWF","wgCurRevisionId":1146548733,"wgRevisionId":1146548733,"wgArticleId":676915,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","All articles with unsourced statements","Articles with unsourced statements from August 2014","Adobe Flash","Computer file formats","Graphics file formats"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"SWF","wgRelevantArticleId":676915,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":
+true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q594447","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.ui.button":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready",
+"mediawiki.ui.icon":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.ui.button%2Cicon%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.10">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-crossorigin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="SWF - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/SWF">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=SWF&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/SWF">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-SWF rootpage-SWF skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-main-menu-dropdown mw-ui-icon-flush-left mw-ui-icon-flush-right"  >
+	<input type="checkbox"
+		id="vector-main-menu-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-main-menu-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Main menu"
+		
+	/>
+	<label
+		id="vector-main-menu-dropdown-label"
+		for="vector-main-menu-dropdown-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+
+		<span class="vector-menu-heading-label">Main menu</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box-notice vector-language-sidebar-alert mw-message-box">Language links are at the top of the page across from the title.</div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt=""
+		aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia"
+			src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline"
+			alt="The Free Encyclopedia"
+			src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search"
+	
+		id=""
+		class="mw-ui-button mw-ui-quiet mw-ui-icon-element search-toggle"
+		title="Search Wikipedia [f]"accesskey="f"><span class="mw-ui-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-moved">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=SWF" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=SWF" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-user-menu mw-ui-icon-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox"
+		id="vector-user-links-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-user-links-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Personal tools"
+		
+	/>
+	<label
+		id="vector-user-links-dropdown-label"
+		for="vector-user-links-dropdown-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=SWF" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="mw-ui-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=SWF" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="mw-ui-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-History"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#History">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>History</div>
+		</a>
+		
+		<ul id="toc-History-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Description"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Description">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Description</div>
+		</a>
+		
+		<ul id="toc-Description-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Adoption"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Adoption">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Adoption</div>
+		</a>
+		
+		<ul id="toc-Adoption-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Published_specifications"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Published_specifications">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Published specifications</div>
+		</a>
+		
+		<ul id="toc-Published_specifications-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Licensing"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Licensing">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Licensing</div>
+		</a>
+		
+		<ul id="toc-Licensing-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Related_file_formats_and_extensions"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Related_file_formats_and_extensions">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>Related file formats and extensions</div>
+		</a>
+		
+		<ul id="toc-Related_file_formats_and_extensions-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>See also</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="mw-ui-button mw-ui-quiet mw-ui-icon-flush-left mw-ui-icon-element"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="mw-ui-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+				
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-menu vector-dropdown vector-menu-dropdown vector-page-titlebar-toc mw-ui-icon-flush-left"  >
+	<input type="checkbox"
+		id="vector-page-titlebar-toc-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-titlebar-toc"
+		class="vector-menu-checkbox "
+		
+		aria-label="Toggle the table of contents"
+		
+	/>
+	<label
+		id="vector-page-titlebar-toc-label"
+		for="vector-page-titlebar-toc-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+
+		<span class="vector-menu-heading-label">Toggle the table of contents</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">SWF</span></h1>
+				
+							
+<div id="p-lang-btn" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox"
+		id="p-lang-btn-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-lang-btn"
+		class="vector-menu-checkbox mw-interlanguage-selector"
+		aria-label="Go to an article in another language. Available in 19 languages"
+		
+		
+	/>
+	<label
+		id="p-lang-btn-label"
+		for="p-lang-btn-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-progressive mw-portlet-lang-heading-19"
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+
+		<span class="vector-menu-heading-label">19 languages</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A5%D8%B3_%D8%AF%D8%A8%D9%84%D9%8A%D9%88_%D8%A5%D9%81" title="إس دبليو إف – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/SWF" title="SWF – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/SWF" title="SWF – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/SWF" title="SWF – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/SWF" title="SWF – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/SWF" title="SWF – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Small_Web_Format" title="Small Web Format – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/SWF_(%ED%8C%8C%EC%9D%BC_%ED%98%95%EC%8B%9D)" title="SWF (파일 형식) – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Shockwave_Flash" title="Shockwave Flash – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/SWF" title="SWF – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/SWF" title="SWF – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/SWF" title="SWF – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/.swf" title=".swf – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/SWF" title="SWF – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/SWF" title="SWF – Thai" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/SWF" title="SWF – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/SWF" title="SWF – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/SWF" title="SWF – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/Swf" title="Swf – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li></ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q594447#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+				</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/SWF" title="View the content page [c]" accesskey="c" class=""><span>Article</span></a>
+</li>
+<li id="ca-talk" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Talk:SWF" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t" class=""><span>Talk</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+								
+
+<div id="p-variants" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-variants emptyPortlet"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-label="Change language variant"
+		
+		
+	/>
+	<label
+		id="p-variants-label"
+		for="p-variants-checkbox"
+		class="vector-menu-heading "
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+
+	</div>
+</div>
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/SWF" class=""><span>Read</span></a>
+</li>
+<li id="ca-edit" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=SWF&amp;action=edit" title="Edit this page [e]" accesskey="e" class=""><span>Edit</span></a>
+</li>
+<li id="ca-history" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=SWF&amp;action=history" title="Past revisions of this page [h]" accesskey="h" class=""><span>View history</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="More options">
+								
+<div id="vector-page-tools-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox"
+		id="vector-page-tools-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-tools-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Tools"
+		
+	/>
+	<label
+		id="vector-page-tools-dropdown-label"
+		for="vector-page-tools-dropdown-checkbox"
+		class="vector-menu-heading "
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-menu-heading-label">Tools</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/SWF"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=SWF&amp;action=edit"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=SWF&amp;action=history"><span>View history</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/SWF" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/SWF" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=SWF&amp;oldid=1146548733" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=SWF&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=SWF&amp;id=1146548733&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q594447" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=SWF&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=SWF&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="More options">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Adobe flash file format</div>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/SWF_(disambiguation)" class="mw-disambig" title="SWF (disambiguation)">SWF (disambiguation)</a>.</div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">This article is about the Adobe Flash file format sometimes referred to as "Shockwave Flash". For the <a href="/wiki/Web_browser" title="Web browser">browser</a> <a href="/wiki/Plug-in_(computing)" title="Plug-in (computing)">plug-in</a> labeled "Shockwave Flash", see <a href="/wiki/Adobe_Flash_Player" title="Adobe Flash Player">Adobe Flash Player</a>.</div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Not to be confused with <a href="/wiki/Adobe_Shockwave" title="Adobe Shockwave">Adobe Shockwave</a>.</div>
+<style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox"><caption class="infobox-title" style="padding-bottom:0.15em;">Small Web Format (SWF)</caption><tbody><tr><td colspan="2" class="infobox-image"><a href="/wiki/File:Flash_Player_34_SWF_icon.png" class="image"><img alt="Flash Player 34 SWF icon.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Flash_Player_34_SWF_icon.png/64px-Flash_Player_34_SWF_icon.png" decoding="async" width="64" height="64" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Flash_Player_34_SWF_icon.png/96px-Flash_Player_34_SWF_icon.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/Flash_Player_34_SWF_icon.png/128px-Flash_Player_34_SWF_icon.png 2x" data-file-width="256" data-file-height="256" /></a></td></tr><tr><th scope="row" class="infobox-label" style="line-height:1.2em; padding-right:0.65em;"><a href="/wiki/Filename_extension" title="Filename extension">Filename extension</a></th><td class="infobox-data" style="line-height:1.35em;"><style data-mw-deduplicate="TemplateStyles:r886049734">.mw-parser-output .monospaced{font-family:monospace,monospace}</style><div class="monospaced">
+.swf</div></td></tr><tr><th scope="row" class="infobox-label" style="line-height:1.2em; padding-right:0.65em;"><a href="/wiki/Media_type" title="Media type">Internet media&#160;type</a></th><td class="infobox-data" style="line-height:1.35em;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><div class="monospaced">
+application/vnd.adobe.flash.movie,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> application/x-shockwave-flash<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></div></td></tr><tr><th scope="row" class="infobox-label" style="line-height:1.2em; padding-right:0.65em;"><a href="/wiki/File_format#Magic_number" title="File format">Magic number</a></th><td class="infobox-data" style="line-height:1.35em;"><code>CWS</code>,<code>FWS</code><sup id="cite_ref-swfspec10_4-0" class="reference"><a href="#cite_note-swfspec10-4">&#91;4&#93;</a></sup> or <code>ZWS</code><sup id="cite_ref-swfspec19_5-0" class="reference"><a href="#cite_note-swfspec19-5">&#91;5&#93;</a></sup></td></tr><tr><th scope="row" class="infobox-label" style="line-height:1.2em; padding-right:0.65em;">Developed&#160;by</th><td class="infobox-data" style="line-height:1.35em;"><a href="/wiki/FutureWave_Software" title="FutureWave Software">FutureWave Software</a>, <br />later taken over by <a href="/wiki/Macromedia" title="Macromedia">Macromedia</a> and <br /><a href="/wiki/Adobe_Systems" class="mw-redirect" title="Adobe Systems">Adobe Systems</a></td></tr><tr><th scope="row" class="infobox-label" style="line-height:1.2em; padding-right:0.65em;">Type of format</th><td class="infobox-data" style="line-height:1.35em;"><a href="/wiki/Vector_graphics" title="Vector graphics">Vector graphic</a> animation</td></tr><tr><th scope="row" class="infobox-label" style="line-height:1.2em; padding-right:0.65em;"><a href="/wiki/Digital_container_format" class="mw-redirect" title="Digital container format">Container&#160;for</a></th><td class="infobox-data" style="line-height:1.35em;">Adobe Flash (formerly Macromedia Flash and FutureSplash), sometimes labeled <em>Shockwave Flash Object</em>.</td></tr></tbody></table>
+<p><b>SWF</b> (<span class="rt-commentedText nowrap"><span class="IPA nopopups noexcerpt" lang="en-fonipa"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="&#39;s&#39; in &#39;sigh&#39;">s</span><span title="&#39;w&#39; in &#39;wind&#39;">w</span><span title="/ɪ/: &#39;i&#39; in &#39;kit&#39;">ɪ</span><span title="&#39;f&#39; in &#39;find&#39;">f</span></span>/</a></span></span>)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> is an <a href="/wiki/Adobe_Flash" title="Adobe Flash">Adobe Flash</a> <a href="/wiki/File_format" title="File format">file format</a> used for <a href="/wiki/Multimedia" title="Multimedia">multimedia</a>, <a href="/wiki/Vector_graphics" title="Vector graphics">vector graphics</a> and <a href="/wiki/ActionScript" title="ActionScript">ActionScript</a>.<sup id="cite_ref-swfopen_7-0" class="reference"><a href="#cite_note-swfopen-7">&#91;7&#93;</a></sup> Originating with <a href="/wiki/FutureWave_Software" title="FutureWave Software">FutureWave Software</a>, then transferred to <a href="/wiki/Macromedia" title="Macromedia">Macromedia</a>, and then coming under the control of <a href="/wiki/Adobe_Systems" class="mw-redirect" title="Adobe Systems">Adobe</a>, SWF files can contain <a href="/wiki/Animation" title="Animation">animations</a> or <a href="/wiki/Applet" title="Applet">applets</a> of varying degrees of interactivity and function. They may also occur in programs, commonly <a href="/wiki/Browser_game" title="Browser game">browser games</a>, using <a href="/wiki/ActionScript" title="ActionScript">ActionScript</a>.
+</p><p>Programmers can generate SWF files from within several Adobe products, including <a href="/wiki/Adobe_Flash" title="Adobe Flash">Flash</a>, <a href="/wiki/Adobe_Flash_Builder" title="Adobe Flash Builder">Flash Builder</a> (an <a href="/wiki/Integrated_development_environment" title="Integrated development environment">IDE</a>), <a href="/wiki/Adobe_Animate" title="Adobe Animate">Adobe Animate</a> (the replacement for Adobe Flash as of Feb. 2016), and <a href="/wiki/Adobe_After_Effects" title="Adobe After Effects">After Effects</a>, as well as through MXMLC, a command-line application compiler which forms part of the freely-available <a href="/wiki/Adobe_Flex" class="mw-redirect" title="Adobe Flex">Flex SDK</a>. Although Adobe <a href="/wiki/Adobe_Illustrator" title="Adobe Illustrator">Illustrator</a> can generate SWF format files through its "export" function, it cannot open or edit them. Other than using Adobe products, one can build SWFs with <a href="/wiki/Open-source_software" title="Open-source software">open-source</a> <a href="/wiki/MTASC" title="MTASC">Motion-Twin ActionScript 2 Compiler (MTASC)</a>, the open-source <a href="/wiki/Ming_library" title="Ming library">Ming library</a> and the <a href="/wiki/Free-software" class="mw-redirect" title="Free-software">free-software</a> suite <a href="/wiki/SWFTools" title="SWFTools">SWFTools</a>. Various other third-party programs can also produce files in this format, such as <a href="/wiki/Multimedia_Fusion_2" class="mw-redirect" title="Multimedia Fusion 2">Multimedia Fusion 2</a>, <a href="/wiki/Captivate" class="mw-redirect" title="Captivate">Captivate</a> and <a href="/wiki/SWiSH_Max" title="SWiSH Max">SWiSH Max</a>.
+</p><p>The term "SWF" has originated as an abbreviation for <b>ShockWave Flash</b>.<sup id="cite_ref-Schaeffer2007_8-0" class="reference"><a href="#cite_note-Schaeffer2007-8">&#91;8&#93;</a></sup> This usage was changed to the <a href="/wiki/Backronym" title="Backronym">backronym</a> <b>Small Web Format</b> to eliminate confusion with a different technology, <a href="/wiki/Adobe_Shockwave" title="Adobe Shockwave">Shockwave</a>, from which SWF derived.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><sup id="cite_ref-NiederstRobbins2001_10-0" class="reference"><a href="#cite_note-NiederstRobbins2001-10">&#91;10&#93;</a></sup> There is no official resolution to the initialism "SWF" by Adobe.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SWF&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The small company <a href="/wiki/FutureWave_Software" title="FutureWave Software">FutureWave Software</a> originally defined the file format with one primary objective: to create small files for displaying entertaining animations.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+The idea involved a format which player software could run on any system and which would work with slower network connections. FutureWave released <a href="/wiki/FutureSplash_Animator" class="mw-redirect" title="FutureSplash Animator">FutureSplash Animator</a> in May 1996. In December 1996 Macromedia acquired FutureWave and FutureSplash Animator became Macromedia Flash 1.0.
+</p><p>The original naming of SWF came out of Macromedia's desire to capitalize on the well-known <a href="/wiki/Macromedia_Shockwave" class="mw-redirect" title="Macromedia Shockwave">Macromedia Shockwave</a> brand; <a href="/wiki/Macromedia_Director" class="mw-redirect" title="Macromedia Director">Macromedia Director</a> produced Shockwave files for the end user, so the files created by their newer Flash product tried to capitalize on the already established brand. As Flash became more popular than Shockwave itself, this branding decision became more of a liability, so the format started to be referred to as simply SWF.<sup id="cite_ref-Schaeffer2007_8-1" class="reference"><a href="#cite_note-Schaeffer2007-8">&#91;8&#93;</a></sup>
+</p><p>Adobe acquired Macromedia in 2005.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p><p>On May 1, 2008, Adobe dropped its licensing restrictions on the SWF format specifications, as part of the <a href="/wiki/Open_Screen_Project" class="mw-redirect" title="Open Screen Project">Open Screen Project</a>. However, <a href="/wiki/Rob_Savoye" title="Rob Savoye">Rob Savoye</a>, a member of the <a href="/wiki/Gnash_(software)" title="Gnash (software)">Gnash</a> development team, has pointed to some parts of the Flash format which remain closed.<sup id="cite_ref-stillpartlyclosed_14-0" class="reference"><a href="#cite_note-stillpartlyclosed-14">&#91;14&#93;</a></sup> On July 1, 2008, Adobe released code to Google and Yahoo, which allowed their search engines to crawl and index SWF files.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SWF&amp;action=edit&amp;section=2" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The main graphical primitive in SWF is the path, which is a chain of segments of primitive types, ranging from lines to <a href="/wiki/Spline_(mathematics)" title="Spline (mathematics)">splines</a> or <a href="/wiki/Bezier_curve" class="mw-redirect" title="Bezier curve">bezier curves</a>. Additional primitives like rectangles, ellipses, and even text can be built from these. The graphical elements in SWF are thus fairly similar to <a href="/wiki/Scalable_Vector_Graphics" class="mw-redirect" title="Scalable Vector Graphics">SVG</a> and <a href="/wiki/MPEG-4_BIFS" class="mw-redirect" title="MPEG-4 BIFS">MPEG-4 BIFS</a>. SWF also uses <a href="/wiki/Display_list" title="Display list">display lists</a> and allows naming and reusing previously defined components.<sup id="cite_ref-compar_16-0" class="reference"><a href="#cite_note-compar-16">&#91;16&#93;</a></sup>
+</p><p>The binary stream format SWF uses is fairly similar to <a href="/wiki/QuickTime" title="QuickTime">QuickTime</a> atoms, with a tag, length and payload&#160;&#8211;&#32; an organization that makes it very easy for (older) players to skip contents they don't support.<sup id="cite_ref-compar_16-1" class="reference"><a href="#cite_note-compar-16">&#91;16&#93;</a></sup>
+</p><p>Originally limited to presenting vector-based objects and images in a simple sequential manner, the format in its later versions allows audio (since Flash 3) and video (since Flash 6).
+</p><p>Adobe introduced a new, low-level 3D API in version 11 of the Flash Player. Initially codenamed Molehill, the official name given to this API was ultimately <a href="/wiki/Stage3D" title="Stage3D">Stage3D</a>. It was intended to be an equivalent of <a href="/wiki/OpenGL" title="OpenGL">OpenGL</a> or <a href="/wiki/Direct3D" title="Direct3D">Direct3D</a>.<sup id="cite_ref-Kaitila2011_17-0" class="reference"><a href="#cite_note-Kaitila2011-17">&#91;17&#93;</a></sup><sup class="reference nowrap"><span title="Page / location: 9">&#58;&#8202;9&#8202;</span></sup> In Stage3D <a href="/wiki/Shader" title="Shader">shaders</a> are expressed in a low-level language called <a href="/wiki/Stage3D#Features" title="Stage3D">Adobe Graphics Assembly Language</a> (AGAL).<sup id="cite_ref-Kaitila2011_17-1" class="reference"><a href="#cite_note-Kaitila2011-17">&#91;17&#93;</a></sup><sup class="reference nowrap"><span title="Page / location: 57">&#58;&#8202;57&#8202;</span></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Adoption">Adoption</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SWF&amp;action=edit&amp;section=3" title="Edit section: Adoption">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Adobe_Flash#Players" title="Adobe Flash">Adobe Flash §&#160;Players</a>, and <a href="/wiki/Adobe_Flash#Animation_Tools" title="Adobe Flash">Adobe Flash §&#160;Animation Tools</a></div>
+<p>Adobe makes available <a href="/wiki/Plug-in_(computing)" title="Plug-in (computing)">plugins</a>, such as <a href="/wiki/Adobe_Flash_Player" title="Adobe Flash Player">Adobe Flash Player</a> and <a href="/wiki/Adobe_Integrated_Runtime" class="mw-redirect" title="Adobe Integrated Runtime">Adobe Integrated Runtime</a>, to play SWF files in <a href="/wiki/Web_browser" title="Web browser">web browsers</a> on many desktop operating systems, including <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Microsoft Windows</a>, <a href="/wiki/Mac_OS_X" class="mw-redirect" title="Mac OS X">Mac OS X</a>, and <a href="/wiki/Linux" title="Linux">Linux</a> on the <a href="/wiki/X86_architecture" class="mw-redirect" title="X86 architecture">x86 architecture</a> and <a href="/wiki/ARM_architecture" class="mw-redirect" title="ARM architecture">ARM architecture</a> (<a href="/wiki/ChromeOS" title="ChromeOS">ChromeOS</a> only).
+</p><p><a href="/wiki/GNU" title="GNU">GNU</a> has started developing a <a href="/wiki/Free_software" title="Free software">free software</a> SWF player called <a href="/wiki/Gnash_(software)" title="Gnash (software)">Gnash</a> under the <a href="/wiki/GNU_General_Public_License" title="GNU General Public License">GNU General Public License</a> (GPL). Despite being a declared high-priority GNU project, funding for Gnash was fairly limited.<sup id="cite_ref-lwn_19-0" class="reference"><a href="#cite_note-lwn-19">&#91;19&#93;</a></sup> Another player is the <a href="/wiki/GNU_LGPL" class="mw-redirect" title="GNU LGPL">LGPL</a>-licensed <a href="/wiki/Swfdec" title="Swfdec">Swfdec</a>. <a href="/wiki/Lightspark" title="Lightspark">Lightspark</a> is a continuation of Gnash supporting more recent SWF versions.<sup id="cite_ref-lwn_19-1" class="reference"><a href="#cite_note-lwn-19">&#91;19&#93;</a></sup>
+</p><p>Adobe has incorporated SWF playback and authoring in other product and technologies of theirs, including in <a href="/wiki/Adobe_Shockwave" title="Adobe Shockwave">Adobe Shockwave</a>, which renders more complex documents.<sup id="cite_ref-compar_16-2" class="reference"><a href="#cite_note-compar-16">&#91;16&#93;</a></sup> SWF can also be embedded in <a href="/wiki/PDF" title="PDF">PDF</a> files; these are viewable with <a href="/wiki/Adobe_Reader" class="mw-redirect" title="Adobe Reader">Adobe Reader</a> 9 or later.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> <a href="/wiki/InDesign" class="mw-redirect" title="InDesign">InDesign</a> CS6 can also produce some limited forms of SWF animations directly.<sup id="cite_ref-SmithTeam2012_21-0" class="reference"><a href="#cite_note-SmithTeam2012-21">&#91;21&#93;</a></sup>
+</p><p>Sony <a href="/wiki/PlayStation_Portable" title="PlayStation Portable">PlayStation Portable</a> consoles can play limited SWF files in Sony's web browser, beginning with firmware version 2.71. Both the <a href="/wiki/Nintendo" title="Nintendo">Nintendo</a> <a href="/wiki/Wii" title="Wii">Wii</a><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup> and the <a href="/wiki/Sony" title="Sony">Sony</a> <a href="/wiki/PlayStation_3" title="PlayStation 3">PS3</a><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup> consoles can run SWF files through their Internet browsers.
+</p><p><a href="/wiki/Scaleform" class="mw-redirect" title="Scaleform">Scaleform</a> GFx is a commercial alternative SWF player that features full <a href="/wiki/Hardware_acceleration" title="Hardware acceleration">hardware acceleration</a> using the <a href="/wiki/Graphics_processing_unit" title="Graphics processing unit">GPU</a> and has high conformance up to Flash 8 and AS2. Scaleform GFx is licensed as a <a href="/wiki/Game_middleware" class="mw-redirect" title="Game middleware">game middleware</a> solution and used by many PC and console 3D games for user interfaces, <a href="/wiki/HUD_(video_gaming)" title="HUD (video gaming)">HUDs</a>, <a href="/wiki/Minigame" title="Minigame">mini games</a>, and video playback.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2014)">citation needed</span></a></i>&#93;</sup>
+</p><p>The newer 3D features of SWF have been seen as an alternative to <a href="/wiki/WebGL" title="WebGL">WebGL</a>, with a spurt of 3D engines like <a href="/wiki/Papervision3D" title="Papervision3D">Papervision3D</a>,<sup id="cite_ref-KerrKeats2009_24-0" class="reference"><a href="#cite_note-KerrKeats2009-24">&#91;24&#93;</a></sup><sup id="cite_ref-Lively2010_25-0" class="reference"><a href="#cite_note-Lively2010-25">&#91;25&#93;</a></sup><sup id="cite_ref-TondeurWinder2009_26-0" class="reference"><a href="#cite_note-TondeurWinder2009-26">&#91;26&#93;</a></sup> <a href="/wiki/Away3D" title="Away3D">Away3D</a>,<sup id="cite_ref-KerrKeats2009_24-1" class="reference"><a href="#cite_note-KerrKeats2009-24">&#91;24&#93;</a></sup><sup id="cite_ref-Casperson2011_27-0" class="reference"><a href="#cite_note-Casperson2011-27">&#91;27&#93;</a></sup><sup id="cite_ref-Ivanov2011_28-0" class="reference"><a href="#cite_note-Ivanov2011-28">&#91;28&#93;</a></sup> Sandy 3D,<sup id="cite_ref-KerrKeats2009_24-2" class="reference"><a href="#cite_note-KerrKeats2009-24">&#91;24&#93;</a></sup><sup id="cite_ref-McCuneSubramaniam2009_29-0" class="reference"><a href="#cite_note-McCuneSubramaniam2009-29">&#91;29&#93;</a></sup> and Alternativa 3D targeting 3D SWF.<sup id="cite_ref-Lengyel2011_30-0" class="reference"><a href="#cite_note-Lengyel2011-30">&#91;30&#93;</a></sup> Although some of these projects started around 2005, until Flash Player 10 however they had no support of <a href="/wiki/GPU" class="mw-redirect" title="GPU">GPU</a> acceleration, and even in that version of the Flash Player, shaders could be used for same materials, but vertex information still had to be processed on the CPU (using <a href="/wiki/BSP_tree" class="mw-redirect" title="BSP tree">BSP trees</a> etc.)<sup id="cite_ref-Lengyel2011_30-1" class="reference"><a href="#cite_note-Lengyel2011-30">&#91;30&#93;</a></sup> After version 11 of the Flash Player added the new Stage3D low-level API, some but not all of these projects migrated to the new API. One that did migrate was Away3D, version 4.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup>
+</p><p>Based on an independent study conducted by Millward Brown and published by Adobe, in 2010, over 99% of desktop web browsers in the "mature markets" (defined as United States, Canada, United Kingdom, France, Germany, Japan, Australia, and New Zealand) had a SWF plugin installed, with around 90% having the latest version of the Flash Player.<sup id="cite_ref-Adobe_32-0" class="reference"><a href="#cite_note-Adobe-32">&#91;32&#93;</a></sup>
+</p><p>Due to the increasing popularity of HTML5 for games and animations, as well as the numerous security holes that had plagued Adobe's SWF player, Adobe declared its Flash player <a href="/wiki/End-of-life_product" title="End-of-life product">EOL</a> on December 31, 2020. On January 12, 2021, it pushed an update to its Flash player that blocked all Flash content from running.
+</p>
+<h2><span class="mw-headline" id="Published_specifications">Published specifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SWF&amp;action=edit&amp;section=4" title="Edit section: Published specifications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Adobe makes available a partial specification of SWF,<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup> most recently updated in January 2013 to reflect changes in SWF version 19.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup> SWF versions have been decoupled from Flash player versions after Flash 10. Afterwards the version number of the SWF progressed rapidly; SWF version 19 corresponds to the new features added in Flash Player 11.6.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup> Flash Player 14 uses SWF version 25.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup>
+</p><p>In 2008, the specifications document was criticized by <a href="/wiki/Rob_Savoye" title="Rob Savoye">Rob Savoye</a>, the lead developer of the <a href="/wiki/Gnash_(software)" title="Gnash (software)">Gnash</a> project, as missing "huge amounts" of information needed to completely implement SWF, omitting specifications for <a href="/wiki/Real_Time_Messaging_Protocol" class="mw-redirect" title="Real Time Messaging Protocol">RTMP</a> and <a href="/wiki/Sorenson_codec" class="mw-redirect" title="Sorenson codec">Sorenson Spark</a>.<sup id="cite_ref-stillpartlyclosed_14-1" class="reference"><a href="#cite_note-stillpartlyclosed-14">&#91;14&#93;</a></sup> The <a href="/wiki/Real_Time_Messaging_Protocol" class="mw-redirect" title="Real Time Messaging Protocol">RTMP</a> specification<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup> was released publicly in June 2009.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2014)">citation needed</span></a></i>&#93;</sup> The Sorenson Spark codec is not Adobe's property.
+</p>
+<h2><span class="mw-headline" id="Licensing">Licensing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SWF&amp;action=edit&amp;section=5" title="Edit section: Licensing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Until May 1, 2008, implementing software that plays SWF was disallowed by the specification's license.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup> On that date, as part of its Open Screen Project, Adobe dropped all such restrictions on the SWF and <a href="/wiki/Flash_Video" title="Flash Video">FLV</a> formats.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup>
+</p><p>Implementing software which creates SWF files has always been permitted, on the condition that the resulting files <a href="/wiki/Rendering_(computer_graphics)" title="Rendering (computer graphics)">render</a> "error free in the latest publicly available version of Adobe Flash Player."<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;40&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Related_file_formats_and_extensions">Related file formats and extensions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SWF&amp;action=edit&amp;section=6" title="Edit section: Related file formats and extensions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Other formats related to SWF authoring in the Adobe tool chain remain without a public specification. One example is FLA, which is the editable version of SWF used by Adobe's Flash, but not by other Adobe tools that can also output SWF, albeit with fewer features.<sup id="cite_ref-HarringtonGeduld2009_41-0" class="reference"><a href="#cite_note-HarringtonGeduld2009-41">&#91;41&#93;</a></sup>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Extension
+</th>
+<th>Explanation
+</th></tr>
+<tr>
+<th><b>.<a href="/wiki/ActionScript" title="ActionScript">abc</a></b>
+</th>
+<td>Actionscript bytecode used by the Actionscript Virtual Machine AVM (Flash 8 and prior), and AVM2 (Flash 9 or later).
+</td></tr>
+<tr>
+<th><b>.<a href="/wiki/Action_Message_Format" title="Action Message Format">amf</a></b>
+</th>
+<td>Action Message commands for transacting with a <a href="/wiki/Flash_Media_Server" class="mw-redirect" title="Flash Media Server">FMS</a>.
+</td></tr>
+<tr>
+<th><b>.<a href="/wiki/ActionScript" title="ActionScript">as</a></b>
+</th>
+<td>ActionScript <a href="/wiki/Source_code" title="Source code">source code</a> in simple source files. FLA files can also contain Actionscript code directly, but separate external .as files often emerge for structural reasons, or to expose the code to versioning applications.
+</td></tr>
+<tr>
+<th><b>.asc</b>
+</th>
+<td>Server-Side ActionScript, which is used to develop efficient and flexible client-server Macromedia Flash Communication Server MX applications.
+</td></tr>
+<tr>
+<th><b>.aso</b>
+</th>
+<td>Cache files used during Flash development, containing compiled ActionScript byte code. An ASO file is recreated when a change in its corresponding class files is detected. Occasionally the Flash IDE does not recognize that a recompile is necessary, and these cache files must be deleted manually. They are located in %USERPROFILE%\Local Settings\Application Data\Macromedia\Flash8\en\Configuration\Classes\aso on Win32 / Flash8.
+</td></tr>
+<tr>
+<th><b>.f4a</b>
+</th>
+<td>Adobe suffix for iTunes M4A files that contain only audio streams.<sup id="cite_ref-newformats_42-0" class="reference"><a href="#cite_note-newformats-42">&#91;42&#93;</a></sup>
+</td></tr>
+<tr>
+<th><b>.f4b</b>
+</th>
+<td>Adobe suffix for iTunes M4B <a href="/wiki/Audiobook" title="Audiobook">audiobook</a> files.<sup id="cite_ref-newformats_42-1" class="reference"><a href="#cite_note-newformats-42">&#91;42&#93;</a></sup>
+</td></tr>
+<tr>
+<th><b>.f4f</b>
+</th>
+<td>MP4 atom-ized fragmented files. Containing <a href="/wiki/Flash_Video#Packets" title="Flash Video">FLV packets</a>.
+</td></tr>
+<tr>
+<th><b>.f4m</b>
+</th>
+<td>XML manifest files. Containing <a href="/wiki/Base64" title="Base64">base64</a> FLV onMetaData headers for an Adobe version of bit rate control <a href="/wiki/HTTP_Live_Streaming" title="HTTP Live Streaming">HTTP Live Streaming</a>.
+</td></tr>
+<tr>
+<th><b>.f4p</b>
+</th>
+<td>Adobe suffix for media encrypted with the Adobe Access <a href="/wiki/Digital_rights_management" title="Digital rights management">digital rights management</a> scheme which is based on the same protection scheme that their RTMP protocol uses.<sup id="cite_ref-newformats_42-2" class="reference"><a href="#cite_note-newformats-42">&#91;42&#93;</a></sup>
+</td></tr>
+<tr>
+<th><b>.f4v</b>
+</th>
+<td>Similar to iTunes M4V files which are based on <a href="/wiki/MP4" class="mw-redirect" title="MP4">MP4</a> and can be played back by Flash Player 9 Update 3 and above. F4V file format is second container format for Flash video and it differs from FLV file format. It is based on the <a href="/wiki/ISO_base_media_file_format" title="ISO base media file format">ISO base media file format</a>.<sup id="cite_ref-FLV-F4V_43-0" class="reference"><a href="#cite_note-FLV-F4V-43">&#91;43&#93;</a></sup><sup id="cite_ref-newformats_42-3" class="reference"><a href="#cite_note-newformats-42">&#91;42&#93;</a></sup>
+</td></tr>
+<tr>
+<th><b>.<a href="/wiki/Adobe_Flash#FLA" title="Adobe Flash">fla</a></b>
+</th>
+<td>Source material for the Flash application. Flash authoring software can edit FLA files and compile them into .swf files. The Flash source file format is currently a binary file format based on the <a href="/wiki/Compound_File_Binary_Format" title="Compound File Binary Format">Microsoft Compound File Format</a>. In Flash Pro CS5, the fla file format is a zip container of an XML-based project structure.
+</td></tr>
+<tr>
+<th><b>.flp</b>
+</th>
+<td>XML files used to reference all the document files contained in a Flash Project. Flash Projects allow the user to group multiple, related files together to assist in Flash project organization, compilation and build.
+</td></tr>
+<tr>
+<th><b>.<a href="/wiki/Flash_Video" title="Flash Video">flv</a></b>
+</th>
+<td><a href="/wiki/Flash_video" class="mw-redirect" title="Flash video">Flash video</a> files, as created by Adobe Flash, <a href="/wiki/FFmpeg" title="FFmpeg">ffmpeg</a>, <a href="/wiki/Sorenson_Squeeze" title="Sorenson Squeeze">Sorenson Squeeze</a>, or <a href="/wiki/On2_Flix" title="On2 Flix">On2 Flix</a>. The audio and video data within FLV files are encoded in the same way as they are within SWF files.
+</td></tr>
+<tr>
+<th>.<b><a href="/wiki/FXG" title="FXG">fxg</a></b>
+</th>
+<td>Unified xml file format being developed by <a href="/wiki/Adobe_Systems_Incorporated" class="mw-redirect" title="Adobe Systems Incorporated">Adobe</a> for <a href="/wiki/Adobe_Flex" class="mw-redirect" title="Adobe Flex">Flex</a>, Flash, <a href="/wiki/Adobe_Photoshop" title="Adobe Photoshop">Photoshop</a> and other applications.
+</td></tr>
+<tr>
+<th><b>.jsfl</b>
+</th>
+<td>Adds functionality in the Flash Authoring environment; they contain JavaScript code and access the Flash JavaScript API.
+</td></tr>
+<tr>
+<th><b><a href="/wiki/MXML" title="MXML">.mxml</a></b>
+</th>
+<td>Used in conjunction with ActionScript files (and .css files), and offer a markup-language-style syntax (like HTML) for designing the GUI in Flex. Each MXML file creates a new class that extends the class of the root tag, and adds the nested tags as children (if they are descendants of UIComponent) or members of the class.
+</td></tr>
+<tr>
+<th><b>.sol</b>
+</th>
+<td><a href="/wiki/Adobe_Flash_Player" title="Adobe Flash Player">Adobe Flash Player</a> container to hold <a href="/wiki/Local_Shared_Object" class="mw-redirect" title="Local Shared Object">Local Shared Objects</a> (data stored on the system running the Flash player).
+</td></tr>
+<tr>
+<th><b>.spl</b>
+</th>
+<td><a href="/wiki/FutureSplash_Animator" class="mw-redirect" title="FutureSplash Animator">FutureSplash Animator</a> documents.
+</td></tr>
+<tr>
+<th><b>.<a href="/wiki/Adobe_SWC_file" title="Adobe SWC file">swc</a></b>
+</th>
+<td>Container for distributing components; they contain a compiled clip, the component's ActionScript class file, and other files that describe the component.
+</td></tr>
+<tr>
+<th><b>.swd</b>
+</th>
+<td>Temporary debugging files used during Flash development. Once finished developing a Flash project these files are not needed and can be removed.
+</td></tr>
+<tr>
+<th><b>.swf</b>
+</th>
+<td>Completed, compiled and published files that cannot be edited with Adobe Flash. However, several non-Adobe '.swf <a href="/wiki/Decompiler" title="Decompiler">decompilers</a>' exist (like that of Sothink) to convert SWF back to the FLA format,<sup id="cite_ref-decomp_44-0" class="reference"><a href="#cite_note-decomp-44">&#91;44&#93;</a></sup> or to the more recent <a href="/wiki/Apache_Flex" title="Apache Flex">Apache Flex</a> format.<sup id="cite_ref-TiwariElrom2010_45-0" class="reference"><a href="#cite_note-TiwariElrom2010-45">&#91;45&#93;</a></sup> Attempting to import .swf files using Flash allows it to retrieve some assets from the .swf, but not all.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">&#91;46&#93;</a></sup>
+</td></tr>
+<tr>
+<th><b>.swt</b>
+</th>
+<td>'Templatized' forms of .swf files, used by Macromedia Generator. It is also <a href="/wiki/Adobe_Dreamweaver" title="Adobe Dreamweaver">Adobe Dreamweaver</a>'s Flash template file extension.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">&#91;47&#93;</a></sup>
+</td></tr>
+<tr>
+<th><b>.xfl</b>
+</th>
+<td>XML-based project files that are equivalent to the binary .fla format. Flash authoring software uses XFL as an exchange format in Flash CS4. It imports XFL files that are exported from InDesign and AfterEffects. In Flash Pro CS5, the xfl file is a key file which opens the "uncompressed FLA" file, which is a hierarchy of folders containing XML and binary files.
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SWF&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dt>Adobe Flash</dt></dl>
+<ul><li><a href="/wiki/ActionScript" title="ActionScript">ActionScript</a></li>
+<li><a href="/wiki/ActionScript_code_protection" class="mw-redirect" title="ActionScript code protection">ActionScript code protection</a></li>
+<li><a href="/wiki/Adobe_Flash_Player" title="Adobe Flash Player">Adobe Flash Player</a>, the runtime that executes and plays back Flash movies</li>
+<li><a href="/wiki/Adobe_Flash_Lite" title="Adobe Flash Lite">Adobe Flash Lite</a>, a lightweight version of Flash Player for devices that lack the resources to run regular Flash movies</li>
+<li><a href="/wiki/Flash_Video" title="Flash Video">Flash Video</a></li>
+<li><a href="/wiki/Ming_library" title="Ming library">Ming library</a></li>
+<li><a href="/wiki/Saffron_Type_System" title="Saffron Type System">Saffron Type System</a>, the <a href="/wiki/Spatial_anti-aliasing" title="Spatial anti-aliasing">anti-aliased</a> text-rendering engine used in version 8 onwards</li>
+<li><a href="/wiki/Local_Shared_Object" class="mw-redirect" title="Local Shared Object">Local Shared Object</a></li>
+<li><a href="/wiki/SWFObject" title="SWFObject">SWFObject</a>, a JavaScript library used to embed Flash content into webpages.</li></ul>
+<dl><dt>Other</dt></dl>
+<ul><li><a href="/wiki/OpenLaszlo" title="OpenLaszlo">OpenLaszlo</a></li>
+<li><a href="/wiki/Personal_video_recorder" class="mw-redirect" title="Personal video recorder">Personal video recorders</a>&#160;&#8211;&#32; some possibly record and play swf files</li>
+<li><a href="/wiki/Adobe_Animate" title="Adobe Animate">FutureSplash Animator</a></li>
+<li><a href="/wiki/SWFTools" title="SWFTools">SWFTools</a></li>
+<li><a href="/wiki/SWiSH_Max" title="SWiSH Max">SWiSH Max</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SWF&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist reflist-columns references-column-width reflist-columns-2">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.iana.org/assignments/media-types/application/vnd.adobe.flash.movie">"IANA Media Type registration"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=IANA+Media+Type+registration&amp;rft_id=https%3A%2F%2Fwww.iana.org%2Fassignments%2Fmedia-types%2Fapplication%2Fvnd.adobe.flash.movie&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://svn.apache.org/viewvc/httpd/httpd/branches/2.4.x/docs/conf/mime.types?view=markup#l1310">"&#91;Apache-SVN&#93; Contents of /httpd/httpd/branches/2.4.x/docs/conf/mime.types"</a>. <i>svn.apache.org</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=svn.apache.org&amp;rft.atitle=%5BApache-SVN%5D+Contents+of+%2Fhttpd%2Fhttpd%2Fbranches%2F2.4.x%2Fdocs%2Fconf%2Fmime.types&amp;rft_id=https%3A%2F%2Fsvn.apache.org%2Fviewvc%2Fhttpd%2Fhttpd%2Fbranches%2F2.4.x%2Fdocs%2Fconf%2Fmime.types%3Fview%3Dmarkup%23l1310&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://hg.nginx.org/nginx/file/2d3ed138ce65/conf/mime.types#l66">"nginx's media type file"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=nginx%27s+media+type+file&amp;rft_id=https%3A%2F%2Fhg.nginx.org%2Fnginx%2Ffile%2F2d3ed138ce65%2Fconf%2Fmime.types%23l66&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-swfspec10-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-swfspec10_4-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120131083755/http://www.adobe.com/content/dam/Adobe/en/devnet/swf/pdf/swf_file_format_spec_v10.pdf">"SWF File Format Specification Version 10"</a> <span class="cs1-format">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="https://www.adobe.com/content/dam/Adobe/en/devnet/swf/pdf/swf_file_format_spec_v10.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2012-01-31<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=SWF+File+Format+Specification+Version+10&amp;rft_id=https%3A%2F%2Fwww.adobe.com%2Fcontent%2Fdam%2FAdobe%2Fen%2Fdevnet%2Fswf%2Fpdf%2Fswf_file_format_spec_v10.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-swfspec19-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-swfspec19_5-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130202203813/http://wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/devnet/swf/pdf/swf-file-format-spec.pdf">"SWF File Format Specification Version 19"</a> <span class="cs1-format">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/devnet/swf/pdf/swf-file-format-spec.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2013-02-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-02-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=SWF+File+Format+Specification+Version+19&amp;rft_id=http%3A%2F%2Fwwwimages.adobe.com%2Fwww.adobe.com%2Fcontent%2Fdam%2FAdobe%2Fen%2Fdevnet%2Fswf%2Fpdf%2Fswf-file-format-spec.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20101121232809/https://www.adobe.com/content/dam/Adobe/en/devnet/flash/articles/flash_player_admin_guide/flash_player_admin_guide.pdf">"Adobe Flash Player Administration Guide for Flash Player 10.1"</a> <span class="cs1-format">(PDF)</span>. <i>Adobe.com</i>. Adobe Systems. 2010-06-10. p.&#160;1. Archived from <a rel="nofollow" class="external text" href="https://www.adobe.com/content/dam/Adobe/en/devnet/flash/articles/flash_player_admin_guide/flash_player_admin_guide.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2010-11-21<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-03-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Adobe.com&amp;rft.atitle=Adobe+Flash+Player+Administration+Guide+for+Flash+Player+10.1&amp;rft.pages=1&amp;rft.date=2010-06-10&amp;rft_id=https%3A%2F%2Fwww.adobe.com%2Fcontent%2Fdam%2FAdobe%2Fen%2Fdevnet%2Fflash%2Farticles%2Fflash_player_admin_guide%2Fflash_player_admin_guide.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-swfopen-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-swfopen_7-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140818173308/http://www.adobe.com/openscreenproject/">"Open Screen Project"</a>. Archived from <a rel="nofollow" class="external text" href="https://www.adobe.com/openscreenproject">the original</a> on August 18, 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Open+Screen+Project&amp;rft_id=https%3A%2F%2Fwww.adobe.com%2Fopenscreenproject&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Schaeffer2007-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Schaeffer2007_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Schaeffer2007_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMark_Schaeffer2007" class="citation book cs1">Mark Schaeffer (2007). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=ZshrkM5INSkC&amp;pg=PT30"><i>Adobe Flash CS3 Professional How-Tos: 100 Essential Techniques</i></a>. Adobe Press. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-13-270129-7" title="Special:BookSources/978-0-13-270129-7"><bdi>978-0-13-270129-7</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Adobe+Flash+CS3+Professional+How-Tos%3A+100+Essential+Techniques&amp;rft.pub=Adobe+Press&amp;rft.date=2007&amp;rft.isbn=978-0-13-270129-7&amp;rft.au=Mark+Schaeffer&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DZshrkM5INSkC%26pg%3DPT30&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.pcmag.com/encyclopedia/term/55333/swf">"SWF Definition from PC Magazine Encyclopedia"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-11-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=SWF+Definition+from+PC+Magazine+Encyclopedia&amp;rft_id=https%3A%2F%2Fwww.pcmag.com%2Fencyclopedia%2Fterm%2F55333%2Fswf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-NiederstRobbins2001-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-NiederstRobbins2001_10-0">^</a></b></span> <span class="reference-text">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFJennifer_Niederst2001" class="citation book cs1">Jennifer Niederst (2001). <span class="cs1-lock-registration" title="Free registration required"><a rel="nofollow" class="external text" href="https://archive.org/details/webdesigninnutsh00nied_0"><i>Web Design in a Nutshell: A Desktop Quick Reference</i></a></span> (2nd&#160;ed.). O'Reilly Media, Inc. p.&#160;<a rel="nofollow" class="external text" href="https://archive.org/details/webdesigninnutsh00nied_0/page/438">438</a>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-596-00196-4" title="Special:BookSources/978-0-596-00196-4"><bdi>978-0-596-00196-4</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Web+Design+in+a+Nutshell%3A+A+Desktop+Quick+Reference&amp;rft.pages=438&amp;rft.edition=2nd&amp;rft.pub=O%27Reilly+Media%2C+Inc.&amp;rft.date=2001&amp;rft.isbn=978-0-596-00196-4&amp;rft.au=Jennifer+Niederst&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fwebdesigninnutsh00nied_0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160919212342/http://blogs.adobe.com/jd1/archives/2007/07/swf-stands-for.html">"<span class="cs1-kern-left"></span>"SWF" stands for...?"</a>. Archived from <a rel="nofollow" class="external text" href="http://blogs.adobe.com/jd1/archives/2007/07/swf-stands-for.html">the original</a> on 2016-09-19<span class="reference-accessdate">. Retrieved <span class="nowrap">2021-02-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%22SWF%22+stands+for...%3F&amp;rft_id=http%3A%2F%2Fblogs.adobe.com%2Fjd1%2Farchives%2F2007%2F07%2Fswf-stands-for.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080125045402/http://www.adobe.com/macromedia/events/john_gay/page04.html">"The History of Flash: The Dawn of Web Animation"</a>. Adobe Systems. Archived from <a rel="nofollow" class="external text" href="https://www.adobe.com/macromedia/events/john_gay/page04.html">the original</a> on 2008-01-25<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-01-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+History+of+Flash%3A+The+Dawn+of+Web+Animation&amp;rft.pub=Adobe+Systems&amp;rft_id=https%3A%2F%2Fwww.adobe.com%2Fmacromedia%2Fevents%2Fjohn_gay%2Fpage04.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.adobe.com/ca/about-adobe/fast-facts.html">"Adobe Fast Facts | Adobe"</a>. <i>www.adobe.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-10-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.adobe.com&amp;rft.atitle=Adobe+Fast+Facts+%7C+Adobe&amp;rft_id=https%3A%2F%2Fwww.adobe.com%2Fca%2Fabout-adobe%2Ffast-facts.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-stillpartlyclosed-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-stillpartlyclosed_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-stillpartlyclosed_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080928202954/http://www.openmedianow.org/?q=node%2F21">"Free Flash community reacts to Adobe Open Screen Project"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.openmedianow.org/?q=node/21">the original</a> on 2008-09-28<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Free+Flash+community+reacts+to+Adobe+Open+Screen+Project&amp;rft_id=http%3A%2F%2Fwww.openmedianow.org%2F%3Fq%3Dnode%2F21&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.streamingmedia.com/article.asp?id=10523">"Streamingmedia.com: Google and Yahoo Roll out Flash Search"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Streamingmedia.com%3A+Google+and+Yahoo+Roll+out+Flash+Search&amp;rft_id=http%3A%2F%2Fwww.streamingmedia.com%2Farticle.asp%3Fid%3D10523&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-compar-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-compar_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-compar_16-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-compar_16-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">C. Concolato and J. C. Dufourd. "<a rel="nofollow" class="external text" href="http://perso.telecom-paristech.fr/~concolat/Papers/2002%20-%20WEMP%20-%20Comparison%20BIFS%20and%20others.pdf">Comparison of MPEG-4 BIFS and some other multimedia description languages</a>". Workshop and Exhibition on MPEG-4, WEPM. 2002.</span>
+</li>
+<li id="cite_note-Kaitila2011-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-Kaitila2011_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Kaitila2011_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFChrister_Kaitila2011" class="citation book cs1">Christer Kaitila (2011). <i>Adobe Flash 11 Stage3D (Molehill) Game Programming Beginner's Guide</i>. Packt Publishing Ltd. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-84969-169-7" title="Special:BookSources/978-1-84969-169-7"><bdi>978-1-84969-169-7</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Adobe+Flash+11+Stage3D+%28Molehill%29+Game+Programming+Beginner%27s+Guide&amp;rft.pub=Packt+Publishing+Ltd&amp;rft.date=2011&amp;rft.isbn=978-1-84969-169-7&amp;rft.au=Christer+Kaitila&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.adobe.com/devnet/flashplayer/articles/what-is-agal.html">"What is AGAL - Adobe Developer Connection"</a>. <i>www.adobe.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.adobe.com&amp;rft.atitle=What+is+AGAL+-+Adobe+Developer+Connection&amp;rft_id=https%3A%2F%2Fwww.adobe.com%2Fdevnet%2Fflashplayer%2Farticles%2Fwhat-is-agal.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-lwn-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-lwn_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-lwn_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFWillis" class="citation web cs1">Willis, Nathan. <a rel="nofollow" class="external text" href="https://lwn.net/Articles/525719/">"Gnash, Lightspark, and Shumway"</a>. <i>LWN.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">13 June</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=LWN.net&amp;rft.atitle=Gnash%2C+Lightspark%2C+and+Shumway&amp;rft.aulast=Willis&amp;rft.aufirst=Nathan&amp;rft_id=https%3A%2F%2Flwn.net%2FArticles%2F525719%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://blogs.adobe.com/pdfdevjunkie/the_flash_designers_guide_to_a">"WordPress&#160;› Error"</a>. <i>blogs.adobe.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=blogs.adobe.com&amp;rft.atitle=WordPress+%E2%80%BA+Error&amp;rft_id=http%3A%2F%2Fblogs.adobe.com%2Fpdfdevjunkie%2Fthe_flash_designers_guide_to_a&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-SmithTeam2012-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-SmithTeam2012_21-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFChristopher_SmithAGI_Creative_Team2012" class="citation book cs1">Christopher Smith; AGI Creative Team (2012). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=YfsNznDZ0GsC&amp;pg=PA391"><i>Adobe InDesign CS6 Digital Classroom</i></a>. John Wiley &amp; Sons. p.&#160;391. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-470-45128-1" title="Special:BookSources/978-0-470-45128-1"><bdi>978-0-470-45128-1</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Adobe+InDesign+CS6+Digital+Classroom&amp;rft.pages=391&amp;rft.pub=John+Wiley+%26+Sons&amp;rft.date=2012&amp;rft.isbn=978-0-470-45128-1&amp;rft.au=Christopher+Smith&amp;rft.au=AGI+Creative+Team&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DYfsNznDZ0GsC%26pg%3DPA391&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080223121519/http://www.nintendo.com/wii/channels/internetchannel">"Wii Internet Channel"</a>. Archived from <a rel="nofollow" class="external text" href="https://www.nintendo.com/wii/channels/internetchannel">the original</a> on 2008-02-23.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Wii+Internet+Channel&amp;rft_id=https%3A%2F%2Fwww.nintendo.com%2Fwii%2Fchannels%2Finternetchannel&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFEric_Lempel2008" class="citation web cs1">Eric Lempel (December 2008). <a rel="nofollow" class="external text" href="http://blog.us.playstation.com/2008/12/01/ps3-firmware-v253-update">"PS3 Firmware (v2.53) Update"</a>. Playstation.Blog<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-03-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=PS3+Firmware+%28v2.53%29+Update&amp;rft.pub=Playstation.Blog&amp;rft.date=2008-12&amp;rft.au=Eric+Lempel&amp;rft_id=http%3A%2F%2Fblog.us.playstation.com%2F2008%2F12%2F01%2Fps3-firmware-v253-update&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-KerrKeats2009-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-KerrKeats2009_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-KerrKeats2009_24-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-KerrKeats2009_24-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFCheridan_KerrJonathan_Keats2009" class="citation book cs1">Cheridan Kerr; Jonathan Keats (2009). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=YjSGwrX1q_kC&amp;pg=PA286"><i>The Essential Guide to Flash CS4</i></a>. Apress. p.&#160;286. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4302-2353-5" title="Special:BookSources/978-1-4302-2353-5"><bdi>978-1-4302-2353-5</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Essential+Guide+to+Flash+CS4&amp;rft.pages=286&amp;rft.pub=Apress&amp;rft.date=2009&amp;rft.isbn=978-1-4302-2353-5&amp;rft.au=Cheridan+Kerr&amp;rft.au=Jonathan+Keats&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DYjSGwrX1q_kC%26pg%3DPA286&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Lively2010-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-Lively2010_25-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMichael_Lively2010" class="citation book cs1">Michael Lively (2010). <i>Professional Papervision3D</i>. John Wiley &amp; Sons. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-470-97060-7" title="Special:BookSources/978-0-470-97060-7"><bdi>978-0-470-97060-7</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Professional+Papervision3D&amp;rft.pub=John+Wiley+%26+Sons&amp;rft.date=2010&amp;rft.isbn=978-0-470-97060-7&amp;rft.au=Michael+Lively&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-TondeurWinder2009-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-TondeurWinder2009_26-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFPaul_TondeurJeff_Winder2009" class="citation book cs1">Paul Tondeur; Jeff Winder (2009). <i>Papervision3d Essentials: Create Interactive Papervision3D Applications with Stunning Effects and Powerful Animals</i>. Packt Publishing Ltd. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-84719-573-9" title="Special:BookSources/978-1-84719-573-9"><bdi>978-1-84719-573-9</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Papervision3d+Essentials%3A+Create+Interactive+Papervision3D+Applications+with+Stunning+Effects+and+Powerful+Animals&amp;rft.pub=Packt+Publishing+Ltd&amp;rft.date=2009&amp;rft.isbn=978-1-84719-573-9&amp;rft.au=Paul+Tondeur&amp;rft.au=Jeff+Winder&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Casperson2011-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-Casperson2011_27-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMatthew_Casperson2011" class="citation book cs1">Matthew Casperson (2011). <i>Away3D 3.6 Essentials</i>. Packt Publishing Ltd. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-84951-207-7" title="Special:BookSources/978-1-84951-207-7"><bdi>978-1-84951-207-7</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Away3D+3.6+Essentials&amp;rft.pub=Packt+Publishing+Ltd&amp;rft.date=2011&amp;rft.isbn=978-1-84951-207-7&amp;rft.au=Matthew+Casperson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Ivanov2011-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ivanov2011_28-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMichael_Ivanov2011" class="citation book cs1">Michael Ivanov (2011). <i>Away3D 3.6 Cookbook</i>. Packt Publishing Ltd. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-84951-281-7" title="Special:BookSources/978-1-84951-281-7"><bdi>978-1-84951-281-7</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Away3D+3.6+Cookbook&amp;rft.pub=Packt+Publishing+Ltd&amp;rft.date=2011&amp;rft.isbn=978-1-84951-281-7&amp;rft.au=Michael+Ivanov&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-McCuneSubramaniam2009-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-McCuneSubramaniam2009_29-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFDoug_McCuneDeepa_Subramaniam2009" class="citation book cs1">Doug McCune; Deepa Subramaniam (2009). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=fzWVC_vH68cC&amp;pg=PA388"><i>Adobe Flex 3.0 For Dummies</i></a>. John Wiley &amp; Sons. pp.&#160;388–389. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-470-40789-9" title="Special:BookSources/978-0-470-40789-9"><bdi>978-0-470-40789-9</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Adobe+Flex+3.0+For+Dummies&amp;rft.pages=388-389&amp;rft.pub=John+Wiley+%26+Sons&amp;rft.date=2009&amp;rft.isbn=978-0-470-40789-9&amp;rft.au=Doug+McCune&amp;rft.au=Deepa+Subramaniam&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DfzWVC_vH68cC%26pg%3DPA388&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Lengyel2011-30"><span class="mw-cite-backlink">^ <a href="#cite_ref-Lengyel2011_30-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Lengyel2011_30-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRemi_Arnaud2011" class="citation book cs1">Remi Arnaud (2011). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=QbSf3XwfM7EC&amp;pg=PA207">"3D in a Web Browser"</a>.  In Eric Lengyel (ed.). <i>Game Engine Gems 2</i>. CRC Press. pp.&#160;207–212. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-56881-437-7" title="Special:BookSources/978-1-56881-437-7"><bdi>978-1-56881-437-7</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=3D+in+a+Web+Browser&amp;rft.btitle=Game+Engine+Gems+2&amp;rft.pages=207-212&amp;rft.pub=CRC+Press&amp;rft.date=2011&amp;rft.isbn=978-1-56881-437-7&amp;rft.au=Remi+Arnaud&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DQbSf3XwfM7EC%26pg%3DPA207&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.airtightinteractive.com/2011/10/stage3d-vs-webgl-performance/">"Stage3D vs WebGL Performance"</a>. <i>Airtight Interactive</i>. 2011-10-28<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-02-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Airtight+Interactive&amp;rft.atitle=Stage3D+vs+WebGL+Performance&amp;rft.date=2011-10-28&amp;rft_id=https%3A%2F%2Fwww.airtightinteractive.com%2F2011%2F10%2Fstage3d-vs-webgl-performance%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Adobe-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-Adobe_32-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100827134318/http://www.adobe.com/products/player_census/flashplayer/">"Flash content reaches 99% of Internet viewers"</a>. Adobe. Archived from <a rel="nofollow" class="external text" href="https://www.adobe.com/products/player_census/flashplayer/">the original</a> on August 27, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-09-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Flash+content+reaches+99%25+of+Internet+viewers&amp;rft.pub=Adobe&amp;rft_id=https%3A%2F%2Fwww.adobe.com%2Fproducts%2Fplayer_census%2Fflashplayer%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.adobe.com/devnet/swf/">"SWF and AMF Technology Center - Adobe Developer Connection"</a>. <i>www.adobe.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.adobe.com&amp;rft.atitle=SWF+and+AMF+Technology+Center+-+Adobe+Developer+Connection&amp;rft_id=https%3A%2F%2Fwww.adobe.com%2Fdevnet%2Fswf%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130415222800/http://www.bytearray.org/?p=5162">"SWF and AMF3 specifications update - ByteArray.org"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.bytearray.org/?p=5162">the original</a> on 2013-04-15.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=SWF+and+AMF3+specifications+update+-+ByteArray.org&amp;rft_id=http%3A%2F%2Fwww.bytearray.org%2F%3Fp%3D5162&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121015233102/http://www.bytearray.org/?p=4848">"SWF Versioning - ByteArray.org"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.bytearray.org/?p=4848">the original</a> on 2012-10-15.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=SWF+Versioning+-+ByteArray.org&amp;rft_id=http%3A%2F%2Fwww.bytearray.org%2F%3Fp%3D4848&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.adobe.com/devnet/articles/flashplayer-air-feature-list.html">"Flash Player and Adobe AIR feature list - Adobe Developer Connection"</a>. <i>www.adobe.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.adobe.com&amp;rft.atitle=Flash+Player+and+Adobe+AIR+feature+list+-+Adobe+Developer+Connection&amp;rft_id=https%3A%2F%2Fwww.adobe.com%2Fdevnet%2Farticles%2Fflashplayer-air-feature-list.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.adobe.com/devnet/rtmp/">"Real-Time Messaging Protocol (RTMP) specification - Adobe Developer Connection"</a>. <i>www.adobe.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.adobe.com&amp;rft.atitle=Real-Time+Messaging+Protocol+%28RTMP%29+specification+-+Adobe+Developer+Connection&amp;rft_id=https%3A%2F%2Fwww.adobe.com%2Fdevnet%2Frtmp%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20071222125858/http://www.adobe.com/licensing/developer/fileformat/license/">"SWF and FLV File Format Specification License Agreement"</a>. Adobe Systems. 2007-06-27. Archived from <a rel="nofollow" class="external text" href="https://www.adobe.com/licensing/developer/fileformat/license/">the original</a> on 2007-12-22<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-01-05</span></span>. <q>You may not use the Specification in any way to create or develop a runtime, client, player, executable or other program that reads or renders SWF files.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=SWF+and+FLV+File+Format+Specification+License+Agreement&amp;rft.pub=Adobe+Systems&amp;rft.date=2007-06-27&amp;rft_id=https%3A%2F%2Fwww.adobe.com%2Flicensing%2Fdeveloper%2Ffileformat%2Flicense%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080506095459/http://www.adobe.com/aboutadobe/pressroom/pressreleases/200804/050108AdobeOSP.html">"Open Screen Project Press Release"</a>. Adobe Systems. 2008-05-01. Archived from <a rel="nofollow" class="external text" href="https://www.adobe.com/aboutadobe/pressroom/pressreleases/200804/050108AdobeOSP.html">the original</a> on 2008-05-06<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-05-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Open+Screen+Project+Press+Release&amp;rft.pub=Adobe+Systems&amp;rft.date=2008-05-01&amp;rft_id=https%3A%2F%2Fwww.adobe.com%2Faboutadobe%2Fpressroom%2Fpressreleases%2F200804%2F050108AdobeOSP.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080115032515/http://www.adobe.com/licensing/developer/">"Adobe Player Licensing: Flash Player Developer SDKs"</a>. Adobe Systems. Archived from <a rel="nofollow" class="external text" href="https://www.adobe.com/licensing/developer">the original</a> on January 15, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-01-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Adobe+Player+Licensing%3A+Flash+Player+Developer+SDKs&amp;rft.pub=Adobe+Systems&amp;rft_id=https%3A%2F%2Fwww.adobe.com%2Flicensing%2Fdeveloper&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-HarringtonGeduld2009-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-HarringtonGeduld2009_41-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRichard_HarringtonMarcus_Geduld2009" class="citation book cs1">Richard Harrington; Marcus Geduld (2009). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=IqbV98CZqqAC&amp;pg=PA32"><i>After Effects for Flash, Flash for After Effects: Dynamic Animation and Video with Adobe After Effects CS4 with Adobe Flash CS4 Professional</i></a>. Adobe Press. p.&#160;32. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-321-60607-5" title="Special:BookSources/978-0-321-60607-5"><bdi>978-0-321-60607-5</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=After+Effects+for+Flash%2C+Flash+for+After+Effects%3A+Dynamic+Animation+and+Video+with+Adobe+After+Effects+CS4+with+Adobe+Flash+CS4+Professional&amp;rft.pages=32&amp;rft.pub=Adobe+Press&amp;rft.date=2009&amp;rft.isbn=978-0-321-60607-5&amp;rft.au=Richard+Harrington&amp;rft.au=Marcus+Geduld&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DIqbV98CZqqAC%26pg%3DPA32&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-newformats-42"><span class="mw-cite-backlink">^ <a href="#cite_ref-newformats_42-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-newformats_42-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-newformats_42-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-newformats_42-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100706004744/http://www.kaourantin.net/2007/10/new-file-extensions-and-mime-types.html">"New File Extensions and MIME Types"</a>. Kaourantin.net. 2007-10-31. Archived from <a rel="nofollow" class="external text" href="http://www.kaourantin.net/2007/10/new-file-extensions-and-mime-types.html">the original</a> on 2010-07-06<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-12-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=New+File+Extensions+and+MIME+Types&amp;rft.pub=Kaourantin.net&amp;rft.date=2007-10-31&amp;rft_id=http%3A%2F%2Fwww.kaourantin.net%2F2007%2F10%2Fnew-file-extensions-and-mime-types.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-FLV-F4V-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-FLV-F4V_43-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFAdobe_Systems_Incorporated2008" class="citation web cs1">Adobe Systems Incorporated (November 2008). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100923043319/http://www.adobe.com/content/dam/Adobe/en/devnet/flv/pdfs/video_file_format_spec_v10.pdf">"Video File Format Specification, Version 10"</a> <span class="cs1-format">(PDF)</span>. Adobe Systems Incorporated. Archived from <a rel="nofollow" class="external text" href="https://www.adobe.com/content/dam/Adobe/en/devnet/flv/pdfs/video_file_format_spec_v10.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2010-09-23<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-08-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Video+File+Format+Specification%2C+Version+10&amp;rft.pub=Adobe+Systems+Incorporated&amp;rft.date=2008-11&amp;rft.au=Adobe+Systems+Incorporated&amp;rft_id=https%3A%2F%2Fwww.adobe.com%2Fcontent%2Fdam%2FAdobe%2Fen%2Fdevnet%2Fflv%2Fpdfs%2Fvideo_file_format_spec_v10.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-decomp-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-decomp_44-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBrimelow2008" class="citation web cs1">Brimelow, Lee (25 April 2008). <a rel="nofollow" class="external text" href="https://archive.today/20121216121634/http://blog.theflashblog.com/?p=372">"New Video Tutorial on Ethical SWF Decompiling"</a>. <i>the Flash Blog</i>. <a href="/wiki/Adobe_Systems" class="mw-redirect" title="Adobe Systems">Adobe Systems</a>. Archived from <a rel="nofollow" class="external text" href="http://blog.theflashblog.com/?p=372">the original</a> on 16 December 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">28 October</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=the+Flash+Blog&amp;rft.atitle=New+Video+Tutorial+on+Ethical+SWF+Decompiling&amp;rft.date=2008-04-25&amp;rft.aulast=Brimelow&amp;rft.aufirst=Lee&amp;rft_id=http%3A%2F%2Fblog.theflashblog.com%2F%3Fp%3D372&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-TiwariElrom2010-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-TiwariElrom2010_45-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFShashank_TiwariElad_ElromCharlie_Schulze2010" class="citation book cs1">Shashank Tiwari; Elad Elrom; Charlie Schulze (2010). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=QMt6RMo9h_gC&amp;pg=PA386"><i>AdvancED Flex 4</i></a>. Apress. p.&#160;386. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4302-2484-6" title="Special:BookSources/978-1-4302-2484-6"><bdi>978-1-4302-2484-6</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=AdvancED+Flex+4&amp;rft.pages=386&amp;rft.pub=Apress&amp;rft.date=2010&amp;rft.isbn=978-1-4302-2484-6&amp;rft.au=Shashank+Tiwari&amp;rft.au=Elad+Elrom&amp;rft.au=Charlie+Schulze&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DQMt6RMo9h_gC%26pg%3DPA386&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://kb2.adobe.com/cps/410/tn_4109.html">Can a Flash Player movie (SWF) file be edited or imported?</a>. Kb2.adobe.com. Retrieved on 2010-11-09.</span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFCrumlishDykes2006" class="citation book cs1">Crumlish, Christian; Dykes, Lucinda (20 February 2006). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=-Z3kFEShC4sC&amp;pg=PA240"><i>Dreamweaver® MX 2004 SavvyTM</i></a>. John Wiley &amp; Sons. p.&#160;240. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7821-5102-2" title="Special:BookSources/978-0-7821-5102-2"><bdi>978-0-7821-5102-2</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">22 November</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Dreamweaver%C2%AE+MX+2004+SavvyTM&amp;rft.pages=240&amp;rft.pub=John+Wiley+%26+Sons&amp;rft.date=2006-02-20&amp;rft.isbn=978-0-7821-5102-2&amp;rft.aulast=Crumlish&amp;rft.aufirst=Christian&amp;rft.au=Dykes%2C+Lucinda&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D-Z3kFEShC4sC%26pg%3DPA240&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASWF" class="Z3988"></span></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SWF&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://www.adobe.com/devnet/swf/">Adobe Systems Flash SWF reference</a></li>
+<li><a rel="nofollow" class="external text" href="https://archive.org/details/swf-file-format-spec/mode/2up">SWF File Format Specification</a> (Version 19)</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20201219072854/labs.adobe.com/technologies/swfinvestigator">Adobe SWF Investigator</a>&#160;&#8211;&#32; a disassembler of sorts</li>
+<li><a rel="nofollow" class="external text" href="https://www.adobe.com/devnet/flashplayer/stage3d.html">Adobe Stage3D (or Stage 3D)</a></li></ul>
+<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Graphics_file_formats" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Graphics_file_formats" title="Template:Graphics file formats"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Graphics_file_formats" title="Template talk:Graphics file formats"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Graphics_file_formats&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Graphics_file_formats" style="font-size:114%;margin:0 4em"><a href="/wiki/Image_file_format" title="Image file format">Graphics file formats</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Raster_graphics" title="Raster graphics">Raster</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/ANI_(file_format)" title="ANI (file format)"> ANI</a></li>
+<li><a href="/wiki/ANIM" title="ANIM">ANIM</a></li>
+<li><a href="/wiki/APNG" title="APNG">APNG</a></li>
+<li><a href="/wiki/ART_image_file_format" title="ART image file format"> ART</a></li>
+<li><a href="/wiki/AVIF" title="AVIF">AVIF</a></li>
+<li><a href="/wiki/BMP_file_format" title="BMP file format"> BMP</a></li>
+<li><a href="/wiki/Better_Portable_Graphics" title="Better Portable Graphics"> BPG</a></li>
+<li><a href="/wiki/BSAVE" title="BSAVE"> BSAVE</a></li>
+<li><a href="/wiki/CALS_Raster_file_format" title="CALS Raster file format"> CAL</a></li>
+<li><a href="/wiki/Cineon" title="Cineon"> CIN</a></li>
+<li><a href="/wiki/Cartesian_Perceptual_Compression" title="Cartesian Perceptual Compression"> CPC</a></li>
+<li><a href="/wiki/CPT_(file_format)" title="CPT (file format)"> CPT</a></li>
+<li><a href="/wiki/DirectDraw_Surface" title="DirectDraw Surface"> DDS</a></li>
+<li><a href="/wiki/Digital_Picture_Exchange" title="Digital Picture Exchange"> DPX</a></li>
+<li><a href="/wiki/ECW_(file_format)" title="ECW (file format)"> ECW</a></li>
+<li><a href="/wiki/OpenEXR" title="OpenEXR"> EXR</a></li>
+<li><a href="/wiki/FITS" title="FITS">FITS</a></li>
+<li><a href="/wiki/FLIC_(file_format)" title="FLIC (file format)"> FLIC</a></li>
+<li><a href="/wiki/Free_Lossless_Image_Format" title="Free Lossless Image Format"> FLIF</a></li>
+<li><a href="/wiki/FlashPix" title="FlashPix"> FPX</a></li>
+<li><a href="/wiki/GIF" title="GIF">GIF</a></li>
+<li><a href="/wiki/HDRi_(data_format)" class="mw-redirect" title="HDRi (data format)"> HDRi</a></li>
+<li><a href="/wiki/High_Efficiency_Video_Coding#Main_Still_Picture" title="High Efficiency Video Coding"> HEVC</a></li>
+<li><a href="/wiki/ICER" title="ICER">ICER</a></li>
+<li><a href="/wiki/Apple_Icon_Image_format" title="Apple Icon Image format"> ICNS</a></li>
+<li><a href="/wiki/ICO_(file_format)" title="ICO (file format)"> ICO / CUR</a></li>
+<li><a href="/wiki/Image_Cytometry_Standard" title="Image Cytometry Standard"> ICS</a></li>
+<li><a href="/wiki/ILBM" title="ILBM">ILBM</a></li>
+<li><a href="/wiki/JBIG" title="JBIG">JBIG</a></li>
+<li><a href="/wiki/JBIG2" title="JBIG2">JBIG2</a></li>
+<li><a href="/wiki/JPEG_Network_Graphics" title="JPEG Network Graphics"> JNG</a></li>
+<li><a href="/wiki/JPEG" title="JPEG">JPEG</a></li>
+<li><a href="/wiki/Lossless_JPEG#JPEG-LS" title="Lossless JPEG"> JPEG-LS</a></li>
+<li><a href="/wiki/JPEG_2000" title="JPEG 2000">JPEG 2000</a></li>
+<li><a href="/wiki/JPEG_XL" title="JPEG XL">JPEG XL</a></li>
+<li><a href="/wiki/JPEG_XR" title="JPEG XR">JPEG XR</a></li>
+<li><a href="/wiki/JPEG_XS" title="JPEG XS">JPEG XS</a></li>
+<li><a href="/wiki/JPEG_XT" title="JPEG XT">JPEG XT</a>
+<ul><li><a href="/wiki/JPEG-HDR" class="mw-redirect" title="JPEG-HDR">JPEG-HDR</a></li></ul></li>
+<li><a href="/wiki/Krita" title="Krita"> KRA</a></li>
+<li><a href="/wiki/Multiple-image_Network_Graphics" title="Multiple-image Network Graphics"> MNG</a></li>
+<li><a href="/wiki/Magick_Image_File_Format" title="Magick Image File Format"> MIFF</a></li>
+<li><a href="/wiki/Nearly_raw_raster_data" class="mw-redirect" title="Nearly raw raster data"> NRRD</a></li>
+<li><a href="/wiki/Netpbm#PAM_graphics_format" title="Netpbm"> PAM</a></li>
+<li><a href="/wiki/Netpbm" title="Netpbm"> PBM / PGM / PPM / PNM</a></li>
+<li><a href="/wiki/PCX" title="PCX">PCX</a></li>
+<li><a href="/wiki/OpenRaster" title="OpenRaster">ORA</a></li>
+<li><a href="/wiki/Progressive_Graphics_File" title="Progressive Graphics File"> PGF</a></li>
+<li><a href="/wiki/PICtor_PIC_image_format" title="PICtor PIC image format"> PICtor</a></li>
+<li><a href="/wiki/PNG" title="PNG">PNG</a></li>
+<li><a href="/wiki/Adobe_Photoshop#PSD" title="Adobe Photoshop"> PSD / PSB</a></li>
+<li><a href="/wiki/PaintShop_Pro" title="PaintShop Pro"> PSP</a></li>
+<li><a href="/wiki/QOI_(image_format)" title="QOI (image format)"> QOI</a></li>
+<li><a href="/wiki/QuickTime_VR" title="QuickTime VR"> QTVR</a></li>
+<li><a href="/wiki/Sun_Raster" title="Sun Raster"> RAS</a></li>
+<li><a href="/wiki/RGBE_image_format" title="RGBE image format"> RGBE</a>
+<ul><li><a href="/wiki/Logluv_TIFF" title="Logluv TIFF">Logluv TIFF</a></li></ul></li>
+<li><a href="/wiki/Silicon_Graphics_Image" title="Silicon Graphics Image"> SGI</a></li>
+<li><a href="/wiki/Truevision_TGA" title="Truevision TGA"> TGA</a></li>
+<li><a href="/wiki/Tagged_Image_File_Format" class="mw-redirect" title="Tagged Image File Format"> TIFF</a>
+<ul><li><a href="/wiki/TIFF/EP" title="TIFF/EP">TIFF/EP</a></li>
+<li><a href="/wiki/Tagged_Image_File_Format#TIFF/IT" class="mw-redirect" title="Tagged Image File Format"> TIFF/IT</a></li></ul></li>
+<li><a href="/wiki/Ulead_PhotoImpact" title="Ulead PhotoImpact"> UFO / UFP</a></li>
+<li><a href="/wiki/Wireless_Application_Protocol_Bitmap_Format" title="Wireless Application Protocol Bitmap Format"> WBMP</a></li>
+<li><a href="/wiki/WebP" title="WebP">WebP</a></li>
+<li><a href="/wiki/X_BitMap" title="X BitMap"> XBM</a></li>
+<li><a href="/wiki/XCF_(file_format)" title="XCF (file format)"> XCF</a></li>
+<li><a href="/wiki/X_PixMap" title="X PixMap"> XPM</a></li>
+<li><a href="/wiki/Xwd" title="Xwd"> XWD</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Raw_image_format" title="Raw image format">Raw</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Camera_Image_File_Format" title="Camera Image File Format"> CIFF</a></li>
+<li><a href="/wiki/Digital_Negative" title="Digital Negative"> DNG</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Vector_graphics" title="Vector graphics">Vector</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Adobe_Illustrator_Artwork" title="Adobe Illustrator Artwork"> AI</a></li>
+<li><a href="/wiki/CorelDRAW#CDR_file_format" title="CorelDRAW"> CDR</a></li>
+<li><a href="/wiki/Computer_Graphics_Metafile" title="Computer Graphics Metafile"> CGM</a></li>
+<li><a href="/wiki/AutoCAD_DXF" title="AutoCAD DXF"> DXF</a></li>
+<li><a href="/wiki/Extended_Vector_Animation" title="Extended Vector Animation"> EVA</a></li>
+<li><a href="/wiki/Enhanced_Metafile" class="mw-redirect" title="Enhanced Metafile"> EMF</a></li>
+<li><a href="/wiki/EMF%2B" class="mw-redirect" title="EMF+">EMF+</a></li>
+<li><a href="/wiki/Gerber_format" title="Gerber format"> Gerber</a></li>
+<li><a href="/wiki/Haiku_Vector_Icon_Format" title="Haiku Vector Icon Format"> HVIF</a></li>
+<li><a href="/wiki/IGES" title="IGES">IGES</a></li>
+<li><a href="/wiki/Precision_Graphics_Markup_Language" title="Precision Graphics Markup Language"> PGML</a></li>
+<li><a href="/wiki/Scalable_Vector_Graphics" class="mw-redirect" title="Scalable Vector Graphics"> SVG</a></li>
+<li><a href="/wiki/Vector_Markup_Language" title="Vector Markup Language"> VML</a></li>
+<li><a href="/wiki/Windows_Metafile" title="Windows Metafile"> WMF</a></li>
+<li><a href="/wiki/Xar_(graphics)" title="Xar (graphics)"> Xar</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Image_file_format#Compound_formats" title="Image file format">Compound</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Computable_Document_Format" title="Computable Document Format"> CDF</a></li>
+<li><a href="/wiki/DjVu" title="DjVu">DjVu</a></li>
+<li><a href="/wiki/Encapsulated_PostScript" title="Encapsulated PostScript"> EPS</a></li>
+<li><a href="/wiki/Portable_Document_Format" class="mw-redirect" title="Portable Document Format"> PDF</a></li>
+<li><a href="/wiki/PICT" title="PICT">PICT</a></li>
+<li><a href="/wiki/PostScript" title="PostScript"> PS</a></li>
+<li><a class="mw-selflink selflink">SWF</a></li>
+<li><a href="/wiki/Extensible_Application_Markup_Language" title="Extensible Application Markup Language"> XAML</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Metadata" title="Metadata">Metadata</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Exif" title="Exif">Exchangeable image file format (Exif)</a></li>
+<li><a href="/wiki/International_Press_Telecommunications_Council#Photo_metadata" title="International Press Telecommunications Council">International Press Telecommunications Council §&#160;Photo metadata</a></li>
+<li><a href="/wiki/Extensible_Metadata_Platform" title="Extensible Metadata Platform">Extensible Metadata Platform (XMP)</a></li>
+<li><a href="/wiki/GIF#Metadata" title="GIF">GIF §&#160;Metadata</a></li>
+<li><a href="/wiki/Steganography" title="Steganography">Steganography</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><b><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Category:Graphics_file_formats" title="Category:Graphics file formats">Category</a></b></li>
+<li><b><a href="/wiki/File:Symbol_na_class.svg" class="image" title="Non-article page"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6a/Symbol_na_class.svg/16px-Symbol_na_class.svg.png" decoding="async" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/6a/Symbol_na_class.svg/23px-Symbol_na_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/6a/Symbol_na_class.svg/31px-Symbol_na_class.svg.png 2x" data-file-width="180" data-file-height="185" /></a> <a href="/wiki/Comparison_of_graphics_file_formats" title="Comparison of graphics file formats">Comparison</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox" aria-labelledby="Adobe_Flash" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Adobe_Flash" title="Template:Adobe Flash"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Adobe_Flash" title="Template talk:Adobe Flash"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Adobe_Flash&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Adobe_Flash" style="font-size:114%;margin:0 4em"><a href="/wiki/Adobe_Flash" title="Adobe Flash">Adobe Flash</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/File_format" title="File format">File<br />formats</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/ActionScript" title="ActionScript">ActionScript</a> <span style="font-size:85%;">(AS)</span></li>
+<li><a href="/wiki/Action_Message_Format" title="Action Message Format">Action Message Format</a> <span style="font-size:85%;">(AMF)</span></li>
+<li><a href="/wiki/Flash_Video" title="Flash Video">Flash Video</a> <span style="font-size:85%;">(FLV)</span></li>
+<li><a href="/wiki/FXG" title="FXG">Flash XML Graphics</a> <span style="font-size:85%;">(FXG)</span></li>
+<li><a href="/wiki/Local_shared_object" title="Local shared object">Local shared objects</a> <span style="font-size:85%;">(LSOs)</span></li>
+<li><a href="/wiki/MXML" title="MXML">MXML</a></li>
+<li><a class="mw-selflink selflink">Flash Movie</a> <span style="font-size:85%;">(SWF)</span></li>
+<li><a href="/wiki/Adobe_SWC_file" title="Adobe SWC file">Flash Code Library</a> <span style="font-size:85%;">(SWC)</span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Software<br />(<a href="/wiki/List_of_Adobe_Flash_software" title="List of Adobe Flash software">list</a>)</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Players</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Adobe_AIR" title="Adobe AIR">Adobe AIR</a></li>
+<li><a href="/wiki/Adobe_Flash_Player" title="Adobe Flash Player">Adobe Flash Player</a></li>
+<li><a href="/wiki/Gameswf" title="Gameswf">Gameswf</a></li>
+<li><a href="/wiki/Gnash_(software)" title="Gnash (software)">Gnash</a></li>
+<li><a href="/wiki/Lightspark" title="Lightspark">Lightspark</a></li>
+<li><a href="/wiki/Ruffle_(software)" title="Ruffle (software)">Ruffle</a></li>
+<li><a href="/wiki/Tamarin_(software)" title="Tamarin (software)">Tamarin</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_2D_animation_software" title="List of 2D animation software">Animation<br />tools</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Adobe_Animate" title="Adobe Animate">Adobe Animate</a></li>
+<li><a href="/wiki/Toon_Boom_Animation" title="Toon Boom Animation">Toon Boom</a></li>
+<li><a href="/wiki/Moho_(Anime_Studio)" class="mw-redirect" title="Moho (Anime Studio)">Moho</a></li>
+<li><a href="/wiki/Vyond" title="Vyond">Vyond</a></li>
+<li><a href="/wiki/Stencyl" title="Stencyl">Stencyl</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Integrated_development_environment" title="Integrated development environment">Programming<br />tools</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>FlashDevelop</li>
+<li><a href="/wiki/Powerflasher_FDT" title="Powerflasher FDT">Powerflasher FDT</a></li>
+<li><a href="/wiki/Apache_Flex" title="Apache Flex">Apache Flex</a></li>
+<li><a href="/wiki/Haxe" title="Haxe">Haxe</a> (<a href="/wiki/OpenFL" title="OpenFL">OpenFL</a>)</li>
+<li><a href="/wiki/CrossBridge" title="CrossBridge">CrossBridge</a></li>
+<li><a href="/wiki/Adobe_Scout" title="Adobe Scout">Adobe Scout</a></li>
+<li><a href="/wiki/Firebug_(software)#FlashFirebug" title="Firebug (software)">FlashFirebug</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Library_(computing)" title="Library (computing)">Libraries</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Starling_Framework" title="Starling Framework">Starling Framework</a></li>
+<li><a href="/wiki/Away3D" title="Away3D">Away3D</a></li>
+<li><a href="/wiki/Flare3D" title="Flare3D">Flare3D</a></li>
+<li><a href="/wiki/Stage3D" title="Stage3D">Stage3D</a></li>
+<li><a href="/wiki/PureMVC" title="PureMVC">PureMVC</a></li>
+<li><a href="/wiki/Ming_library" title="Ming library">Ming</a></li>
+<li><a href="/wiki/List_of_Flex_frameworks" title="List of Flex frameworks">List of Flex frameworks</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Converters</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Adobe_Flash_Media_Live_Encoder" title="Adobe Flash Media Live Encoder">Adobe Flash Media Live Encoder</a></li>
+<li><a href="/wiki/SWFTools" title="SWFTools">SWFTools</a></li>
+<li><a href="/wiki/Swfmill" title="Swfmill">swfmill</a></li>
+<li><a href="/wiki/Google_Swiffy" title="Google Swiffy">Google Swiffy</a></li>
+<li><a href="/wiki/Adobe_Wallaby" title="Adobe Wallaby">Adobe Wallaby</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Server-side</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Adobe_Flash_Media_Server" class="mw-redirect" title="Adobe Flash Media Server">Adobe Flash Media Server</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Obsolete<br />software</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Adobe_Flash_Builder" title="Adobe Flash Builder">Adobe Flash Builder</a></li>
+<li><a href="/wiki/Adobe_Flash_Catalyst" title="Adobe Flash Catalyst">Adobe Flash Catalyst</a></li>
+<li><a href="/wiki/Adobe_Flash_Lite" title="Adobe Flash Lite">Adobe Flash Lite</a></li>
+<li><a href="/wiki/SWFObject" title="SWFObject">SWFObject</a></li>
+<li><a href="/wiki/MTASC" title="MTASC">MTASC</a></li>
+<li><a href="/wiki/Scaleform_GFx" title="Scaleform GFx">Scaleform GFx</a></li>
+<li><a href="/wiki/SWiSH_Max" title="SWiSH Max">SWiSH Max</a></li>
+<li><a href="/wiki/Swift_3D" title="Swift 3D">Swift 3D</a></li>
+<li><a href="/wiki/Papervision3D" title="Papervision3D">Papervision3D</a></li>
+<li><a href="/wiki/Ajax_Animator" title="Ajax Animator">Ajax Animator</a></li>
+<li><a href="/wiki/Shumway_(software)" title="Shumway (software)">Shumway</a></li>
+<li><a href="/wiki/Swfdec" title="Swfdec">Swfdec</a></li>
+<li><a href="/wiki/OpenLaszlo" title="OpenLaszlo">OpenLaszlo</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related<br />topics</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Comparison_of_HTML5_and_Flash" title="Comparison of HTML5 and Flash">Comparison of HTML5 and Flash</a></li>
+<li>"<a href="/wiki/Thoughts_on_Flash" title="Thoughts on Flash">Thoughts on Flash</a>"</li>
+<li><a href="/wiki/Flash_animation" title="Flash animation">Flash animation</a>
+<ul><li><a href="/wiki/List_of_Flash_animated_films" title="List of Flash animated films">films</a></li>
+<li><a href="/wiki/List_of_Flash_animated_television_series" title="List of Flash animated television series">television</a></li></ul></li>
+<li><a href="/wiki/Protected_Streaming" title="Protected Streaming">Protected Streaming</a></li>
+<li><a href="/wiki/Real-Time_Messaging_Protocol" title="Real-Time Messaging Protocol">Real-Time Messaging Protocol</a></li>
+<li><a href="/wiki/Real-Time_Media_Flow_Protocol" title="Real-Time Media Flow Protocol">Real-Time Media Flow Protocol</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Developers</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/FutureWave_Software" title="FutureWave Software">FutureWave Software</a></li>
+<li><a href="/wiki/Macromedia" title="Macromedia">Macromedia</a></li>
+<li><a href="/wiki/Adobe_Inc." title="Adobe Inc.">Adobe Inc.</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Category:Adobe_Flash" title="Category:Adobe Flash">Category</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox" aria-labelledby="Vector_graphics_markup_languages_and_file_formats" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Vector_graphics_markup_languages" title="Template:Vector graphics markup languages"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Vector_graphics_markup_languages" title="Template talk:Vector graphics markup languages"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Vector_graphics_markup_languages&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Vector_graphics_markup_languages_and_file_formats" style="font-size:114%;margin:0 4em"><a href="/wiki/Vector_graphics" title="Vector graphics">Vector graphics</a> <a href="/wiki/Vector_graphics_markup_language" class="mw-redirect" title="Vector graphics markup language">markup languages</a> and file formats</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">By <a href="/wiki/List_of_vector_graphics_markup_languages" class="mw-redirect" title="List of vector graphics markup languages">type</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">2D</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Asymptote_(vector_graphics_language)" title="Asymptote (vector graphics language)">Asymptote</a></li>
+<li><a href="/wiki/Computer_Graphics_Metafile" title="Computer Graphics Metafile">CGM</a></li>
+<li><a href="/wiki/Office_Open_XML_file_formats#DrawingML" title="Office Open XML file formats">DrawingML</a></li>
+<li><a href="/wiki/Graphics_Layout_Engine" title="Graphics Layout Engine">Graphics Layout Engine</a></li>
+<li><a href="/wiki/GeoGebra" title="GeoGebra">GeoGebra</a></li>
+<li><a href="/wiki/Haiku_Vector_Icon_Format" title="Haiku Vector Icon Format">HVIF</a></li>
+<li><a href="/wiki/Lottie_(file_format)" title="Lottie (file format)">Lottie</a></li>
+<li><a href="/wiki/MetaPost" title="MetaPost">MetaPost</a></li>
+<li><a href="/wiki/PGF/TikZ" title="PGF/TikZ">PGF/TikZ</a></li>
+<li><a href="/wiki/Precision_Graphics_Markup_Language" title="Precision Graphics Markup Language">PGML</a></li>
+<li><a href="/wiki/PSTricks" title="PSTricks">PSTricks</a></li>
+<li><a href="/wiki/Remote_Imaging_Protocol" title="Remote Imaging Protocol">Remote Imaging Protocol</a></li>
+<li><a href="/wiki/Scalable_Vector_Graphics" class="mw-redirect" title="Scalable Vector Graphics">SVG</a></li>
+<li><a class="mw-selflink selflink">SWF</a></li>
+<li><a href="/wiki/Vector_Markup_Language" title="Vector Markup Language">VML</a></li>
+<li><a href="/wiki/Windows_Metafile" title="Windows Metafile">WMF</a>
+<ul><li><a href="/wiki/Windows_Metafile#Variants" title="Windows Metafile">EMF</a></li></ul></li>
+<li><a href="/wiki/Extensible_Application_Markup_Language" title="Extensible Application Markup Language">XAML</a></li>
+<li><a href="/wiki/Xar_(graphics)" title="Xar (graphics)">Xar</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">3D</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/3DMLW" title="3DMLW">3DMLW</a></li>
+<li><a href="/wiki/3DXML" title="3DXML">3DXML</a></li>
+<li><a href="/wiki/Asymptote_(vector_graphics_language)" title="Asymptote (vector graphics language)">Asymptote</a></li>
+<li><a href="/wiki/COLLADA" title="COLLADA">COLLADA</a></li>
+<li><a href="/wiki/Design_Web_Format" title="Design Web Format">DWF</a></li>
+<li><a href="/wiki/GeoGebra" title="GeoGebra">GeoGebra</a></li>
+<li><a href="/wiki/GlTF" title="GlTF">glTF</a></li>
+<li><a href="/wiki/IGES" title="IGES">IGES</a></li>
+<li><a href="/wiki/JT_(visualization_format)" title="JT (visualization format)">JT</a></li>
+<li><a href="/wiki/Open_Game_Engine_Exchange" title="Open Game Engine Exchange">OpenGEX</a></li>
+<li><a href="/wiki/PRC_(file_format)" title="PRC (file format)">PRC</a></li>
+<li><a href="/wiki/ISO_10303" title="ISO 10303">STEP</a></li>
+<li><a href="/wiki/STL_(file_format)" title="STL (file format)">STL</a></li>
+<li><a href="/wiki/Universal_3D" title="Universal 3D">U3D</a></li>
+<li><a href="/wiki/VRML" title="VRML">VRML</a></li>
+<li><a href="/wiki/X3D" title="X3D">X3D</a></li>
+<li><a href="/wiki/Extensible_Application_Markup_Language" title="Extensible Application Markup Language">XAML</a></li>
+<li><a href="/wiki/XVL" title="XVL">XVL</a></li>
+<li><a href="/wiki/XVRML" title="XVRML">xVRML</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">See also</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Web3D" title="Web3D">Web3D</a></li>
+<li><a href="/wiki/Web3D_Consortium" title="Web3D Consortium">Web3D Consortium</a></li>
+<li><a href="/wiki/Linden_Scripting_Language" class="mw-redirect" title="Linden Scripting Language">Linden Scripting Language</a></li>
+<li><a href="/wiki/Scene_description_language" title="Scene description language">Scene description language</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1480
+Cached time: 20230528133158
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.667 seconds
+Real time usage: 0.789 seconds
+Preprocessor visited node count: 3688/1000000
+Post‐expand include size: 143097/2097152 bytes
+Template argument size: 2966/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 151962/5000000 bytes
+Lua time usage: 0.395/10.000 seconds
+Lua memory usage: 9113792/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  677.822      1 -total
+ 44.99%  304.963      1 Template:Reflist
+ 26.91%  182.401     31 Template:Cite_web
+ 19.82%  134.326      5 Template:Navbox
+ 16.86%  114.251      1 Template:Graphics_file_formats
+ 11.26%   76.313     14 Template:Cite_book
+  7.62%   51.624      1 Template:Short_description
+  5.30%   35.894      1 Template:Infobox_file_format
+  5.07%   34.364      2 Template:Citation_needed
+  4.62%   31.346      2 Template:Rp
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:676915-0!canonical and timestamp 20230528133158 and revision id 1146548733. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=SWF&amp;oldid=1146548733">https://en.wikipedia.org/w/index.php?title=SWF&amp;oldid=1146548733</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Adobe_Flash" title="Category:Adobe Flash">Adobe Flash</a></li><li><a href="/wiki/Category:Computer_file_formats" title="Category:Computer file formats">Computer file formats</a></li><li><a href="/wiki/Category:Graphics_file_formats" title="Category:Graphics file formats">Graphics file formats</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2014" title="Category:Articles with unsourced statements from August 2014">Articles with unsourced statements from August 2014</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 25 March 2023, at 15:23<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=SWF&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class='vector-settings'>
+	
+<button
+	id=""
+	class="mw-ui-button mw-ui-icon-element vector-limited-width-toggle"
+	><span class="mw-ui-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+
+</button>
+
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1401","wgBackendResponseTime":104,"wgPageParseReport":{"limitreport":{"cputime":"0.667","walltime":"0.789","ppvisitednodes":{"value":3688,"limit":1000000},"postexpandincludesize":{"value":143097,"limit":2097152},"templateargumentsize":{"value":2966,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":151962,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  677.822      1 -total"," 44.99%  304.963      1 Template:Reflist"," 26.91%  182.401     31 Template:Cite_web"," 19.82%  134.326      5 Template:Navbox"," 16.86%  114.251      1 Template:Graphics_file_formats"," 11.26%   76.313     14 Template:Cite_book","  7.62%   51.624      1 Template:Short_description","  5.30%   35.894      1 Template:Infobox_file_format","  5.07%   34.364      2 Template:Citation_needed","  4.62%   31.346      2 Template:Rp"]},"scribunto":{"limitreport-timeusage":{"value":"0.395","limit":"10.000"},"limitreport-memusage":{"value":9113792,"limit":52428800}},"cachereport":{"origin":"mw1480","timestamp":"20230528133158","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"SWF","url":"https:\/\/en.wikipedia.org\/wiki\/SWF","sameAs":"http:\/\/www.wikidata.org\/entity\/Q594447","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q594447","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-05-24T17:06:15Z","dateModified":"2023-03-25T15:23:05Z","headline":"file format family; used for multimedia, vector graphics and ActionScript"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"SWF","url":"https:\/\/en.wikipedia.org\/wiki\/SWF","sameAs":"http:\/\/www.wikidata.org\/entity\/Q594447","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q594447","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-05-24T17:06:15Z","dateModified":"2023-03-25T15:23:05Z","headline":"file format family; used for multimedia, vector graphics and ActionScript"}</script>
+</body>
+</html>

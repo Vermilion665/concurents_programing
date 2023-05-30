@@ -1,0 +1,1339 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Ringing artifacts - Wikipedia</title>
+<script>document.documentElement.className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled";(function(){var cookie=document.cookie.match(/(?:^|; )enwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"bd44aa62-dd01-48ed-b309-8b3b196e78c4","wgCSPNonce":false,
+"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ringing_artifacts","wgTitle":"Ringing artifacts","wgCurRevisionId":1124895200,"wgRevisionId":1124895200,"wgArticleId":22200477,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","All accuracy disputes","Articles with disputed statements from July 2013","Signal processing","Computer graphic artifacts"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Ringing_artifacts","wgRelevantArticleId":22200477,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Ringing_artifact","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":
+"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgInternalRedirectTargetUrl":"/wiki/Ringing_artifacts","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q7334899","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":
+"ready","ext.math.styles":"ready","mediawiki.ui.button":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","mediawiki.ui.icon":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions",
+"wikibase.client.vector-2022","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.ui.button%2Cicon%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.10">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-crossorigin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/3/3b/Ringing_artifact_example.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="900">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/3/3b/Ringing_artifact_example.png">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="600">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="480">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Ringing artifacts - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Ringing_artifacts">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ringing_artifacts&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ringing_artifacts">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Ringing_artifacts rootpage-Ringing_artifacts skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-main-menu-dropdown mw-ui-icon-flush-left mw-ui-icon-flush-right"  >
+	<input type="checkbox"
+		id="vector-main-menu-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-main-menu-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Main menu"
+		
+	/>
+	<label
+		id="vector-main-menu-dropdown-label"
+		for="vector-main-menu-dropdown-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+
+		<span class="vector-menu-heading-label">Main menu</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box-notice vector-language-sidebar-alert mw-message-box">Language links are at the top of the page across from the title.</div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt=""
+		aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia"
+			src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline"
+			alt="The Free Encyclopedia"
+			src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search"
+	
+		id=""
+		class="mw-ui-button mw-ui-quiet mw-ui-icon-element search-toggle"
+		title="Search Wikipedia [f]"accesskey="f"><span class="mw-ui-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-moved">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ringing+artifacts" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ringing+artifacts" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-user-menu mw-ui-icon-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox"
+		id="vector-user-links-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-user-links-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Personal tools"
+		
+	/>
+	<label
+		id="vector-user-links-dropdown-label"
+		for="vector-user-links-dropdown-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ringing+artifacts" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="mw-ui-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ringing+artifacts" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="mw-ui-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Introduction"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Introduction">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Introduction</div>
+		</a>
+		
+		<ul id="toc-Introduction-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Causes"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Causes">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Causes</div>
+		</a>
+		
+			<button aria-controls="toc-Causes-sublist" class="mw-ui-icon mw-ui-icon-wikimedia-expand mw-ui-icon-small vector-toc-toggle">
+				Toggle Causes subsection
+			</button>
+		
+		<ul id="toc-Causes-sublist" class="vector-toc-list">
+			<li id="toc-Description"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Description">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>Description</div>
+			</a>
+			
+			<ul id="toc-Description-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-sinc_filter"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#sinc_filter">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>sinc filter</div>
+			</a>
+			
+			<ul id="toc-sinc_filter-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Time_domain"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Time_domain">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.3</span>Time domain</div>
+			</a>
+			
+			<ul id="toc-Time_domain-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Frequency_domain"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Frequency_domain">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.4</span>Frequency domain</div>
+			</a>
+			
+			<ul id="toc-Frequency_domain-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Solutions"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Solutions">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Solutions</div>
+		</a>
+		
+			<button aria-controls="toc-Solutions-sublist" class="mw-ui-icon mw-ui-icon-wikimedia-expand mw-ui-icon-small vector-toc-toggle">
+				Toggle Solutions subsection
+			</button>
+		
+		<ul id="toc-Solutions-sublist" class="vector-toc-list">
+			<li id="toc-Low-pass_filter"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Low-pass_filter">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>Low-pass filter</div>
+			</a>
+			
+			<ul id="toc-Low-pass_filter-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Benefits"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Benefits">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Benefits</div>
+		</a>
+		
+		<ul id="toc-Benefits-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Related_phenomena"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Related_phenomena">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Related phenomena</div>
+		</a>
+		
+			<button aria-controls="toc-Related_phenomena-sublist" class="mw-ui-icon mw-ui-icon-wikimedia-expand mw-ui-icon-small vector-toc-toggle">
+				Toggle Related phenomena subsection
+			</button>
+		
+		<ul id="toc-Related_phenomena-sublist" class="vector-toc-list">
+			<li id="toc-Overshoot"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Overshoot">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.1</span>Overshoot</div>
+			</a>
+			
+			<ul id="toc-Overshoot-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Clipping"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Clipping">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.2</span>Clipping</div>
+			</a>
+			
+			<ul id="toc-Clipping-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Ringing_and_ripple"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Ringing_and_ripple">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.3</span>Ringing and ripple</div>
+			</a>
+			
+			<ul id="toc-Ringing_and_ripple-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Examples"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Examples">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>Examples</div>
+		</a>
+		
+			<button aria-controls="toc-Examples-sublist" class="mw-ui-icon mw-ui-icon-wikimedia-expand mw-ui-icon-small vector-toc-toggle">
+				Toggle Examples subsection
+			</button>
+		
+		<ul id="toc-Examples-sublist" class="vector-toc-list">
+			<li id="toc-JPEG"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#JPEG">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">6.1</span>JPEG</div>
+			</a>
+			
+			<ul id="toc-JPEG-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Pre-echo"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Pre-echo">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">6.2</span>Pre-echo</div>
+			</a>
+			
+			<ul id="toc-Pre-echo-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Similar_phenomena"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Similar_phenomena">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>Similar phenomena</div>
+		</a>
+		
+			<button aria-controls="toc-Similar_phenomena-sublist" class="mw-ui-icon mw-ui-icon-wikimedia-expand mw-ui-icon-small vector-toc-toggle">
+				Toggle Similar phenomena subsection
+			</button>
+		
+		<ul id="toc-Similar_phenomena-sublist" class="vector-toc-list">
+			<li id="toc-Edge_enhancement"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Edge_enhancement">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">7.1</span>Edge enhancement</div>
+			</a>
+			
+			<ul id="toc-Edge_enhancement-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Special_functions"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Special_functions">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">7.2</span>Special functions</div>
+			</a>
+			
+			<ul id="toc-Special_functions-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Interference"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Interference">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">7.3</span>Interference</div>
+			</a>
+			
+			<ul id="toc-Interference-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Lens_flare"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Lens_flare">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">7.4</span>Lens flare</div>
+			</a>
+			
+			<ul id="toc-Lens_flare-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Visual_illusions"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Visual_illusions">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">7.5</span>Visual illusions</div>
+			</a>
+			
+			<ul id="toc-Visual_illusions-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>See also</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="mw-ui-button mw-ui-quiet mw-ui-icon-flush-left mw-ui-icon-element"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="mw-ui-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+				
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-menu vector-dropdown vector-menu-dropdown vector-page-titlebar-toc mw-ui-icon-flush-left"  >
+	<input type="checkbox"
+		id="vector-page-titlebar-toc-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-titlebar-toc"
+		class="vector-menu-checkbox "
+		
+		aria-label="Toggle the table of contents"
+		
+	/>
+	<label
+		id="vector-page-titlebar-toc-label"
+		for="vector-page-titlebar-toc-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+
+		<span class="vector-menu-heading-label">Toggle the table of contents</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Ringing artifacts</span></h1>
+				
+							
+<div id="p-lang-btn" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox"
+		id="p-lang-btn-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-lang-btn"
+		class="vector-menu-checkbox mw-interlanguage-selector"
+		aria-label="Go to an article in another language. Available in 3 languages"
+		
+		
+	/>
+	<label
+		id="p-lang-btn-label"
+		for="p-lang-btn-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-progressive mw-portlet-lang-heading-3"
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+
+		<span class="vector-menu-heading-label">3 languages</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Artefactos_de_anillo" title="Artefactos de anillo – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Halkasal_bozulma" title="Halkasal bozulma – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E6%8C%AF%E9%88%B4%E6%95%88%E6%87%89" title="振鈴效應 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li></ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7334899#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+				</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Ringing_artifacts" title="View the content page [c]" accesskey="c" class=""><span>Article</span></a>
+</li>
+<li id="ca-talk" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Talk:Ringing_artifacts" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t" class=""><span>Talk</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+								
+
+<div id="p-variants" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-variants emptyPortlet"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-label="Change language variant"
+		
+		
+	/>
+	<label
+		id="p-variants-label"
+		for="p-variants-checkbox"
+		class="vector-menu-heading "
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+
+	</div>
+</div>
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Ringing_artifacts" class=""><span>Read</span></a>
+</li>
+<li id="ca-edit" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=Ringing_artifacts&amp;action=edit" title="Edit this page [e]" accesskey="e" class=""><span>Edit</span></a>
+</li>
+<li id="ca-history" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=Ringing_artifacts&amp;action=history" title="Past revisions of this page [h]" accesskey="h" class=""><span>View history</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="More options">
+								
+<div id="vector-page-tools-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox"
+		id="vector-page-tools-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-tools-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Tools"
+		
+	/>
+	<label
+		id="vector-page-tools-dropdown-label"
+		for="vector-page-tools-dropdown-checkbox"
+		class="vector-menu-heading "
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-menu-heading-label">Tools</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Ringing_artifacts"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Ringing_artifacts&amp;action=edit"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Ringing_artifacts&amp;action=history"><span>View history</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Ringing_artifacts" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Ringing_artifacts" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Ringing_artifacts&amp;oldid=1124895200" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Ringing_artifacts&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ringing_artifacts&amp;id=1124895200&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7334899" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Ringing_artifacts&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Ringing_artifacts&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="More options">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"><span class="mw-redirectedfrom">(Redirected from <a href="/w/index.php?title=Ringing_artifact&amp;redirect=no" class="mw-redirect" title="Ringing artifact">Ringing artifact</a>)</span></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Form of error in digital signals; spurious signals near sharp transitions</div>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">This article is about ringing artifacts in signal processing, particularly image processing. For ringing in electronics and signals generally, see <a href="/wiki/Ringing_(signal)" title="Ringing (signal)">ringing (signal)</a>.</div>
+<div class="thumb tright"><div class="thumbinner" style="width:242px;"><a href="/wiki/File:Ringing_artifact_example.png" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/3/3b/Ringing_artifact_example.png" decoding="async" width="240" height="180" class="thumbimage" data-file-width="240" data-file-height="180" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Ringing_artifact_example.png" class="internal" title="Enlarge"></a></div>Image showing ringing artifacts.  3 levels on each side of transition: overshoot, first ring, and (faint) second ring.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:242px;"><a href="/wiki/File:Ringing_artifact_example_-_original.png" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/7/73/Ringing_artifact_example_-_original.png" decoding="async" width="240" height="180" class="thumbimage" data-file-width="240" data-file-height="180" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Ringing_artifact_example_-_original.png" class="internal" title="Enlarge"></a></div>Same image without ringing artifacts.</div></div></div>
+<p>In <a href="/wiki/Signal_processing" title="Signal processing">signal processing</a>, particularly <a href="/wiki/Digital_image_processing" title="Digital image processing">digital image processing</a>, <b>ringing artifacts</b> are <a href="/wiki/Artifact_(error)" title="Artifact (error)">artifacts</a> that appear as spurious signals near sharp transitions in a signal. Visually, they appear as bands or "ghosts" near edges; audibly, they appear as "echos" near <a href="/wiki/Transient_(acoustics)" title="Transient (acoustics)">transients</a>, particularly sounds from <a href="/wiki/Percussion_instrument" title="Percussion instrument">percussion instruments</a>; most noticeable are the <a href="/wiki/Pre-echo" title="Pre-echo">pre-echos</a>. The term "ringing" is because the output signal oscillates at a fading rate around a sharp transition in the input, similar to a <a href="/wiki/Bell_(instrument)" class="mw-redirect" title="Bell (instrument)">bell</a> after being struck. As with other artifacts, their minimization is a criterion in <a href="/wiki/Filter_design" title="Filter design">filter design</a>.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Introduction">Introduction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ringing_artifacts&amp;action=edit&amp;section=1" title="Edit section: Introduction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:High_accuracy_settling_time_measurements_figure_1.png" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/High_accuracy_settling_time_measurements_figure_1.png/220px-High_accuracy_settling_time_measurements_figure_1.png" decoding="async" width="220" height="160" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/High_accuracy_settling_time_measurements_figure_1.png/330px-High_accuracy_settling_time_measurements_figure_1.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/High_accuracy_settling_time_measurements_figure_1.png/440px-High_accuracy_settling_time_measurements_figure_1.png 2x" data-file-width="2942" data-file-height="2145" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:High_accuracy_settling_time_measurements_figure_1.png" class="internal" title="Enlarge"></a></div>The main cause of ringing artifacts is <a href="/wiki/Overshoot_(signal)" title="Overshoot (signal)">overshoot</a> and oscillations in the <a href="/wiki/Step_response" title="Step response">step response</a> of a filter.</div></div></div>
+<p>The main cause of ringing artifacts is due to a signal being <a href="/wiki/Bandlimited" class="mw-redirect" title="Bandlimited">bandlimited</a> (specifically, not having high frequencies) or passed through a <a href="/wiki/Low-pass_filter" title="Low-pass filter">low-pass filter</a>; this is the <a href="/wiki/Frequency_domain" title="Frequency domain">frequency domain</a> description.
+In terms of the <a href="/wiki/Time_domain" title="Time domain">time domain</a>, the cause of this type of ringing is the ripples in the <a href="/wiki/Sinc_function" title="Sinc function">sinc function</a>,<sup id="cite_ref-Bankman_1-0" class="reference"><a href="#cite_note-Bankman-1">&#91;1&#93;</a></sup> which is the <a href="/wiki/Impulse_response" title="Impulse response">impulse response</a> (time domain representation) of a perfect low-pass filter. Mathematically, this is called the <a href="/wiki/Gibbs_phenomenon" title="Gibbs phenomenon">Gibbs phenomenon</a>.
+</p><p>One may distinguish <a href="/wiki/Overshoot_(signal)" title="Overshoot (signal)">overshoot</a> (and undershoot), which occurs when transitions are accentuated – the output is higher than the input – from ringing, where <i>after</i> an overshoot, the signal overcorrects and is now below the target value; these phenomena often occur together, and are thus often conflated and jointly referred to as "ringing".
+</p><p>The term "ringing" is most often used for ripples in the <i>time</i> domain, though it is also sometimes used for <i>frequency</i> domain effects:<sup id="cite_ref-Chitode_2-0" class="reference"><a href="#cite_note-Chitode-2">&#91;2&#93;</a></sup>
+windowing a filter in the time domain by a rectangular function causes ripples in the <i>frequency</i> domain for the same reason as a brick-wall low pass filter (rectangular function in the <i>frequency</i> domain) causes ripples in the <i>time</i> domain, in each case the Fourier transform of the rectangular function being the sinc function.
+</p><p>There are related artifacts caused by other <a href="/wiki/Frequency_domain" title="Frequency domain">frequency domain</a> effects,
+and <a href="#Similar_phenomena">similar artifacts</a> due to unrelated causes.
+</p>
+<h2><span class="mw-headline" id="Causes">Causes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ringing_artifacts&amp;action=edit&amp;section=2" title="Edit section: Causes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ringing_artifacts&amp;action=edit&amp;section=3" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Sinc_function_(normalized).svg" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sinc_function_%28normalized%29.svg/220px-Sinc_function_%28normalized%29.svg.png" decoding="async" width="220" height="151" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sinc_function_%28normalized%29.svg/330px-Sinc_function_%28normalized%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sinc_function_%28normalized%29.svg/440px-Sinc_function_%28normalized%29.svg.png 2x" data-file-width="908" data-file-height="623" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Sinc_function_(normalized).svg" class="internal" title="Enlarge"></a></div>The <a href="/wiki/Sinc_function" title="Sinc function">sinc function</a>, the <a href="/wiki/Impulse_response" title="Impulse response">impulse response</a> for an ideal <a href="/wiki/Low-pass_filter" title="Low-pass filter">low-pass filter</a>, illustrating ringing for an impulse.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Gibbs_phenomenon_10.svg" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Gibbs_phenomenon_10.svg/220px-Gibbs_phenomenon_10.svg.png" decoding="async" width="220" height="110" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Gibbs_phenomenon_10.svg/330px-Gibbs_phenomenon_10.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Gibbs_phenomenon_10.svg/440px-Gibbs_phenomenon_10.svg.png 2x" data-file-width="800" data-file-height="400" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Gibbs_phenomenon_10.svg" class="internal" title="Enlarge"></a></div>The <a href="/wiki/Gibbs_phenomenon" title="Gibbs phenomenon">Gibbs phenomenon</a>, illustrating ringing for a <a href="/wiki/Step_function" title="Step function">step function</a>.</div></div></div>
+<p>By definition, ringing occurs when a non-oscillating input yields an oscillating output: formally, when an input signal which is <a href="/wiki/Monotonic_function" title="Monotonic function">monotonic</a> on an interval has output response which is not monotonic. This occurs most severely when the <a href="/wiki/Impulse_response" title="Impulse response">impulse response</a> or <a href="/wiki/Step_response" title="Step response">step response</a> of a <a href="/wiki/Filter_(signal_processing)" title="Filter (signal processing)">filter</a> has oscillations – less formally, if for a spike input, respectively a step input (a sharp transition), the output has bumps. Ringing most commonly refers to step ringing, and that will be the focus.
+</p><p>Ringing is closely related to <a href="/wiki/Overshoot_(signal)" title="Overshoot (signal)">overshoot</a> and undershoot, which is when the output takes on values higher than the maximum (respectively, lower than the minimum) input value: one can have one without the other, but in important cases, such as a <a href="/wiki/Low-pass_filter" title="Low-pass filter">low-pass filter</a>, one first has overshoot, then the response bounces back below the steady-state level, causing the first ring, and then oscillates back and forth above and below the steady-state level. Thus overshoot is the first step of the phenomenon, while ringing is the second and subsequent steps. Due to this close connection, the terms are often conflated, with "ringing" referring to both the initial overshoot and the subsequent rings.
+</p><p>If one has a <a href="/wiki/Linear_time_invariant" class="mw-redirect" title="Linear time invariant">linear time invariant</a> (LTI) filter, then one can understand the filter and ringing in terms of the impulse response (the time domain view), or in terms of its Fourier transform, the <a href="/wiki/Frequency_response" title="Frequency response">frequency response</a> (the frequency domain view). Ringing is a <i>time</i> domain artifact, and in <a href="/wiki/Filter_design" title="Filter design">filter design</a> is traded off with desired frequency domain characteristics: the desired frequency response may cause ringing, while reducing or eliminating ringing may worsen the frequency response.
+</p>
+<h3><span class="mw-headline" id="sinc_filter">sinc filter</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ringing_artifacts&amp;action=edit&amp;section=4" title="Edit section: sinc filter">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Sinc_filter" title="Sinc filter">sinc filter</a></div> 
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Sine_integral.svg" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sine_integral.svg/220px-Sine_integral.svg.png" decoding="async" width="220" height="171" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sine_integral.svg/330px-Sine_integral.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sine_integral.svg/440px-Sine_integral.svg.png 2x" data-file-width="359" data-file-height="279" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Sine_integral.svg" class="internal" title="Enlarge"></a></div>The <a href="/wiki/Sine_integral" class="mw-redirect" title="Sine integral">Sine integral</a> for positive values, exhibiting oscillation.</div></div></div>
+<p>The central example, and often what is meant by "ringing artifacts", is the ideal (<a href="/wiki/Brick-wall_filter" class="mw-redirect" title="Brick-wall filter">brick-wall</a>) <a href="/wiki/Low-pass_filter" title="Low-pass filter">low-pass filter</a>, the <a href="/wiki/Sinc_filter" title="Sinc filter">sinc filter</a>. This has an oscillatory impulse response function, as illustrated above, and the step response – its integral, the <a href="/wiki/Sine_integral" class="mw-redirect" title="Sine integral">sine integral</a> – thus also features oscillations, as illustrated at right.
+</p><p>These ringing artifacts are not results of imperfect implementation or windowing: the ideal low-pass filter, while possessing the desired frequency response, necessarily causes ringing artifacts in the <i>time</i> domain.
+</p>
+<h3><span class="mw-headline" id="Time_domain">Time domain</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ringing_artifacts&amp;action=edit&amp;section=5" title="Edit section: Time domain">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In terms of impulse response, the correspondence between these artifacts and the behavior of the function is as follows:
+</p>
+<ul><li>impulse undershoot is equivalent to the impulse response having negative values,</li>
+<li>impulse ringing (ringing near a point) is precisely equivalent to the impulse response having oscillations, which is equivalent to the derivative of the impulse response alternating between negative and positive values,</li>
+<li>and there is no notion of impulse overshoot, as the unit impulse is assumed to have infinite height (and integral 1 – a <a href="/wiki/Dirac_delta_function" title="Dirac delta function">Dirac delta function</a>), and thus cannot be overshot.</li></ul>
+<p>Turning to step response,
+the step response is the integral of the <a href="/wiki/Impulse_response" title="Impulse response">impulse response</a>; formally, the value of the step response at time <i>a</i> is the integral <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \int _{-\infty }^{a}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msubsup>
+          <mo>&#x222B;<!-- ∫ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2212;<!-- − --></mo>
+            <mi mathvariant="normal">&#x221E;<!-- ∞ --></mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>a</mi>
+          </mrow>
+        </msubsup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \int _{-\infty }^{a}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7089558c32b7549e90d64948fc04af4d6ef9a5ad" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:4.446ex; height:6.009ex;" alt="\int _{{-\infty }}^{a}"></span> of the impulse response. Thus values of the step response can be understood in terms of <i>tail</i> integrals of the impulse response.
+</p><p>Assume that the overall integral of the impulse response is 1, so it sends constant input to the same constant as output – otherwise the filter has <a href="/wiki/Gain_(electronics)" title="Gain (electronics)">gain</a>, and scaling by gain gives an integral of 1.
+</p>
+<ul><li>Step undershoot is equivalent to a tail integral being negative, in which case the magnitude of the undershoot is the value of the tail integral.</li>
+<li>Step overshoot is equivalent to a tail integral being greater than 1, in which case the magnitude of the overshoot is the amount by which the tail integral exceeds 1 – or equivalently the value of the tail in the other direction, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \int _{a}^{\infty },}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msubsup>
+          <mo>&#x222B;<!-- ∫ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>a</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">&#x221E;<!-- ∞ --></mi>
+          </mrow>
+        </msubsup>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \int _{a}^{\infty },}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e302a5e458bec33ea8899de76a7e8683a787f8a9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:4.986ex; height:5.843ex;" alt="\int _{a}^{\infty },"></span> since these add up to 1.</li>
+<li>Step ringing is equivalent to tail integrals alternating between increasing and decreasing – taking derivatives, this is equivalent to the impulse response alternating between positive and negative values.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> Regions where an impulse response are below or above the <i>x</i>-axis (formally, regions between zeros) are called <b>lobes,</b> and the magnitude of an oscillation (from peak to trough) equals the integral of the corresponding lobe.</li></ul>
+<p>The impulse response may have many negative lobes, and thus many oscillations, each yielding a ring, though these decay for practical filters, and thus one generally only sees a few rings, with the first generally being most pronounced.
+</p><p>Note that if the impulse response has small negative lobes and larger positive lobes, then it will exhibit ringing but not undershoot or overshoot: the tail integral will always be between 0 and 1, but will oscillate down at each negative lobe. However, in the sinc filter, the lobes monotonically decrease in magnitude and alternate in sign, as in the <a href="/wiki/Alternating_harmonic_series" class="mw-redirect" title="Alternating harmonic series">alternating harmonic series</a>, and thus tail integrals alternate in sign as well, so it exhibits overshoot as well as ringing.
+</p><p>Conversely, if the impulse response is always nonnegative, so it has no negative lobes – the function is a <a href="/wiki/Probability_distribution" title="Probability distribution">probability distribution</a> – then the step response will exhibit neither ringing nor overshoot or undershoot – it will be a monotonic function growing from 0 to 1, like a <a href="/wiki/Cumulative_distribution_function" title="Cumulative distribution function">cumulative distribution function</a>. Thus the basic solution from the time domain perspective is to use filters with nonnegative impulse response.
+</p>
+<h3><span class="mw-headline" id="Frequency_domain">Frequency domain</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ringing_artifacts&amp;action=edit&amp;section=6" title="Edit section: Frequency domain">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The frequency domain perspective is that ringing is caused by the sharp cut-off in the rectangular <a href="/wiki/Passband" title="Passband">passband</a> in the frequency domain, and thus is reduced by smoother <a href="/wiki/Roll-off" title="Roll-off">roll-off</a>, as discussed below.<sup id="cite_ref-Bankman_1-1" class="reference"><a href="#cite_note-Bankman-1">&#91;1&#93;</a></sup><sup id="cite_ref-MIP_4-0" class="reference"><a href="#cite_note-MIP-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Solutions">Solutions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ringing_artifacts&amp;action=edit&amp;section=7" title="Edit section: Solutions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Solutions depend on the parameters of the problem: if the cause is a low-pass filter, one may choose a different filter design, which reduces artifacts at the expense of worse frequency domain performance. On the other hand, if the cause is a band-limited signal, as in JPEG, one cannot simply replace a filter, and ringing artifacts may prove hard to fix – they are present in <a href="/wiki/JPEG_2000" title="JPEG 2000">JPEG 2000</a> and many audio compression codecs (in the form of <a href="/wiki/Pre-echo" title="Pre-echo">pre-echo</a>), as discussed in the <a href="#Examples">examples</a>.
+</p>
+<h3><span class="mw-headline" id="Low-pass_filter">Low-pass filter</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ringing_artifacts&amp;action=edit&amp;section=8" title="Edit section: Low-pass filter">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:DisNormal01.svg" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/DisNormal01.svg/220px-DisNormal01.svg.png" decoding="async" width="220" height="91" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/DisNormal01.svg/330px-DisNormal01.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/DisNormal01.svg/440px-DisNormal01.svg.png 2x" data-file-width="1700" data-file-height="700" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:DisNormal01.svg" class="internal" title="Enlarge"></a></div>The <a href="/wiki/Gaussian_function" title="Gaussian function">Gaussian function</a> is non-negative and non-oscillating, hence causes no overshoot or ringing.</div></div></div>
+<p>If the cause is the use of a brick-wall low-pass filter, one may replace the filter with one that reduces the time domain artifacts, at the cost of frequency domain performance. This can be analyzed from the time domain or frequency domain perspective.
+</p><p>In the time domain, the cause is an impulse response that oscillates, assuming negative values. This can be resolved by using a filter whose impulse response is non-negative and does not oscillate, but shares desired traits. For example, for a low-pass filter, the <a href="/wiki/Gaussian_filter" title="Gaussian filter">Gaussian filter</a> is non-negative and non-oscillatory, hence causes no ringing. However, it is not as good as a low-pass filter: it rolls off in the passband, and leaks in the <a href="/wiki/Stopband" title="Stopband">stopband</a>: in image terms, a Gaussian filter "blurs" the signal, which reflects the attenuation of desired higher frequency signals in the passband.
+</p><p>A general solution is to use a <a href="/wiki/Window_function" title="Window function">window function</a> on the sinc filter, which cuts off or reduces the negative lobes: these respectively eliminate and reduce overshoot and ringing. Note that truncating some but not all of the lobes eliminates the ringing beyond that point, but does not reduce the amplitude of the ringing that is not truncated (because this is determined by the size of the lobe), and increases the magnitude of the overshoot if the last non-cut lobe is negative, since the magnitude of the overshoot is the integral of the <i>tail,</i> which is no longer canceled by positive lobes.
+</p><p>Further, in practical implementations one at least truncates sinc, otherwise one must use infinitely many data points (or rather, all points of the signal) to compute every point of the output – truncation corresponds to a rectangular window, and makes the filter practically implementable, but the frequency response is no longer perfect.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+In fact, if one takes a brick wall low-pass filter (sinc in time domain, rectangular in frequency domain) and truncates it (multiplies with a rectangular function in the time domain), this convolves the frequency domain with sinc (Fourier transform of the rectangular function) and causes ringing in the <i>frequency</i> domain,<sup id="cite_ref-Chitode_2-1" class="reference"><a href="#cite_note-Chitode-2">&#91;2&#93;</a></sup> which is referred to as <i><a href="/wiki/Ripple_(electrical)#Frequency-domain_ripple" title="Ripple (electrical)">ripple</a>.</i> In symbols, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\mathcal {F}}(\mathrm {sinc} \cdot \mathrm {rect} )=\mathrm {rect} *\mathrm {sinc} .}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi class="MJX-tex-caligraphic" mathvariant="script">F</mi>
+          </mrow>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">s</mi>
+          <mi mathvariant="normal">i</mi>
+          <mi mathvariant="normal">n</mi>
+          <mi mathvariant="normal">c</mi>
+        </mrow>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">r</mi>
+          <mi mathvariant="normal">e</mi>
+          <mi mathvariant="normal">c</mi>
+          <mi mathvariant="normal">t</mi>
+        </mrow>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">r</mi>
+          <mi mathvariant="normal">e</mi>
+          <mi mathvariant="normal">c</mi>
+          <mi mathvariant="normal">t</mi>
+        </mrow>
+        <mo>&#x2217;<!-- ∗ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">s</mi>
+          <mi mathvariant="normal">i</mi>
+          <mi mathvariant="normal">n</mi>
+          <mi mathvariant="normal">c</mi>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\mathcal {F}}(\mathrm {sinc} \cdot \mathrm {rect} )=\mathrm {rect} *\mathrm {sinc} .}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5e585f6a7e665916b45296268551778a68cb5af7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:26.893ex; height:2.843ex;" alt="{\mathcal  {F}}({\mathrm  {sinc}}\cdot {\mathrm  {rect}})={\mathrm  {rect}}*{\mathrm  {sinc}}."></span> The frequency ringing in the stopband is also referred to as <a href="/wiki/Side_lobe" class="mw-redirect" title="Side lobe">side lobes</a>. Flat response in the passband is desirable, so one windows with functions whose Fourier transform has fewer oscillations, so the frequency domain behavior is better.
+</p><p>Multiplication in the time domain corresponds to convolution in the frequency domain, so multiplying a filter by a window function corresponds to convolving the Fourier transform of the original filter by the Fourier transform of the window, which has a smoothing effect – thus windowing in the time domain corresponds to smoothing in the frequency domain, and reduces or eliminates overshoot and ringing.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>In the <a href="/wiki/Frequency_domain" title="Frequency domain">frequency domain</a>, the cause can be interpreted as due to the sharp (brick-wall) cut-off, and ringing reduced by using a filter with smoother roll-off.<sup id="cite_ref-Bankman_1-2" class="reference"><a href="#cite_note-Bankman-1">&#91;1&#93;</a></sup> This is the case for the Gaussian filter, whose magnitude <a href="/wiki/Bode_plot" title="Bode plot">Bode plot</a> is a downward opening parabola (quadratic roll-off), as its Fourier transform is again a Gaussian, hence (up to scale) <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle e^{-x^{2}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>e</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2212;<!-- − --></mo>
+            <msup>
+              <mi>x</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn>
+              </mrow>
+            </msup>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle e^{-x^{2}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/da5decb0035215bdd45d3d40b4b2c3a158d00fc8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:4.366ex; height:3.009ex;" alt="e^{-x^{2}}"></span> – taking logarithms yields <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle -x^{2}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>&#x2212;<!-- − --></mo>
+        <msup>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle -x^{2}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c096ac8c78b40503d5fd9093f71185142423705c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.505ex; width:4.839ex; height:2.843ex;" alt="-x^{2}."></span>
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox" style="float: right; clear: right; margin:0 0 1.5em 1.5em"><tbody><tr><th colspan="2" class="infobox-above" style="font-size:115%">External image</th></tr><tr><td colspan="2" class="infobox-full-data" style="text-align: left"><img alt="image icon" src="//upload.wikimedia.org/wikipedia/en/thumb/6/61/Searchtool.svg/16px-Searchtool.svg.png" decoding="async" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/61/Searchtool.svg/24px-Searchtool.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/61/Searchtool.svg/32px-Searchtool.svg.png 2x" data-file-width="512" data-file-height="512" /> <a rel="nofollow" class="external text" href="https://books.google.com/books?id=dunqt1rt4sAC&amp;pg=RA4-PA332">Butterworth filter impulse response and frequency response graphs</a><sup id="cite_ref-OpAmp_7-0" class="reference"><a href="#cite_note-OpAmp-7">&#91;7&#93;</a></sup></td></tr></tbody></table>
+<p>In <a href="/wiki/Electronic_filter" title="Electronic filter">electronic filters</a>, the trade-off between frequency domain response and time domain ringing artifacts is well-illustrated by the <a href="/wiki/Butterworth_filter" title="Butterworth filter">Butterworth filter</a>: the frequency response of a Butterworth filter slopes down linearly on the log scale, with a first-order filter having slope of −6 <a href="/wiki/Decibel" title="Decibel">dB</a> per <a href="/wiki/Octave" title="Octave">octave</a>, a second-order filter –12&#160;dB per octave, and an <i>n</i>th order filter having slope of <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle -6n}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>6</mn>
+        <mi>n</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle -6n}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ed40bd92688d4d65b4ec8e74aeef0e0032f51683" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.505ex; width:4.365ex; height:2.343ex;" alt="-6n"></span> dB per octave – in the limit, this approaches a brick-wall filter. Thus, among these the, first-order filter rolls off slowest, and hence exhibits the fewest time domain artifacts, but leaks the most in the stopband, while as order increases, the leakage decreases, but artifacts increase.<sup id="cite_ref-MIP_4-1" class="reference"><a href="#cite_note-MIP-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Benefits">Benefits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ringing_artifacts&amp;action=edit&amp;section=9" title="Edit section: Benefits">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>While ringing artifacts are generally considered undesirable, the initial overshoot (haloing) at transitions increases <a href="/wiki/Acutance" title="Acutance">acutance</a> (apparent sharpness) by increasing the derivative across the transition, and thus can be considered as an enhancement.<sup id="cite_ref-mitchell_8-0" class="reference"><a href="#cite_note-mitchell-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Related_phenomena">Related phenomena</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ringing_artifacts&amp;action=edit&amp;section=10" title="Edit section: Related phenomena">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Overshoot">Overshoot</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ringing_artifacts&amp;action=edit&amp;section=11" title="Edit section: Overshoot">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Overshoot_(signal)" title="Overshoot (signal)">Overshoot (signal)</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Sinc_function_(normalized).svg" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sinc_function_%28normalized%29.svg/220px-Sinc_function_%28normalized%29.svg.png" decoding="async" width="220" height="151" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sinc_function_%28normalized%29.svg/330px-Sinc_function_%28normalized%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sinc_function_%28normalized%29.svg/440px-Sinc_function_%28normalized%29.svg.png 2x" data-file-width="908" data-file-height="623" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Sinc_function_(normalized).svg" class="internal" title="Enlarge"></a></div>The sinc function has negative tail integrals, hence has overshoot.</div></div></div>
+<p>Another artifact is <a href="/wiki/Overshoot_(signal)" title="Overshoot (signal)">overshoot</a> (and undershoot), which manifests itself not as rings, but as an increased jump at the transition.   It is related to ringing, and often occurs in combination with it.
+</p><p>Overshoot and undershoot are caused by a negative tail – in the sinc, the integral from the first zero to infinity, including the first negative lobe.  While ringing is caused by a following <i>positive</i> tail – in sinc, the integral from the second zero to infinity, including the first non-central positive lobe.
+Thus overshoot is <i>necessary</i> for ringing,<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Accuracy_dispute#Disputed_statement" title="Wikipedia:Accuracy dispute"><span title="The material near this tag is possibly inaccurate or nonfactual. (July 2013)">dubious</span></a>&#32;<span class="metadata"> &#8211; <a href="/wiki/Talk:Ringing_artifacts#Dubious" title="Talk:Ringing artifacts">discuss</a></span></i>&#93;</sup> but can occur separately: for example, the 2-lobed <a href="/wiki/Lanczos_filter" class="mw-redirect" title="Lanczos filter">Lanczos filter</a> has only a single negative lobe on each side, with no following positive lobe, and thus exhibits overshoot but no ringing, while the 3-lobed Lanczos filter exhibits both overshoot and ringing, though the windowing reduces this compared to the sinc filter or the truncated sinc filter.
+</p><p>Similarly, the convolution kernel used in <a href="/wiki/Bicubic_interpolation" title="Bicubic interpolation">bicubic interpolation</a> is similar to a 2-lobe windowed sinc, taking on negative values, and thus produces overshoot artifacts, which appear as halos at transitions.
+</p>
+<h3><span class="mw-headline" id="Clipping">Clipping</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ringing_artifacts&amp;action=edit&amp;section=12" title="Edit section: Clipping">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Clipping_(audio)" title="Clipping (audio)">Clipping (audio)</a></div>
+<p>Following from overshoot and undershoot is <a href="/wiki/Clipping_(audio)" title="Clipping (audio)">clipping</a>.
+If the signal is bounded, for instance an 8-bit or 16-bit integer, this overshoot and undershoot can exceed the range of permissible values, thus causing clipping.
+</p><p>Strictly speaking, the clipping is caused by the combination of overshoot and limited numerical accuracy, but it is closely associated with ringing, and often occurs in combination with it.
+</p><p>Clipping can also occur for unrelated reasons, from a signal simply exceeding the range of a channel.
+</p><p>On the other hand, clipping can be exploited to conceal ringing in images. Some modern JPEG codecs, such as <a href="/wiki/Mozjpeg" class="mw-redirect" title="Mozjpeg">mozjpeg</a> and <a href="/wiki/ISO_libjpeg" class="mw-redirect" title="ISO libjpeg">ISO libjpeg</a>, use such a trick to reduce ringing by deliberately causing overshoots in the IDCT results.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> This idea originated in a mozjpeg patch.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Ringing_and_ripple">Ringing and ripple</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ringing_artifacts&amp;action=edit&amp;section=13" title="Edit section: Ringing and ripple">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Main articles: <a href="/wiki/Ringing_(signal)" title="Ringing (signal)">Ringing (signal)</a> and <a href="/wiki/Ripple_(filters)" class="mw-redirect" title="Ripple (filters)">Ripple (filters)</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Chebyscheff5.svg" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Chebyscheff5.svg/220px-Chebyscheff5.svg.png" decoding="async" width="220" height="162" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Chebyscheff5.svg/330px-Chebyscheff5.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Chebyscheff5.svg/440px-Chebyscheff5.svg.png 2x" data-file-width="435" data-file-height="320" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Chebyscheff5.svg" class="internal" title="Enlarge"></a></div>Frequency response of a 5th order <a href="/wiki/Chebyshev_filter" title="Chebyshev filter">Chebyshev filter</a>, exhibiting <a href="/wiki/Ripple_(electrical)#Frequency-domain_ripple" title="Ripple (electrical)">ripple</a>.</div></div></div>
+<p>In signal processing and related fields, the general phenomenon of time domain oscillation is called <b><a href="/wiki/Ringing_(signal)" title="Ringing (signal)">ringing</a>,</b> while frequency domain oscillations are generally called <b><a href="/wiki/Ripple_(electrical)#Frequency-domain_ripple" title="Ripple (electrical)">ripple</a>,</b> though generally not "rippling".
+</p><p>A key source of ripple in digital signal processing is the use of <a href="/wiki/Window_function" title="Window function">window functions</a>: if one takes an <a href="/wiki/Infinite_impulse_response" title="Infinite impulse response">infinite impulse response</a> (IIR) filter, such as the sinc filter, and windows it to make it have <a href="/wiki/Finite_impulse_response" title="Finite impulse response">finite impulse response</a>, as in the <a href="/wiki/Window_design_method" class="mw-redirect" title="Window design method">window design method</a>, then the frequency response of the resulting filter is the convolution of the frequency response of the IIR filter with the frequency response of the window function. Notably, the frequency response of the rectangular filter is the sinc function (the rectangular function and the sinc function are <a href="/wiki/Conjugate_variables" title="Conjugate variables">Fourier dual</a> to each other), and thus truncation of a filter in the time domain corresponds to multiplication by the rectangular filter, thus convolution by the sinc filter in the frequency domain, causing ripple. In symbols, the frequency response of <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathrm {rect} (t)\cdot h(t)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">r</mi>
+          <mi mathvariant="normal">e</mi>
+          <mi mathvariant="normal">c</mi>
+          <mi mathvariant="normal">t</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mi>h</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {rect} (t)\cdot h(t)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/098f1f454a1a25aeaee36a6b2d212e8886cb385f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:12.197ex; height:2.843ex;" alt="{\mathrm  {rect}}(t)\cdot h(t)"></span> is <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathrm {sinc} (t)*{\hat {h}}(t).}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">s</mi>
+          <mi mathvariant="normal">i</mi>
+          <mi mathvariant="normal">n</mi>
+          <mi mathvariant="normal">c</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>&#x2217;<!-- ∗ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mover>
+              <mi>h</mi>
+              <mo stretchy="false">&#x005E;<!-- ^ --></mo>
+            </mover>
+          </mrow>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {sinc} (t)*{\hat {h}}(t).}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e45ef2aec340073c7c38164fe48e4845d6a129fc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:13.366ex; height:3.343ex;" alt="{\mathrm  {sinc}}(t)*{\hat  h}(t)."></span> In particular, truncating the sinc function itself yields <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathrm {rect} (t)\cdot \mathrm {sinc} (t)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">r</mi>
+          <mi mathvariant="normal">e</mi>
+          <mi mathvariant="normal">c</mi>
+          <mi mathvariant="normal">t</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">s</mi>
+          <mi mathvariant="normal">i</mi>
+          <mi mathvariant="normal">n</mi>
+          <mi mathvariant="normal">c</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {rect} (t)\cdot \mathrm {sinc} (t)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b7cb5738d2081c85a35b47eb3e728260e0e6baab" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:14.746ex; height:2.843ex;" alt="{\mathrm  {rect}}(t)\cdot {\mathrm  {sinc}}(t)"></span> in the time domain, and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathrm {sinc} (t)*\mathrm {rect} (t)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">s</mi>
+          <mi mathvariant="normal">i</mi>
+          <mi mathvariant="normal">n</mi>
+          <mi mathvariant="normal">c</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>&#x2217;<!-- ∗ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">r</mi>
+          <mi mathvariant="normal">e</mi>
+          <mi mathvariant="normal">c</mi>
+          <mi mathvariant="normal">t</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {sinc} (t)*\mathrm {rect} (t)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2a1d0727d72bdda8c9ba872fdb347da1e053dfe2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:15.262ex; height:2.843ex;" alt="{\mathrm  {sinc}}(t)*{\mathrm  {rect}}(t)"></span> in the frequency domain, so just as low-pass filtering (truncating in the frequency domain) causes <i>ringing</i> in the time domain, truncating in the time domain (windowing by a rectangular filter) causes <i>ripple</i> in the frequency domain.
+</p>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ringing_artifacts&amp;action=edit&amp;section=14" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="JPEG">JPEG</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ringing_artifacts&amp;action=edit&amp;section=15" title="Edit section: JPEG">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Asterisk_with_jpg-artefacts.png" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Asterisk_with_jpg-artefacts.png/220px-Asterisk_with_jpg-artefacts.png" decoding="async" width="220" height="193" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Asterisk_with_jpg-artefacts.png/330px-Asterisk_with_jpg-artefacts.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Asterisk_with_jpg-artefacts.png/440px-Asterisk_with_jpg-artefacts.png 2x" data-file-width="897" data-file-height="785" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Asterisk_with_jpg-artefacts.png" class="internal" title="Enlarge"></a></div>Extreme example of JPEG artifacts, including ringing: cyan (= white minus red) rings around a red star.</div></div></div>
+<p><a href="/wiki/JPEG" title="JPEG">JPEG</a> compression can introduce ringing artifacts at sharp transitions, which are particularly visible in text.
+</p><p>This is a due to loss of high frequency components, as in step response ringing.
+<a href="/wiki/JPEG#Block_splitting" title="JPEG">JPEG uses 8×8 blocks</a>, on which the <a href="/wiki/Discrete_cosine_transform" title="Discrete cosine transform">discrete cosine transform</a> (DCT) is performed. The DCT is a <a href="/wiki/Fourier-related_transform" class="mw-redirect" title="Fourier-related transform">Fourier-related transform</a>, and ringing occurs because of loss of high frequency components or loss of precision in high frequency components.
+</p><p>They can also occur at the edge of an image: since JPEG splits images into 8×8 blocks, if an image is not an integer number of blocks, the edge cannot easily be encoded, and solutions such as filling with a black border create a sharp transition in the source, hence ringing artifacts in the encoded image.
+</p><p>Ringing also occurs in the <a href="/wiki/Wavelet" title="Wavelet">wavelet</a>-based <a href="/wiki/JPEG_2000" title="JPEG 2000">JPEG 2000</a>.
+</p><p>JPEG and JPEG 2000 have other artifacts, as illustrated above, such as blocking ("<a href="/wiki/Jaggies" title="Jaggies">jaggies</a>") and edge busyness ("<a href="/wiki/Mosquito_noise" class="mw-redirect" title="Mosquito noise">mosquito noise</a>"), though these are due to specifics of the formats, and are not ringing as discussed here.
+</p><p>Some illustrations:
+</p>
+<ul><li><a rel="nofollow" class="external text" href="http://www.stat.columbia.edu/~jakulin/jpeg/artifacts.htm">Baseline JPEG and JPEG2000 Artifacts Illustrated</a></li></ul>
+<table class="wikitable" style="text-align:center">
+<tbody><tr>
+<th>Image</th>
+<th>Lossless compression</th>
+<th>Lossy compression
+</th></tr>
+<tr>
+<th>Original
+</th>
+<td><a href="/wiki/File:Lossless-circle.png" class="image"><img alt="Lossless-circle.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lossless-circle.png/100px-Lossless-circle.png" decoding="async" width="100" height="99" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lossless-circle.png/150px-Lossless-circle.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lossless-circle.png/200px-Lossless-circle.png 2x" data-file-width="208" data-file-height="205" /></a></td>
+<td><a href="/wiki/File:Lossy-circle.jpg" class="image"><img alt="Lossy-circle.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Lossy-circle.jpg/100px-Lossy-circle.jpg" decoding="async" width="100" height="99" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Lossy-circle.jpg/150px-Lossy-circle.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Lossy-circle.jpg/200px-Lossy-circle.jpg 2x" data-file-width="208" data-file-height="205" /></a>
+</td></tr>
+<tr>
+<th>Processed by<br /><a href="/wiki/Canny_edge_detector" title="Canny edge detector">Canny edge detector</a>,<br />highlighting artifacts.
+</th>
+<td><a href="/wiki/File:Lossless-circle-canny.png" class="image"><img alt="Lossless-circle-canny.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Lossless-circle-canny.png/100px-Lossless-circle-canny.png" decoding="async" width="100" height="99" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Lossless-circle-canny.png/150px-Lossless-circle-canny.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Lossless-circle-canny.png/200px-Lossless-circle-canny.png 2x" data-file-width="208" data-file-height="205" /></a></td>
+<td><a href="/wiki/File:Lossy-circle-canny.png" class="image"><img alt="Lossy-circle-canny.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Lossy-circle-canny.png/100px-Lossy-circle-canny.png" decoding="async" width="100" height="99" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Lossy-circle-canny.png/150px-Lossy-circle-canny.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Lossy-circle-canny.png/200px-Lossy-circle-canny.png 2x" data-file-width="208" data-file-height="205" /></a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Pre-echo">Pre-echo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ringing_artifacts&amp;action=edit&amp;section=16" title="Edit section: Pre-echo">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Pre-echo" title="Pre-echo">Pre-echo</a></div>
+<p>In <a href="/wiki/Audio_signal_processing" title="Audio signal processing">audio signal processing</a>, ringing can cause echoes to occur before and after <a href="/wiki/Transient_(acoustics)" title="Transient (acoustics)">transients</a>, such as the impulsive sound from <a href="/wiki/Percussion_instrument" title="Percussion instrument">percussion instruments</a>, such as <a href="/wiki/Cymbal" title="Cymbal">cymbals</a> (this is <i>impulse</i> ringing). The (<a href="/wiki/Causal_filter" title="Causal filter">causal</a>) echo after the transient is not heard, because it is masked by the 
+transient, an effect called <a href="/wiki/Temporal_masking" class="mw-redirect" title="Temporal masking">temporal masking</a>. Thus only the (<a href="/wiki/Anti-causal_filter" class="mw-redirect" title="Anti-causal filter">anti-causal</a>) echo before the transient is heard, and the phenomenon is called <a href="/wiki/Pre-echo" title="Pre-echo">pre-echo</a>.
+</p><p>This phenomenon occurs as a <a href="/wiki/Compression_artifact" title="Compression artifact">compression artifact</a> in audio compression algorithms that use <a href="/wiki/Fourier-related_transforms" class="mw-redirect" title="Fourier-related transforms">Fourier-related transforms</a>, such as <a href="/wiki/MP3" title="MP3">MP3</a>, <a href="/wiki/Advanced_Audio_Coding" title="Advanced Audio Coding">AAC</a>, and <a href="/wiki/Vorbis" title="Vorbis">Vorbis</a>.
+</p>
+<h2><span class="mw-headline" id="Similar_phenomena">Similar phenomena</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ringing_artifacts&amp;action=edit&amp;section=17" title="Edit section: Similar phenomena">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Other phenomena have similar symptoms to ringing, but are otherwise distinct in their causes. In cases where these cause circular artifacts around point sources, these may be referred to as "rings" due to the round shape (formally, an <a href="/wiki/Annulus_(mathematics)" title="Annulus (mathematics)">annulus</a>), which is unrelated to the "ringing" (oscillatory decay) frequency phenomenon discussed on this page.
+</p>
+<h3><span class="mw-headline" id="Edge_enhancement">Edge enhancement</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ringing_artifacts&amp;action=edit&amp;section=18" title="Edit section: Edge enhancement">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Edge_enhancement" title="Edge enhancement">Edge enhancement</a></div>
+<p><a href="/wiki/Edge_enhancement" title="Edge enhancement">Edge enhancement</a>, which aims to increase edges, may cause ringing phenomena, particularly under repeated application, such as by a DVD player followed by a television. This may be done by <i>high</i>-pass filtering, rather than low-pass filtering.<sup id="cite_ref-MIP_4-2" class="reference"><a href="#cite_note-MIP-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Special_functions">Special functions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ringing_artifacts&amp;action=edit&amp;section=19" title="Edit section: Special functions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Airy-pattern.svg" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Airy-pattern.svg/220px-Airy-pattern.svg.png" decoding="async" width="220" height="163" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Airy-pattern.svg/330px-Airy-pattern.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Airy-pattern.svg/440px-Airy-pattern.svg.png 2x" data-file-width="283" data-file-height="210" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Airy-pattern.svg" class="internal" title="Enlarge"></a></div>The <a href="/wiki/Airy_pattern" class="mw-redirect" title="Airy pattern">Airy pattern</a>, caused by <a href="/wiki/Fraunhofer_diffraction" title="Fraunhofer diffraction">Fraunhofer diffraction</a>.</div></div></div>
+<p>Many <a href="/wiki/Special_functions" title="Special functions">special functions</a> exhibit oscillatory decay, and thus convolving with such a function yields ringing in the output; one may consider these ringing, or restrict the term to unintended artifacts in frequency domain signal processing.
+</p><p><a href="/wiki/Fraunhofer_diffraction" title="Fraunhofer diffraction">Fraunhofer diffraction</a> yields the <a href="/wiki/Airy_disk" title="Airy disk">Airy disk</a> as <a href="/wiki/Point_spread_function" title="Point spread function">point spread function</a>, which has a ringing pattern.
+</p><p>The <a href="/wiki/Bessel_function" title="Bessel function">Bessel function</a> of the first kind, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle J_{0},}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>J</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle J_{0},}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c414bc5b762624cdeddb01f1463f806246eeccff" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.991ex; height:2.509ex;" alt="J_{0},"></span> which is related to the <a href="/wiki/Airy_function" title="Airy function">Airy function</a>, exhibits such decay.
+</p><p>In cameras, a combination of <a href="/wiki/Defocus" class="mw-redirect" title="Defocus">defocus</a> and <a href="/wiki/Spherical_aberration" title="Spherical aberration">spherical aberration</a> can yield circular artifacts ("ring" patterns). However, the pattern of these artifacts need not be similar to ringing (as discussed on this page) – they may exhibit oscillatory decay (circles of decreasing intensity), or other intensity patterns, such as a single bright band.
+</p>
+<h3><span class="mw-headline" id="Interference">Interference</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ringing_artifacts&amp;action=edit&amp;section=20" title="Edit section: Interference">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Ghosting_(television)" title="Ghosting (television)">Ghosting</a> is a form of <a href="/wiki/Television_interference" title="Television interference">television interference</a> where an image is repeated. Though this is not ringing, it can be interpreted as convolution with a function, which is 1 at the origin and ε (the intensity of the ghost) at some distance, which is formally similar to the above functions (a single discrete peak, rather than continuous oscillation).
+</p>
+<h3><span class="mw-headline" id="Lens_flare">Lens flare</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ringing_artifacts&amp;action=edit&amp;section=21" title="Edit section: Lens flare">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/Lens_flare" title="Lens flare">Lens flare</a></div>
+<p>In photography, <a href="/wiki/Lens_flare" title="Lens flare">lens flare</a> is a defect where various circles can appear around highlights, and with ghosts throughout a photo, due to undesired light, such as reflection and scattering off elements in the lens.
+</p>
+<h3><span class="mw-headline" id="Visual_illusions">Visual illusions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ringing_artifacts&amp;action=edit&amp;section=22" title="Edit section: Visual illusions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Visual illusions can occur at transitions, as in <a href="/wiki/Mach_bands" title="Mach bands">Mach bands</a>, which perceptually exhibit a similar undershoot/overshoot to the Gibbs phenomenon.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ringing_artifacts&amp;action=edit&amp;section=23" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1147244281">.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><div class="div-col">
+<ul><li><a href="/wiki/Artifact_(error)" title="Artifact (error)">Artifact (error)</a></li>
+<li><a href="/wiki/Digital_artifact" title="Digital artifact">Digital artifact</a></li>
+<li><a href="/wiki/Sinc_filter" title="Sinc filter">sinc filter</a></li>
+<li><a href="/wiki/Brick-wall_filter" class="mw-redirect" title="Brick-wall filter">Brick-wall filter</a></li>
+<li><a href="/wiki/Chromatic_aberration" title="Chromatic aberration">Chromatic aberration</a></li>
+<li><a href="/wiki/Ghosting_(television)" title="Ghosting (television)">Ghosting (television)</a></li>
+<li><a href="/wiki/Gibbs_phenomenon" title="Gibbs phenomenon">Gibbs phenomenon</a></li>
+<li><a href="/wiki/Low-pass_filter" title="Low-pass filter">Low-pass filter</a></li>
+<li><a href="/wiki/Pre-echo" title="Pre-echo">Pre-echo</a></li>
+<li><a href="/wiki/Purple_fringing" title="Purple fringing">Purple fringing</a></li></ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ringing_artifacts&amp;action=edit&amp;section=24" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Bankman-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Bankman_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Bankman_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Bankman_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFBankman2000" class="citation cs2">Bankman, Isaac N. (2000), <a rel="nofollow" class="external text" href="https://books.google.com/books?id=UHkkPBnhT-MC"><i>Handbook of medical imaging</i></a>, Academic Press, <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-12-077790-7" title="Special:BookSources/978-0-12-077790-7"><bdi>978-0-12-077790-7</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Handbook+of+medical+imaging&amp;rft.pub=Academic+Press&amp;rft.date=2000&amp;rft.isbn=978-0-12-077790-7&amp;rft.aulast=Bankman&amp;rft.aufirst=Isaac+N.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DUHkkPBnhT-MC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARinging+artifacts" class="Z3988"></span>, section I.6, Enhancement: Frequency Domain Techniques, <a rel="nofollow" class="external text" href="https://books.google.com/books?id=UHkkPBnhT-MC&amp;pg=RA3-PA16#PRA3-PA16,M1">p. 16</a></span>
+</li>
+<li id="cite_note-Chitode-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Chitode_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Chitode_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=LbUFjehqSdwC">Digital Signal Processing</a>, by J.S.Chitode, Technical Publications, 2008, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-81-8431-346-8" title="Special:BookSources/978-81-8431-346-8">978-81-8431-346-8</a>, <a rel="nofollow" class="external text" href="https://books.google.com/books?id=LbUFjehqSdwC&amp;pg=RA3-PA1-IA104#PRA3-PA1-IA103,M1">4&#160;-&#160;70</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFGlassner2004" class="citation cs2">Glassner, Andrew S (2004), <a rel="nofollow" class="external text" href="https://books.google.com/books?id=6KUsFm7L-LQC"><i>Principles of Digital Image Synthesis</i></a> (2&#160;ed.), Morgan Kaufmann, <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-55860-276-2" title="Special:BookSources/978-1-55860-276-2"><bdi>978-1-55860-276-2</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Principles+of+Digital+Image+Synthesis&amp;rft.edition=2&amp;rft.pub=Morgan+Kaufmann&amp;rft.date=2004&amp;rft.isbn=978-1-55860-276-2&amp;rft.aulast=Glassner&amp;rft.aufirst=Andrew+S&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D6KUsFm7L-LQC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARinging+artifacts" class="Z3988"></span>, <a rel="nofollow" class="external text" href="https://books.google.com/books?id=6KUsFm7L-LQC&amp;pg=PA518#PPA518,M1">p. 518</a></span>
+</li>
+<li id="cite_note-MIP-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-MIP_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-MIP_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-MIP_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=uGWmR0f_350C">Microscope Image Processing</a>, by Qiang Wu,  Fatima Merchant,  Kenneth Castleman, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-12-372578-3" title="Special:BookSources/978-0-12-372578-3">978-0-12-372578-3</a> <a rel="nofollow" class="external text" href="https://books.google.com/books?id=uGWmR0f_350C&amp;pg=RA1-PA71">p. 71</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">(<a href="#CITEREFAllenMills2004">Allen &amp; Mills 2004</a>) Section 9.3.1.1 Ideal Filters: Low pass, <a rel="nofollow" class="external text" href="https://books.google.com/books?id=ZmyKvXQmQwIC&amp;pg=PA621">p. 621</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">(<a href="#CITEREFAllenMills2004">Allen &amp; Mills 2004</a>) <a rel="nofollow" class="external text" href="https://books.google.com/books?id=ZmyKvXQmQwIC&amp;pg=PA623">p. 623</a></span>
+</li>
+<li id="cite_note-OpAmp-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-OpAmp_7-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=dunqt1rt4sAC">Op Amp applications handbook</a>,
+by Walter G. Jung, Newnes, 2004,
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7506-7844-5" title="Special:BookSources/978-0-7506-7844-5">978-0-7506-7844-5</a>, <a rel="nofollow" class="external text" href="https://books.google.com/books?id=dunqt1rt4sAC&amp;pg=RA4-PA332">p. 332</a></span>
+</li>
+<li id="cite_note-mitchell-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-mitchell_8-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMitchellNetravali,_Arun_N.1988" class="citation conference cs1">Mitchell, Don P.; Netravali, Arun N. (August 1988). <a rel="nofollow" class="external text" href="http://www.mentallandscape.com/Papers_siggraph88.pdf"><i>Reconstruction filters in computer-graphics</i></a> <span class="cs1-format">(PDF)</span>. <a rel="nofollow" class="external text" href="http://portal.acm.org/toc.cfm?id=54852&amp;type=proceeding&amp;coll=GUIDE&amp;dl=GUIDE,ACM&amp;CFID=30538218&amp;CFTOKEN=95411512">ACM SIGGRAPH International Conference on Computer Graphics and Interactive Techniques</a>. Vol.&#160;22. pp.&#160;221–228. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1145%2F54852.378514">10.1145/54852.378514</a>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-89791-275-6" title="Special:BookSources/0-89791-275-6"><bdi>0-89791-275-6</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.btitle=Reconstruction+filters+in+computer-graphics&amp;rft.pages=221-228&amp;rft.date=1988-08&amp;rft_id=info%3Adoi%2F10.1145%2F54852.378514&amp;rft.isbn=0-89791-275-6&amp;rft.aulast=Mitchell&amp;rft.aufirst=Don+P.&amp;rft.au=Netravali%2C+Arun+N.&amp;rft_id=http%3A%2F%2Fwww.mentallandscape.com%2FPapers_siggraph88.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARinging+artifacts" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRichter2016" class="citation journal cs1">Richter, Thomas (September 2016). "JPEG on STEROIDS: Common optimization techniques for JPEG image compression". <i>2016 IEEE International Conference on Image Processing (ICIP)</i>: 61–65. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1109%2FICIP.2016.7532319">10.1109/ICIP.2016.7532319</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=2016+IEEE+International+Conference+on+Image+Processing+%28ICIP%29&amp;rft.atitle=JPEG+on+STEROIDS%3A+Common+optimization+techniques+for+JPEG+image+compression&amp;rft.pages=61-65&amp;rft.date=2016-09&amp;rft_id=info%3Adoi%2F10.1109%2FICIP.2016.7532319&amp;rft.aulast=Richter&amp;rft.aufirst=Thomas&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARinging+artifacts" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFLesiński" class="citation web cs1">Lesiński, Kornel. <a rel="nofollow" class="external text" href="https://kornel.ski/deringing/">"Deringing in DCT via overshoot and clipping"</a>. <i>kornel.ski</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=kornel.ski&amp;rft.atitle=Deringing+in+DCT+via+overshoot+and+clipping&amp;rft.aulast=Lesi%C5%84ski&amp;rft.aufirst=Kornel&amp;rft_id=https%3A%2F%2Fkornel.ski%2Fderinging%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARinging+artifacts" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<ul><li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFAllenMills2004" class="citation cs2">Allen, Ronald L.; Mills, Duncan W. (2004), <a rel="nofollow" class="external text" href="https://books.google.com/books?id=ZmyKvXQmQwIC"><i>Signal analysis: time, frequency, scale, and structure</i></a>, Wiley-IEEE, <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-471-23441-8" title="Special:BookSources/978-0-471-23441-8"><bdi>978-0-471-23441-8</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Signal+analysis%3A+time%2C+frequency%2C+scale%2C+and+structure&amp;rft.pub=Wiley-IEEE&amp;rft.date=2004&amp;rft.isbn=978-0-471-23441-8&amp;rft.aulast=Allen&amp;rft.aufirst=Ronald+L.&amp;rft.au=Mills%2C+Duncan+W.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DZmyKvXQmQwIC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARinging+artifacts" class="Z3988"></span></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1411
+Cached time: 20230517025315
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.285 seconds
+Real time usage: 0.436 seconds
+Preprocessor visited node count: 2164/1000000
+Post‐expand include size: 21033/2097152 bytes
+Template argument size: 2739/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 9/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 30322/5000000 bytes
+Lua time usage: 0.136/10.000 seconds
+Lua memory usage: 5902968/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  311.266      1 -total
+ 48.30%  150.357      1 Template:Reflist
+ 22.38%   69.651      3 Template:Citation
+ 15.69%   48.846      1 Template:Short_description
+  9.16%   28.520      1 Template:Dubious
+  8.60%   26.780      2 Template:Pagetype
+  8.36%   26.032      2 Template:Harv
+  7.90%   24.593      1 Template:Fix
+  7.82%   24.340      3 Template:ISBN
+  7.73%   24.066      1 Template:External_media
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:22200477-0!canonical and timestamp 20230517025315 and revision id 1124895200. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ringing_artifacts&amp;oldid=1124895200">https://en.wikipedia.org/w/index.php?title=Ringing_artifacts&amp;oldid=1124895200</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Signal_processing" title="Category:Signal processing">Signal processing</a></li><li><a href="/wiki/Category:Computer_graphic_artifacts" title="Category:Computer graphic artifacts">Computer graphic artifacts</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:All_accuracy_disputes" title="Category:All accuracy disputes">All accuracy disputes</a></li><li><a href="/wiki/Category:Articles_with_disputed_statements_from_July_2013" title="Category:Articles with disputed statements from July 2013">Articles with disputed statements from July 2013</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 1 December 2022, at 02:27<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ringing_artifacts&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class='vector-settings'>
+	
+<button
+	id=""
+	class="mw-ui-button mw-ui-icon-element vector-limited-width-toggle"
+	><span class="mw-ui-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+
+</button>
+
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1354","wgBackendResponseTime":125,"wgPageParseReport":{"limitreport":{"cputime":"0.285","walltime":"0.436","ppvisitednodes":{"value":2164,"limit":1000000},"postexpandincludesize":{"value":21033,"limit":2097152},"templateargumentsize":{"value":2739,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":30322,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  311.266      1 -total"," 48.30%  150.357      1 Template:Reflist"," 22.38%   69.651      3 Template:Citation"," 15.69%   48.846      1 Template:Short_description","  9.16%   28.520      1 Template:Dubious","  8.60%   26.780      2 Template:Pagetype","  8.36%   26.032      2 Template:Harv","  7.90%   24.593      1 Template:Fix","  7.82%   24.340      3 Template:ISBN","  7.73%   24.066      1 Template:External_media"]},"scribunto":{"limitreport-timeusage":{"value":"0.136","limit":"10.000"},"limitreport-memusage":{"value":5902968,"limit":52428800},"limitreport-logs":"anchor_id_list = table#1 {\n    [\"CITEREFAllenMills2004\"] = 1,\n    [\"CITEREFBankman2000\"] = 1,\n    [\"CITEREFGlassner2004\"] = 1,\n    [\"CITEREFLesiński\"] = 1,\n    [\"CITEREFMitchellNetravali,_Arun_N.1988\"] = 1,\n    [\"CITEREFRichter2016\"] = 1,\n}\ntemplate_list = table#1 {\n    [\"About\"] = 1,\n    [\"Citation\"] = 3,\n    [\"Cite conference\"] = 1,\n    [\"Cite journal\"] = 1,\n    [\"Cite web\"] = 1,\n    [\"Colbegin\"] = 1,\n    [\"Colend\"] = 1,\n    [\"Details\"] = 1,\n    [\"Dubious\"] = 1,\n    [\"External media\"] = 1,\n    [\"Harv\"] = 2,\n    [\"ISBN\"] = 3,\n    [\"Main\"] = 6,\n    [\"Reflist\"] = 1,\n    [\"Short description\"] = 1,\n}\narticle_whitelist = table#1 {\n}\n"},"cachereport":{"origin":"mw1411","timestamp":"20230517025315","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Ringing artifacts","url":"https:\/\/en.wikipedia.org\/wiki\/Ringing_artifacts","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7334899","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7334899","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-03-30T01:59:07Z","dateModified":"2022-12-01T02:27:54Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/3b\/Ringing_artifact_example.png","headline":"type of artifact in signal-processing that appears near sharp transitions"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Ringing artifacts","url":"https:\/\/en.wikipedia.org\/wiki\/Ringing_artifacts","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7334899","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7334899","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-03-30T01:59:07Z","dateModified":"2022-12-01T02:27:54Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/3b\/Ringing_artifact_example.png","headline":"type of artifact in signal-processing that appears near sharp transitions"}</script>
+</body>
+</html>

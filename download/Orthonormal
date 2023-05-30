@@ -1,0 +1,1890 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Orthonormality - Wikipedia</title>
+<script>document.documentElement.className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled";(function(){var cookie=document.cookie.match(/(?:^|; )enwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"3828dc99-82a7-49fe-86f5-648d9e0e0d39","wgCSPNonce":false,
+"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Orthonormality","wgTitle":"Orthonormality","wgCurRevisionId":1144510365,"wgRevisionId":1144510365,"wgArticleId":194743,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Linear algebra","Functional analysis"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Orthonormality","wgRelevantArticleId":194743,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Orthonormal","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},
+"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":9000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgInternalRedirectTargetUrl":"/wiki/Orthonormality","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q1411166","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.math.styles":"ready","mediawiki.ui.button":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready",
+"mediawiki.ui.icon":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.ui.button%2Cicon%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.10">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-crossorigin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Orthonormality - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Orthonormality">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Orthonormality&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Orthonormality">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Orthonormality rootpage-Orthonormality skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-main-menu-dropdown mw-ui-icon-flush-left mw-ui-icon-flush-right"  >
+	<input type="checkbox"
+		id="vector-main-menu-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-main-menu-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Main menu"
+		
+	/>
+	<label
+		id="vector-main-menu-dropdown-label"
+		for="vector-main-menu-dropdown-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+
+		<span class="vector-menu-heading-label">Main menu</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box-notice vector-language-sidebar-alert mw-message-box">Language links are at the top of the page across from the title.</div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt=""
+		aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia"
+			src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline"
+			alt="The Free Encyclopedia"
+			src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search"
+	
+		id=""
+		class="mw-ui-button mw-ui-quiet mw-ui-icon-element search-toggle"
+		title="Search Wikipedia [f]"accesskey="f"><span class="mw-ui-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-moved">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Orthonormality" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Orthonormality" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-user-menu mw-ui-icon-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox"
+		id="vector-user-links-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-user-links-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Personal tools"
+		
+	/>
+	<label
+		id="vector-user-links-dropdown-label"
+		for="vector-user-links-dropdown-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Orthonormality" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="mw-ui-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Orthonormality" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="mw-ui-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Intuitive_overview"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Intuitive_overview">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Intuitive overview</div>
+		</a>
+		
+			<button aria-controls="toc-Intuitive_overview-sublist" class="mw-ui-icon mw-ui-icon-wikimedia-expand mw-ui-icon-small vector-toc-toggle">
+				Toggle Intuitive overview subsection
+			</button>
+		
+		<ul id="toc-Intuitive_overview-sublist" class="vector-toc-list">
+			<li id="toc-Simple_example"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Simple_example">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1</span>Simple example</div>
+			</a>
+			
+			<ul id="toc-Simple_example-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Definition"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Definition">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Definition</div>
+		</a>
+		
+		<ul id="toc-Definition-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Significance"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Significance">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Significance</div>
+		</a>
+		
+			<button aria-controls="toc-Significance-sublist" class="mw-ui-icon mw-ui-icon-wikimedia-expand mw-ui-icon-small vector-toc-toggle">
+				Toggle Significance subsection
+			</button>
+		
+		<ul id="toc-Significance-sublist" class="vector-toc-list">
+			<li id="toc-Properties"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Properties">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>Properties</div>
+			</a>
+			
+			<ul id="toc-Properties-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Existence"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Existence">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2</span>Existence</div>
+			</a>
+			
+			<ul id="toc-Existence-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Examples"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Examples">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Examples</div>
+		</a>
+		
+			<button aria-controls="toc-Examples-sublist" class="mw-ui-icon mw-ui-icon-wikimedia-expand mw-ui-icon-small vector-toc-toggle">
+				Toggle Examples subsection
+			</button>
+		
+		<ul id="toc-Examples-sublist" class="vector-toc-list">
+			<li id="toc-Standard_basis"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Standard_basis">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1</span>Standard basis</div>
+			</a>
+			
+			<ul id="toc-Standard_basis-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Real-valued_functions"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Real-valued_functions">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.2</span>Real-valued functions</div>
+			</a>
+			
+			<ul id="toc-Real-valued_functions-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Fourier_series"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Fourier_series">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.3</span>Fourier series</div>
+			</a>
+			
+			<ul id="toc-Fourier_series-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>See also</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Sources"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Sources">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>Sources</div>
+		</a>
+		
+		<ul id="toc-Sources-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="mw-ui-button mw-ui-quiet mw-ui-icon-flush-left mw-ui-icon-element"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="mw-ui-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+				
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-menu vector-dropdown vector-menu-dropdown vector-page-titlebar-toc mw-ui-icon-flush-left"  >
+	<input type="checkbox"
+		id="vector-page-titlebar-toc-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-titlebar-toc"
+		class="vector-menu-checkbox "
+		
+		aria-label="Toggle the table of contents"
+		
+	/>
+	<label
+		id="vector-page-titlebar-toc-label"
+		for="vector-page-titlebar-toc-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+
+		<span class="vector-menu-heading-label">Toggle the table of contents</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Orthonormality</span></h1>
+				
+							
+<div id="p-lang-btn" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox"
+		id="p-lang-btn-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-lang-btn"
+		class="vector-menu-checkbox mw-interlanguage-selector"
+		aria-label="Go to an article in another language. Available in 15 languages"
+		
+		
+	/>
+	<label
+		id="p-lang-btn-label"
+		for="p-lang-btn-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-progressive mw-portlet-lang-heading-15"
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+
+		<span class="vector-menu-heading-label">15 languages</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D8%B9%D8%A7%D9%85%D8%AF_%D9%85%D9%85%D9%86%D8%B8%D9%85" title="تعامد ممنظم – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Ortonormal" title="Ortonormal – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Ortonormalita" title="Ortonormalita – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Ortonormal" title="Ortonormal – Danish" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Ortonormal" title="Ortonormal – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E6%AD%A3%E8%A6%8F%E7%9B%B4%E4%BA%A4%E7%B3%BB" title="正規直交系 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Ortonormal" title="Ortonormal – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Ortonormalno%C5%9B%C4%87" title="Ortonormalność – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Ortonormalidade" title="Ortonormalidade – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Ortonormalitate" title="Ortonormalitate – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Orthonormality" title="Orthonormality – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Ortonormalita" title="Ortonormalita – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Ortonormalnost" title="Ortonormalnost – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Tr%E1%BB%B1c_chu%E1%BA%A9n" title="Trực chuẩn – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E6%AD%A3%E4%BA%A4%E8%A7%84%E8%8C%83%E6%80%A7" title="正交规范性 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li></ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1411166#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+				</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Orthonormality" title="View the content page [c]" accesskey="c" class=""><span>Article</span></a>
+</li>
+<li id="ca-talk" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Talk:Orthonormality" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t" class=""><span>Talk</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+								
+
+<div id="p-variants" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-variants emptyPortlet"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-label="Change language variant"
+		
+		
+	/>
+	<label
+		id="p-variants-label"
+		for="p-variants-checkbox"
+		class="vector-menu-heading "
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+
+	</div>
+</div>
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Orthonormality" class=""><span>Read</span></a>
+</li>
+<li id="ca-edit" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=Orthonormality&amp;action=edit" title="Edit this page [e]" accesskey="e" class=""><span>Edit</span></a>
+</li>
+<li id="ca-history" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=Orthonormality&amp;action=history" title="Past revisions of this page [h]" accesskey="h" class=""><span>View history</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="More options">
+								
+<div id="vector-page-tools-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox"
+		id="vector-page-tools-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-tools-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Tools"
+		
+	/>
+	<label
+		id="vector-page-tools-dropdown-label"
+		for="vector-page-tools-dropdown-checkbox"
+		class="vector-menu-heading "
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-menu-heading-label">Tools</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Orthonormality"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Orthonormality&amp;action=edit"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Orthonormality&amp;action=history"><span>View history</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Orthonormality" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Orthonormality" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Orthonormality&amp;oldid=1144510365" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Orthonormality&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Orthonormality&amp;id=1144510365&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1411166" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Orthonormality&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Orthonormality&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="More options">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"><span class="mw-redirectedfrom">(Redirected from <a href="/w/index.php?title=Orthonormal&amp;redirect=no" class="mw-redirect" title="Orthonormal">Orthonormal</a>)</span></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Property of two or more vectors that are orthogonal and of unit length</div>
+<p>In <a href="/wiki/Linear_algebra" title="Linear algebra">linear algebra</a>, two <a href="/wiki/Vector_space" title="Vector space">vectors</a> in an <a href="/wiki/Inner_product_space" title="Inner product space">inner product space</a> are <b>orthonormal</b> if they are <a href="/wiki/Orthogonality" title="Orthogonality">orthogonal</a> (or perpendicular along a line) <a href="/wiki/Unit_vector" title="Unit vector">unit vectors</a>. A set of vectors form an <b>orthonormal set</b> if all vectors in the set are mutually orthogonal and all of unit length. An orthonormal set which forms a <a href="/wiki/Basis_(linear_algebra)" title="Basis (linear algebra)">basis</a> is called an <a href="/wiki/Orthonormal_basis" title="Orthonormal basis">orthonormal basis</a>.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Intuitive_overview">Intuitive overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orthonormality&amp;action=edit&amp;section=1" title="Edit section: Intuitive overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The construction of <a href="/wiki/Orthogonality" title="Orthogonality">orthogonality</a> of vectors is motivated by a desire to extend the intuitive notion of perpendicular vectors to higher-dimensional spaces. In the <a href="/wiki/Cartesian_coordinate_system#Cartesian_coordinates_in_two_dimensions" title="Cartesian coordinate system">Cartesian plane</a>, two <a href="/wiki/Vector_(geometry)" class="mw-redirect" title="Vector (geometry)">vectors</a> are said to be <i>perpendicular</i> if the angle between them is 90° (i.e. if they form a <a href="/wiki/Right_angle" title="Right angle">right angle</a>).  This definition can be formalized in Cartesian space by defining the <a href="/wiki/Dot_product" title="Dot product">dot product</a> and specifying that two vectors in the plane are orthogonal if their dot product is zero.
+</p><p>Similarly, the construction of the <a href="/wiki/Norm_(mathematics)" title="Norm (mathematics)">norm</a> of a vector is motivated by a desire to extend the intuitive notion of the <a href="/wiki/Norm_(mathematics)#Euclidean_norm" title="Norm (mathematics)">length</a> of a vector to higher-dimensional spaces.  In Cartesian space, the <i>norm</i> of a vector is the square root of the vector dotted with itself.  That is,
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \|\mathbf {x} \|={\sqrt {\mathbf {x} \cdot \mathbf {x} }}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo fence="false" stretchy="false">&#x2016;<!-- ‖ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="bold">x</mi>
+        </mrow>
+        <mo fence="false" stretchy="false">&#x2016;<!-- ‖ --></mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <msqrt>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="bold">x</mi>
+            </mrow>
+            <mo>&#x22C5;<!-- ⋅ --></mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="bold">x</mi>
+            </mrow>
+          </msqrt>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \|\mathbf {x} \|={\sqrt {\mathbf {x} \cdot \mathbf {x} }}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/78c5ff99012396a180ab607d73030e68411a60df" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:13.271ex; height:3.009ex;" alt="\| \mathbf{x} \| = \sqrt{ \mathbf{x} \cdot \mathbf{x}}"></span></dd></dl>
+<p>Many important results in <a href="/wiki/Linear_algebra" title="Linear algebra">linear algebra</a> deal with collections of two or more orthogonal vectors.  But often, it is easier to deal with vectors of <a href="/wiki/Unit_vector" title="Unit vector">unit length</a>.  That is, it often simplifies things to only consider vectors whose norm equals 1.  The notion of restricting orthogonal pairs of vectors to only those of unit length is important enough to be given a special name.  Two vectors which are orthogonal and of length 1 are said to be <i>orthonormal</i>.
+</p>
+<h3><span class="mw-headline" id="Simple_example">Simple example</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orthonormality&amp;action=edit&amp;section=2" title="Edit section: Simple example">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>What does a pair of orthonormal vectors in 2-D Euclidean space look like?
+</p><p>Let <b>u</b> = (x<sub>1</sub>, y<sub>1</sub>) and <b>v</b> = (x<sub>2</sub>, y<sub>2</sub>).
+Consider the restrictions on x<sub>1</sub>, x<sub>2</sub>, y<sub>1</sub>, y<sub>2</sub> required to make <b>u</b> and <b>v</b> form an orthonormal pair.
+</p>
+<ul><li>From the orthogonality restriction, <b>u</b> • <b>v</b> = 0.</li>
+<li>From the unit length restriction on <b>u</b>, ||<b>u</b>|| = 1.</li>
+<li>From the unit length restriction on <b>v</b>, ||<b>v</b>|| = 1.</li></ul>
+<p>Expanding these terms gives 3 equations:
+</p>
+<ol><li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle x_{1}x_{2}+y_{1}y_{2}=0\quad }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <msub>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>y</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <msub>
+          <mi>y</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mn>0</mn>
+        <mspace width="1em" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x_{1}x_{2}+y_{1}y_{2}=0\quad }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/29c3a4a8a612e411fc05e2d09c95a63fe67a76e4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:18.579ex; height:2.509ex;" alt="x_1 x_2 + y_1 y_2 = 0 \quad"></span></li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\sqrt {{x_{1}}^{2}+{y_{1}}^{2}}}=1}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <msqrt>
+            <msup>
+              <mrow class="MJX-TeXAtom-ORD">
+                <msub>
+                  <mi>x</mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mn>1</mn>
+                  </mrow>
+                </msub>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn>
+              </mrow>
+            </msup>
+            <mo>+</mo>
+            <msup>
+              <mrow class="MJX-TeXAtom-ORD">
+                <msub>
+                  <mi>y</mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mn>1</mn>
+                  </mrow>
+                </msub>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn>
+              </mrow>
+            </msup>
+          </msqrt>
+        </mrow>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\sqrt {{x_{1}}^{2}+{y_{1}}^{2}}}=1}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d36735265243284681c9819c1b127c58a14b24ab" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.671ex; width:16.111ex; height:4.843ex;" alt="\sqrt{{x_1}^2 + {y_1}^2} = 1"></span></li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\sqrt {{x_{2}}^{2}+{y_{2}}^{2}}}=1}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <msqrt>
+            <msup>
+              <mrow class="MJX-TeXAtom-ORD">
+                <msub>
+                  <mi>x</mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mn>2</mn>
+                  </mrow>
+                </msub>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn>
+              </mrow>
+            </msup>
+            <mo>+</mo>
+            <msup>
+              <mrow class="MJX-TeXAtom-ORD">
+                <msub>
+                  <mi>y</mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mn>2</mn>
+                  </mrow>
+                </msub>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn>
+              </mrow>
+            </msup>
+          </msqrt>
+        </mrow>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\sqrt {{x_{2}}^{2}+{y_{2}}^{2}}}=1}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1551bb9238998be2d75495ae4323025b5916ec04" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.671ex; width:16.111ex; height:4.843ex;" alt="\sqrt{{x_2}^2 + {y_2}^2} = 1"></span></li></ol>
+<p>Converting from Cartesian to <a href="/wiki/Polar_coordinates" class="mw-redirect" title="Polar coordinates">polar coordinates</a>, and considering Equation <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle (2)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <mn>2</mn>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (2)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/43f88fdd4acbb57a291f9eb9f23ae23a1e492b30" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:2.972ex; height:2.843ex;" alt="(2)"></span> and Equation <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle (3)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <mn>3</mn>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (3)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a0ff45737214013a8e04d59d0de54318086be26a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:2.972ex; height:2.843ex;" alt="(3)"></span> immediately gives the result r<sub>1</sub> = r<sub>2</sub> = 1. In other words, requiring the vectors be of unit length restricts the vectors to lie on the <a href="/wiki/Unit_circle" title="Unit circle">unit circle</a>.
+</p><p>After substitution, Equation <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle (1)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (1)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a25115739469707c4758b189fe310a750092a80a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:2.972ex; height:2.843ex;" alt="(1)"></span> becomes  <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \cos \theta _{1}\cos \theta _{2}+\sin \theta _{1}\sin \theta _{2}=0}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>cos</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <msub>
+          <mi>&#x03B8;<!-- θ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mi>cos</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <msub>
+          <mi>&#x03B8;<!-- θ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <mi>sin</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <msub>
+          <mi>&#x03B8;<!-- θ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mi>sin</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <msub>
+          <mi>&#x03B8;<!-- θ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \cos \theta _{1}\cos \theta _{2}+\sin \theta _{1}\sin \theta _{2}=0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1e4e69fe7b1e1f42e637245991d1af0f5e97797e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:29.936ex; height:2.509ex;" alt=" \cos \theta _1 \cos \theta _2 + \sin \theta _1 \sin \theta _2 = 0"></span>. Rearranging gives <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \tan \theta _{1}=-\cot \theta _{2}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>tan</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <msub>
+          <mi>&#x03B8;<!-- θ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>cot</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <msub>
+          <mi>&#x03B8;<!-- θ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \tan \theta _{1}=-\cot \theta _{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ccfacfa2dc4ec9a0ba8412beefe7070ca6f8e1de" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:16.816ex; height:2.509ex;" alt="\tan \theta _1 = - \cot \theta _2"></span>. Using a <a href="/wiki/List_of_trigonometric_identities#Shifts_and_periodicity" title="List of trigonometric identities">trigonometric identity</a> to convert the <a href="/wiki/Cotangent" class="mw-redirect" title="Cotangent">cotangent</a> term gives
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \tan(\theta _{1})=\tan \left(\theta _{2}+{\tfrac {\pi }{2}}\right)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>tan</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>&#x03B8;<!-- θ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>tan</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <msub>
+              <mi>&#x03B8;<!-- θ --></mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn>
+              </mrow>
+            </msub>
+            <mo>+</mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mstyle displaystyle="false" scriptlevel="0">
+                <mfrac>
+                  <mi>&#x03C0;<!-- π --></mi>
+                  <mn>2</mn>
+                </mfrac>
+              </mstyle>
+            </mrow>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \tan(\theta _{1})=\tan \left(\theta _{2}+{\tfrac {\pi }{2}}\right)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/742564313625329ad5cd932eb03d201a36cb3f95" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.171ex; width:22.665ex; height:3.343ex;" alt=" \tan ( \theta_1 ) = \tan \left( \theta_2 + \tfrac{\pi}{2} \right) "></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \Rightarrow \theta _{1}=\theta _{2}+{\tfrac {\pi }{2}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">&#x21D2;<!-- ⇒ --></mo>
+        <msub>
+          <mi>&#x03B8;<!-- θ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mi>&#x03B8;<!-- θ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mstyle displaystyle="false" scriptlevel="0">
+            <mfrac>
+              <mi>&#x03C0;<!-- π --></mi>
+              <mn>2</mn>
+            </mfrac>
+          </mstyle>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \Rightarrow \theta _{1}=\theta _{2}+{\tfrac {\pi }{2}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d4510ce793c1c19925dd1bb534c8ca42dda2401e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.171ex; width:14.975ex; height:3.176ex;" alt=" \Rightarrow \theta _1 = \theta _2 + \tfrac{\pi}{2} "></span></dd></dl>
+<p>It is clear that in the plane, orthonormal vectors are simply radii of the unit circle whose difference in angles equals 90°.
+</p>
+<h2><span class="mw-headline" id="Definition">Definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orthonormality&amp;action=edit&amp;section=3" title="Edit section: Definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Let <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\mathcal {V}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi class="MJX-tex-caligraphic" mathvariant="script">V</mi>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\mathcal {V}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/47d69f309b6deb2e5008f6130ee11e09bbabd7b6" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.529ex; height:2.176ex;" alt="{\mathcal {V}}"></span> be an <a href="/wiki/Inner-product_space" class="mw-redirect" title="Inner-product space">inner-product space</a>.  A set of vectors
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \left\{u_{1},u_{2},\ldots ,u_{n},\ldots \right\}\in {\mathcal {V}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow>
+          <mo>{</mo>
+          <mrow>
+            <msub>
+              <mi>u</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>1</mn>
+              </mrow>
+            </msub>
+            <mo>,</mo>
+            <msub>
+              <mi>u</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn>
+              </mrow>
+            </msub>
+            <mo>,</mo>
+            <mo>&#x2026;<!-- … --></mo>
+            <mo>,</mo>
+            <msub>
+              <mi>u</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>n</mi>
+              </mrow>
+            </msub>
+            <mo>,</mo>
+            <mo>&#x2026;<!-- … --></mo>
+          </mrow>
+          <mo>}</mo>
+        </mrow>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi class="MJX-tex-caligraphic" mathvariant="script">V</mi>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \left\{u_{1},u_{2},\ldots ,u_{n},\ldots \right\}\in {\mathcal {V}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b9034e221fd1224c8c7797a2f69343c7f3e71a4d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:23.98ex; height:2.843ex;" alt=" \left\{ u_1 , u_2 , \ldots , u_n , \ldots \right\} \in \mathcal{V} "></span></dd></dl>
+<p>is called <b>orthonormal</b> <a href="/wiki/If_and_only_if" title="If and only if">if and only if</a>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \forall i,j:\langle u_{i},u_{j}\rangle =\delta _{ij}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x2200;<!-- ∀ --></mi>
+        <mi>i</mi>
+        <mo>,</mo>
+        <mi>j</mi>
+        <mo>:</mo>
+        <mo fence="false" stretchy="false">&#x27E8;<!-- ⟨ --></mo>
+        <msub>
+          <mi>u</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>u</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>j</mi>
+          </mrow>
+        </msub>
+        <mo fence="false" stretchy="false">&#x27E9;<!-- ⟩ --></mo>
+        <mo>=</mo>
+        <msub>
+          <mi>&#x03B4;<!-- δ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>j</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \forall i,j:\langle u_{i},u_{j}\rangle =\delta _{ij}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7ecf44b5f18b3e183c9b36d3034f56a1213631f8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:18.844ex; height:3.009ex;" alt=" \forall i,j : \langle u_i , u_j \rangle = \delta_{ij} "></span></dd></dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \delta _{ij}\,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03B4;<!-- δ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>j</mi>
+          </mrow>
+        </msub>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \delta _{ij}\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/30ca9f0bd511de6d1e172c92dd7e8d96e7897886" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:2.897ex; height:3.009ex;" alt="\delta_{ij} \,"></span> is the <a href="/wiki/Kronecker_delta" title="Kronecker delta">Kronecker delta</a> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \langle \cdot ,\cdot \rangle }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo fence="false" stretchy="false">&#x27E8;<!-- ⟨ --></mo>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mo>,</mo>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mo fence="false" stretchy="false">&#x27E9;<!-- ⟩ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \langle \cdot ,\cdot \rangle }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9a50080b735975d8001c9552ac2134b49ad534c0" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:4.137ex; height:2.843ex;" alt="\langle \cdot , \cdot \rangle "></span> is the <a href="/wiki/Inner_product" class="mw-redirect" title="Inner product">inner product</a> defined over <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\mathcal {V}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi class="MJX-tex-caligraphic" mathvariant="script">V</mi>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\mathcal {V}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/47d69f309b6deb2e5008f6130ee11e09bbabd7b6" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.529ex; height:2.176ex;" alt="{\mathcal {V}}"></span>.
+</p>
+<h2><span class="mw-headline" id="Significance">Significance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orthonormality&amp;action=edit&amp;section=4" title="Edit section: Significance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Orthonormal sets are not especially significant on their own. However, they display certain features that make them fundamental in exploring the notion of <a href="/wiki/Diagonalizable_matrix" title="Diagonalizable matrix">diagonalizability</a> of certain <a href="/wiki/Linear_map" title="Linear map">operators</a> on vector spaces.
+</p>
+<h3><span class="mw-headline" id="Properties">Properties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orthonormality&amp;action=edit&amp;section=5" title="Edit section: Properties">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Orthonormal sets have certain very appealing properties, which make them particularly easy to work with.
+</p>
+<ul><li><b>Theorem</b>.  If {<b>e</b><sub>1</sub>, <b>e</b><sub>2</sub>, ..., <b>e</b><sub><i>n</i></sub>} is an orthonormal list of vectors, then <div class="mwe-math-element"><div class="mwe-math-mathml-display mwe-math-mathml-a11y" style="display: none;"><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \forall {\textbf {a}}:=[a_{1},\cdots ,a_{n}];\ \|a_{1}{\textbf {e}}_{1}+a_{2}{\textbf {e}}_{2}+\cdots +a_{n}{\textbf {e}}_{n}\|^{2}=|a_{1}|^{2}+|a_{2}|^{2}+\cdots +|a_{n}|^{2}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x2200;<!-- ∀ --></mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mtext mathvariant="bold">a</mtext>
+          </mrow>
+        </mrow>
+        <mo>:=</mo>
+        <mo stretchy="false">[</mo>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <mo>&#x22EF;<!-- ⋯ --></mo>
+        <mo>,</mo>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">]</mo>
+        <mo>;</mo>
+        <mtext>&#xA0;</mtext>
+        <mo fence="false" stretchy="false">&#x2016;<!-- ‖ --></mo>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mtext mathvariant="bold">e</mtext>
+            </mrow>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mtext mathvariant="bold">e</mtext>
+            </mrow>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <mo>&#x22EF;<!-- ⋯ --></mo>
+        <mo>+</mo>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mtext mathvariant="bold">e</mtext>
+            </mrow>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <msup>
+          <mo fence="false" stretchy="false">&#x2016;<!-- ‖ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <msup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">|</mo>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>+</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <msup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">|</mo>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>+</mo>
+        <mo>&#x22EF;<!-- ⋯ --></mo>
+        <mo>+</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <msup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">|</mo>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \forall {\textbf {a}}:=[a_{1},\cdots ,a_{n}];\ \|a_{1}{\textbf {e}}_{1}+a_{2}{\textbf {e}}_{2}+\cdots +a_{n}{\textbf {e}}_{n}\|^{2}=|a_{1}|^{2}+|a_{2}|^{2}+\cdots +|a_{n}|^{2}}</annotation>
+  </semantics>
+</math></div><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4a6fa6833dee116691352686964905035e2ccb39" class="mwe-math-fallback-image-display" aria-hidden="true" style="vertical-align: -0.838ex; width:76.202ex; height:3.343ex;" alt="{\displaystyle \forall {\textbf {a}}:=[a_{1},\cdots ,a_{n}];\ \|a_{1}{\textbf {e}}_{1}+a_{2}{\textbf {e}}_{2}+\cdots +a_{n}{\textbf {e}}_{n}\|^{2}=|a_{1}|^{2}+|a_{2}|^{2}+\cdots +|a_{n}|^{2}}"></div></li>
+<li><b>Theorem</b>. Every orthonormal list of vectors is <a href="/wiki/Linearly_independent" class="mw-redirect" title="Linearly independent">linearly independent</a>.</li></ul>
+<h3><span class="mw-headline" id="Existence">Existence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orthonormality&amp;action=edit&amp;section=6" title="Edit section: Existence">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><b><a href="/wiki/Gram-Schmidt_theorem" class="mw-redirect" title="Gram-Schmidt theorem">Gram-Schmidt theorem</a></b>.  If {<b>v</b><sub>1</sub>, <b>v</b><sub>2</sub>,...,<b>v</b><sub>n</sub>} is a linearly independent list of vectors in an inner-product space <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\mathcal {V}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi class="MJX-tex-caligraphic" mathvariant="script">V</mi>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\mathcal {V}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/47d69f309b6deb2e5008f6130ee11e09bbabd7b6" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.529ex; height:2.176ex;" alt="{\mathcal {V}}"></span>, then there exists an orthonormal list {<b>e</b><sub>1</sub>, <b>e</b><sub>2</sub>,...,<b>e</b><sub>n</sub>} of vectors in <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\mathcal {V}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi class="MJX-tex-caligraphic" mathvariant="script">V</mi>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\mathcal {V}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/47d69f309b6deb2e5008f6130ee11e09bbabd7b6" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.529ex; height:2.176ex;" alt="{\mathcal {V}}"></span> such that <i>span</i>(<b>e</b><sub>1</sub>, <b>e</b><sub>2</sub>,...,<b>e</b><sub>n</sub>) = <i>span</i>(<b>v</b><sub>1</sub>, <b>v</b><sub>2</sub>,...,<b>v</b><sub>n</sub>).</li></ul>
+<p>Proof of the Gram-Schmidt theorem is <a href="/wiki/Constructive_proof" title="Constructive proof">constructive</a>, and <a href="/wiki/Gram-Schmidt_process" class="mw-redirect" title="Gram-Schmidt process">discussed at length</a> elsewhere. The Gram-Schmidt theorem, together with the <a href="/wiki/Axiom_of_choice" title="Axiom of choice">axiom of choice</a>, guarantees that every vector space admits an orthonormal basis. This is possibly the most significant use of orthonormality, as this fact permits <a href="/wiki/Linear_map" title="Linear map">operators</a> on inner-product spaces to be discussed in terms of their action on the space's orthonormal basis vectors.  What results is a deep relationship between the diagonalizability of an operator and how it acts on the orthonormal basis vectors.  This relationship is characterized by the <a href="/wiki/Spectral_theorem" title="Spectral theorem">Spectral Theorem</a>.
+</p>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orthonormality&amp;action=edit&amp;section=7" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Standard_basis">Standard basis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orthonormality&amp;action=edit&amp;section=8" title="Edit section: Standard basis">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Standard_basis" title="Standard basis">standard basis</a> for the <a href="/wiki/Coordinate_space" class="mw-redirect" title="Coordinate space">coordinate space</a> <b>F</b><sup><i>n</i></sup> is
+</p>
+<dl><dd><table>
+
+<tbody><tr>
+<td>{<b>e</b><sub>1</sub>, <b>e</b><sub>2</sub>,...,<b>e</b><sub>n</sub>}&#160;&#160;&#160;where
+</td>
+<td>&#160;&#160;&#160;<b>e</b><sub>1</sub> = (1, 0, ..., 0)
+</td></tr>
+<tr>
+<td>
+</td>
+<td>&#160;&#160;&#160;<b>e</b><sub>2</sub> = (0, 1, ..., 0)
+</td></tr>
+<tr>
+<td>
+</td>
+<td><div class="center" style="width:auto; margin-left:auto; margin-right:auto;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \vdots }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>&#x22EE;<!-- ⋮ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \vdots }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f8039d9feb6596ae092e5305108722975060c083" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:0.647ex; height:3.676ex;" alt="\vdots "></span></div>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>&#160;&#160;&#160;<b>e</b><sub>n</sub> = (0, 0, ..., 1)
+</td></tr></tbody></table></dd></dl>
+<p>Any two vectors <b>e</b><sub>i</sub>, <b>e</b><sub>j</sub> where i≠j are orthogonal, and all vectors are clearly of unit length.  So {<b>e</b><sub>1</sub>, <b>e</b><sub>2</sub>,...,<b>e</b><sub>n</sub>} forms an orthonormal basis.
+</p>
+<h3><span class="mw-headline" id="Real-valued_functions">Real-valued functions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orthonormality&amp;action=edit&amp;section=9" title="Edit section: Real-valued functions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>When referring to <a href="/wiki/Real_number" title="Real number">real</a>-valued <a href="/wiki/Function_(mathematics)" title="Function (mathematics)">functions</a>, usually the <a href="/wiki/Lp_space" title="Lp space">L²</a> inner product is assumed unless otherwise stated. Two functions <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \phi (x)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03D5;<!-- ϕ --></mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \phi (x)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/546b660b2f3cfb5f34be7b3ed8371d54f5c74227" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:4.524ex; height:2.843ex;" alt="\phi (x)"></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \psi (x)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03C8;<!-- ψ --></mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \psi (x)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a596a1fb4130a47f6b88c66150497338bd6cbccc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:4.652ex; height:2.843ex;" alt="\psi (x)"></span> are orthonormal over the <a href="/wiki/Interval_(mathematics)" title="Interval (mathematics)">interval</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle [a,b]}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">[</mo>
+        <mi>a</mi>
+        <mo>,</mo>
+        <mi>b</mi>
+        <mo stretchy="false">]</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle [a,b]}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9c4b788fc5c637e26ee98b45f89a5c08c85f7935" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:4.555ex; height:2.843ex;" alt="[a,b]"></span> if
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle (1)\quad \langle \phi (x),\psi (x)\rangle =\int _{a}^{b}\phi (x)\psi (x)dx=0,\quad {\rm {and}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+        <mspace width="1em" />
+        <mo fence="false" stretchy="false">&#x27E8;<!-- ⟨ --></mo>
+        <mi>&#x03D5;<!-- ϕ --></mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo>,</mo>
+        <mi>&#x03C8;<!-- ψ --></mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo fence="false" stretchy="false">&#x27E9;<!-- ⟩ --></mo>
+        <mo>=</mo>
+        <msubsup>
+          <mo>&#x222B;<!-- ∫ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>a</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>b</mi>
+          </mrow>
+        </msubsup>
+        <mi>&#x03D5;<!-- ϕ --></mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mi>&#x03C8;<!-- ψ --></mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mi>d</mi>
+        <mi>x</mi>
+        <mo>=</mo>
+        <mn>0</mn>
+        <mo>,</mo>
+        <mspace width="1em" />
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">a</mi>
+            <mi mathvariant="normal">n</mi>
+            <mi mathvariant="normal">d</mi>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (1)\quad \langle \phi (x),\psi (x)\rangle =\int _{a}^{b}\phi (x)\psi (x)dx=0,\quad {\rm {and}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4896689400f30d78553721edb75240650cfee4b7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:47.289ex; height:6.343ex;" alt="(1)\quad\langle\phi(x),\psi(x)\rangle = \int_a^b\phi(x)\psi(x)dx = 0,\quad{\rm and}"></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle (2)\quad ||\phi (x)||_{2}=||\psi (x)||_{2}=\left[\int _{a}^{b}|\phi (x)|^{2}dx\right]^{\frac {1}{2}}=\left[\int _{a}^{b}|\psi (x)|^{2}dx\right]^{\frac {1}{2}}=1.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <mn>2</mn>
+        <mo stretchy="false">)</mo>
+        <mspace width="1em" />
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mi>&#x03D5;<!-- ϕ --></mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">|</mo>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mi>&#x03C8;<!-- ψ --></mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">|</mo>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <msup>
+          <mrow>
+            <mo>[</mo>
+            <mrow>
+              <msubsup>
+                <mo>&#x222B;<!-- ∫ --></mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>a</mi>
+                </mrow>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>b</mi>
+                </mrow>
+              </msubsup>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+              <mi>&#x03D5;<!-- ϕ --></mi>
+              <mo stretchy="false">(</mo>
+              <mi>x</mi>
+              <mo stretchy="false">)</mo>
+              <msup>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mo stretchy="false">|</mo>
+                </mrow>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+              <mi>d</mi>
+              <mi>x</mi>
+            </mrow>
+            <mo>]</mo>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mn>1</mn>
+              <mn>2</mn>
+            </mfrac>
+          </mrow>
+        </msup>
+        <mo>=</mo>
+        <msup>
+          <mrow>
+            <mo>[</mo>
+            <mrow>
+              <msubsup>
+                <mo>&#x222B;<!-- ∫ --></mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>a</mi>
+                </mrow>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>b</mi>
+                </mrow>
+              </msubsup>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+              <mi>&#x03C8;<!-- ψ --></mi>
+              <mo stretchy="false">(</mo>
+              <mi>x</mi>
+              <mo stretchy="false">)</mo>
+              <msup>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mo stretchy="false">|</mo>
+                </mrow>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+              <mi>d</mi>
+              <mi>x</mi>
+            </mrow>
+            <mo>]</mo>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mn>1</mn>
+              <mn>2</mn>
+            </mfrac>
+          </mrow>
+        </msup>
+        <mo>=</mo>
+        <mn>1.</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (2)\quad ||\phi (x)||_{2}=||\psi (x)||_{2}=\left[\int _{a}^{b}|\phi (x)|^{2}dx\right]^{\frac {1}{2}}=\left[\int _{a}^{b}|\psi (x)|^{2}dx\right]^{\frac {1}{2}}=1.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0449227490994031a067a06f55e857c569b4c5ad" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:70.88ex; height:7.509ex;" alt="(2)\quad||\phi(x)||_2 = ||\psi(x)||_2 = \left[\int_a^b|\phi(x)|^2dx\right]^\frac{1}{2} = \left[\int_a^b|\psi(x)|^2dx\right]^\frac{1}{2} = 1."></span></dd></dl>
+<h3><span class="mw-headline" id="Fourier_series">Fourier series</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orthonormality&amp;action=edit&amp;section=10" title="Edit section: Fourier series">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Fourier_series" title="Fourier series">Fourier series</a> is a method of expressing a periodic function in terms of sinusoidal <a href="/wiki/Schauder_basis" title="Schauder basis">basis</a> functions.
+Taking <b>C</b>[−π,π] to be the space of all real-valued functions continuous on the interval [−π,π] and taking the inner product to be
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \langle f,g\rangle =\int _{-\pi }^{\pi }f(x)g(x)dx}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo fence="false" stretchy="false">&#x27E8;<!-- ⟨ --></mo>
+        <mi>f</mi>
+        <mo>,</mo>
+        <mi>g</mi>
+        <mo fence="false" stretchy="false">&#x27E9;<!-- ⟩ --></mo>
+        <mo>=</mo>
+        <msubsup>
+          <mo>&#x222B;<!-- ∫ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2212;<!-- − --></mo>
+            <mi>&#x03C0;<!-- π --></mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>&#x03C0;<!-- π --></mi>
+          </mrow>
+        </msubsup>
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mi>g</mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mi>d</mi>
+        <mi>x</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \langle f,g\rangle =\int _{-\pi }^{\pi }f(x)g(x)dx}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/edbbeef1dbff8ef8e3807883ffda8104df4af1be" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:23.687ex; height:6.009ex;" alt="\langle f, g \rangle = \int_{-\pi}^{\pi} f(x)g(x)dx"></span></dd></dl>
+<p>it can be shown that
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \left\{{\frac {1}{\sqrt {2\pi }}},{\frac {\sin(x)}{\sqrt {\pi }}},{\frac {\sin(2x)}{\sqrt {\pi }}},\ldots ,{\frac {\sin(nx)}{\sqrt {\pi }}},{\frac {\cos(x)}{\sqrt {\pi }}},{\frac {\cos(2x)}{\sqrt {\pi }}},\ldots ,{\frac {\cos(nx)}{\sqrt {\pi }}}\right\},\quad n\in \mathbb {N} }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow>
+          <mo>{</mo>
+          <mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mfrac>
+                <mn>1</mn>
+                <msqrt>
+                  <mn>2</mn>
+                  <mi>&#x03C0;<!-- π --></mi>
+                </msqrt>
+              </mfrac>
+            </mrow>
+            <mo>,</mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mfrac>
+                <mrow>
+                  <mi>sin</mi>
+                  <mo>&#x2061;<!-- ⁡ --></mo>
+                  <mo stretchy="false">(</mo>
+                  <mi>x</mi>
+                  <mo stretchy="false">)</mo>
+                </mrow>
+                <msqrt>
+                  <mi>&#x03C0;<!-- π --></mi>
+                </msqrt>
+              </mfrac>
+            </mrow>
+            <mo>,</mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mfrac>
+                <mrow>
+                  <mi>sin</mi>
+                  <mo>&#x2061;<!-- ⁡ --></mo>
+                  <mo stretchy="false">(</mo>
+                  <mn>2</mn>
+                  <mi>x</mi>
+                  <mo stretchy="false">)</mo>
+                </mrow>
+                <msqrt>
+                  <mi>&#x03C0;<!-- π --></mi>
+                </msqrt>
+              </mfrac>
+            </mrow>
+            <mo>,</mo>
+            <mo>&#x2026;<!-- … --></mo>
+            <mo>,</mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mfrac>
+                <mrow>
+                  <mi>sin</mi>
+                  <mo>&#x2061;<!-- ⁡ --></mo>
+                  <mo stretchy="false">(</mo>
+                  <mi>n</mi>
+                  <mi>x</mi>
+                  <mo stretchy="false">)</mo>
+                </mrow>
+                <msqrt>
+                  <mi>&#x03C0;<!-- π --></mi>
+                </msqrt>
+              </mfrac>
+            </mrow>
+            <mo>,</mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mfrac>
+                <mrow>
+                  <mi>cos</mi>
+                  <mo>&#x2061;<!-- ⁡ --></mo>
+                  <mo stretchy="false">(</mo>
+                  <mi>x</mi>
+                  <mo stretchy="false">)</mo>
+                </mrow>
+                <msqrt>
+                  <mi>&#x03C0;<!-- π --></mi>
+                </msqrt>
+              </mfrac>
+            </mrow>
+            <mo>,</mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mfrac>
+                <mrow>
+                  <mi>cos</mi>
+                  <mo>&#x2061;<!-- ⁡ --></mo>
+                  <mo stretchy="false">(</mo>
+                  <mn>2</mn>
+                  <mi>x</mi>
+                  <mo stretchy="false">)</mo>
+                </mrow>
+                <msqrt>
+                  <mi>&#x03C0;<!-- π --></mi>
+                </msqrt>
+              </mfrac>
+            </mrow>
+            <mo>,</mo>
+            <mo>&#x2026;<!-- … --></mo>
+            <mo>,</mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mfrac>
+                <mrow>
+                  <mi>cos</mi>
+                  <mo>&#x2061;<!-- ⁡ --></mo>
+                  <mo stretchy="false">(</mo>
+                  <mi>n</mi>
+                  <mi>x</mi>
+                  <mo stretchy="false">)</mo>
+                </mrow>
+                <msqrt>
+                  <mi>&#x03C0;<!-- π --></mi>
+                </msqrt>
+              </mfrac>
+            </mrow>
+          </mrow>
+          <mo>}</mo>
+        </mrow>
+        <mo>,</mo>
+        <mspace width="1em" />
+        <mi>n</mi>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="double-struck">N</mi>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \left\{{\frac {1}{\sqrt {2\pi }}},{\frac {\sin(x)}{\sqrt {\pi }}},{\frac {\sin(2x)}{\sqrt {\pi }}},\ldots ,{\frac {\sin(nx)}{\sqrt {\pi }}},{\frac {\cos(x)}{\sqrt {\pi }}},{\frac {\cos(2x)}{\sqrt {\pi }}},\ldots ,{\frac {\cos(nx)}{\sqrt {\pi }}}\right\},\quad n\in \mathbb {N} }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e71ccfcbf2b26c425d9bdbbf648d969a3fb68fe3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.838ex; width:79.767ex; height:6.676ex;" alt="\left\{ \frac{1}{\sqrt{2\pi}}, \frac{\sin(x)}{\sqrt{\pi}}, \frac{\sin(2x)}{\sqrt{\pi}}, \ldots, \frac{\sin(nx)}{\sqrt{\pi}}, \frac{\cos(x)}{\sqrt{\pi}}, \frac{\cos(2x)}{\sqrt{\pi}}, \ldots, \frac{\cos(nx)}{\sqrt{\pi}} \right\}, \quad n \in \mathbb{N}"></span></dd></dl>
+<p>forms an orthonormal set.
+</p><p>However, this is of little consequence, because <b>C</b>[−π,π] is infinite-dimensional, and a finite set of vectors cannot span it.  But, removing the restriction that <i>n</i> be finite makes the set <a href="/wiki/Dense_subset" class="mw-redirect" title="Dense subset">dense</a> in <b>C</b>[−π,π] and therefore an orthonormal basis of <b>C</b>[−π,π].
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orthonormality&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Orthogonalization" title="Orthogonalization">Orthogonalization</a></li>
+<li><a href="/wiki/Orthonormal_function_system" title="Orthonormal function system">Orthonormal function system</a></li></ul>
+<h2><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orthonormality&amp;action=edit&amp;section=12" title="Edit section: Sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFAxler1997" class="citation cs2"><a href="/wiki/Sheldon_Axler" title="Sheldon Axler">Axler, Sheldon</a> (1997), <i>Linear Algebra Done Right</i> (2nd&#160;ed.), Berlin, New York: <a href="/wiki/Springer-Verlag" class="mw-redirect" title="Springer-Verlag">Springer-Verlag</a>, p.&#160;<a rel="nofollow" class="external text" href="https://books.google.com/books?id=ovIYVIlithQC&amp;pg=PT106">106–110</a>, <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-387-98258-8" title="Special:BookSources/978-0-387-98258-8"><bdi>978-0-387-98258-8</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Linear+Algebra+Done+Right&amp;rft.place=Berlin%2C+New+York&amp;rft.pages=106-110&amp;rft.edition=2nd&amp;rft.pub=Springer-Verlag&amp;rft.date=1997&amp;rft.isbn=978-0-387-98258-8&amp;rft.aulast=Axler&amp;rft.aufirst=Sheldon&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOrthonormality" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFChen2009" class="citation cs2">Chen, Wai-Kai (2009), <i>Fundamentals of Circuits and Filters</i> (3rd&#160;ed.), <a href="/wiki/Boca_Raton,_Florida" title="Boca Raton, Florida">Boca Raton</a>: <a href="/wiki/CRC_Press" title="CRC Press">CRC Press</a>, p.&#160;<a rel="nofollow" class="external text" href="https://books.google.com/books?id=_UVb4cxL0c0C&amp;pg=SA6-PA62">62</a>, <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4200-5887-1" title="Special:BookSources/978-1-4200-5887-1"><bdi>978-1-4200-5887-1</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Fundamentals+of+Circuits+and+Filters&amp;rft.place=Boca+Raton&amp;rft.pages=62&amp;rft.edition=3rd&amp;rft.pub=CRC+Press&amp;rft.date=2009&amp;rft.isbn=978-1-4200-5887-1&amp;rft.aulast=Chen&amp;rft.aufirst=Wai-Kai&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOrthonormality" class="Z3988"></span></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1403
+Cached time: 20230516065000
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.134 seconds
+Real time usage: 0.239 seconds
+Preprocessor visited node count: 442/1000000
+Post‐expand include size: 4318/2097152 bytes
+Template argument size: 738/2097152 bytes
+Highest expansion depth: 8/100
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4266/5000000 bytes
+Lua time usage: 0.064/10.000 seconds
+Lua memory usage: 2585435/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  124.974      1 -total
+ 54.59%   68.224      2 Template:Citation
+ 42.73%   53.406      1 Template:Short_description
+ 24.08%   30.100      2 Template:Pagetype
+ 10.04%   12.543      2 Template:Main_other
+  8.64%   10.796      1 Template:SDcat
+  1.92%    2.402      1 Template:Center
+  1.58%    1.972      1 Template:Short_description/lowercasecheck
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:194743-0!canonical and timestamp 20230516065000 and revision id 1144510365. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Orthonormality&amp;oldid=1144510365">https://en.wikipedia.org/w/index.php?title=Orthonormality&amp;oldid=1144510365</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Linear_algebra" title="Category:Linear algebra">Linear algebra</a></li><li><a href="/wiki/Category:Functional_analysis" title="Category:Functional analysis">Functional analysis</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 14 March 2023, at 04:02<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Orthonormality&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class='vector-settings'>
+	
+<button
+	id=""
+	class="mw-ui-button mw-ui-icon-element vector-limited-width-toggle"
+	><span class="mw-ui-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+
+</button>
+
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1453","wgBackendResponseTime":109,"wgPageParseReport":{"limitreport":{"cputime":"0.134","walltime":"0.239","ppvisitednodes":{"value":442,"limit":1000000},"postexpandincludesize":{"value":4318,"limit":2097152},"templateargumentsize":{"value":738,"limit":2097152},"expansiondepth":{"value":8,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":4266,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  124.974      1 -total"," 54.59%   68.224      2 Template:Citation"," 42.73%   53.406      1 Template:Short_description"," 24.08%   30.100      2 Template:Pagetype"," 10.04%   12.543      2 Template:Main_other","  8.64%   10.796      1 Template:SDcat","  1.92%    2.402      1 Template:Center","  1.58%    1.972      1 Template:Short_description/lowercasecheck"]},"scribunto":{"limitreport-timeusage":{"value":"0.064","limit":"10.000"},"limitreport-memusage":{"value":2585435,"limit":52428800}},"cachereport":{"origin":"mw1403","timestamp":"20230516065000","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Orthonormality","url":"https:\/\/en.wikipedia.org\/wiki\/Orthonormality","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1411166","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1411166","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-03-11T06:26:02Z","dateModified":"2023-03-14T04:02:01Z","headline":"Mathematical concept analogous to perpendicularity, generalized to higher-dimensional space"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Orthonormality","url":"https:\/\/en.wikipedia.org\/wiki\/Orthonormality","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1411166","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1411166","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-03-11T06:26:02Z","dateModified":"2023-03-14T04:02:01Z","headline":"Mathematical concept analogous to perpendicularity, generalized to higher-dimensional space"}</script>
+</body>
+</html>

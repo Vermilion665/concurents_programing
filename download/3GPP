@@ -1,0 +1,1489 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>3GPP - Wikipedia</title>
+<script>document.documentElement.className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled";(function(){var cookie=document.cookie.match(/(?:^|; )enwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"549b3724-09b8-4e10-ab36-bbb162fa64df","wgCSPNonce":false,
+"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"3GPP","wgTitle":"3GPP","wgCurRevisionId":1140230234,"wgRevisionId":1140230234,"wgArticleId":397301,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Use dmy dates from January 2023","Articles containing potentially dated statements from June 2021","All articles containing potentially dated statements","3GPP standards","Telecommunications organizations","Mobile telecommunications standards","1998 establishments in the United States","Companies established in 1998"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"3GPP","wgRelevantArticleId":397301,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{
+"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q229804","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready",
+"user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.ui.button":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","mediawiki.ui.icon":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin",
+"ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.ui.button%2Cicon%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.10">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-crossorigin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="3GPP - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/3GPP">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=3GPP&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/3GPP">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-3GPP rootpage-3GPP skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-main-menu-dropdown mw-ui-icon-flush-left mw-ui-icon-flush-right"  >
+	<input type="checkbox"
+		id="vector-main-menu-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-main-menu-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Main menu"
+		
+	/>
+	<label
+		id="vector-main-menu-dropdown-label"
+		for="vector-main-menu-dropdown-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+
+		<span class="vector-menu-heading-label">Main menu</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box-notice vector-language-sidebar-alert mw-message-box">Language links are at the top of the page across from the title.</div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt=""
+		aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia"
+			src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline"
+			alt="The Free Encyclopedia"
+			src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search"
+	
+		id=""
+		class="mw-ui-button mw-ui-quiet mw-ui-icon-element search-toggle"
+		title="Search Wikipedia [f]"accesskey="f"><span class="mw-ui-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-moved">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=3GPP" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=3GPP" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-user-menu mw-ui-icon-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox"
+		id="vector-user-links-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-user-links-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Personal tools"
+		
+	/>
+	<label
+		id="vector-user-links-dropdown-label"
+		for="vector-user-links-dropdown-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=3GPP" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="mw-ui-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=3GPP" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="mw-ui-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Organizational_Partners"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Organizational_Partners">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Organizational Partners</div>
+		</a>
+		
+		<ul id="toc-Organizational_Partners-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Market_Representation_Partners"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Market_Representation_Partners">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Market Representation Partners</div>
+		</a>
+		
+		<ul id="toc-Market_Representation_Partners-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Standards"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Standards">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Standards</div>
+		</a>
+		
+		<ul id="toc-Standards-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Specification_groups"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Specification_groups">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Specification groups</div>
+		</a>
+		
+		<ul id="toc-Specification_groups-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Standardization_process"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Standardization_process">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Standardization process</div>
+		</a>
+		
+		<ul id="toc-Standardization_process-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>See also</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="mw-ui-button mw-ui-quiet mw-ui-icon-flush-left mw-ui-icon-element"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="mw-ui-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+				
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-menu vector-dropdown vector-menu-dropdown vector-page-titlebar-toc mw-ui-icon-flush-left"  >
+	<input type="checkbox"
+		id="vector-page-titlebar-toc-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-titlebar-toc"
+		class="vector-menu-checkbox "
+		
+		aria-label="Toggle the table of contents"
+		
+	/>
+	<label
+		id="vector-page-titlebar-toc-label"
+		for="vector-page-titlebar-toc-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+
+		<span class="vector-menu-heading-label">Toggle the table of contents</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">3GPP</span></h1>
+				
+							
+<div id="p-lang-btn" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox"
+		id="p-lang-btn-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-lang-btn"
+		class="vector-menu-checkbox mw-interlanguage-selector"
+		aria-label="Go to an article in another language. Available in 28 languages"
+		
+		
+	/>
+	<label
+		id="p-lang-btn-label"
+		for="p-lang-btn-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-progressive mw-portlet-lang-heading-28"
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+
+		<span class="vector-menu-heading-label">28 languages</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/3GPP" title="3GPP – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/3GPP" title="3GPP – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/3GPP" title="3GPP – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/3GPP" title="3GPP – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/3rd_Generation_Partnership_Project" title="3rd Generation Partnership Project – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/3GPP" title="3GPP – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%BE%D8%B1%D9%88%DA%98%D9%87_%D9%85%D8%B4%D8%A7%D8%B1%DA%A9%D8%AA%DB%8C_%D9%86%D8%B3%D9%84_%D8%B3%D9%88%D9%85_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AA%D9%84%D9%81%D9%86_%D9%87%D9%85%D8%B1%D8%A7%D9%87" title="پروژه مشارکتی نسل سوم شبکه تلفن همراه – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/3rd_Generation_Partnership_Project" title="3rd Generation Partnership Project – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/3GPP" title="3GPP – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/3%E0%A4%9C%E0%A5%80%E0%A4%AA%E0%A5%80%E0%A4%AA%E0%A5%80" title="3जीपीपी – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/3GPP" title="3GPP – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/3GPP" title="3GPP – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/3GPP" title="3GPP – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/3GPP" title="3GPP – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/3GPP" title="3GPP – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/3GPP" title="3GPP – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/3GPP" title="3GPP – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/3rd_Generation_Partnership_Project" title="3rd Generation Partnership Project – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/3GPP" title="3GPP – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/3GPP" title="3GPP – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/3GPP" title="3GPP – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/3GPP" title="3GPP – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/3rd_Generation_Partnership_Project" title="3rd Generation Partnership Project – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/3GPP" title="3GPP – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/3GPP" title="3GPP – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/3GPP" title="3GPP – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/3GPP" title="3GPP – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/3GPP" title="3GPP – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li></ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q229804#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+				</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/3GPP" title="View the content page [c]" accesskey="c" class=""><span>Article</span></a>
+</li>
+<li id="ca-talk" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Talk:3GPP" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t" class=""><span>Talk</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+								
+
+<div id="p-variants" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-variants emptyPortlet"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-label="Change language variant"
+		
+		
+	/>
+	<label
+		id="p-variants-label"
+		for="p-variants-checkbox"
+		class="vector-menu-heading "
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+
+	</div>
+</div>
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/3GPP" class=""><span>Read</span></a>
+</li>
+<li id="ca-edit" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=3GPP&amp;action=edit" title="Edit this page [e]" accesskey="e" class=""><span>Edit</span></a>
+</li>
+<li id="ca-history" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=3GPP&amp;action=history" title="Past revisions of this page [h]" accesskey="h" class=""><span>View history</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="More options">
+								
+<div id="vector-page-tools-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox"
+		id="vector-page-tools-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-tools-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Tools"
+		
+	/>
+	<label
+		id="vector-page-tools-dropdown-label"
+		for="vector-page-tools-dropdown-checkbox"
+		class="vector-menu-heading "
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-menu-heading-label">Tools</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/3GPP"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=3GPP&amp;action=edit"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=3GPP&amp;action=history"><span>View history</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/3GPP" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/3GPP" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=3GPP&amp;oldid=1140230234" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=3GPP&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=3GPP&amp;id=1140230234&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q229804" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=3GPP&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=3GPP&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="More options">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Mobile telecommunications standards body</div>
+<p class="mw-empty-elt">
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard"><caption class="infobox-title fn org">3rd Generation Partnership Project</caption><tbody><tr><th scope="row" class="infobox-label" style="padding-right:0.6em;">Abbreviation</th><td class="infobox-data nickname">3GPP</td></tr><tr><th scope="row" class="infobox-label" style="padding-right:0.6em;">Formation</th><td class="infobox-data note">1998</td></tr><tr><th scope="row" class="infobox-label" style="padding-right:0.6em;">Type</th><td class="infobox-data"><a href="/wiki/Standards_organization" title="Standards organization">Standards organization</a></td></tr><tr><th scope="row" class="infobox-label" style="padding-right:0.6em;"><div style="display: inline-block; line-height: 1.2em; padding: .1em 0;">Region served </div></th><td class="infobox-data">Worldwide</td></tr></tbody></table>
+<p>The <b>3rd Generation Partnership Project</b> (<b>3GPP</b>) is an umbrella term for a number of <a href="/wiki/Standards_organization" title="Standards organization">standards organizations</a> which develop protocols for <a href="/wiki/Mobile_telecommunications" class="mw-redirect" title="Mobile telecommunications">mobile telecommunications</a>. Its best known work is the development and maintenance of:<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<ul><li><a href="/wiki/GSM" title="GSM">GSM</a> and related <a href="/wiki/2G" title="2G">2G</a> and <a href="/wiki/2.5G" class="mw-redirect" title="2.5G">2.5G</a> standards, including <a href="/wiki/General_Packet_Radio_Service" title="General Packet Radio Service">GPRS</a> and <a href="/wiki/Enhanced_Data_Rates_for_GSM_Evolution" class="mw-redirect" title="Enhanced Data Rates for GSM Evolution">EDGE</a></li>
+<li><a href="/wiki/Universal_Mobile_Telecommunications_System" class="mw-redirect" title="Universal Mobile Telecommunications System">UMTS</a> and related <a href="/wiki/3G" title="3G">3G</a> standards, including <a href="/wiki/High_Speed_Packet_Access" title="High Speed Packet Access">HSPA</a> and <a href="/wiki/Evolved_High_Speed_Packet_Access" title="Evolved High Speed Packet Access">HSPA+</a></li>
+<li><a href="/wiki/LTE_(telecommunication)" title="LTE (telecommunication)">LTE</a> and related <a href="/wiki/4G" title="4G">4G</a> standards, including <a href="/wiki/LTE_Advanced" title="LTE Advanced">LTE Advanced</a> and <a href="/wiki/LTE_Advanced_Pro" class="mw-redirect" title="LTE Advanced Pro">LTE Advanced Pro</a></li>
+<li><a href="/wiki/5G_NR" title="5G NR">5G NR</a> and related <a href="/wiki/5G" title="5G">5G</a> standards, including <a href="/wiki/5G-Advanced" class="mw-redirect" title="5G-Advanced">5G-Advanced</a></li>
+<li>An evolved <a href="/wiki/IP_Multimedia_Subsystem" title="IP Multimedia Subsystem">IP Multimedia Subsystem</a> (IMS) developed in an access independent manner</li></ul>
+<p>3GPP is a consortium with <a class="mw-selflink-fragment" href="#Organizational_Partners">seven national or regional telecommunication standards organizations</a> as primary members ("organizational partners") and a <a href="#Market_Representation_Partners">variety of other organizations</a> as associate members ("market representation partners"). The 3GPP organizes its work into three different streams: <a href="/wiki/Radio_Access_Network" class="mw-redirect" title="Radio Access Network">Radio Access Networks</a>, Services and Systems Aspects, and Core Network and Terminals.<sup id="cite_ref-About_3GPP_2-0" class="reference"><a href="#cite_note-About_3GPP-2">&#91;2&#93;</a></sup>
+</p><p>The project was established in December 1998 with the goal of developing a specification for a <a href="/wiki/3G" title="3G">3G</a> <a href="/wiki/Mobile_phone" title="Mobile phone">mobile phone</a> system based on the <a href="/wiki/2G" title="2G">2G</a> <a href="/wiki/GSM" title="GSM">GSM</a> system, within the scope of the <a href="/wiki/International_Telecommunication_Union" title="International Telecommunication Union">International Telecommunication Union's</a> <a href="/wiki/International_Mobile_Telecommunications-2000" class="mw-redirect" title="International Mobile Telecommunications-2000">International Mobile Telecommunications-2000</a>, hence the name 3GPP.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> It should not be confused with <a href="/wiki/3rd_Generation_Partnership_Project_2" title="3rd Generation Partnership Project 2">3rd Generation Partnership Project 2</a> (3GPP2), which developed a competing 3G system, <a href="/wiki/CDMA2000" title="CDMA2000">CDMA2000</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>The 3GPP administrative support team (known as the "Mobile Competence Centre") is located at the <a href="/wiki/European_Telecommunications_Standards_Institute" class="mw-redirect" title="European Telecommunications Standards Institute">European Telecommunications Standards Institute</a> headquarters in the <a href="/wiki/Sophia_Antipolis" title="Sophia Antipolis">Sophia Antipolis</a> technology park in France.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Organizational_Partners">Organizational Partners</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=3GPP&amp;action=edit&amp;section=1" title="Edit section: Organizational Partners">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The seven 3GPP Organizational Partners are from Asia, Europe and North America. Their aim is to determine the general policy and strategy of 3GPP and perform the following tasks:
+</p>
+<ul><li>The approval and maintenance of the 3GPP scope;</li>
+<li>The maintenance of the Partnership Project Description;</li>
+<li>Take the decision to create or cease a Technical Specification Groups, and approve their scope and terms of reference;</li>
+<li>The approval of Organizational Partner funding requirements;</li>
+<li>The allocation of human and financial resources provided by the Organizational Partners to the Project Co-ordination Group;</li>
+<li>Act as a body of appeal on procedural matters referred to them.</li></ul>
+<p>Together with the Market Representation Partners (MRPs) perform the following tasks:
+</p>
+<ul><li>The maintenance of the Partnership Project Agreement;</li>
+<li>The approval of applications for 3GPP partnership;</li>
+<li>Take the decision against a possible dissolution of 3GPP.</li></ul>
+<p>The Organizational Partners are:<sup id="cite_ref-partners_6-0" class="reference"><a href="#cite_note-partners-6">&#91;6&#93;</a></sup>
+</p>
+<table border="0" style="background:#ffffff" align="top" class="sortable wikitable">
+<caption align="center" style="background:DarkSlateBlue; color:white"><big><b>Organizational Partners</b></big>
+</caption>
+<tbody><tr>
+<th width="450 px" style="background:Lavender; color:Black">Organization
+</th>
+<th width="150 px" style="background:Lavender; color:Black">Country/region
+</th>
+<th width="100 px" style="background:Lavender; color:Black">Website
+</th></tr>
+<tr>
+<td><a href="/wiki/Association_of_Radio_Industries_and_Businesses" title="Association of Radio Industries and Businesses">Association of Radio Industries and Businesses</a> (ARIB)</td>
+<td align="center">Japan</td>
+<td align="center"><a rel="nofollow" class="external text" href="http://www.arib.or.jp">ARIB</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Alliance_for_Telecommunications_Industry_Solutions" title="Alliance for Telecommunications Industry Solutions">Alliance for Telecommunications Industry Solutions</a> (ATIS)</td>
+<td align="center">USA</td>
+<td align="center"><a rel="nofollow" class="external text" href="http://www.atis.org">ATIS</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/China_Communications_Standards_Association" title="China Communications Standards Association">China Communications Standards Association</a> (CCSA)</td>
+<td align="center">China</td>
+<td align="center"><a rel="nofollow" class="external text" href="http://www.ccsa.org.cn">CCSA</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/European_Telecommunications_Standards_Institute" class="mw-redirect" title="European Telecommunications Standards Institute">European Telecommunications Standards Institute</a> (ETSI)</td>
+<td align="center">Europe</td>
+<td align="center"><a rel="nofollow" class="external text" href="http://www.etsi.org">ETSI</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/TSDSI" title="TSDSI">Telecommunications Standards Development Society</a> (TSDSI)</td>
+<td align="center">India</td>
+<td align="center"><a rel="nofollow" class="external text" href="http://tsdsi.org/">TSDSI</a>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Telecommunications_Technology_Association&amp;action=edit&amp;redlink=1" class="new" title="Telecommunications Technology Association (page does not exist)">Telecommunications Technology Association</a> (TTA)</td>
+<td align="center">South Korea</td>
+<td align="center"><a rel="nofollow" class="external text" href="http://www.tta.or.kr">TTA</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Telecommunication_Technology_Committee" title="Telecommunication Technology Committee">Telecommunication Technology Committee</a> (TTC)</td>
+<td align="center">Japan</td>
+<td align="center"><a rel="nofollow" class="external text" href="http://www.ttc.or.jp">TTC</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Market_Representation_Partners">Market Representation Partners</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=3GPP&amp;action=edit&amp;section=2" title="Edit section: Market Representation Partners">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The 3GPP Organizational Partners can invite a Market Representation Partner to take part in 3GPP, which:
+</p>
+<ul><li>Has the ability to offer market advice to 3GPP and to bring into 3GPP a consensus view of market requirements (e.g., services, features and functionality) falling within the 3GPP scope;</li>
+<li>Does not have the capability and authority to define, publish and set standards within the 3GPP scope, nationally or regionally;</li>
+<li>Has committed itself to all or part of the 3GPP scope;</li>
+<li>Has signed the Partnership Project Agreement.</li></ul>
+<p>As of June&#160;2021<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=3GPP&amp;action=edit">&#91;update&#93;</a></sup>, the Market Representation Partners are:<sup id="cite_ref-partners_6-1" class="reference"><a href="#cite_note-partners-6">&#91;6&#93;</a></sup>
+</p>
+<table border="0" style="background:#ffffff" align="top" class="sortable wikitable">
+<caption align="center" style="background:DarkSlateBlue; color:white"><big><b>Market Representation Partners</b></big>
+</caption>
+<tbody><tr>
+<th width="450 px" style="background:Lavender; color:Black">Organization
+</th>
+<th width="100 px" style="background:Lavender; color:Black">Website
+</th></tr>
+<tr>
+<td>5G-ACIA
+</td>
+<td><a rel="nofollow" class="external free" href="http://www.5g-acia.org">http://www.5g-acia.org</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/5G_Automotive_Association" title="5G Automotive Association">5G Automotive Association</a>
+</td>
+<td><a rel="nofollow" class="external free" href="http://www.5gaa.org/">http://www.5gaa.org/</a>
+</td></tr>
+<tr>
+<td>5G Americas
+</td>
+<td><a rel="nofollow" class="external free" href="http://www.5gamericas.org">http://www.5gamericas.org</a>
+</td></tr>
+<tr>
+<td>5G Deterministic Networking Alliance (5GDNA)
+</td>
+<td><a rel="nofollow" class="external free" href="https://www.5gdna.org/">https://www.5gdna.org/</a>
+</td></tr>
+<tr>
+<td>5G Infrastructure Association
+</td>
+<td><a rel="nofollow" class="external free" href="https://5g-ppp.eu/association/">https://5g-ppp.eu/association/</a>
+</td></tr>
+<tr>
+<td>5G Media Action Group (5G-MAG)
+</td>
+<td><a rel="nofollow" class="external free" href="http://www.5g-mag.com/">http://www.5g-mag.com/</a>
+</td></tr>
+<tr>
+<td>Automotive Edge Computing Consortium (AECC)
+</td>
+<td><a rel="nofollow" class="external free" href="https://aecc.org/">https://aecc.org/</a>
+</td></tr>
+<tr>
+<td>Broadband India Forum
+</td>
+<td><a rel="nofollow" class="external free" href="http://www.broadbandindiaforum.com/">http://www.broadbandindiaforum.com/</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Cellular_Operators_Association_of_India" title="Cellular Operators Association of India">Cellular Operators Association of India</a> (COAI)
+</td>
+<td><a rel="nofollow" class="external free" href="https://www.coai.com">https://www.coai.com</a>
+</td></tr>
+<tr>
+<td>China Society of Automotive Engineers (CSAE)
+</td>
+<td><a rel="nofollow" class="external free" href="http://www.sae-china.org/">http://www.sae-china.org/</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/CTIA_(organization)" title="CTIA (organization)">CTIA</a>
+</td>
+<td><a rel="nofollow" class="external free" href="http://ctia.org/">http://ctia.org/</a>
+</td></tr>
+<tr>
+<td>EMEA Satellite Operators Association (ESOA)
+</td>
+<td><a rel="nofollow" class="external free" href="https://www.esoa.net/">https://www.esoa.net/</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Global_Certification_Forum" title="Global Certification Forum">Global Certification Forum</a> (GCF)
+</td>
+<td><a rel="nofollow" class="external free" href="https://www.globalcertificationforum.org/">https://www.globalcertificationforum.org/</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Global_mobile_Suppliers_Association" class="mw-redirect" title="Global mobile Suppliers Association">Global mobile Suppliers Association</a> (GSA)
+</td>
+<td><a rel="nofollow" class="external free" href="https://gsacom.com/">https://gsacom.com/</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/GSMA" title="GSMA">GSMA</a>
+</td>
+<td><a rel="nofollow" class="external free" href="https://www.gsma.com/">https://www.gsma.com/</a>
+</td></tr>
+<tr>
+<td>IPV6 Forum
+</td>
+<td><a rel="nofollow" class="external free" href="https://www.ipv6forum.com/">https://www.ipv6forum.com/</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Next_Generation_Mobile_Networks" title="Next Generation Mobile Networks">Next Generation Mobile Networks</a> (NGMN)
+</td>
+<td><a rel="nofollow" class="external free" href="https://www.ngmn.org/">https://www.ngmn.org/</a>
+</td></tr>
+<tr>
+<td>Public Safety Communication Europe (PSCE) Forum
+</td>
+<td><a rel="nofollow" class="external free" href="http://www.psc-europe.eu/">http://www.psc-europe.eu/</a>
+</td></tr>
+<tr>
+<td>Small Cell Forum
+</td>
+<td><a rel="nofollow" class="external free" href="https://www.smallcellforum.org/">https://www.smallcellforum.org/</a>
+</td></tr>
+<tr>
+<td>TCCA
+</td>
+<td><a rel="nofollow" class="external free" href="https://tcca.info/">https://tcca.info/</a>
+</td></tr>
+<tr>
+<td>TD Industry Alliance
+</td>
+<td><a rel="nofollow" class="external free" href="http://www.tdia.cn/">http://www.tdia.cn/</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Wireless_Broadband_Alliance" title="Wireless Broadband Alliance">Wireless Broadband Alliance</a>
+</td>
+<td><a rel="nofollow" class="external free" href="http://www.wballiance.com/">http://www.wballiance.com/</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Standards">Standards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=3GPP&amp;action=edit&amp;section=3" title="Edit section: Standards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>3GPP standards are structured as <i>Releases</i>.  Discussion of 3GPP thus frequently refers to the functionality in one release or another.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th width="100">Version<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</th>
+<th width="150">Released<sup id="cite_ref-:0_8-0" class="reference"><a href="#cite_note-:0-8">&#91;8&#93;</a></sup>
+</th>
+<th>Info
+</th></tr>
+<tr>
+<td><b>Phase 1</b>
+</td>
+<td>1992
+</td>
+<td>GSM Features
+</td></tr>
+<tr>
+<td><b>Phase 2</b>
+</td>
+<td>1995
+</td>
+<td>GSM Features, <a href="/wiki/Enhanced_full_rate" title="Enhanced full rate">EFR</a> Codec,
+</td></tr>
+<tr>
+<td><b>Release 96</b>
+</td>
+<td>1997 Q1
+</td>
+<td>GSM Features, 14.4 kbit/s User Data Rate,
+</td></tr>
+<tr>
+<td><b>Release 97</b>
+</td>
+<td>1998 Q1
+</td>
+<td>GSM Features, <a href="/wiki/General_Packet_Radio_Service" title="General Packet Radio Service">GPRS</a>
+</td></tr>
+<tr>
+<td><b>Release 98</b>
+</td>
+<td>1999 Q1
+</td>
+<td>GSM Features, <a href="/wiki/Adaptive_Multi-Rate_audio_codec" title="Adaptive Multi-Rate audio codec">AMR codec</a>, <a href="/wiki/Enhanced_Data_Rates_for_GSM_Evolution" class="mw-redirect" title="Enhanced Data Rates for GSM Evolution">EDGE</a>, GPRS for PCS1900
+</td></tr>
+<tr>
+<td><b>Release 99</b>
+</td>
+<td>2000 Q1
+</td>
+<td>Specified the first <a href="/wiki/Universal_mobile_telecommunications_system" class="mw-redirect" title="Universal mobile telecommunications system">UMTS</a> 3G networks, incorporating a <a href="/wiki/Code-division_multiple_access" title="Code-division multiple access">CDMA</a> air interface<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>Release 4</b>
+</td>
+<td>2001 Q2
+</td>
+<td>Originally called the <b>Release 2000</b> – added features including an <a href="/wiki/Next_Generation_Network" class="mw-redirect" title="Next Generation Network">all-IP</a> Core Network<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>Release 5</b>
+</td>
+<td>2002 Q1
+</td>
+<td>Introduced <a href="/wiki/IP_Multimedia_Subsystem" title="IP Multimedia Subsystem">IMS</a> and <a href="/wiki/High-Speed_Downlink_Packet_Access" class="mw-redirect" title="High-Speed Downlink Packet Access">HSDPA</a><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>Release 6</b>
+</td>
+<td>2004 Q4
+</td>
+<td>Integrated operation with <a href="/wiki/Wireless_LAN" title="Wireless LAN">Wireless LAN</a> networks and adds <a href="/wiki/High-Speed_Uplink_Packet_Access" class="mw-redirect" title="High-Speed Uplink Packet Access">HSUPA</a>, <a href="/wiki/Multimedia_Broadcast_Multicast_Service" title="Multimedia Broadcast Multicast Service">MBMS</a>, enhancements to <a href="/wiki/IP_Multimedia_Subsystem" title="IP Multimedia Subsystem">IMS</a> such as <a href="/wiki/Push_to_Talk_over_Cellular" class="mw-redirect" title="Push to Talk over Cellular">Push to Talk over Cellular (PoC)</a>, <a href="/wiki/Generic_Access_Network" title="Generic Access Network">GAN</a><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>Release 7</b>
+</td>
+<td>2007 Q4
+</td>
+<td>Focuses on decreasing latency, improvements to <a href="/wiki/Quality_of_service" title="Quality of service">QoS</a> and real-time applications such as <a href="/wiki/Voice_over_IP" title="Voice over IP">VoIP</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> This specification also focus on <a href="/wiki/HSPA%2B" class="mw-redirect" title="HSPA+">HSPA+</a> (High Speed Packet Access Evolution), <a href="/wiki/Subscriber_Identity_Module" class="mw-redirect" title="Subscriber Identity Module">SIM</a> high-speed protocol and contactless front-end interface (<a href="/wiki/Near_Field_Communication" class="mw-redirect" title="Near Field Communication">Near Field Communication</a> enabling operators to deliver contactless services like <a href="/wiki/Mobile_Payment" class="mw-redirect" title="Mobile Payment">Mobile Payments</a>), <a href="/wiki/Enhanced_Data_Rates_for_GSM_Evolution#EDGE_Evolution" class="mw-redirect" title="Enhanced Data Rates for GSM Evolution">EDGE Evolution</a>.
+</td></tr>
+<tr>
+<td><b>Release 8</b>
+</td>
+<td>2008 Q4
+</td>
+<td>First <b><a href="/wiki/3GPP_Long_Term_Evolution" class="mw-redirect" title="3GPP Long Term Evolution">LTE</a></b> release. All-IP Network (SAE). New <a href="/wiki/OFDMA" class="mw-redirect" title="OFDMA">OFDMA</a>, <a href="/wiki/Frequency-domain_equalization" class="mw-redirect" title="Frequency-domain equalization">FDE</a> and <a href="/wiki/MIMO" title="MIMO">MIMO</a> based radio interface, not backwards compatible with previous CDMA interfaces. <a href="/wiki/High-Speed_Downlink_Packet_Access#Dual-Cell" class="mw-redirect" title="High-Speed Downlink Packet Access">Dual-Cell HSDPA</a>. <a href="/wiki/UMTS" title="UMTS">UMTS</a> <a href="/wiki/Home_Node_B" class="mw-redirect" title="Home Node B">HNB</a>.
+</td></tr>
+<tr>
+<td><b>Release 9</b>
+</td>
+<td>2009 Q4
+</td>
+<td>SAES Enhancements, <a href="/wiki/WiMAX" title="WiMAX">WiMAX</a> and LTE/<a href="/wiki/Universal_mobile_telecommunications_system" class="mw-redirect" title="Universal mobile telecommunications system">UMTS</a> Interoperability. Dual-Cell HSDPA with <a href="/wiki/MIMO" title="MIMO">MIMO</a>, <a href="/wiki/DC-HSUPA" class="mw-redirect" title="DC-HSUPA">Dual-Cell HSUPA</a>. <a href="/wiki/3GPP_Long_Term_Evolution" class="mw-redirect" title="3GPP Long Term Evolution">LTE</a> <a href="/wiki/Home_eNode_B" class="mw-redirect" title="Home eNode B">HeNB</a>. Evolved multimedia broadcast and multicast service (<a href="/wiki/EMBMS" class="mw-redirect" title="EMBMS">eMBMS</a>).
+</td></tr>
+<tr>
+<td><b>Release 10</b>
+</td>
+<td>2011 Q1
+</td>
+<td><b><a href="/wiki/LTE_Advanced" title="LTE Advanced">LTE Advanced</a></b> fulfilling <a href="/wiki/IMT_Advanced" title="IMT Advanced">IMT Advanced</a> <a href="/wiki/4G" title="4G">4G</a> requirements. Backwards compatible with release 8 (LTE). Multi-Cell HSDPA (4 carriers).
+</td></tr>
+<tr>
+<td><b>Release 11</b>
+</td>
+<td>2012 Q3
+</td>
+<td>Advanced IP <a href="/wiki/Interconnection" title="Interconnection">Interconnection</a> of Services. <a href="/wiki/Service_layer" title="Service layer">Service layer</a> interconnection between national operators/carriers as well as third-party application providers. <a href="/wiki/Heterogeneous_network" title="Heterogeneous network">Heterogeneous networks</a> (HetNet) improvements, Coordinated Multi-Point operation (CoMP). In-device Co-existence (IDC).
+</td></tr>
+<tr>
+<td><b>Release 12</b>
+</td>
+<td>2015 Q1
+</td>
+<td>Enhanced <a href="/wiki/Small_cell" title="Small cell">Small Cells</a> (higher order modulation, dual connectivity, cell discovery, self configuration), <a href="/wiki/Carrier_aggregation" title="Carrier aggregation">Carrier aggregation</a> (2 uplink carriers, 3 downlink carriers, FDD/TDD carrier aggregation), MIMO (3D channel modeling, elevation beamforming, massive MIMO), New and Enhanced Services (cost and range of MTC, <a href="/wiki/Device-to-device" title="Device-to-device">D2D</a> communication, eMBMS enhancements)<sup id="cite_ref-Release_12_highlights_14-0" class="reference"><a href="#cite_note-Release_12_highlights-14">&#91;14&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>Release 13</b>
+</td>
+<td>2016 Q1
+</td>
+<td><b><a href="/wiki/LTE-Advanced_Pro" class="mw-redirect" title="LTE-Advanced Pro">LTE-Advanced Pro</a></b>. <a href="/wiki/LTE-U" class="mw-redirect" title="LTE-U">LTE in unlicensed</a>, LTE enhancements for Machine-Type Communication. Elevation Beamforming / Full-Dimension MIMO, <a href="/wiki/Indoor_positioning" class="mw-redirect" title="Indoor positioning">Indoor positioning</a>.<sup id="cite_ref-Release_13_priorities_15-0" class="reference"><a href="#cite_note-Release_13_priorities-15">&#91;15&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>Release 14</b>
+</td>
+<td>2017 Q2
+</td>
+<td>Energy Efficiency, Location Services (LCS), Mission Critical Data over LTE, Mission Critical <a href="/wiki/Video_over_LTE" title="Video over LTE">Video over LTE</a>, Flexible Mobile Service Steering (FMSS), Multimedia Broadcast Supplement for <a href="/wiki/Public_Warning_System" class="mw-redirect" title="Public Warning System">Public Warning System</a> (MBSP), enhancement for TV services over eMBMS, massive <a href="/wiki/Internet_of_Things" class="mw-redirect" title="Internet of Things">Internet of Things</a>, Cell Broadcast Service (CBS)<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>Release 15</b>
+</td>
+<td>2018 Q2
+</td>
+<td>First <b><a href="/wiki/5G_NR" title="5G NR">5G NR</a> ("New Radio")</b> release. Support for 5G <a href="/wiki/V2X" class="mw-redirect" title="V2X">Vehicle-to-x</a> service, <a href="/wiki/IP_Multimedia_Core_Network_Subsystem" class="mw-redirect" title="IP Multimedia Core Network Subsystem">IP Multimedia Core Network Subsystem</a> (IMS), Future Railway Mobile Communication System<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>Release 16</b>
+</td>
+<td>2020 Q3
+</td>
+<td>The <a href="/wiki/5G" title="5G">5G</a> System – Phase 2: 5G enhancements, NR-based access to unlicensed spectrum (NR-U), Satellite access<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>Release 17</b>
+</td>
+<td>2022 Q1
+</td>
+<td>TSG RAN: Several features that continue to be important for overall efficiency and performance of 5G NR: MIMO, Spectrum Sharing enhancements, UE Power Saving and Coverage Enhancements. RAN1 will also undertake the necessary study and specification work to enhance the physical layer to support frequency bands up to 71&#160;GHz.
+<p>TSG SA groups focused on further enhancements to the 5G system and enablers for new features and services:
+</p><p>Enhanced support of: non-public networks, <a href="/wiki/Industrial_Internet_of_Things" class="mw-redirect" title="Industrial Internet of Things">industrial Internet of Things</a>, low complexity NR devices, <a href="/wiki/Edge_computing" title="Edge computing">edge computing</a> in 5GC, access traffic steering, switch and splitting support, network automation for 5G, <a href="/wiki/Network_slicing" class="mw-redirect" title="Network slicing">network slicing</a>, advanced V2X service, multiple USIM support, proximity-based services in 5GS, 5G multicast broadcast services, <a href="/wiki/Unmanned_Aerial_System" class="mw-redirect" title="Unmanned Aerial System">Unmanned Aerial Systems</a> (UAS), satellite access in 5G, 5GC location services, Multimedia Priority Service...<sup id="cite_ref-ericsson-r17-r18_19-0" class="reference"><a href="#cite_note-ericsson-r17-r18-19">&#91;19&#93;</a></sup>
+</p>
+</td></tr>
+<tr>
+<td><b>Release 18</b>
+</td>
+<td>2023 Q4
+</td>
+<td><b><a href="/wiki/5G-Advanced" class="mw-redirect" title="5G-Advanced">5G-Advanced</a></b>. Introducing further <a href="/wiki/Machine-learning" class="mw-redirect" title="Machine-learning">machine-learning</a> based techniques at different levels of the wireless network. <a href="/wiki/Edge_computing" title="Edge computing">Edge computing</a>, Evolution of IMS Multimedia Telephony Service, Smart Energy and Infrastructure, Vehicle-Mounted Relays, Low Power High Accuracy Positioning for industrial IoT scenarios, Enhanced Access to and Support of <a href="/wiki/Network_slicing" class="mw-redirect" title="Network slicing">Network slicing</a>, Satellite backhaul in 5G...<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup><sup id="cite_ref-ericsson-r17-r18_19-1" class="reference"><a href="#cite_note-ericsson-r17-r18-19">&#91;19&#93;</a></sup>
+</td></tr></tbody></table>
+<p>Each release incorporates hundreds of individual Technical Specification and Technical Report documents, each of which may have been through many revisions.  Current 3GPP standards incorporate the latest revision of the <a href="/wiki/GSM" title="GSM">GSM</a> standards.
+</p><p>The documents are made available without charge on 3GPP's web site. The Technical Specifications cover not only the radio part ("<i>Air Interface</i>") and Core Network, but also billing information and speech coding down to source code level. <a href="/wiki/Cryptography" title="Cryptography">Cryptographic</a> aspects (such as <a href="/wiki/Authentication" title="Authentication">authentication</a>, <a href="/wiki/Confidentiality" title="Confidentiality">confidentiality</a>) are also specified.
+</p>
+<h2><span class="mw-headline" id="Specification_groups">Specification groups</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=3GPP&amp;action=edit&amp;section=4" title="Edit section: Specification groups">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The 3GPP specification work is done in Technical Specification Groups (TSGs) and Working Groups (WGs).<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</p><p>There are three Technical Specifications Groups, each of which consists of multiple WGs:
+</p>
+<ul><li><b>RAN</b> (Radio Access Network): RAN specifies the <a href="/wiki/UTRAN" class="mw-redirect" title="UTRAN">UTRAN</a> and the <a href="/wiki/E-UTRAN" class="mw-redirect" title="E-UTRAN">E-UTRAN</a>. It is composed of six working groups.</li></ul>
+<table class="wikitable">
+<tbody><tr>
+<th width="100 px">WG
+</th>
+<th width="100 px">Shorthand
+</th>
+<th>Scope
+</th>
+<th>Specifications
+</th></tr>
+<tr>
+<td align="center"><b>RAN WG1</b>
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="http://www.3gpp.org/RAN1-Radio-layer-1">RAN1</a>
+</td>
+<td>Radio Layer 1 (Physical layer)
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.3gpp.org/DynaReport/TSG-WG--R1.htm">List of specs</a>
+</td></tr>
+<tr>
+<td align="center"><b>RAN WG2</b>
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="http://www.3gpp.org/RAN2-Radio-layer-2-and-Radio-layer">RAN2</a>
+</td>
+<td>Radio Layer 2 and Radio Layer 3 Radio Resource Control
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.3gpp.org/DynaReport/TSG-WG--R2.htm">List of specs</a>
+</td></tr>
+<tr>
+<td align="center"><b>RAN WG3</b>
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="http://www.3gpp.org/RAN3-Iu-Iub-Iur-S1-X2-and-UTRAN-E">RAN3</a>
+</td>
+<td>UTRAN, E-UTRAN, NG-RAN architecture and related network interfaces
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.3gpp.org/DynaReport/TSG-WG--R3.htm">List of specs</a>
+</td></tr>
+<tr>
+<td align="center"><b>RAN WG4</b>
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="http://www.3gpp.org/RAN4-Radio-performance-and">RAN4</a>
+</td>
+<td>Radio performance and protocol aspects
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.3gpp.org/DynaReport/TSG-WG--R4.htm">List of specs</a>
+</td></tr>
+<tr>
+<td align="center"><b>RAN WG5</b>
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="http://www.3gpp.org/RAN5-Mobile-terminal-conformance">RAN5</a>
+</td>
+<td>Mobile terminal conformance testing
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.3gpp.org/DynaReport/TSG-WG--R5.htm">List of specs</a>
+</td></tr></tbody></table>
+<ul><li><b>SA</b> (Service and System Aspects): SA specifies the service requirements and the overall architecture of the 3GPP system. It is also responsible for the coordination of the project. SA is composed of six working groups.</li></ul>
+<table class="wikitable">
+<tbody><tr>
+<th width="100 px">WG
+</th>
+<th width="100 px">Shorthand
+</th>
+<th>Scope
+</th>
+<th>Specifications
+</th></tr>
+<tr>
+<td align="center"><b>SA WG1</b>
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="http://www.3gpp.org/SA1-Services">SA1</a>
+</td>
+<td>Services
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.3gpp.org/ftp/Specs/html-info/TSG-WG--S1.htm">List of specs</a>
+</td></tr>
+<tr>
+<td align="center"><b>SA WG2</b>
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="http://www.3gpp.org/SA2-Architecture">SA2</a>
+</td>
+<td>Architecture
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.3gpp.org/ftp/Specs/html-info/TSG-WG--S2.htm">List of specs</a>
+</td></tr>
+<tr>
+<td align="center"><b>SA WG3</b>
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="http://www.3gpp.org/SA3-Security">SA3</a>
+</td>
+<td>Security
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.3gpp.org/ftp/Specs/html-info/TSG-WG--S3.htm">List of specs</a>
+</td></tr>
+<tr>
+<td align="center"><b>SA WG4</b>
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="http://www.3gpp.org/SA4-Codec">SA4</a>
+</td>
+<td>Codec
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.3gpp.org/ftp/Specs/html-info/TSG-WG--S4.htm">List of specs</a>
+</td></tr>
+<tr>
+<td align="center"><b>SA WG5</b>
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="http://www.3gpp.org/SA5-Telecom-Management">SA5</a>
+</td>
+<td>Management, Orchestration and Charging
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.3gpp.org/ftp/Specs/html-info/TSG-WG--S5.htm">List of specs</a>
+</td></tr>
+<tr>
+<td align="center"><b>SA WG6</b>
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="http://www.3gpp.org/specifications-groups/sa-plenary/sa6-mission-critical-applications">SA6</a>
+</td>
+<td>Application Enablement and Critical Communication Applications
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.3gpp.org/ftp/Specs/html-info/TSG-WG--S6.htm">List of specs</a>
+</td></tr></tbody></table>
+<ul><li><b>CT</b> (Core Network and Terminals): CT specifies the core network and terminal parts of 3GPP. It includes the core network – terminal layer 3 protocols. It is composed of five working groups.</li></ul>
+<table class="wikitable">
+<tbody><tr>
+<th width="100 px">WG
+</th>
+<th width="100 px">Shorthand
+</th>
+<th>Scope
+</th>
+<th>Specifications
+</th></tr>
+<tr>
+<td align="center"><b>CT WG1</b>
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="http://www.3gpp.org/CT1-MM-CC-SM-lu">CT1</a>
+</td>
+<td>User Equipment – Core Network protocols
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.3gpp.org/ftp/Specs/html-info/TSG-WG--C1.htm">List of specs</a>
+</td></tr>
+<tr>
+<td align="center"><b>CT WG2</b>
+</td>
+<td align="center">CT2
+</td>
+<td>closed
+</td>
+<td>
+</td></tr>
+<tr>
+<td align="center"><b>CT WG3</b>
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="http://www.3gpp.org/CT3-Interworking-with-External">CT3</a>
+</td>
+<td>Interworking with external networks
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.3gpp.org/ftp/Specs/html-info/TSG-WG--C3.htm">List of specs</a>
+</td></tr>
+<tr>
+<td align="center"><b>CT WG4</b>
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="http://www.3gpp.org/CT4-MAP-CAMEL-GTP-BCH-SS-TrFO-IMS">CT4</a>
+</td>
+<td>Core Network Protocols
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.3gpp.org/ftp/Specs/html-info/TSG-WG--C4.htm">List of specs</a>
+</td></tr>
+<tr>
+<td align="center"><b>CT WG5</b>
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="http://www.3gpp.org/CT5">CT5</a>
+</td>
+<td>closed
+</td>
+<td>
+</td></tr>
+<tr>
+<td align="center"><b>CT WG6</b>
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="http://www.3gpp.org/CT6-Smart-Card-Application-Aspects">CT6</a>
+</td>
+<td>Smart Card Application Aspects
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.3gpp.org/ftp/Specs/html-info/TSG-WG--C6.htm">List of specs</a>
+</td></tr></tbody></table>
+<ul><li><b>GERAN</b> (GSM/EDGE Radio Access Network):</li></ul>
+<p>The closure of GERAN was announced in January 2016.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup> The specification work on legacy GSM/EDGE system was transferred to RAN WG, RAN6. RAN6 was closed in July 2020 (<a rel="nofollow" class="external free" href="https://www.3gpp.org/news-events/2128-r6_geran">https://www.3gpp.org/news-events/2128-r6_geran</a>).
+</p><p>The 3GPP structure also includes a Project Coordination Group, which is the highest decision-making body. Its missions include the management of overall timeframe and work progress.
+</p>
+<h2><span class="mw-headline" id="Standardization_process">Standardization process</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=3GPP&amp;action=edit&amp;section=5" title="Edit section: Standardization process">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>3GPP standardization work is contribution-driven. Companies ("individual members") participate through their membership to a 3GPP Organizational Partner. As of December 2020, 3GPP is composed of 719 individual members.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</p><p>Specification work is done at WG and at TSG level:<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup>
+</p>
+<ul><li>the 3GPP WGs hold several meetings a year. They prepare and discuss change requests against 3GPP specifications. A change request accepted at WG level is called "agreed".</li>
+<li>the 3GPP TSGs hold plenary meetings quarterly. The TSGs can "approve" the change requests that were agreed at WG level. Some specifications are under the direct responsibility of TSGs and therefore, change requests can also be handled at TSG level. The approved change requests are subsequently incorporated in 3GPP specifications.</li></ul>
+<p>3GPP follows a three-stage methodology as defined in <a href="/wiki/ITU-T" title="ITU-T">ITU-T</a> Recommendation I.130:<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup>
+</p>
+<ul><li><i>stage 1 specifications</i> define the service requirements from the user point of view.</li>
+<li><i>stage 2 specifications</i> define an architecture to support the service requirements.</li>
+<li><i>stage 3 specifications</i> define an implementation of the architecture by specifying protocols in details.</li></ul>
+<p>Test specifications are sometimes defined as stage 4, as they follow stage 3.
+</p><p>Specifications are grouped into releases. A release consists of a set of internally consistent set of features and specifications.
+</p><p>Timeframes are defined for each release by specifying freezing dates. Once a release is frozen, only essential corrections are allowed (i.e. addition and modifications of functions are forbidden). Freezing dates are defined for each stage.
+</p><p>The 3GPP specifications are transposed into deliverables by the Organizational Partners.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=3GPP&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List_of_mobile_phone_generations" title="List of mobile phone generations">List of mobile phone generations</a></li>
+<li><a href="/wiki/Universal_Mobile_Telecommunications_System" class="mw-redirect" title="Universal Mobile Telecommunications System">Universal Mobile Telecommunications System</a> (UMTS)</li>
+<li><a href="/wiki/3GPP_Long_Term_Evolution" class="mw-redirect" title="3GPP Long Term Evolution">3GPP Long Term Evolution</a></li>
+<li><a href="/wiki/Evolution_to_3G" class="mw-redirect" title="Evolution to 3G">Evolution to 3G</a></li>
+<li><a href="/wiki/IP_Multimedia_Subsystem" title="IP Multimedia Subsystem">IP Multimedia Subsystem</a></li>
+<li><a href="/wiki/3GP" class="mw-redirect" title="3GP">3GP</a></li>
+<li><a href="/wiki/3GPP2" class="mw-redirect" title="3GPP2">3GPP2</a> – The 3GPP's counterpart in the <a href="/wiki/CDMA2000" title="CDMA2000">CDMA2000</a> sphere.</li>
+<li><a href="/wiki/GSM_services" title="GSM services">GSM services</a></li>
+<li><a href="/wiki/LoRa" title="LoRa">LoRaWAN</a></li>
+<li><a href="/wiki/Telecoms_%26_Internet_converged_Services_%26_Protocols_for_Advanced_Networks" title="Telecoms &amp; Internet converged Services &amp; Protocols for Advanced Networks">Telecoms &amp; Internet converged Services &amp; Protocols for Advanced Networks</a> (TISPAN)</li>
+<li><a href="/wiki/Open_Mobile_Alliance" title="Open Mobile Alliance">Open Mobile Alliance</a></li>
+<li><a href="/wiki/Service_data_adaptation_protocol" title="Service data adaptation protocol">Service data adaptation protocol</a></li>
+<li><a href="/wiki/Service_layer" title="Service layer">Service layer</a></li>
+<li><a href="/wiki/ETSI" title="ETSI">European Telecommunications Standards Institute</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=3GPP&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.3gpp.org/ftp/Inbox/2008_web_files/3GPP_Scopeando310807.pdf">3GPP Scope and Objectives, 31 August 2007</a></span>
+</li>
+<li id="cite_note-About_3GPP-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-About_3GPP_2-0">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.3gpp.org/about-3gpp/about-3gpp">"About 3GPP"</a>. 3GPP<span class="reference-accessdate">. Retrieved <span class="nowrap">10 March</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About+3GPP&amp;rft.pub=3GPP&amp;rft_id=http%3A%2F%2Fwww.3gpp.org%2Fabout-3gpp%2Fabout-3gpp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A3GPP" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20000706195240/http://www.3gpp.org/About_3GPP/3gpp.htm">"3GPP Background"</a>. 7 June 2000. Archived from <a rel="nofollow" class="external text" href="http://www.3gpp.org/About_3GPP/3gpp.htm">the original</a> on 6 July 2000.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=3GPP+Background&amp;rft.date=2000-06-07&amp;rft_id=http%3A%2F%2Fwww.3gpp.org%2FAbout_3GPP%2F3gpp.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A3GPP" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.3gpp2.org/">3rd Generation Partnership Project 2</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://3gpp.org/Mobile-Competence-Centre">"Mobile Competence Centre"</a>. 3GPP<span class="reference-accessdate">. Retrieved <span class="nowrap">10 March</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mobile+Competence+Centre&amp;rft.pub=3GPP&amp;rft_id=http%3A%2F%2F3gpp.org%2FMobile-Competence-Centre&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A3GPP" class="Z3988"></span></span>
+</li>
+<li id="cite_note-partners-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-partners_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-partners_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.3gpp.org/about-3gpp/partners">"Partners"</a>. <i>3GPP</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=3GPP&amp;rft.atitle=Partners&amp;rft_id=https%3A%2F%2Fwww.3gpp.org%2Fabout-3gpp%2Fpartners&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A3GPP" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.3gpp.org/releases">Releases</a></span>
+</li>
+<li id="cite_note-:0-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-:0_8-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.3gpp.org/specifications">"3GPP Specifications – Releases (and phases and stages)"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">16 September</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=3GPP+Specifications+%E2%80%93+Releases+%28and+phases+and+stages%29&amp;rft_id=https%3A%2F%2Fwww.3gpp.org%2Fspecifications&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A3GPP" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Overview of 3GPP Release 99, Summary of all Release 99 Features. ETSI Mobile Competence Centre, Version xx/07/04</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Overview of 3GPP Release 4, Summary of all Release 4 Features, v.1.1.0 (draft) ETSI Mobile Competence Centre 2004</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Summary of all Release 5 Features, ETSI Mobile Competence Centre, Version 9 September 2003</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Overview of 3GPP Release 6, Summary of all Release 6 Features, Version TSG #33, ETSI Mobile Competence Centre 2006</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Review of the Work Plan at Plenaries #31, 3GPP, SP-060232 3GPP TSG SA#31 Sanya, 13–16 March 2006</span>
+</li>
+<li id="cite_note-Release_12_highlights-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Release_12_highlights_14-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.unwiredinsight.com/2014/highlights-of-3gpp-release-12">"Highlights of 3GPP Release 12"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 November</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Highlights+of+3GPP+Release+12&amp;rft_id=http%3A%2F%2Fwww.unwiredinsight.com%2F2014%2Fhighlights-of-3gpp-release-12&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A3GPP" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Release_13_priorities-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Release_13_priorities_15-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.3gpp.org/news-events/3gpp-news/1628-rel13">"Release 13 priorities"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 November</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Release+13+priorities&amp;rft_id=http%3A%2F%2Fwww.3gpp.org%2Fnews-events%2F3gpp-news%2F1628-rel13&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A3GPP" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFPortal" class="citation web cs1">Portal, 3GPP. <a rel="nofollow" class="external text" href="https://portal.3gpp.org/Specifications.aspx?q=1&amp;releases=189">"3GPP Portal &gt; Specifications"</a>. <i>portal.3gpp.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">27 October</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=portal.3gpp.org&amp;rft.atitle=3GPP+Portal+%3E+Specifications&amp;rft.aulast=Portal&amp;rft.aufirst=3GPP&amp;rft_id=https%3A%2F%2Fportal.3gpp.org%2FSpecifications.aspx%3Fq%3D1%26releases%3D189&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A3GPP" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFPortal" class="citation web cs1">Portal, 3GPP. <a rel="nofollow" class="external text" href="https://portal.3gpp.org/Specifications.aspx?q=1&amp;releases=190">"3GPP Portal &gt; Specifications"</a>. <i>portal.3gpp.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">27 October</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=portal.3gpp.org&amp;rft.atitle=3GPP+Portal+%3E+Specifications&amp;rft.aulast=Portal&amp;rft.aufirst=3GPP&amp;rft_id=https%3A%2F%2Fportal.3gpp.org%2FSpecifications.aspx%3Fq%3D1%26releases%3D190&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A3GPP" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFPortal" class="citation web cs1">Portal, 3GPP. <a rel="nofollow" class="external text" href="https://portal.3gpp.org/Specifications.aspx?q=1&amp;releases=191">"3GPP Portal &gt; Specifications"</a>. <i>portal.3gpp.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 July</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=portal.3gpp.org&amp;rft.atitle=3GPP+Portal+%3E+Specifications&amp;rft.aulast=Portal&amp;rft.aufirst=3GPP&amp;rft_id=https%3A%2F%2Fportal.3gpp.org%2FSpecifications.aspx%3Fq%3D1%26releases%3D191&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A3GPP" class="Z3988"></span></span>
+</li>
+<li id="cite_note-ericsson-r17-r18-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-ericsson-r17-r18_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ericsson-r17-r18_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.ericsson.com/en/reports-and-papers/ericsson-technology-review/articles/5g-evolution-toward-5g-advanced">"5G evolution toward 5G advanced: An overview of 3GPP releases 17 and 18"</a>. <i>Ericsson</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 August</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ericsson&amp;rft.atitle=5G+evolution+toward+5G+advanced%3A+An+overview+of+3GPP+releases+17+and+18&amp;rft_id=https%3A%2F%2Fwww.ericsson.com%2Fen%2Freports-and-papers%2Fericsson-technology-review%2Farticles%2F5g-evolution-toward-5g-advanced&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A3GPP" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.3gpp.org/release18">"Release 18"</a>. <i>3gpp.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 November</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=3gpp.org&amp;rft.atitle=Release+18&amp;rft_id=https%3A%2F%2Fwww.3gpp.org%2Frelease18&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A3GPP" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.nokia.com/blog/5g-advanceds-system-architecture-begins-taking-shape-at-3gpp/">"5G-Advanced's system architecture begins taking shape at 3GPP"</a>. <i>Nokia</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 November</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Nokia&amp;rft.atitle=5G-Advanced%27s+system+architecture+begins+taking+shape+at+3GPP&amp;rft_id=https%3A%2F%2Fwww.nokia.com%2Fblog%2F5g-advanceds-system-architecture-begins-taking-shape-at-3gpp%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A3GPP" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110509054716/http://3gpp.org/Specification-Groups">"Specification Groups"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.3gpp.org/Specification-Groups">the original</a> on 9 May 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">11 April</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Specification+Groups&amp;rft_id=http%3A%2F%2Fwww.3gpp.org%2FSpecification-Groups&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A3GPP" class="Z3988"></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.3gpp.org/news-events/3gpp-news/1762-iot_geran">closure of GERAN</a></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.3gpp.org/membership">3GPP membership</a></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.3gpp.org/ftp/Specs/html-info/21900.htm">3GPP TR 21.900 Technical Specification Group working methods</a></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.itu.int/rec/T-REC-I.130-198811-I/">ITU-T Recommendation I.130</a></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=3GPP&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.3gpp.org/">3GPP website</a></li>
+<li><a rel="nofollow" class="external text" href="https://sites.google.com/site/lteencyclopedia/lte-acronyms">3GPP Standards List of Acronyms &amp; Terminology</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.3gpp.org/specification-numbering">3GPP freely published, detailed technical specifications</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.3gpp.org/ftp/Information/WORK_PLAN/Description_Releases/">3GPP releases descriptions</a></li>
+<li><a rel="nofollow" class="external text" href="http://webapp.etsi.org/key/queryform.asp">ETSI GSM UMTS 3GPP Numbering Cross Reference</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.3gpp.org/ftp/specs/html-info/status-report.htm">TS/TR</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.3gpp.org/Specification-Numbering">specification numbering</a></li>
+<li><a rel="nofollow" class="external text" href="http://webbrain.com/brainpage/brain/A785310D-5623-E3D7-C68A-1A53BB98BD05/">Tool for visualizing multiple inter-related 3gpp standards</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.3gpp-message-analyser.com/">Tool for visualizing, decoding, encoding network protocol messages defined by 3gpp</a></li>
+<li><a rel="nofollow" class="external text" href="http://lte-3gpp.info/">LTE-3GPP.info: online 3GPP messages decoder fully supporting Rel.15</a></li></ul>
+<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Cellular_network_standards" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Cellular_network_standards" title="Template:Cellular network standards"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Cellular_network_standards" title="Template talk:Cellular network standards"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Cellular_network_standards&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Cellular_network_standards" style="font-size:114%;margin:0 4em"><a href="/wiki/Cellular_network" title="Cellular network">Cellular network</a> standards</div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div><a href="/wiki/List_of_mobile_phone_generations" title="List of mobile phone generations">List of mobile phone generations</a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Mobile_radio_telephone" title="Mobile radio telephone">0G</a> <a href="/wiki/Radiotelephone" title="Radiotelephone">radio telephones</a> (1946)</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Mobile_Telephone_Service" title="Mobile Telephone Service">MTS</a></li>
+<li><a href="/wiki/Improved_Mobile_Telephone_Service" title="Improved Mobile Telephone Service">IMTS</a></li>
+<li><a href="/wiki/Altai_(mobile_telephone_system)" title="Altai (mobile telephone system)">Altai</a></li>
+<li><a href="/wiki/OLT_(mobile_network)" title="OLT (mobile network)">OLT</a></li>
+<li><a href="/wiki/MTD_(mobile_network)" title="MTD (mobile network)">MTA - MTB - MTC - MTD</a></li>
+<li><a href="/wiki/Advanced_Mobile_Telephone_System" title="Advanced Mobile Telephone System">AMTS</a></li>
+<li><a href="/wiki/Autotel" title="Autotel">Autotel (PALM)</a></li>
+<li><a href="/wiki/Autoradiopuhelin" title="Autoradiopuhelin">ARP</a></li>
+<li><a href="/wiki/B-Netz" title="B-Netz">B-Netz</a></li>
+<li><a href="/wiki/AMR_radiotelephone_network_(Czechoslovakia)" title="AMR radiotelephone network (Czechoslovakia)">AMR</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1G" title="1G">1G</a> (1979)</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/Advanced_Mobile_Phone_System" title="Advanced Mobile Phone System">AMPS</a> family</th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Advanced_Mobile_Phone_System" title="Advanced Mobile Phone System">AMPS - N-AMPS</a></li>
+<li><a href="/wiki/Total_Access_Communication_System" title="Total Access Communication System">TACS - ETACS</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em">Other</th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Nordic_Mobile_Telephone" title="Nordic Mobile Telephone">NMT</a></li>
+<li><a href="/wiki/C-Netz" title="C-Netz">C-450</a></li>
+<li><a href="/wiki/Hicap" title="Hicap">Hicap</a></li>
+<li><a href="/wiki/Mobitex" title="Mobitex">Mobitex</a></li>
+<li><a href="/wiki/DataTAC" title="DataTAC">DataTAC</a></li>
+<li><a href="/wiki/CT1" title="CT1">CT1</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2G" title="2G">2G</a> (1991)</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/GSM" title="GSM">GSM</a>/<a class="mw-selflink selflink">3GPP</a> family</th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/GSM" title="GSM">GSM</a></li>
+<li><a href="/wiki/Circuit_Switched_Data" title="Circuit Switched Data">CSD - HSCSD</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/3rd_Generation_Partnership_Project_2" title="3rd Generation Partnership Project 2">3GPP2</a> family</th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/CdmaOne" title="CdmaOne">cdmaOne (IS-95)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/Advanced_Mobile_Phone_System" title="Advanced Mobile Phone System">AMPS</a> family</th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Digital_AMPS" title="Digital AMPS">D-AMPS (IS-54 and IS-136)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em">Other</th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Cellular_digital_packet_data" title="Cellular digital packet data">CDPD</a></li>
+<li><a href="/wiki/IDEN" title="IDEN">iDEN</a></li>
+<li><a href="/wiki/Personal_Digital_Cellular" title="Personal Digital Cellular">PDC</a></li>
+<li><a href="/wiki/Personal_Handy-phone_System" title="Personal Handy-phone System">PHS</a></li>
+<li><a href="/wiki/CT2" title="CT2">CT2</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2G#Evolution" title="2G">2G transitional<br />(2.5G, 2.75G, 2.9G)</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/GSM" title="GSM">GSM</a>/3GPP family</th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/General_Packet_Radio_Service" title="General Packet Radio Service">GPRS</a></li>
+<li><a href="/wiki/Enhanced_Data_rates_for_GSM_Evolution" title="Enhanced Data rates for GSM Evolution">EDGE/EGPRS - Evolved EDGE</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em">3GPP2 family</th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/CDMA2000#1X" title="CDMA2000">CDMA2000 1X</a> (TIA/EIA/IS-2000)</li>
+<li><a href="/wiki/CDMA2000#1X_Advanced" title="CDMA2000">CDMA2000 1X Advanced</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em">Other</th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/WiDEN" class="mw-redirect" title="WiDEN">WiDEN</a></li>
+<li><a href="/wiki/Digital_enhanced_cordless_telecommunications" title="Digital enhanced cordless telecommunications">DECT</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/3G" title="3G">3G</a> (1998)<br /><a href="/wiki/IMT-2000" title="IMT-2000">IMT-2000</a> (2001)</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:10em">3GPP family</th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/UMTS" title="UMTS">UMTS</a>
+<ul><li><a href="/wiki/W-CDMA" class="mw-redirect" title="W-CDMA">UTRA-FDD / W-CDMA</a>
+<ul><li><a href="/wiki/Freedom_of_Mobile_Multimedia_Access" title="Freedom of Mobile Multimedia Access">FOMA</a></li></ul></li>
+<li><a href="/wiki/TD-SCDMA" class="mw-redirect" title="TD-SCDMA">UTRA-TDD LCR / TD-SCDMA</a></li>
+<li><a href="/wiki/TD-CDMA" class="mw-redirect" title="TD-CDMA">UTRA-TDD HCR / TD-CDMA</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em">3GPP2 family</th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Evolution-Data_Optimized" title="Evolution-Data Optimized">CDMA2000 1xEV-DO Release 0</a> (TIA/IS-856)</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/3G#Evolution" title="3G">3G transitional<br />(3.5G, 3.75G, 3.9G)</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:10em">3GPP family</th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/High_Speed_Packet_Access" title="High Speed Packet Access">HSPA</a>
+<ul><li><a href="/wiki/High_Speed_Downlink_Packet_Access" class="mw-redirect" title="High Speed Downlink Packet Access">HSDPA</a></li>
+<li><a href="/wiki/High_Speed_Uplink_Packet_Access" class="mw-redirect" title="High Speed Uplink Packet Access">HSUPA</a></li></ul></li>
+<li><a href="/wiki/Evolved_High_Speed_Packet_Access" title="Evolved High Speed Packet Access">HSPA+</a>
+<ul><li><a href="/wiki/DC-HSDPA" class="mw-redirect" title="DC-HSDPA">DC-HSDPA</a></li></ul></li>
+<li><a href="/wiki/LTE_(telecommunication)" title="LTE (telecommunication)">LTE</a> (<a href="/wiki/E-UTRA" title="E-UTRA">E-UTRA</a>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em">3GPP2 family</th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li>CDMA2000 <a href="/wiki/Evolution-Data_Optimized" title="Evolution-Data Optimized">1xEV-DO Revision A</a> (TIA/EIA/IS-856-A)</li>
+<li><a href="/wiki/Evolution-Data_Optimized" title="Evolution-Data Optimized">EV-DO Revision B</a> (TIA/EIA/IS-856-B)</li>
+<li><a href="/wiki/Evolution-Data_Optimized" title="Evolution-Data Optimized">EV-DO Revision C</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/Institute_of_Electrical_and_Electronics_Engineers" title="Institute of Electrical and Electronics Engineers">IEEE</a> family</th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/WiMAX" title="WiMAX">Mobile WiMAX</a>
+<ul><li><a href="/wiki/IEEE_802.16" title="IEEE 802.16">IEEE 802.16e</a></li></ul></li>
+<li><a href="/wiki/Orthogonal_frequency-division_multiplexing#FLASH-OFDM" title="Orthogonal frequency-division multiplexing">Flash-OFDM</a></li>
+<li><a href="/wiki/IEEE_802.20" title="IEEE 802.20">iBurst (IEEE 802.20)</a></li>
+<li><a href="/wiki/WiBro" title="WiBro">WiBro</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/ETSI" title="ETSI">ETSI</a> family</th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/HiperMAN" title="HiperMAN">HiperMAN</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/4G" title="4G">4G</a> (2009)<br /><a href="/wiki/IMT_Advanced" title="IMT Advanced">IMT Advanced</a> (2013)</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:10em">3GPP family</th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/LTE_Advanced" title="LTE Advanced">LTE Advanced</a> (<a href="/wiki/E-UTRA" title="E-UTRA">E-UTRA</a>)</li>
+<li><a href="/wiki/LTE_Advanced_Pro" class="mw-redirect" title="LTE Advanced Pro">LTE Advanced Pro</a> (4.5G Pro/pre-5G/5G E/4.9G)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em">IEEE family</th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/WiMAX" title="WiMAX">WiMAX</a> (<a href="/wiki/IEEE_802.16" title="IEEE 802.16">IEEE 802.16m</a>)
+<ul><li>WiMax 2.1 (<a href="/wiki/LTE-TDD" class="mw-redirect" title="LTE-TDD">LTE-TDD</a> / TD-LTE)</li>
+<li><a href="/wiki/WiBro" title="WiBro">WiBro</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/5G" title="5G">5G</a> (2018)<br /><a href="/wiki/IMT-2020" title="IMT-2020">IMT-2020</a> (2021)</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:10em">3GPP family</th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/5G_NR" title="5G NR">5G NR</a></li>
+<li><a href="/wiki/5G-Advanced" class="mw-redirect" title="5G-Advanced">5G-Advanced</a></li>
+<li><a href="/w/index.php?title=NR-IIoT&amp;action=edit&amp;redlink=1" class="new" title="NR-IIoT (page does not exist)">NR-IIoT</a></li>
+<li><a href="/wiki/LTE-M" title="LTE-M">LTE-M</a></li>
+<li><a href="/wiki/Narrowband_IoT" title="Narrowband IoT">NB-IoT</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em">Other</th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/w/index.php?title=DECT-5G&amp;action=edit&amp;redlink=1" class="new" title="DECT-5G (page does not exist)">DECT-5G</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related articles</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Cellular_network" title="Cellular network">Cellular networks</a></li>
+<li><a href="/wiki/Mobile_telephony" title="Mobile telephony">Mobile telephony</a></li>
+<li><a href="/wiki/History_of_mobile_phones" title="History of mobile phones">History</a></li>
+<li><a href="/wiki/Comparison_of_mobile_phone_standards" title="Comparison of mobile phone standards">Comparison of standards</a></li>
+<li><a href="/wiki/Channel_access_method" title="Channel access method">Channel access methods</a>
+<ul><li><a href="/wiki/Frequency-division_multiple_access" title="Frequency-division multiple access">FDMA</a>
+<ul><li><a href="/wiki/Orthogonal_frequency-division_multiple_access" title="Orthogonal frequency-division multiple access">OFDMA</a></li></ul></li>
+<li><a href="/wiki/Time-division_multiple_access" title="Time-division multiple access">TDMA</a>
+<ul><li><a href="/wiki/Self-organized_time-division_multiple_access" title="Self-organized time-division multiple access">STDMA</a></li></ul></li>
+<li><a href="/wiki/Spread_spectrum" title="Spread spectrum">SSMA</a>
+<ul><li><a href="/wiki/Code-division_multiple_access" title="Code-division multiple access">CDMA</a></li></ul></li>
+<li><a href="/wiki/Space-division_multiple_access" title="Space-division multiple access">SDMA</a></li></ul></li>
+<li><a href="/wiki/Spectral_efficiency#Comparison_table" title="Spectral efficiency">Spectral efficiency comparison table</a></li>
+<li><a href="/wiki/Cellular_frequencies" title="Cellular frequencies">Frequency bands</a>
+<ul><li><a href="/wiki/GSM_frequency_bands" title="GSM frequency bands">GSM</a></li>
+<li><a href="/wiki/UMTS_frequency_bands" title="UMTS frequency bands">UMTS</a></li>
+<li><a href="/wiki/LTE_frequency_bands" title="LTE frequency bands">LTE</a></li>
+<li><a href="/wiki/5G_NR_frequency_bands" title="5G NR frequency bands">5G NR</a></li>
+<li><a href="/wiki/CDMA_frequency_bands" title="CDMA frequency bands">CDMA</a></li></ul></li>
+<li><a href="/wiki/Mobile_broadband" title="Mobile broadband">Mobile broadband</a></li>
+<li><a href="/wiki/Multimedia_Broadcast_Multicast_Service" title="Multimedia Broadcast Multicast Service">Multimedia Broadcast Multicast Service</a></li>
+<li><a href="/wiki/Next_Generation_Mobile_Networks" title="Next Generation Mobile Networks">NGMN Alliance</a></li>
+<li><a href="/wiki/Push-to-talk" title="Push-to-talk">Push-to-talk</a></li>
+<li><a href="/wiki/MIMO" title="MIMO">MIMO</a></li>
+<li><a href="/wiki/IP_Multimedia_Subsystem" title="IP Multimedia Subsystem">IMS</a>
+<ul><li><a href="/wiki/Voice_over_LTE" title="Voice over LTE">VoLTE</a></li>
+<li><a href="/wiki/Video_over_LTE" title="Video over LTE">ViLTE</a></li>
+<li><a href="/wiki/Voice_over_NR" title="Voice over NR">VoNR</a></li>
+<li><a href="/w/index.php?title=Video_over_NR&amp;action=edit&amp;redlink=1" class="new" title="Video over NR (page does not exist)">ViNR</a></li>
+<li><a href="/wiki/Generic_Access_Network" title="Generic Access Network">Wi-Fi Calling</a></li></ul></li>
+<li><a href="/wiki/Osmocom" title="Osmocom">Osmocom</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Telecom-icon.svg/28px-Telecom-icon.svg.png" decoding="async" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Telecom-icon.svg/42px-Telecom-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Telecom-icon.svg/56px-Telecom-icon.svg.png 2x" data-file-width="512" data-file-height="512" />&#160;<a href="/wiki/Portal:Telecommunication" title="Portal:Telecommunication">Telecommunication&#32;portal</a>&#160;&#160;&#160;<img alt="telephone icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Telephone_icon_blue_gradient.svg/28px-Telephone_icon_blue_gradient.svg.png" decoding="async" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Telephone_icon_blue_gradient.svg/42px-Telephone_icon_blue_gradient.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Telephone_icon_blue_gradient.svg/56px-Telephone_icon_blue_gradient.svg.png 2x" data-file-width="722" data-file-height="722" />&#160;<a href="/wiki/Portal:Telephones" title="Portal:Telephones">Telephones&#32;portal</a></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1367
+Cached time: 20230528133300
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.431 seconds
+Real time usage: 0.527 seconds
+Preprocessor visited node count: 2483/1000000
+Post‐expand include size: 71985/2097152 bytes
+Template argument size: 1452/2097152 bytes
+Highest expansion depth: 20/100
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 49779/5000000 bytes
+Lua time usage: 0.243/10.000 seconds
+Lua memory usage: 6810796/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  442.922      1 -total
+ 31.59%  139.909      1 Template:Reflist
+ 28.20%  124.921      8 Template:Navbox
+ 27.24%  120.640      1 Template:Mobile_telecommunications_standards
+ 26.44%  117.089     14 Template:Cite_web
+ 16.60%   73.533      1 Template:Infobox_organization
+ 15.07%   66.733      1 Template:Infobox
+ 14.22%   62.993      1 Template:Short_description
+  7.27%   32.220      2 Template:Pagetype
+  5.17%   22.920      2 Template:Unbulleted_list
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:397301-0!canonical and timestamp 20230528133300 and revision id 1140230234. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=3GPP&amp;oldid=1140230234">https://en.wikipedia.org/w/index.php?title=3GPP&amp;oldid=1140230234</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:3GPP_standards" title="Category:3GPP standards">3GPP standards</a></li><li><a href="/wiki/Category:Telecommunications_organizations" title="Category:Telecommunications organizations">Telecommunications organizations</a></li><li><a href="/wiki/Category:Mobile_telecommunications_standards" title="Category:Mobile telecommunications standards">Mobile telecommunications standards</a></li><li><a href="/wiki/Category:1998_establishments_in_the_United_States" title="Category:1998 establishments in the United States">1998 establishments in the United States</a></li><li><a href="/wiki/Category:Companies_established_in_1998" title="Category:Companies established in 1998">Companies established in 1998</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_January_2023" title="Category:Use dmy dates from January 2023">Use dmy dates from January 2023</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_June_2021" title="Category:Articles containing potentially dated statements from June 2021">Articles containing potentially dated statements from June 2021</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 19 February 2023, at 02:41<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=3GPP&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class='vector-settings'>
+	
+<button
+	id=""
+	class="mw-ui-button mw-ui-icon-element vector-limited-width-toggle"
+	><span class="mw-ui-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+
+</button>
+
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1455","wgBackendResponseTime":111,"wgPageParseReport":{"limitreport":{"cputime":"0.431","walltime":"0.527","ppvisitednodes":{"value":2483,"limit":1000000},"postexpandincludesize":{"value":71985,"limit":2097152},"templateargumentsize":{"value":1452,"limit":2097152},"expansiondepth":{"value":20,"limit":100},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":49779,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  442.922      1 -total"," 31.59%  139.909      1 Template:Reflist"," 28.20%  124.921      8 Template:Navbox"," 27.24%  120.640      1 Template:Mobile_telecommunications_standards"," 26.44%  117.089     14 Template:Cite_web"," 16.60%   73.533      1 Template:Infobox_organization"," 15.07%   66.733      1 Template:Infobox"," 14.22%   62.993      1 Template:Short_description","  7.27%   32.220      2 Template:Pagetype","  5.17%   22.920      2 Template:Unbulleted_list"]},"scribunto":{"limitreport-timeusage":{"value":"0.243","limit":"10.000"},"limitreport-memusage":{"value":6810796,"limit":52428800},"limitreport-logs":"table#1 {\n    [\"size\"] = \"small\",\n}\ntable#1 {\n    [\"size\"] = \"small\",\n}\n"},"cachereport":{"origin":"mw1367","timestamp":"20230528133300","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"3GPP","url":"https:\/\/en.wikipedia.org\/wiki\/3GPP","sameAs":"http:\/\/www.wikidata.org\/entity\/Q229804","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q229804","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-12-11T11:17:22Z","dateModified":"2023-02-19T02:41:40Z","headline":"organization"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"3GPP","url":"https:\/\/en.wikipedia.org\/wiki\/3GPP","sameAs":"http:\/\/www.wikidata.org\/entity\/Q229804","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q229804","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-12-11T11:17:22Z","dateModified":"2023-02-19T02:41:40Z","headline":"organization"}</script>
+</body>
+</html>

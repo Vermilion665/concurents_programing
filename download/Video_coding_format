@@ -1,0 +1,1186 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Video coding format - Wikipedia</title>
+<script>document.documentElement.className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled";(function(){var cookie=document.cookie.match(/(?:^|; )enwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"b38d8eec-8125-4441-a985-cea4d170c8e1","wgCSPNonce":false,
+"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Video_coding_format","wgTitle":"Video coding format","wgCurRevisionId":1154662721,"wgRevisionId":1154662721,"wgArticleId":33402026,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Articles needing additional references from January 2015","All articles needing additional references","Articles containing potentially dated statements from 2019","All articles containing potentially dated statements","Video codecs","Video compression","Video formats"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Video_coding_format","wgRelevantArticleId":33402026,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{
+"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":40000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q7927899","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready",
+"user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.ui.button":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","mediawiki.ui.icon":"ready","jquery.tablesorter.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","skins.vector.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface",
+"ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.tablesorter.styles%7Cmediawiki.ui.button%2Cicon%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.10">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-crossorigin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Video coding format - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Video_coding_format">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Video_coding_format&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Video_coding_format">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Video_coding_format rootpage-Video_coding_format skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-main-menu-dropdown mw-ui-icon-flush-left mw-ui-icon-flush-right"  >
+	<input type="checkbox"
+		id="vector-main-menu-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-main-menu-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Main menu"
+		
+	/>
+	<label
+		id="vector-main-menu-dropdown-label"
+		for="vector-main-menu-dropdown-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+
+		<span class="vector-menu-heading-label">Main menu</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box-notice vector-language-sidebar-alert mw-message-box">Language links are at the top of the page across from the title.</div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt=""
+		aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia"
+			src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline"
+			alt="The Free Encyclopedia"
+			src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search"
+	
+		id=""
+		class="mw-ui-button mw-ui-quiet mw-ui-icon-element search-toggle"
+		title="Search Wikipedia [f]"accesskey="f"><span class="mw-ui-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-moved">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Video+coding+format" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Video+coding+format" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-user-menu mw-ui-icon-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox"
+		id="vector-user-links-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-user-links-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Personal tools"
+		
+	/>
+	<label
+		id="vector-user-links-dropdown-label"
+		for="vector-user-links-dropdown-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Video+coding+format" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="mw-ui-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Video+coding+format" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="mw-ui-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Distinction_between_format_and_codec"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Distinction_between_format_and_codec">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Distinction between <i>format</i> and <i>codec</i></div>
+		</a>
+		
+		<ul id="toc-Distinction_between_format_and_codec-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-History"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#History">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>History</div>
+		</a>
+		
+			<button aria-controls="toc-History-sublist" class="mw-ui-icon mw-ui-icon-wikimedia-expand mw-ui-icon-small vector-toc-toggle">
+				Toggle History subsection
+			</button>
+		
+		<ul id="toc-History-sublist" class="vector-toc-list">
+			<li id="toc-Motion-compensated_DCT"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Motion-compensated_DCT">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>Motion-compensated DCT</div>
+			</a>
+			
+			<ul id="toc-Motion-compensated_DCT-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Video_coding_standards"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Video_coding_standards">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>Video coding standards</div>
+			</a>
+			
+			<ul id="toc-Video_coding_standards-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-List_of_video_coding_standards"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#List_of_video_coding_standards">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>List of video coding standards</div>
+		</a>
+		
+		<ul id="toc-List_of_video_coding_standards-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Lossless,_lossy,_and_uncompressed_video_coding_formats"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Lossless,_lossy,_and_uncompressed_video_coding_formats">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Lossless, lossy, and uncompressed video coding formats</div>
+		</a>
+		
+		<ul id="toc-Lossless,_lossy,_and_uncompressed_video_coding_formats-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Intra-frame_video_coding_formats"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Intra-frame_video_coding_formats">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Intra-frame video coding formats</div>
+		</a>
+		
+		<ul id="toc-Intra-frame_video_coding_formats-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Profiles_and_levels"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Profiles_and_levels">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>Profiles and levels</div>
+		</a>
+		
+		<ul id="toc-Profiles_and_levels-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>See also</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Notes"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Notes">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>Notes</div>
+		</a>
+		
+		<ul id="toc-Notes-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="mw-ui-button mw-ui-quiet mw-ui-icon-flush-left mw-ui-icon-element"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="mw-ui-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+				
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-menu vector-dropdown vector-menu-dropdown vector-page-titlebar-toc mw-ui-icon-flush-left"  >
+	<input type="checkbox"
+		id="vector-page-titlebar-toc-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-titlebar-toc"
+		class="vector-menu-checkbox "
+		
+		aria-label="Toggle the table of contents"
+		
+	/>
+	<label
+		id="vector-page-titlebar-toc-label"
+		for="vector-page-titlebar-toc-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+
+		<span class="vector-menu-heading-label">Toggle the table of contents</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Video coding format</span></h1>
+				
+							
+<div id="p-lang-btn" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox"
+		id="p-lang-btn-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-lang-btn"
+		class="vector-menu-checkbox mw-interlanguage-selector"
+		aria-label="Go to an article in another language. Available in 5 languages"
+		
+		
+	/>
+	<label
+		id="p-lang-btn-label"
+		for="p-lang-btn-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-progressive mw-portlet-lang-heading-5"
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+
+		<span class="vector-menu-heading-label">5 languages</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE_%D1%84%D0%B0%D0%B9%D0%BB_%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82" title="Видео файл формат – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Form%C3%A1t_k%C3%B3dov%C3%A1n%C3%AD_videa" title="Formát kódování videa – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Formato_de_compresi%C3%B3n_de_video" title="Formato de compresión de video – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Kodiranje_video_sadr%C5%BEaja" title="Kodiranje video sadržaja – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%A4%D0%BE%D1%80%D0%BC%D0%B0%D1%82_%D0%BA%D0%BE%D0%B4%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D0%B2%D1%96%D0%B4%D0%B5%D0%BE" title="Формат кодування відео – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li></ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7927899#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+				</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Video_coding_format" title="View the content page [c]" accesskey="c" class=""><span>Article</span></a>
+</li>
+<li id="ca-talk" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Talk:Video_coding_format" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t" class=""><span>Talk</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+								
+
+<div id="p-variants" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-variants emptyPortlet"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-label="Change language variant"
+		
+		
+	/>
+	<label
+		id="p-variants-label"
+		for="p-variants-checkbox"
+		class="vector-menu-heading "
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+
+	</div>
+</div>
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Video_coding_format" class=""><span>Read</span></a>
+</li>
+<li id="ca-edit" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=Video_coding_format&amp;action=edit" title="Edit this page [e]" accesskey="e" class=""><span>Edit</span></a>
+</li>
+<li id="ca-history" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=Video_coding_format&amp;action=history" title="Past revisions of this page [h]" accesskey="h" class=""><span>View history</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="More options">
+								
+<div id="vector-page-tools-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox"
+		id="vector-page-tools-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-tools-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Tools"
+		
+	/>
+	<label
+		id="vector-page-tools-dropdown-label"
+		for="vector-page-tools-dropdown-checkbox"
+		class="vector-menu-heading "
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-menu-heading-label">Tools</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Video_coding_format"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Video_coding_format&amp;action=edit"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Video_coding_format&amp;action=history"><span>View history</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Video_coding_format" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Video_coding_format" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Video_coding_format&amp;oldid=1154662721" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Video_coding_format&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Video_coding_format&amp;id=1154662721&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7927899" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Video_coding_format&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Video_coding_format&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Video_coding_formats" hreflang="en"><span>Wikimedia Commons</span></a></li></ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="More options">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Content representation format&#160;for storage or transmission of&#160;digital&#160;video content</div>
+<style data-mw-deduplicate="TemplateStyles:r1097763485">.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}</style><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Video_coding_format&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Video+coding+format%22">"Video coding format"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Video+coding+format%22+-wikipedia&amp;tbs=ar:1">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Video+coding+format%22&amp;tbs=bkt:s&amp;tbm=bks">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Video+coding+format%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Video+coding+format%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Video+coding+format%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <span class="date-container"><i>(<span class="date">January 2015</span>)</i></span><span class="hide-when-compact"><i> (<small><a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a></small>)</i></span></div></td></tr></tbody></table>
+<p>A <b>video coding format</b><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;a&#93;</a></sup> (or sometimes <b>video compression format</b>) is a <a href="/wiki/Content_format" title="Content format">content representation format</a> for storage or transmission of <a href="/wiki/Digital_data" title="Digital data">digital</a> <a href="/wiki/Video" title="Video">video content</a> (such as in a data file or <a href="/wiki/Bitstream_format" title="Bitstream format">bitstream</a>). It typically uses a standardized <a href="/wiki/Video_compression" class="mw-redirect" title="Video compression">video compression</a> algorithm, most commonly based on <a href="/wiki/Discrete_cosine_transform" title="Discrete cosine transform">discrete cosine transform</a> (DCT) coding and <a href="/wiki/Motion_compensation" title="Motion compensation">motion compensation</a>. A specific software, <a href="/wiki/Firmware" title="Firmware">firmware</a>, or hardware implementation capable of compression or decompression to/from a specific video coding format is called a <i><a href="/wiki/Video_codec" title="Video codec">video codec</a></i>.
+</p><p>Some video coding formats are documented by a detailed <a href="/wiki/Technical_specification" class="mw-redirect" title="Technical specification">technical specification</a> document known as a <b>video coding specification</b>. Some such specifications are written and approved by <a href="/wiki/Standardization_organization" class="mw-redirect" title="Standardization organization">standardization organizations</a> as <a href="/wiki/Technical_standard" title="Technical standard">technical standards</a>, and are thus known as a <b>video coding standard</b>. The term 'standard' is also sometimes used for <a href="/wiki/De_facto_standard" title="De facto standard"><i>de facto</i> standards</a> as well as formal standards.
+</p><p>Video content encoded using a particular video coding format is normally bundled with an audio stream (encoded using an <a href="/wiki/Audio_coding_format" title="Audio coding format">audio coding format</a>) inside a <a href="/wiki/Container_format_(digital)#Multimedia_container_formats" class="mw-redirect" title="Container format (digital)">multimedia container format</a> such as <a href="/wiki/Audio_Video_Interleave" title="Audio Video Interleave">AVI</a>, <a href="/wiki/MP4" class="mw-redirect" title="MP4">MP4</a>, <a href="/wiki/Flash_Video" title="Flash Video">FLV</a>, <a href="/wiki/RealMedia" title="RealMedia">RealMedia</a>, or <a href="/wiki/Matroska" title="Matroska">Matroska</a>. As such, the user normally doesn't have a <a href="/wiki/H.264/MPEG-4_AVC" class="mw-redirect" title="H.264/MPEG-4 AVC">H.264</a> file, but instead has a .mp4 <a href="/wiki/Video_file_format" title="Video file format">video file</a>, which is an MP4 container containing H.264-encoded video, normally alongside <a href="/wiki/Advanced_Audio_Coding" title="Advanced Audio Coding">AAC</a>-encoded audio. Multimedia container formats can contain any one of a number of different video coding formats; for example the MP4 container format can contain video in either the <a href="/wiki/MPEG-2_Part_2" class="mw-redirect" title="MPEG-2 Part 2">MPEG-2 Part 2</a> or the H.264 video coding format, among others. Another example is the initial specification for the file type <a href="/wiki/WebM" title="WebM">WebM</a>, which specified the container format (Matroska), but also exactly which video (<a href="/wiki/VP8" title="VP8">VP8</a>) and audio (<a href="/wiki/Vorbis" title="Vorbis">Vorbis</a>) compression format is used inside the Matroska container, even though the Matroska container format itself is capable of containing other video coding formats (<a href="/wiki/VP9" title="VP9">VP9</a> video and <a href="/wiki/Opus_(audio_codec)" class="mw-redirect" title="Opus (audio codec)">Opus</a> audio support was later added to the <a href="/wiki/WebM" title="WebM">WebM</a> specification).
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Distinction_between_format_and_codec">Distinction between <i>format</i> and <i>codec</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_coding_format&amp;action=edit&amp;section=1" title="Edit section: Distinction between format and codec">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A <i>format</i> is the layout plan for data produced or consumed by a <i>codec</i>.
+</p><p>Although video coding formats such as H.264 are sometimes referred to as <i>codecs</i>, there is a clear conceptual difference between a specification and its implementations. Video coding formats are described in specifications, and software, <a href="/wiki/Firmware" title="Firmware">firmware</a>, or hardware to encode/decode data in a given video coding format from/to uncompressed video are implementations of those specifications. As an analogy, the video coding format <a href="/wiki/H.264" class="mw-redirect" title="H.264">H.264</a> (specification) is to the <a href="/wiki/Codec" title="Codec">codec</a> <a href="/wiki/OpenH264" title="OpenH264">OpenH264</a> (specific implementation) what the <a href="/wiki/C_(programming_language)" title="C (programming language)">C Programming Language</a> (specification) is to the compiler <a href="/wiki/GNU_Compiler_Collection" title="GNU Compiler Collection">GCC</a> (specific implementation). Note that for each specification (e.g. <a href="/wiki/H.264" class="mw-redirect" title="H.264">H.264</a>), there can be many codecs implementing that specification (e.g. <a href="/wiki/X264" title="X264">x264</a>, OpenH264, <a href="/wiki/H.264/MPEG-4_AVC_products_and_implementations" title="H.264/MPEG-4 AVC products and implementations">H.264/MPEG-4 AVC products and implementations</a>).
+</p><p>This distinction is not consistently reflected terminologically in the literature. The H.264 specification calls <a href="/wiki/H.261" title="H.261">H.261</a>, <a href="/wiki/H.262" class="mw-redirect" title="H.262">H.262</a>, <a href="/wiki/H.263" title="H.263">H.263</a>, and <a href="/wiki/H.264" class="mw-redirect" title="H.264">H.264</a> <i>video coding standards</i> and does not contain the word <i>codec</i>.<sup id="cite_ref-h264_3-0" class="reference"><a href="#cite_note-h264-3">&#91;2&#93;</a></sup> The <a href="/wiki/Alliance_for_Open_Media" title="Alliance for Open Media">Alliance for Open Media</a> clearly distinguishes between the <a href="/wiki/AOMedia_Video_1" class="mw-redirect" title="AOMedia Video 1">AV1</a> video coding format and the accompanying codec they are developing, but calls the video coding format itself a <i><a href="/wiki/Video_codec" title="Video codec">video codec</a> specification</i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;3&#93;</a></sup> The <a href="/wiki/VP9" title="VP9">VP9</a> specification calls the video coding format VP9 itself a <i>codec</i>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;4&#93;</a></sup>
+</p><p>As an example of conflation, Chromium's<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;5&#93;</a></sup> and Mozilla's<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;6&#93;</a></sup> pages listing their video format support both call video coding formats such as H.264 <i>codecs</i>. As another example, in Cisco's announcement of a free-as-in-beer video codec, the press release refers to the H.264 video coding format as a <i>codec</i> ("choice of a common video codec"), but calls Cisco's implementation of a H.264 encoder/decoder a <i>codec</i> shortly thereafter ("open-source our H.264 codec").<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;7&#93;</a></sup>
+</p><p>A video coding format does not dictate all <a href="/wiki/Algorithm" title="Algorithm">algorithms</a> used by a <a href="/wiki/Codec" title="Codec">codec</a> implementing the format. For example, a large part of how video compression typically works is by finding <a href="/wiki/Video_compression_picture_types" title="Video compression picture types">similarities between video frames</a> (block-matching), and then achieving compression by copying previously-coded similar subimages (e.g., <a href="/wiki/Macroblock" title="Macroblock">macroblocks</a>) and adding small differences when necessary. Finding optimal combinations of such predictors and differences is an <a href="/wiki/NP-hard" class="mw-redirect" title="NP-hard">NP-hard</a> problem,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;8&#93;</a></sup> meaning that it is practically impossible to find an optimal solution. While the video coding format must support such compression across frames in the bitstream format, by not needlessly mandating specific algorithms for finding such block-matches and other encoding steps, the codecs implementing the video coding specification have some freedom to optimize and innovate in their choice of algorithms. For example, section 0.5 of the H.264 specification says that encoding algorithms are not part of the specification.<sup id="cite_ref-h264_3-1" class="reference"><a href="#cite_note-h264-3">&#91;2&#93;</a></sup> Free choice of algorithm also allows different <a href="/wiki/Analysis_of_algorithms" title="Analysis of algorithms">space–time complexity</a> trade-offs for the same video coding format, so a live feed can use a fast but space-inefficient algorithm, while a one-time <a href="/wiki/DVD" title="DVD">DVD</a> encoding for later mass production can trade long encoding-time for space-efficient encoding.
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_coding_format&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The concept of <a href="/wiki/Analog_video" class="mw-redirect" title="Analog video">analog video</a> compression dates back to <a href="/wiki/1929" title="1929">1929</a>, when R.D. Kell in <a href="/wiki/United_Kingdom" title="United Kingdom">Britain</a> proposed the concept of transmitting only the portions of the scene that changed from frame-to-frame. The concept of <a href="/wiki/Digital_video" title="Digital video">digital video</a> compression dates back to 1952, when <a href="/wiki/Bell_Labs" title="Bell Labs">Bell Labs</a> researchers B.M. Oliver and <a href="/wiki/Chris_Harrison_(American_football)" title="Chris Harrison (American football)">C.W. Harrison</a> proposed the use of <a href="/wiki/Differential_pulse-code_modulation" title="Differential pulse-code modulation">differential pulse-code modulation</a> (DPCM) in video coding. In 1959, the concept of <a href="/wiki/Inter-frame" class="mw-redirect" title="Inter-frame">inter-frame</a> <a href="/wiki/Motion_compensation" title="Motion compensation">motion compensation</a> was proposed by <a href="/wiki/NHK" title="NHK">NHK</a> researchers Y. Taki, M. Hatori and S. Tanaka, who proposed predictive inter-frame video coding in the <a href="/wiki/Temporal_dimension" class="mw-redirect" title="Temporal dimension">temporal dimension</a>.<sup id="cite_ref-ITU_10-0" class="reference"><a href="#cite_note-ITU-10">&#91;9&#93;</a></sup> In 1967, <a href="/wiki/University_of_London" title="University of London">University of London</a> researchers A.H. Robinson and C. Cherry proposed <a href="/wiki/Run-length_encoding" title="Run-length encoding">run-length encoding</a> (RLE), a <a href="/wiki/Lossless_compression" title="Lossless compression">lossless compression</a> scheme, to reduce the transmission bandwidth of <a href="/wiki/Analog_television" title="Analog television">analog television</a> signals.<sup id="cite_ref-robinson_11-0" class="reference"><a href="#cite_note-robinson-11">&#91;10&#93;</a></sup>
+</p><p>The earliest digital video coding algorithms were either for <a href="/wiki/Uncompressed_video" title="Uncompressed video">uncompressed video</a> or used <a href="/wiki/Lossless_compression" title="Lossless compression">lossless compression</a>, both methods inefficient and impractical for digital video coding.<sup id="cite_ref-Ghanbari_12-0" class="reference"><a href="#cite_note-Ghanbari-12">&#91;11&#93;</a></sup><sup id="cite_ref-Lea_13-0" class="reference"><a href="#cite_note-Lea-13">&#91;12&#93;</a></sup> Digital video was introduced in the 1970s,<sup id="cite_ref-Ghanbari_12-1" class="reference"><a href="#cite_note-Ghanbari-12">&#91;11&#93;</a></sup> initially using uncompressed <a href="/wiki/Pulse-code_modulation" title="Pulse-code modulation">pulse-code modulation</a> (PCM) requiring high <a href="/wiki/Bitrate" class="mw-redirect" title="Bitrate">bitrates</a> around 45–200 <a href="/wiki/Mbit/s" class="mw-redirect" title="Mbit/s">Mbit/s</a> for <a href="/wiki/Standard-definition" class="mw-redirect" title="Standard-definition">standard-definition</a> (SD) video,<sup id="cite_ref-Ghanbari_12-2" class="reference"><a href="#cite_note-Ghanbari-12">&#91;11&#93;</a></sup><sup id="cite_ref-Lea_13-1" class="reference"><a href="#cite_note-Lea-13">&#91;12&#93;</a></sup> which was up to 2,000 times greater than the <a href="/wiki/Telecommunication" class="mw-redirect" title="Telecommunication">telecommunication</a> <a href="/wiki/Bandwidth_(computing)" title="Bandwidth (computing)">bandwidth</a> (up to 100<span class="nowrap">&#160;</span><a href="/wiki/Kilobits_per_second" class="mw-redirect" title="Kilobits per second">kbit/s</a>) available until the 1990s.<sup id="cite_ref-Lea_13-2" class="reference"><a href="#cite_note-Lea-13">&#91;12&#93;</a></sup> Similarly, uncompressed <a href="/wiki/High-definition_video" title="High-definition video">high-definition</a> (HD) <a href="/wiki/1080p" title="1080p">1080p</a> video requires bitrates exceeding 1<span class="nowrap">&#160;</span><a href="/wiki/Gbit/s" class="mw-redirect" title="Gbit/s">Gbit/s</a>, significantly greater than the bandwidth available in the <a href="/wiki/2000s" title="2000s">2000s</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;13&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Motion-compensated_DCT">Motion-compensated DCT</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_coding_format&amp;action=edit&amp;section=3" title="Edit section: Motion-compensated DCT">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Practical <a href="/wiki/Video_compression" class="mw-redirect" title="Video compression">video compression</a> emerged with the development of <a href="/wiki/Motion_compensation" title="Motion compensation">motion-compensated</a> <a href="/wiki/Discrete_cosine_transform" title="Discrete cosine transform">DCT</a> (MC DCT) coding,<sup id="cite_ref-Lea_13-3" class="reference"><a href="#cite_note-Lea-13">&#91;12&#93;</a></sup><sup id="cite_ref-Ghanbari_12-3" class="reference"><a href="#cite_note-Ghanbari-12">&#91;11&#93;</a></sup> also called block motion compensation (BMC)<sup id="cite_ref-ITU_10-1" class="reference"><a href="#cite_note-ITU-10">&#91;9&#93;</a></sup> or DCT motion compensation. This is a hybrid coding algorithm,<sup id="cite_ref-ITU_10-2" class="reference"><a href="#cite_note-ITU-10">&#91;9&#93;</a></sup> which combines two key <a href="/wiki/Data_compression" title="Data compression">data compression</a> techniques: <a href="/wiki/Discrete_cosine_transform" title="Discrete cosine transform">discrete cosine transform</a> (DCT) coding<sup id="cite_ref-Lea_13-4" class="reference"><a href="#cite_note-Lea-13">&#91;12&#93;</a></sup><sup id="cite_ref-Ghanbari_12-4" class="reference"><a href="#cite_note-Ghanbari-12">&#91;11&#93;</a></sup> in the <a href="/wiki/Spatial_dimension" class="mw-redirect" title="Spatial dimension">spatial dimension</a>, and predictive <a href="/wiki/Motion_compensation" title="Motion compensation">motion compensation</a> in the <a href="/wiki/Temporal_dimension" class="mw-redirect" title="Temporal dimension">temporal dimension</a>.<sup id="cite_ref-ITU_10-3" class="reference"><a href="#cite_note-ITU-10">&#91;9&#93;</a></sup>
+</p><p>DCT coding is a <a href="/wiki/Lossy_compression" title="Lossy compression">lossy</a> block compression <a href="/wiki/Transform_coding" title="Transform coding">transform coding</a> technique that was first proposed by <a href="/wiki/N._Ahmed" class="mw-redirect" title="N. Ahmed">Nasir Ahmed</a>, who initially intended it for <a href="/wiki/Image_compression" title="Image compression">image compression</a>, while he was working at <a href="/wiki/Kansas_State_University" title="Kansas State University">Kansas State University</a> in 1972. It was then developed into a practical image compression algorithm by Ahmed with T. Natarajan and <a href="/wiki/K._R._Rao" title="K. R. Rao">K. R. Rao</a> at the <a href="/wiki/University_of_Texas" class="mw-redirect" title="University of Texas">University of Texas</a> in 1973, and was published in 1974.<sup id="cite_ref-Ahmed_15-0" class="reference"><a href="#cite_note-Ahmed-15">&#91;14&#93;</a></sup><sup id="cite_ref-pubDCT_16-0" class="reference"><a href="#cite_note-pubDCT-16">&#91;15&#93;</a></sup><sup id="cite_ref-pubRaoYip_17-0" class="reference"><a href="#cite_note-pubRaoYip-17">&#91;16&#93;</a></sup>
+</p><p>The other key development was motion-compensated hybrid coding.<sup id="cite_ref-ITU_10-4" class="reference"><a href="#cite_note-ITU-10">&#91;9&#93;</a></sup> In 1974, Ali Habibi at the <a href="/wiki/University_of_Southern_California" title="University of Southern California">University of Southern California</a> introduced hybrid coding,<sup id="cite_ref-Habibi_18-0" class="reference"><a href="#cite_note-Habibi-18">&#91;17&#93;</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;18&#93;</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;19&#93;</a></sup> which combines predictive coding with transform coding.<sup id="cite_ref-ITU_10-5" class="reference"><a href="#cite_note-ITU-10">&#91;9&#93;</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;20&#93;</a></sup> He examined several transform coding techniques, including the DCT, <a href="/wiki/Hadamard_transform" title="Hadamard transform">Hadamard transform</a>, <a href="/wiki/Fourier_transform" title="Fourier transform">Fourier transform</a>, slant transform, and <a href="/wiki/Karhunen-Loeve_transform" class="mw-redirect" title="Karhunen-Loeve transform">Karhunen-Loeve transform</a>.<sup id="cite_ref-Habibi_18-1" class="reference"><a href="#cite_note-Habibi-18">&#91;17&#93;</a></sup> However, his algorithm was initially limited to <a href="/wiki/Intra-frame" class="mw-redirect" title="Intra-frame">intra-frame</a> coding in the spatial dimension. In 1975, John A. Roese and Guner S. Robinson extended Habibi's hybrid coding algorithm to the temporal dimension, using transform coding in the spatial dimension and predictive coding in the temporal dimension, developing <a href="/wiki/Inter-frame" class="mw-redirect" title="Inter-frame">inter-frame</a> motion-compensated hybrid coding.<sup id="cite_ref-ITU_10-6" class="reference"><a href="#cite_note-ITU-10">&#91;9&#93;</a></sup><sup id="cite_ref-Roese_22-0" class="reference"><a href="#cite_note-Roese-22">&#91;21&#93;</a></sup> For the spatial transform coding, they experimented with different transforms, including the DCT and the <a href="/wiki/Fast_Fourier_transform" title="Fast Fourier transform">fast Fourier transform</a> (FFT), developing inter-frame hybrid coders for them, and found that the DCT is the most efficient due to its reduced complexity, capable of compressing image data down to 0.25-<a href="/wiki/Bit" title="Bit">bit</a> per <a href="/wiki/Pixel" title="Pixel">pixel</a> for a <a href="/wiki/Videotelephone" class="mw-redirect" title="Videotelephone">videotelephone</a> scene with image quality comparable to a typical intra-frame coder requiring 2-bit per pixel.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;22&#93;</a></sup><sup id="cite_ref-Roese_22-1" class="reference"><a href="#cite_note-Roese-22">&#91;21&#93;</a></sup>
+</p><p>The DCT was applied to video encoding by Wen-Hsiung Chen,<sup id="cite_ref-Stankovic_24-0" class="reference"><a href="#cite_note-Stankovic-24">&#91;23&#93;</a></sup> who developed a fast DCT algorithm with C.H. Smith and S.C. Fralick in 1977,<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;24&#93;</a></sup><sup id="cite_ref-t81_26-0" class="reference"><a href="#cite_note-t81-26">&#91;25&#93;</a></sup> and founded <a href="/wiki/Compression_Labs,_Inc." class="mw-redirect" title="Compression Labs, Inc.">Compression Labs</a> to commercialize DCT technology.<sup id="cite_ref-Stankovic_24-1" class="reference"><a href="#cite_note-Stankovic-24">&#91;23&#93;</a></sup> In 1979, <a href="/wiki/Anil_K._Jain_(electrical_engineer,_born_1946)" class="mw-redirect" title="Anil K. Jain (electrical engineer, born 1946)">Anil K. Jain</a> and Jaswant R. Jain further developed motion-compensated DCT video compression.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;26&#93;</a></sup><sup id="cite_ref-ITU_10-7" class="reference"><a href="#cite_note-ITU-10">&#91;9&#93;</a></sup> This led to Chen developing a practical video compression algorithm, called motion-compensated DCT or adaptive scene coding, in 1981.<sup id="cite_ref-ITU_10-8" class="reference"><a href="#cite_note-ITU-10">&#91;9&#93;</a></sup> Motion-compensated DCT later became the standard coding technique for video compression from the late 1980s onwards.<sup id="cite_ref-Ghanbari_12-5" class="reference"><a href="#cite_note-Ghanbari-12">&#91;11&#93;</a></sup><sup id="cite_ref-Li_28-0" class="reference"><a href="#cite_note-Li-28">&#91;27&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Video_coding_standards">Video coding standards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_coding_format&amp;action=edit&amp;section=4" title="Edit section: Video coding standards">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The first digital video coding standard was <a href="/wiki/H.120" title="H.120">H.120</a>, developed by the <a href="/wiki/ITU-T" title="ITU-T">CCITT</a> (now ITU-T) in 1984.<sup id="cite_ref-history_29-0" class="reference"><a href="#cite_note-history-29">&#91;28&#93;</a></sup> H.120 was not usable in practice, as its performance was too poor.<sup id="cite_ref-history_29-1" class="reference"><a href="#cite_note-history-29">&#91;28&#93;</a></sup> H.120 used motion-compensated DPCM coding,<sup id="cite_ref-ITU_10-9" class="reference"><a href="#cite_note-ITU-10">&#91;9&#93;</a></sup> a lossless compression algorithm that was inefficient for video coding.<sup id="cite_ref-Ghanbari_12-6" class="reference"><a href="#cite_note-Ghanbari-12">&#91;11&#93;</a></sup> During the late 1980s, a number of companies began experimenting with <a href="/wiki/Discrete_cosine_transform" title="Discrete cosine transform">discrete cosine transform</a> (DCT) coding, a much more efficient form of compression for video coding. The CCITT received 14 proposals for DCT-based video compression formats, in contrast to a single proposal based on <a href="/wiki/Vector_quantization" title="Vector quantization">vector quantization</a> (VQ) compression. The <a href="/wiki/H.261" title="H.261">H.261</a> standard was developed based on motion-compensated DCT compression.<sup id="cite_ref-Ghanbari_12-7" class="reference"><a href="#cite_note-Ghanbari-12">&#91;11&#93;</a></sup><sup id="cite_ref-Li_28-1" class="reference"><a href="#cite_note-Li-28">&#91;27&#93;</a></sup> H.261 was the first practical video coding standard,<sup id="cite_ref-history_29-2" class="reference"><a href="#cite_note-history-29">&#91;28&#93;</a></sup> and uses <a href="/wiki/Patents" class="mw-redirect" title="Patents">patents</a> licensed from a number of companies, including <a href="/wiki/Hitachi" title="Hitachi">Hitachi</a>, <a href="/wiki/PictureTel" class="mw-redirect" title="PictureTel">PictureTel</a>, <a href="/wiki/Nippon_Telegraph_and_Telephone" title="Nippon Telegraph and Telephone">NTT</a>, <a href="/wiki/BT_plc" class="mw-redirect" title="BT plc">BT</a>, and <a href="/wiki/Toshiba" title="Toshiba">Toshiba</a>, among others.<sup id="cite_ref-h261-patents_30-0" class="reference"><a href="#cite_note-h261-patents-30">&#91;29&#93;</a></sup> Since H.261, motion-compensated DCT compression has been adopted by all the major video coding standards (including the <a href="/wiki/H.26x" class="mw-redirect" title="H.26x">H.26x</a> and <a href="/wiki/MPEG" class="mw-redirect" title="MPEG">MPEG</a> formats) that followed.<sup id="cite_ref-Ghanbari_12-8" class="reference"><a href="#cite_note-Ghanbari-12">&#91;11&#93;</a></sup><sup id="cite_ref-Li_28-2" class="reference"><a href="#cite_note-Li-28">&#91;27&#93;</a></sup>
+</p><p><a href="/wiki/MPEG-1" title="MPEG-1">MPEG-1</a>, developed by the <a href="/wiki/Motion_Picture_Experts_Group" class="mw-redirect" title="Motion Picture Experts Group">Motion Picture Experts Group</a> (MPEG), followed in 1991, and it was designed to compress <a href="/wiki/VHS" title="VHS">VHS</a>-quality video.<sup id="cite_ref-history_29-3" class="reference"><a href="#cite_note-history-29">&#91;28&#93;</a></sup> It was succeeded in 1994 by <a href="/wiki/MPEG-2" title="MPEG-2">MPEG-2</a>/<a href="/wiki/H.262/MPEG-2_Part_2" title="H.262/MPEG-2 Part 2">H.262</a>,<sup id="cite_ref-history_29-4" class="reference"><a href="#cite_note-history-29">&#91;28&#93;</a></sup> which was developed with patents licensed from a number of companies, primarily <a href="/wiki/Sony" title="Sony">Sony</a>, <a href="/wiki/Technicolor_SA" class="mw-redirect" title="Technicolor SA">Thomson</a> and <a href="/wiki/Mitsubishi_Electric" title="Mitsubishi Electric">Mitsubishi Electric</a>.<sup id="cite_ref-mp2-patents_31-0" class="reference"><a href="#cite_note-mp2-patents-31">&#91;30&#93;</a></sup> MPEG-2 became the standard video format for <a href="/wiki/DVD" title="DVD">DVD</a> and <a href="/wiki/SD_digital_television" class="mw-redirect" title="SD digital television">SD digital television</a>.<sup id="cite_ref-history_29-5" class="reference"><a href="#cite_note-history-29">&#91;28&#93;</a></sup> Its motion-compensated DCT algorithm was able to achieve a <a href="/wiki/Compression_ratio" title="Compression ratio">compression ratio</a> of up to 100:1, enabling the development of <a href="/wiki/Digital_media" title="Digital media">digital media</a> technologies such as <a href="/wiki/Video-on-demand" class="mw-redirect" title="Video-on-demand">video-on-demand</a> (VOD)<sup id="cite_ref-Lea_13-5" class="reference"><a href="#cite_note-Lea-13">&#91;12&#93;</a></sup> and <a href="/wiki/High-definition_television" title="High-definition television">high-definition television</a> (HDTV).<sup id="cite_ref-Shishikui_32-0" class="reference"><a href="#cite_note-Shishikui-32">&#91;31&#93;</a></sup> In 1999, it was followed by <a href="/wiki/MPEG-4_Visual" class="mw-redirect" title="MPEG-4 Visual">MPEG-4</a>/<a href="/wiki/H.263" title="H.263">H.263</a>, which was a major leap forward for video compression technology.<sup id="cite_ref-history_29-6" class="reference"><a href="#cite_note-history-29">&#91;28&#93;</a></sup> It uses patents licensed from a number of companies, primarily Mitsubishi, <a href="/wiki/Hitachi" title="Hitachi">Hitachi</a> and <a href="/wiki/Panasonic" title="Panasonic">Panasonic</a>.<sup id="cite_ref-mp4-patents_33-0" class="reference"><a href="#cite_note-mp4-patents-33">&#91;32&#93;</a></sup>
+</p><p>The most widely used video coding format as of 2019<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Video_coding_format&amp;action=edit">&#91;update&#93;</a></sup> is <a href="/wiki/H.264/MPEG-4_AVC" class="mw-redirect" title="H.264/MPEG-4 AVC">H.264/MPEG-4 AVC</a>.<sup id="cite_ref-Bitmovin_34-0" class="reference"><a href="#cite_note-Bitmovin-34">&#91;33&#93;</a></sup> It was developed in 2003, and uses patents licensed from a number of organizations, primarily Panasonic, <a href="/wiki/Godo_kaisha" class="mw-redirect" title="Godo kaisha">Godo Kaisha IP Bridge</a> and <a href="/wiki/LG_Electronics" title="LG Electronics">LG Electronics</a>.<sup id="cite_ref-avc-patents_35-0" class="reference"><a href="#cite_note-avc-patents-35">&#91;34&#93;</a></sup> In contrast to the standard DCT used by its predecessors, AVC uses the <a href="/wiki/Discrete_cosine_transform" title="Discrete cosine transform">integer DCT</a>.<sup id="cite_ref-Stankovic_24-2" class="reference"><a href="#cite_note-Stankovic-24">&#91;23&#93;</a></sup><sup id="cite_ref-Wang_36-0" class="reference"><a href="#cite_note-Wang-36">&#91;35&#93;</a></sup> H.264 is one of the video encoding standards for <a href="/wiki/Blu-ray_Disc" class="mw-redirect" title="Blu-ray Disc">Blu-ray Discs</a>; all Blu-ray Disc players must be able to decode H.264. It is also widely used by streaming internet sources, such as videos from <a href="/wiki/YouTube" title="YouTube">YouTube</a>, <a href="/wiki/Netflix" title="Netflix">Netflix</a>, <a href="/wiki/Vimeo" title="Vimeo">Vimeo</a>, and the <a href="/wiki/ITunes_Store" title="ITunes Store">iTunes Store</a>, web software such as the <a href="/wiki/Adobe_Flash_Player" title="Adobe Flash Player">Adobe Flash Player</a> and <a href="/wiki/Microsoft_Silverlight" title="Microsoft Silverlight">Microsoft Silverlight</a>, and also various <a href="/wiki/HDTV" class="mw-redirect" title="HDTV">HDTV</a> broadcasts over terrestrial (<a href="/wiki/Advanced_Television_Systems_Committee_standards" class="mw-redirect" title="Advanced Television Systems Committee standards">Advanced Television Systems Committee standards</a>, <a href="/wiki/ISDB-T" class="mw-redirect" title="ISDB-T">ISDB-T</a>, <a href="/wiki/DVB-T" title="DVB-T">DVB-T</a> or <a href="/wiki/DVB-T2" title="DVB-T2">DVB-T2</a>), cable (<a href="/wiki/DVB-C" title="DVB-C">DVB-C</a>), and satellite (<a href="/wiki/DVB-S2" title="DVB-S2">DVB-S2</a>).<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;36&#93;</a></sup>
+</p><p>A main problem for many video coding formats has been <a href="/wiki/Patent" title="Patent">patents</a>, making it expensive to use or potentially risking a patent lawsuit due to <a href="/wiki/Submarine_patent" title="Submarine patent">submarine patents</a>. The motivation behind many recently designed video coding formats such as <a href="/wiki/Theora" title="Theora">Theora</a>, <a href="/wiki/VP8" title="VP8">VP8</a> and <a href="/wiki/VP9" title="VP9">VP9</a> have been to create a (<a href="/wiki/Free_software" title="Free software">libre</a>) video coding standard covered only by royalty-free patents.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;37&#93;</a></sup> Patent status has also been a major point of contention for the choice of which video formats the mainstream <a href="/wiki/Web_browser" title="Web browser">web browsers</a> will support inside the <a href="/wiki/HTML5_video" title="HTML5 video">HTML5 video</a> tag.
+</p><p>The current-generation video coding format is <a href="/wiki/HEVC" class="mw-redirect" title="HEVC">HEVC</a> (H.265), introduced in 2013. While AVC uses the integer DCT with 4x4 and 8x8 block sizes, HEVC uses integer DCT and <a href="/wiki/Discrete_sine_transform" title="Discrete sine transform">DST</a> transforms with varied block sizes between 4x4 and 32x32.<sup id="cite_ref-apple_39-0" class="reference"><a href="#cite_note-apple-39">&#91;38&#93;</a></sup> HEVC is heavily patented, with the majority of patents belonging to <a href="/wiki/Samsung_Electronics" title="Samsung Electronics">Samsung Electronics</a>, <a href="/wiki/General_Electric" title="General Electric">GE</a>, <a href="/wiki/Nippon_Telegraph_and_Telephone" title="Nippon Telegraph and Telephone">NTT</a> and <a href="/wiki/JVC_Kenwood" class="mw-redirect" title="JVC Kenwood">JVC Kenwood</a>.<sup id="cite_ref-hevc-patents_40-0" class="reference"><a href="#cite_note-hevc-patents-40">&#91;39&#93;</a></sup>  It is currently being challenged by the aiming-to-be-freely-licensed <a href="/wiki/AOMedia_Video_1" class="mw-redirect" title="AOMedia Video 1">AV1</a> format. As of 2019<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Video_coding_format&amp;action=edit">&#91;update&#93;</a></sup>, AVC is by far the most commonly used format for the recording, compression and distribution of video content, used by 91% of video developers, followed by HEVC which is used by 43% of developers.<sup id="cite_ref-Bitmovin_34-1" class="reference"><a href="#cite_note-Bitmovin-34">&#91;33&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="List_of_video_coding_standards">List of video coding standards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_coding_format&amp;action=edit&amp;section=5" title="Edit section: List of video coding standards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/List_of_codecs#Video_compression_formats" title="List of codecs">List of codecs §&#160;Video compression formats</a></div>
+<table class="wikitable sortable">
+<caption>Timeline of international video compression standards
+</caption>
+<tbody><tr style="text-align:center;">
+<th>Basic algorithm
+</th>
+<th>Video coding standard
+</th>
+<th>Year
+</th>
+<th>Publisher(s)
+</th>
+<th>Committee(s)
+</th>
+<th>Licensor(s)
+</th>
+<th>Market presence <span style="font-size:85%;">(2019)</span><sup id="cite_ref-Bitmovin_34-2" class="reference"><a href="#cite_note-Bitmovin-34">&#91;33&#93;</a></sup>
+</th>
+<th>Popular implementations
+</th></tr>
+<tr style="text-align:center;">
+<td><a href="/wiki/Differential_pulse-code_modulation" title="Differential pulse-code modulation">DPCM</a>
+</td>
+<td><a href="/wiki/H.120" title="H.120">H.120</a>
+</td>
+<td>1984</td>
+<td><a href="/wiki/ITU-T" title="ITU-T">CCITT</a>
+</td>
+<td><a href="/wiki/VCEG" class="mw-redirect" title="VCEG">VCEG</a>
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—
+</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un&#173;known
+</td></tr>
+<tr style="text-align:center;">
+<td rowspan="7"><a href="/wiki/Discrete_cosine_transform" title="Discrete cosine transform">DCT</a>
+</td>
+<td><a href="/wiki/H.261" title="H.261">H.261</a>
+</td>
+<td>1988</td>
+<td>CCITT
+</td>
+<td>VCEG
+</td>
+<td><a href="/wiki/Hitachi" title="Hitachi">Hitachi</a>, <a href="/wiki/PictureTel" class="mw-redirect" title="PictureTel">PictureTel</a>, <a href="/wiki/Nippon_Telegraph_and_Telephone" title="Nippon Telegraph and Telephone">NTT</a>, <a href="/wiki/BT_plc" class="mw-redirect" title="BT plc">BT</a>, <a href="/wiki/Toshiba" title="Toshiba">Toshiba</a>, <a href="/wiki/H.261#Patent_holders" title="H.261">etc.</a><sup id="cite_ref-h261-patents_30-1" class="reference"><a href="#cite_note-h261-patents-30">&#91;29&#93;</a></sup>
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—
+</td>
+<td><a href="/wiki/Videoconferencing" class="mw-redirect" title="Videoconferencing">Videoconferencing</a>, <a href="/wiki/Videotelephony" title="Videotelephony">videotelephony</a>
+</td></tr>
+<tr style="text-align:center;">
+<td><a href="/wiki/Motion_JPEG" title="Motion JPEG">Motion JPEG</a> (MJPEG)
+</td>
+<td>1992
+</td>
+<td><a href="/wiki/Joint_Photographic_Experts_Group" title="Joint Photographic Experts Group">JPEG</a>
+</td>
+<td><a href="/wiki/Joint_Photographic_Experts_Group" title="Joint Photographic Experts Group">JPEG</a>
+</td>
+<td><a href="/wiki/ISO" class="mw-redirect" title="ISO">ISO</a> / <a href="/wiki/Open_Source" class="mw-redirect" title="Open Source">Open Source does NOT mean free!</a>   <sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;40&#93;</a></sup>
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—
+</td>
+<td><a href="/wiki/QuickTime" title="QuickTime">QuickTime</a>
+</td></tr>
+<tr style="text-align:center;">
+<td><a href="/wiki/MPEG-1_Part_2" class="mw-redirect" title="MPEG-1 Part 2">MPEG-1 Part 2</a>
+</td>
+<td>1993</td>
+<td><a href="/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">ISO</a>, <a href="/wiki/International_Electrotechnical_Commission" title="International Electrotechnical Commission">IEC</a>
+</td>
+<td><a href="/wiki/MPEG" class="mw-redirect" title="MPEG">MPEG</a>
+</td>
+<td><a href="/wiki/Fujitsu" title="Fujitsu">Fujitsu</a>, <a href="/wiki/IBM" title="IBM">IBM</a>, <a href="/wiki/Matsushita_Electric" class="mw-redirect" title="Matsushita Electric">Matsushita</a>, <a href="/wiki/MPEG-1#Patent_holders" title="MPEG-1">etc.</a><sup id="cite_ref-42" class="reference"><a href="#cite_note-42">&#91;41&#93;</a></sup>
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—
+</td>
+<td><a href="/wiki/Video_CD" title="Video CD">Video CD</a>, <a href="/wiki/Internet_video" title="Internet video">Internet video</a>
+</td></tr>
+<tr style="text-align:center;">
+<td><a href="/wiki/H.262/MPEG-2_Part_2" title="H.262/MPEG-2 Part 2">H.262 / MPEG-2 Part 2</a> (MPEG-2 Video)
+</td>
+<td>1995</td>
+<td>ISO, IEC, <a href="/wiki/ITU-T" title="ITU-T">ITU-T</a>
+</td>
+<td>MPEG, VCEG
+</td>
+<td><a href="/wiki/Sony" title="Sony">Sony</a>, <a href="/wiki/Technicolor_SA" class="mw-redirect" title="Technicolor SA">Thomson</a>, <a href="/wiki/Mitsubishi_Electric" title="Mitsubishi Electric">Mitsubishi</a>, <a href="/wiki/H.262/MPEG-2_Part_2#Patent_holders" title="H.262/MPEG-2 Part 2">etc.</a><sup id="cite_ref-mp2-patents_31-1" class="reference"><a href="#cite_note-mp2-patents-31">&#91;30&#93;</a></sup>
+</td>
+<td>29%
+</td>
+<td><a href="/wiki/DVD" title="DVD">DVD Video</a>, <a href="/wiki/Blu-ray" title="Blu-ray">Blu-ray</a>, <a href="/wiki/Digital_Video_Broadcasting" class="mw-redirect" title="Digital Video Broadcasting">DVB</a>, <a href="/wiki/ATSC" class="mw-redirect" title="ATSC">ATSC</a>, <a href="/wiki/SVCD" class="mw-redirect" title="SVCD">SVCD</a>, <a href="/wiki/SDTV" class="mw-redirect" title="SDTV">SDTV</a>
+</td></tr>
+<tr style="text-align:center;">
+<td><a href="/wiki/DV" title="DV">DV</a>
+</td>
+<td>1995
+</td>
+<td>IEC
+</td>
+<td><a href="/wiki/International_Electrotechnical_Commission" title="International Electrotechnical Commission">IEC</a>
+</td>
+<td>Sony, <a href="/wiki/Panasonic" title="Panasonic">Panasonic</a>
+</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un&#173;known
+</td>
+<td><a href="/wiki/Camcorders" class="mw-redirect" title="Camcorders">Camcorders</a>, <a href="/wiki/Digital_cassettes" title="Digital cassettes">digital cassettes</a>
+</td></tr>
+<tr style="text-align:center;">
+<td><a href="/wiki/H.263" title="H.263">H.263</a>
+</td>
+<td>1996</td>
+<td>ITU-T
+</td>
+<td>VCEG
+</td>
+<td>Mitsubishi, <a href="/wiki/Hitachi" title="Hitachi">Hitachi</a>, Panasonic, <a href="/wiki/MPEG-4_Part_2#Patent_holders" title="MPEG-4 Part 2">etc.</a><sup id="cite_ref-mp4-patents_33-1" class="reference"><a href="#cite_note-mp4-patents-33">&#91;32&#93;</a></sup>
+</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un&#173;known
+</td>
+<td>Videoconferencing, videotelephony, <a href="/wiki/H.320" title="H.320">H.320</a>, <a href="/wiki/Integrated_Services_Digital_Network" title="Integrated Services Digital Network">Integrated Services Digital Network</a> (ISDN),<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">&#91;42&#93;</a></sup><sup id="cite_ref-44" class="reference"><a href="#cite_note-44">&#91;43&#93;</a></sup> <a href="/wiki/Mobile_video" class="mw-redirect" title="Mobile video">mobile video</a> (<a href="/wiki/3GP" class="mw-redirect" title="3GP">3GP</a>), <a href="/wiki/MPEG-4_Visual" class="mw-redirect" title="MPEG-4 Visual">MPEG-4 Visual</a>
+</td></tr>
+<tr style="text-align:center;">
+<td><a href="/wiki/MPEG-4_Part_2" title="MPEG-4 Part 2">MPEG-4 Part 2</a> (MPEG-4 Visual)
+</td>
+<td>1999</td>
+<td>ISO, IEC
+</td>
+<td>MPEG
+</td>
+<td>Mitsubishi, Hitachi, Panasonic, <a href="/wiki/MPEG-4_Part_2#Patent_holders" title="MPEG-4 Part 2">etc.</a><sup id="cite_ref-mp4-patents_33-2" class="reference"><a href="#cite_note-mp4-patents-33">&#91;32&#93;</a></sup>
+</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un&#173;known
+</td>
+<td>Internet video, <a href="/wiki/DivX" title="DivX">DivX</a>, <a href="/wiki/Xvid" title="Xvid">Xvid</a>
+</td></tr>
+<tr style="text-align:center;">
+<td><a href="/wiki/Discrete_wavelet_transform" title="Discrete wavelet transform">DWT</a></td>
+<td><a href="/wiki/Motion_JPEG_2000" title="Motion JPEG 2000">Motion JPEG 2000</a> (MJ2)
+</td>
+<td>2001</td>
+<td>JPEG<sup id="cite_ref-j2kpart3_45-0" class="reference"><a href="#cite_note-j2kpart3-45">&#91;44&#93;</a></sup>
+</td>
+<td>JPEG<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">&#91;45&#93;</a></sup>
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—
+</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un&#173;known
+</td>
+<td><a href="/wiki/Digital_cinema" title="Digital cinema">Digital cinema</a><sup id="cite_ref-47" class="reference"><a href="#cite_note-47">&#91;46&#93;</a></sup>
+</td></tr>
+<tr style="text-align:center;">
+<td rowspan="7">DCT</td>
+<td><a href="/wiki/Advanced_Video_Coding" title="Advanced Video Coding">Advanced Video Coding</a> (H.264 / <a href="/wiki/MPEG-4" title="MPEG-4">MPEG-4</a> AVC)
+</td>
+<td>2003</td>
+<td>ISO, IEC, ITU-T
+</td>
+<td>MPEG, VCEG
+</td>
+<td>Panasonic, <a href="/wiki/Godo_kaisha" class="mw-redirect" title="Godo kaisha">Godo Kaisha IP Bridge</a>, <a href="/wiki/LG_Electronics" title="LG Electronics">LG</a>, <a href="/wiki/H.264/MPEG-4_AVC#Patent_holders" class="mw-redirect" title="H.264/MPEG-4 AVC">etc.</a><sup id="cite_ref-avc-patents_35-1" class="reference"><a href="#cite_note-avc-patents-35">&#91;34&#93;</a></sup>
+</td>
+<td>91%
+</td>
+<td><a href="/wiki/Blu-ray" title="Blu-ray">Blu-ray</a>, <a href="/wiki/HD_DVD" title="HD DVD">HD DVD</a>, <a href="/wiki/HDTV" class="mw-redirect" title="HDTV">HDTV</a> (<a href="/wiki/Digital_Video_Broadcasting" class="mw-redirect" title="Digital Video Broadcasting">DVB</a>, <a href="/wiki/ATSC" class="mw-redirect" title="ATSC">ATSC</a>), <a href="/wiki/Video_streaming" class="mw-redirect" title="Video streaming">video streaming</a> (<a href="/wiki/YouTube" title="YouTube">YouTube</a>, <a href="/wiki/Netflix" title="Netflix">Netflix</a>, <a href="/wiki/Vimeo" title="Vimeo">Vimeo</a>), <a href="/wiki/ITunes_Store" title="ITunes Store">iTunes Store</a>, <a href="/wiki/IPod_Video" class="mw-redirect" title="IPod Video">iPod Video</a>, <a href="/wiki/Apple_TV" title="Apple TV">Apple TV</a>, videoconferencing, <a href="/wiki/Flash_Player" class="mw-redirect" title="Flash Player">Flash Player</a>, <a href="/wiki/Silverlight" class="mw-redirect" title="Silverlight">Silverlight</a>, <a href="/wiki/Video_on_demand" title="Video on demand">VOD</a>
+</td></tr>
+<tr style="text-align:center;">
+<td><a href="/wiki/Theora" title="Theora">Theora</a>
+</td>
+<td>2004
+</td>
+<td><a href="/wiki/Xiph.Org_Foundation" title="Xiph.Org Foundation">Xiph</a>
+</td>
+<td><a href="/wiki/Xiph.Org_Foundation" title="Xiph.Org Foundation">Xiph</a>
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—
+</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un&#173;known
+</td>
+<td>Internet video, <a href="/wiki/Web_browsers" class="mw-redirect" title="Web browsers">web browsers</a>
+</td></tr>
+<tr style="text-align:center;">
+<td><a href="/wiki/VC-1" title="VC-1">VC-1</a>
+</td>
+<td>2006
+</td>
+<td><a href="/wiki/SMPTE" class="mw-redirect" title="SMPTE">SMPTE</a>
+</td>
+<td><a href="/wiki/SMPTE" class="mw-redirect" title="SMPTE">SMPTE</a>
+</td>
+<td><a href="/wiki/Microsoft" title="Microsoft">Microsoft</a>, Panasonic, LG, <a href="/wiki/Samsung_Electronics" title="Samsung Electronics">Samsung</a>, <a href="/wiki/VC-1#Patent_holders" title="VC-1">etc.</a><sup id="cite_ref-48" class="reference"><a href="#cite_note-48">&#91;47&#93;</a></sup>
+</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un&#173;known
+</td>
+<td>Blu-ray, Internet video
+</td></tr>
+<tr style="text-align:center;">
+<td><a href="/wiki/Apple_ProRes" title="Apple ProRes">Apple ProRes</a>
+</td>
+<td>2007
+</td>
+<td><a href="/wiki/Apple_Inc." title="Apple Inc.">Apple</a>
+</td>
+<td><a href="/wiki/Apple_Inc." title="Apple Inc.">Apple</a>
+</td>
+<td><a href="/wiki/Apple_Inc." title="Apple Inc.">Apple</a>
+</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un&#173;known
+</td>
+<td><a href="/wiki/Video_production" title="Video production">Video production</a>, <a href="/wiki/Post-production" title="Post-production">post-production</a>
+</td></tr>
+<tr style="text-align:center;">
+<td><a href="/wiki/High_Efficiency_Video_Coding" title="High Efficiency Video Coding">High Efficiency Video Coding</a> (H.265 / <a href="/wiki/MPEG-H" title="MPEG-H">MPEG-H</a> HEVC)
+</td>
+<td>2013
+</td>
+<td>ISO, IEC, ITU-T
+</td>
+<td>MPEG, VCEG
+</td>
+<td>Samsung, <a href="/wiki/General_Electric" title="General Electric">GE</a>, <a href="/wiki/Nippon_Telegraph_and_Telephone" title="Nippon Telegraph and Telephone">NTT</a>, <a href="/wiki/JVC_Kenwood" class="mw-redirect" title="JVC Kenwood">JVC Kenwood</a>, <a href="/wiki/High_Efficiency_Video_Coding#Patent_holders" title="High Efficiency Video Coding">etc.</a><sup id="cite_ref-hevc-patents_40-1" class="reference"><a href="#cite_note-hevc-patents-40">&#91;39&#93;</a></sup><sup id="cite_ref-hevcadvance_49-0" class="reference"><a href="#cite_note-hevcadvance-49">&#91;48&#93;</a></sup>
+</td>
+<td>43%
+</td>
+<td><a href="/wiki/Ultra_HD_Blu-ray" title="Ultra HD Blu-ray">UHD Blu-ray</a>, DVB, <a href="/wiki/ATSC_3.0" title="ATSC 3.0">ATSC 3.0</a>, <a href="/wiki/Ultra_HD" class="mw-redirect" title="Ultra HD">UHD</a> streaming, <a href="/wiki/High_Efficiency_Image_File_Format" title="High Efficiency Image File Format">High Efficiency Image File Format</a>, <a href="/wiki/MacOS_High_Sierra" title="MacOS High Sierra">macOS High Sierra</a>, <a href="/wiki/IOS_11" title="IOS 11">iOS 11</a>
+</td></tr>
+<tr style="text-align:center;">
+<td><a href="/wiki/AV1" title="AV1">AV1</a>
+</td>
+<td>2018
+</td>
+<td><a href="/wiki/AOMedia" class="mw-redirect" title="AOMedia">AOMedia</a>
+</td>
+<td><a href="/wiki/AOMedia" class="mw-redirect" title="AOMedia">AOMedia</a>
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—
+</td>
+<td>7%
+</td>
+<td><a href="/wiki/HTML5_video" title="HTML5 video">HTML5 video</a>
+</td></tr>
+<tr style="text-align:center;">
+<td><a href="/wiki/Versatile_Video_Coding" title="Versatile Video Coding">Versatile Video Coding</a> (VVC / H.266)
+</td>
+<td>2020
+</td>
+<td><a href="/wiki/Versatile_Video_Coding" title="Versatile Video Coding">JVET</a>
+</td>
+<td><a href="/wiki/Versatile_Video_Coding" title="Versatile Video Coding">JVET</a>
+</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un&#173;known
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—
+</td></tr></tbody></table>
+<h2><span id="Lossless.2C_lossy.2C_and_uncompressed_video_coding_formats"></span><span class="mw-headline" id="Lossless,_lossy,_and_uncompressed_video_coding_formats">Lossless, lossy, and uncompressed video coding formats</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_coding_format&amp;action=edit&amp;section=6" title="Edit section: Lossless, lossy, and uncompressed video coding formats">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Consumer video is generally compressed using <a href="/wiki/Lossy_compression" title="Lossy compression">lossy</a> <a href="/wiki/Video_codec" title="Video codec">video codecs</a>, since that results in significantly smaller files than <a href="/wiki/Lossless_compression" title="Lossless compression">lossless</a> compression. While there are video coding formats designed explicitly for either lossy or lossless compression, some video coding formats such as <a href="/wiki/Dirac_(video_compression_format)" title="Dirac (video compression format)">Dirac</a> and <a href="/wiki/H.264/MPEG-4_AVC" class="mw-redirect" title="H.264/MPEG-4 AVC">H.264</a> support both.<sup id="cite_ref-50" class="reference"><a href="#cite_note-50">&#91;49&#93;</a></sup>
+</p><p><a href="/wiki/Uncompressed_video" title="Uncompressed video">Uncompressed video</a> formats, such as <i>Clean HDMI</i>, is a form of lossless video used in some circumstances such as when sending video to a display over a <a href="/wiki/HDMI" title="HDMI">HDMI</a> connection. Some high-end cameras can also capture video directly in this format.
+</p>
+<h2><span class="mw-headline" id="Intra-frame_video_coding_formats">Intra-frame video coding formats</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_coding_format&amp;action=edit&amp;section=7" title="Edit section: Intra-frame video coding formats">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Interframe compression complicates editing of an encoded video sequence.<sup id="cite_ref-Bhojani_51-0" class="reference"><a href="#cite_note-Bhojani-51">&#91;50&#93;</a></sup>
+One subclass of relatively simple video coding formats are the <a href="/wiki/Intra-frame" class="mw-redirect" title="Intra-frame">intra-frame</a> video formats, such as <a href="/wiki/DV" title="DV">DV</a>, in which each frame of the video stream is compressed independently without referring to other frames in the stream, and no attempt is made to take advantage of correlations between successive pictures over time for better compression. One example is <a href="/wiki/Motion_JPEG" title="Motion JPEG">Motion JPEG</a>, which is simply a sequence of individually <a href="/wiki/JPEG" title="JPEG">JPEG</a>-compressed images. This approach is quick and simple, at the expense the encoded video being much larger than a video coding format supporting <a href="/wiki/Inter_frame" title="Inter frame">Inter frame</a> coding.
+</p><p>Because interframe compression copies data from one frame to another, if the original frame is simply cut out (or lost in transmission), the following frames cannot be reconstructed properly. Making 'cuts' in intraframe-compressed video while <a href="/wiki/Video_editing" title="Video editing">video editing</a> is almost as easy as editing uncompressed video: one finds the beginning and ending of each frame, and simply copies bit-for-bit each frame that one wants to keep, and discards the frames one doesn't want. Another difference between intraframe and interframe compression is that, with intraframe systems, each frame uses a similar amount of data. In most interframe systems, certain frames (such as "<a href="/wiki/Video_compression_picture_types" title="Video compression picture types">I frames</a>" in <a href="/wiki/MPEG-2" title="MPEG-2">MPEG-2</a>) aren't allowed to copy data from other frames, so they require much more data than other frames nearby.<sup id="cite_ref-Jaiswal_52-0" class="reference"><a href="#cite_note-Jaiswal-52">&#91;51&#93;</a></sup>
+</p><p>It is possible to build a computer-based video editor that spots problems caused when I frames are edited out while other frames need them. This has allowed newer formats like <a href="/wiki/HDV" title="HDV">HDV</a> to be used for editing. However, this process demands a lot more computing power than editing intraframe compressed video with the same picture quality. But, this compression is not very effective to use for any audio format.<sup id="cite_ref-53" class="reference"><a href="#cite_note-53">&#91;52&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Profiles_and_levels">Profiles and levels</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_coding_format&amp;action=edit&amp;section=8" title="Edit section: Profiles and levels">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A video coding format can define optional restrictions to encoded video, called <a href="/wiki/Profile_(engineering)" title="Profile (engineering)">profiles</a> and levels. It is possible to have a decoder which only supports decoding a subset of profiles and levels of a given video format, for example to make the decoder program/hardware smaller, simpler, or faster.<sup id="cite_ref-54" class="reference"><a href="#cite_note-54">&#91;53&#93;</a></sup>
+</p><p>A <i>profile</i> restricts which encoding techniques are allowed. For example, the H.264 format includes the profiles <i>baseline</i>, <i>main</i> and <i>high</i> (and others). While <a href="/wiki/Video_compression_picture_types" title="Video compression picture types">P-slices</a> (which can be predicted based on preceding slices) are supported in all profiles, <a href="/wiki/Video_compression_picture_types" title="Video compression picture types">B-slices</a> (which can be predicted based on both preceding and following slices) are supported in the <i>main</i> and <i>high</i> profiles but not in <i>baseline</i>.<sup id="cite_ref-adobe_55-0" class="reference"><a href="#cite_note-adobe-55">&#91;54&#93;</a></sup>
+</p><p>A <i>level</i> is a restriction on parameters such as maximum resolution and data rates.<sup id="cite_ref-adobe_55-1" class="reference"><a href="#cite_note-adobe-55">&#91;54&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_coding_format&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Comparison_of_video_container_formats" title="Comparison of video container formats">Comparison of video container formats</a></li>
+<li><a href="/wiki/Data_compression#Video" title="Data compression">Data compression#Video</a></li>
+<li><a href="/wiki/Display_resolution" title="Display resolution">Display resolution</a></li>
+<li><a href="/wiki/List_of_video_compression_formats" class="mw-redirect" title="List of video compression formats">List of video compression formats</a></li>
+<li><a href="/wiki/Video_file_format" title="Video file format">Video file format</a></li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_coding_format&amp;action=edit&amp;section=10" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist reflist-lower-alpha">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">The term <i>video coding</i> can be seen in e.g. the names <a href="/wiki/Advanced_Video_Coding" title="Advanced Video Coding">Advanced Video Coding</a>, <a href="/wiki/High_Efficiency_Video_Coding" title="High Efficiency Video Coding">High Efficiency Video Coding</a>, and <a href="/wiki/Video_Coding_Experts_Group" title="Video Coding Experts Group">Video Coding Experts Group</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_coding_format&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1011085734"><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFThomas_WiegandGary_J._SullivanGisle_BjontegaardAjay_Luthra2003" class="citation web cs1"><a href="/wiki/Thomas_Wiegand" title="Thomas Wiegand">Thomas Wiegand</a>; Gary J. Sullivan; Gisle Bjontegaard &amp; Ajay Luthra (July 2003). <a rel="nofollow" class="external text" href="http://654lab.webstarts.com/uploads/csvt_overview.pdf">"Overview of the H.264 / AVC Video Coding Standard"</a> <span class="cs1-format">(PDF)</span>. IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Overview+of+the+H.264+%2F+AVC+Video+Coding+Standard&amp;rft.pub=IEEE+TRANSACTIONS+ON+CIRCUITS+AND+SYSTEMS+FOR+VIDEO+TECHNOLOGY&amp;rft.date=2003-07&amp;rft.au=Thomas+Wiegand&amp;rft.au=Gary+J.+Sullivan&amp;rft.au=Gisle+Bjontegaard&amp;rft.au=Ajay+Luthra&amp;rft_id=http%3A%2F%2F654lab.webstarts.com%2Fuploads%2Fcsvt_overview.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-h264-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-h264_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-h264_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.itu.int/rec/dologin_pub.asp?lang=e&amp;id=T-REC-H.264-200305-S!!PDF-E&amp;type=items">"SERIES H: AUDIOVISUAL AND MULTIMEDIA SYSTEMS&#160;: Infrastructure of audiovisual services – Coding of moving video&#160;: Advanced video coding for generic audiovisual services"</a>. Itu.int<span class="reference-accessdate">. Retrieved <span class="nowrap">6 January</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=SERIES+H%3A+AUDIOVISUAL+AND+MULTIMEDIA+SYSTEMS+%3A+Infrastructure+of+audiovisual+services+%E2%80%93+Coding+of+moving+video+%3A+Advanced+video+coding+for+generic+audiovisual+services&amp;rft.pub=Itu.int&amp;rft_id=http%3A%2F%2Fwww.itu.int%2Frec%2Fdologin_pub.asp%3Flang%3De%26id%3DT-REC-H.264-200305-S%21%21PDF-E%26type%3Ditems&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://aomedia.org/">"Front Page"</a>. Alliance for Open Media<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Front+Page&amp;rft.pub=Alliance+for+Open+Media&amp;rft_id=http%3A%2F%2Faomedia.org%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFAdrian_GrangePeter_de_RivazJonathan_Hunt" class="citation web cs1">Adrian Grange; Peter de Rivaz &amp; Jonathan Hunt. <a rel="nofollow" class="external text" href="https://storage.googleapis.com/downloads.webmproject.org/docs/vp9/vp9-bitstream-specification-v0.6-20160331-draft.pdf">"VP9 Bitstream &amp; Decoding Process Specification"</a> <span class="cs1-format">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=VP9+Bitstream+%26+Decoding+Process+Specification&amp;rft.au=Adrian+Grange&amp;rft.au=Peter+de+Rivaz&amp;rft.au=Jonathan+Hunt&amp;rft_id=https%3A%2F%2Fstorage.googleapis.com%2Fdownloads.webmproject.org%2Fdocs%2Fvp9%2Fvp9-bitstream-specification-v0.6-20160331-draft.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.chromium.org/audio-video">"Audio/Video"</a>. The Chromium Projects<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Audio%2FVideo&amp;rft.pub=The+Chromium+Projects&amp;rft_id=https%3A%2F%2Fwww.chromium.org%2Faudio-video&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://developer.mozilla.org/en-US/docs/Web/HTML/Supported_media_formats">"Media formats supported by the HTML audio and video elements"</a>. Mozilla<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Media+formats+supported+by+the+HTML+audio+and+video+elements&amp;rft.pub=Mozilla&amp;rft_id=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FHTML%2FSupported_media_formats&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRowan_Trollope2013" class="citation web cs1">Rowan Trollope (2013-10-30). <a rel="nofollow" class="external text" href="https://blogs.cisco.com/collaboration/open-source-h-264-removes-barriers-webrtc">"Open-Sourced H.264 Removes Barriers to WebRTC"</a>. Cisco<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Open-Sourced+H.264+Removes+Barriers+to+WebRTC&amp;rft.pub=Cisco&amp;rft.date=2013-10-30&amp;rft.au=Rowan+Trollope&amp;rft_id=https%3A%2F%2Fblogs.cisco.com%2Fcollaboration%2Fopen-source-h-264-removes-barriers-webrtc&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://shodhganga.inflibnet.ac.in/bitstream/10603/8175/8/08_chapter%203.pdf">"Chapter 3&#160;: Modified A* Prune Algorithm for finding K-MCSP in video compression"</a> <span class="cs1-format">(PDF)</span>. Shodhganga.inflibnet.ac.in<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-01-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Chapter+3+%3A+Modified+A%2A+Prune+Algorithm+for+finding+K-MCSP+in+video+compression&amp;rft.pub=Shodhganga.inflibnet.ac.in&amp;rft_id=http%3A%2F%2Fshodhganga.inflibnet.ac.in%2Fbitstream%2F10603%2F8175%2F8%2F08_chapter%25203.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-ITU-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-ITU_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ITU_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ITU_10-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-ITU_10-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-ITU_10-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-ITU_10-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-ITU_10-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-ITU_10-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-ITU_10-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-ITU_10-9"><sup><i><b>j</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.itu.int/wftp3/av-arch/jvt-site/2002_07_Klagenfurt/JVT-D068.doc">"History of Video Compression"</a>. <i><a href="/wiki/ITU-T" title="ITU-T">ITU-T</a></i>. Joint Video Team (JVT) of ISO/IEC MPEG &amp; ITU-T VCEG (ISO/IEC JTC1/SC29/WG11 and ITU-T SG16 Q.6). July 2002. pp.&#160;11, 24–9, 33, 40–1, 53–6<span class="reference-accessdate">. Retrieved <span class="nowrap">3 November</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ITU-T&amp;rft.atitle=History+of+Video+Compression&amp;rft.pages=11%2C+24-9%2C+33%2C+40-1%2C+53-6&amp;rft.date=2002-07&amp;rft_id=https%3A%2F%2Fwww.itu.int%2Fwftp3%2Fav-arch%2Fjvt-site%2F2002_07_Klagenfurt%2FJVT-D068.doc&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-robinson-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-robinson_11-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRobinsonCherry1967" class="citation journal cs1">Robinson, A. H.; Cherry, C. (1967). "Results of a prototype television bandwidth compression scheme". <i><a href="/wiki/Proceedings_of_the_IEEE" title="Proceedings of the IEEE">Proceedings of the IEEE</a></i>. <a href="/wiki/IEEE" class="mw-redirect" title="IEEE">IEEE</a>. <b>55</b> (3): 356–364. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1109%2FPROC.1967.5493">10.1109/PROC.1967.5493</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+IEEE&amp;rft.atitle=Results+of+a+prototype+television+bandwidth+compression+scheme&amp;rft.volume=55&amp;rft.issue=3&amp;rft.pages=356-364&amp;rft.date=1967&amp;rft_id=info%3Adoi%2F10.1109%2FPROC.1967.5493&amp;rft.aulast=Robinson&amp;rft.aufirst=A.+H.&amp;rft.au=Cherry%2C+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Ghanbari-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ghanbari_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ghanbari_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Ghanbari_12-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Ghanbari_12-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Ghanbari_12-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Ghanbari_12-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Ghanbari_12-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Ghanbari_12-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-Ghanbari_12-8"><sup><i><b>i</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFGhanbari2003" class="citation book cs1">Ghanbari, Mohammed (2003). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=7XuU8T3ooOAC&amp;pg=PA1"><i>Standard Codecs: Image Compression to Advanced Video Coding</i></a>. <a href="/wiki/Institution_of_Engineering_and_Technology" title="Institution of Engineering and Technology">Institution of Engineering and Technology</a>. pp.&#160;1–2. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780852967102" title="Special:BookSources/9780852967102"><bdi>9780852967102</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Standard+Codecs%3A+Image+Compression+to+Advanced+Video+Coding&amp;rft.pages=1-2&amp;rft.pub=Institution+of+Engineering+and+Technology&amp;rft.date=2003&amp;rft.isbn=9780852967102&amp;rft.aulast=Ghanbari&amp;rft.aufirst=Mohammed&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D7XuU8T3ooOAC%26pg%3DPA1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Lea-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-Lea_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Lea_13-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Lea_13-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Lea_13-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Lea_13-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Lea_13-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFLea1994" class="citation book cs1">Lea, William (1994). <a rel="nofollow" class="external text" href="https://researchbriefings.parliament.uk/ResearchBriefing/Summary/RP94-68"><i>Video on demand: Research Paper 94/68</i></a>. <a href="/wiki/House_of_Commons_Library" title="House of Commons Library">House of Commons Library</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Video+on+demand%3A+Research+Paper+94%2F68&amp;rft.pub=House+of+Commons+Library&amp;rft.date=1994&amp;rft.aulast=Lea&amp;rft.aufirst=William&amp;rft_id=https%3A%2F%2Fresearchbriefings.parliament.uk%2FResearchBriefing%2FSummary%2FRP94-68&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFLee2005" class="citation book cs1">Lee, Jack (2005). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=7fuvu52cyNEC&amp;pg=PA25"><i>Scalable Continuous Media Streaming Systems: Architecture, Design, Analysis and Implementation</i></a>. <a href="/wiki/John_Wiley_%26_Sons" class="mw-redirect" title="John Wiley &amp; Sons">John Wiley &amp; Sons</a>. p.&#160;25. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780470857649" title="Special:BookSources/9780470857649"><bdi>9780470857649</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Scalable+Continuous+Media+Streaming+Systems%3A+Architecture%2C+Design%2C+Analysis+and+Implementation&amp;rft.pages=25&amp;rft.pub=John+Wiley+%26+Sons&amp;rft.date=2005&amp;rft.isbn=9780470857649&amp;rft.aulast=Lee&amp;rft.aufirst=Jack&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D7fuvu52cyNEC%26pg%3DPA25&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Ahmed-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ahmed_15-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFAhmed1991" class="citation journal cs1"><a href="/wiki/N._Ahmed" class="mw-redirect" title="N. Ahmed">Ahmed, Nasir</a> (January 1991). <a rel="nofollow" class="external text" href="https://www.scribd.com/doc/52879771/DCT-History-How-I-Came-Up-with-the-Discrete-Cosine-Transform">"How I Came Up With the Discrete Cosine Transform"</a>. <i><a href="/wiki/Digital_Signal_Processing_(journal)" title="Digital Signal Processing (journal)">Digital Signal Processing</a></i>. <b>1</b> (1): 4–5. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2F1051-2004%2891%2990086-Z">10.1016/1051-2004(91)90086-Z</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Digital+Signal+Processing&amp;rft.atitle=How+I+Came+Up+With+the+Discrete+Cosine+Transform&amp;rft.volume=1&amp;rft.issue=1&amp;rft.pages=4-5&amp;rft.date=1991-01&amp;rft_id=info%3Adoi%2F10.1016%2F1051-2004%2891%2990086-Z&amp;rft.aulast=Ahmed&amp;rft.aufirst=Nasir&amp;rft_id=https%3A%2F%2Fwww.scribd.com%2Fdoc%2F52879771%2FDCT-History-How-I-Came-Up-with-the-Discrete-Cosine-Transform&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-pubDCT-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-pubDCT_16-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFAhmedNatarajanRao1974" class="citation cs2"><a href="/wiki/N._Ahmed" class="mw-redirect" title="N. Ahmed">Ahmed, Nasir</a>; Natarajan, T.; Rao, K. R. (January 1974), "Discrete Cosine Transform", <i>IEEE Transactions on Computers</i>, <b>C-23</b> (1): 90–93, <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1109%2FT-C.1974.223784">10.1109/T-C.1974.223784</a>, <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:149806273">149806273</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IEEE+Transactions+on+Computers&amp;rft.atitle=Discrete+Cosine+Transform&amp;rft.volume=C-23&amp;rft.issue=1&amp;rft.pages=90-93&amp;rft.date=1974-01&amp;rft_id=info%3Adoi%2F10.1109%2FT-C.1974.223784&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A149806273%23id-name%3DS2CID&amp;rft.aulast=Ahmed&amp;rft.aufirst=Nasir&amp;rft.au=Natarajan%2C+T.&amp;rft.au=Rao%2C+K.+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-pubRaoYip-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-pubRaoYip_17-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRaoYip1990" class="citation cs2"><a href="/wiki/K._R._Rao" title="K. R. Rao">Rao, K. R.</a>; Yip, P. (1990), <i>Discrete Cosine Transform: Algorithms, Advantages, Applications</i>, Boston: Academic Press, <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-12-580203-1" title="Special:BookSources/978-0-12-580203-1"><bdi>978-0-12-580203-1</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Discrete+Cosine+Transform%3A+Algorithms%2C+Advantages%2C+Applications&amp;rft.place=Boston&amp;rft.pub=Academic+Press&amp;rft.date=1990&amp;rft.isbn=978-0-12-580203-1&amp;rft.aulast=Rao&amp;rft.aufirst=K.+R.&amp;rft.au=Yip%2C+P.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Habibi-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-Habibi_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Habibi_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFHabibi1974" class="citation journal cs1">Habibi, Ali (1974). "Hybrid Coding of Pictorial Data". <i>IEEE Transactions on Communications</i>. <b>22</b> (5): 614–624. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1109%2FTCOM.1974.1092258">10.1109/TCOM.1974.1092258</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IEEE+Transactions+on+Communications&amp;rft.atitle=Hybrid+Coding+of+Pictorial+Data&amp;rft.volume=22&amp;rft.issue=5&amp;rft.pages=614-624&amp;rft.date=1974&amp;rft_id=info%3Adoi%2F10.1109%2FTCOM.1974.1092258&amp;rft.aulast=Habibi&amp;rft.aufirst=Ali&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFChenHeJinWu2019" class="citation journal cs1">Chen, Z.; He, T.; Jin, X.; Wu, F. (2019). "Learning for Video Compression". <i>IEEE Transactions on Circuits and Systems for Video Technology</i>. <b>30</b> (2): 566–576. <a href="/wiki/ArXiv_(identifier)" class="mw-redirect" title="ArXiv (identifier)">arXiv</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://arxiv.org/abs/1804.09869">1804.09869</a></span>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1109%2FTCSVT.2019.2892608">10.1109/TCSVT.2019.2892608</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:13743007">13743007</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IEEE+Transactions+on+Circuits+and+Systems+for+Video+Technology&amp;rft.atitle=Learning+for+Video+Compression&amp;rft.volume=30&amp;rft.issue=2&amp;rft.pages=566-576&amp;rft.date=2019&amp;rft_id=info%3Aarxiv%2F1804.09869&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A13743007%23id-name%3DS2CID&amp;rft_id=info%3Adoi%2F10.1109%2FTCSVT.2019.2892608&amp;rft.aulast=Chen&amp;rft.aufirst=Z.&amp;rft.au=He%2C+T.&amp;rft.au=Jin%2C+X.&amp;rft.au=Wu%2C+F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFPratt1984" class="citation book cs1">Pratt, William K. (1984). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=OX00AAAAIAAJ"><i>Advances in Electronics and Electron Physics: Supplement</i></a>. <a href="/wiki/Academic_Press" title="Academic Press">Academic Press</a>. p.&#160;158. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780120145720" title="Special:BookSources/9780120145720"><bdi>9780120145720</bdi></a>. <q>A significant advance in image coding methodology occurred with the introduction of the concept of hybrid transform/DPCM coding (Habibi, 1974).</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Advances+in+Electronics+and+Electron+Physics%3A+Supplement&amp;rft.pages=158&amp;rft.pub=Academic+Press&amp;rft.date=1984&amp;rft.isbn=9780120145720&amp;rft.aulast=Pratt&amp;rft.aufirst=William+K.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DOX00AAAAIAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFOhm2015" class="citation book cs1">Ohm, Jens-Rainer (2015). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=e7xnBwAAQBAJ&amp;pg=PA364"><i>Multimedia Signal Coding and Transmission</i></a>. Springer. p.&#160;364. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9783662466919" title="Special:BookSources/9783662466919"><bdi>9783662466919</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Multimedia+Signal+Coding+and+Transmission&amp;rft.pages=364&amp;rft.pub=Springer&amp;rft.date=2015&amp;rft.isbn=9783662466919&amp;rft.aulast=Ohm&amp;rft.aufirst=Jens-Rainer&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3De7xnBwAAQBAJ%26pg%3DPA364&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Roese-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-Roese_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Roese_22-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRoeseRobinson1975" class="citation journal cs1">Roese, John A.; Robinson, Guner S. (30 October 1975). "Combined Spatial And Temporal Coding Of Digital Image Sequences". <i>Efficient Transmission of Pictorial Information</i>. International Society for Optics and Photonics. <b>0066</b>: 172–181. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/1975SPIE...66..172R">1975SPIE...66..172R</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1117%2F12.965361">10.1117/12.965361</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:62725808">62725808</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Efficient+Transmission+of+Pictorial+Information&amp;rft.atitle=Combined+Spatial+And+Temporal+Coding+Of+Digital+Image+Sequences&amp;rft.volume=0066&amp;rft.pages=172-181&amp;rft.date=1975-10-30&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A62725808%23id-name%3DS2CID&amp;rft_id=info%3Adoi%2F10.1117%2F12.965361&amp;rft_id=info%3Abibcode%2F1975SPIE...66..172R&amp;rft.aulast=Roese&amp;rft.aufirst=John+A.&amp;rft.au=Robinson%2C+Guner+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFHuang1981" class="citation book cs1">Huang, T. S. (1981). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=bAirCAAAQBAJ&amp;pg=PA29"><i>Image Sequence Analysis</i></a>. <a href="/wiki/Springer_Science_%26_Business_Media" class="mw-redirect" title="Springer Science &amp; Business Media">Springer Science &amp; Business Media</a>. p.&#160;29. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9783642870378" title="Special:BookSources/9783642870378"><bdi>9783642870378</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Image+Sequence+Analysis&amp;rft.pages=29&amp;rft.pub=Springer+Science+%26+Business+Media&amp;rft.date=1981&amp;rft.isbn=9783642870378&amp;rft.aulast=Huang&amp;rft.aufirst=T.+S.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DbAirCAAAQBAJ%26pg%3DPA29&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Stankovic-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-Stankovic_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Stankovic_24-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Stankovic_24-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFStankovićAstola2012" class="citation journal cs1">Stanković, Radomir S.; Astola, Jaakko T. (2012). <a rel="nofollow" class="external text" href="http://ticsp.cs.tut.fi/reports/ticsp-report-60-reprint-rao-corrected.pdf">"Reminiscences of the Early Work in DCT: Interview with K.R. Rao"</a> <span class="cs1-format">(PDF)</span>. <i>Reprints from the Early Days of Information Sciences</i>. <b>60</b><span class="reference-accessdate">. Retrieved <span class="nowrap">13 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Reprints+from+the+Early+Days+of+Information+Sciences&amp;rft.atitle=Reminiscences+of+the+Early+Work+in+DCT%3A+Interview+with+K.R.+Rao&amp;rft.volume=60&amp;rft.date=2012&amp;rft.aulast=Stankovi%C4%87&amp;rft.aufirst=Radomir+S.&amp;rft.au=Astola%2C+Jaakko+T.&amp;rft_id=http%3A%2F%2Fticsp.cs.tut.fi%2Freports%2Fticsp-report-60-reprint-rao-corrected.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFChenSmithFralick1977" class="citation journal cs1">Chen, Wen-Hsiung; Smith, C. H.; Fralick, S. C. (September 1977). "A Fast Computational Algorithm for the Discrete Cosine Transform". <i><a href="/wiki/IEEE_Transactions_on_Communications" title="IEEE Transactions on Communications">IEEE Transactions on Communications</a></i>. <b>25</b> (9): 1004–1009. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1109%2FTCOM.1977.1093941">10.1109/TCOM.1977.1093941</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IEEE+Transactions+on+Communications&amp;rft.atitle=A+Fast+Computational+Algorithm+for+the+Discrete+Cosine+Transform&amp;rft.volume=25&amp;rft.issue=9&amp;rft.pages=1004-1009&amp;rft.date=1977-09&amp;rft_id=info%3Adoi%2F10.1109%2FTCOM.1977.1093941&amp;rft.aulast=Chen&amp;rft.aufirst=Wen-Hsiung&amp;rft.au=Smith%2C+C.+H.&amp;rft.au=Fralick%2C+S.+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-t81-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-t81_26-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.w3.org/Graphics/JPEG/itu-t81.pdf">"T.81 – Digital compression and coding of continuous-tone still images – Requirements and guidelines"</a> <span class="cs1-format">(PDF)</span>. <a href="/wiki/CCITT" class="mw-redirect" title="CCITT">CCITT</a>. September 1992<span class="reference-accessdate">. Retrieved <span class="nowrap">12 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=T.81+%E2%80%93+Digital+compression+and+coding+of+continuous-tone+still+images+%E2%80%93+Requirements+and+guidelines&amp;rft.pub=CCITT&amp;rft.date=1992-09&amp;rft_id=https%3A%2F%2Fwww.w3.org%2FGraphics%2FJPEG%2Fitu-t81.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFCianci2014" class="citation book cs1">Cianci, Philip J. (2014). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=0mbsfr38GTgC&amp;pg=PA63"><i>High Definition Television: The Creation, Development and Implementation of HDTV Technology</i></a>. McFarland. p.&#160;63. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780786487974" title="Special:BookSources/9780786487974"><bdi>9780786487974</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=High+Definition+Television%3A+The+Creation%2C+Development+and+Implementation+of+HDTV+Technology&amp;rft.pages=63&amp;rft.pub=McFarland&amp;rft.date=2014&amp;rft.isbn=9780786487974&amp;rft.aulast=Cianci&amp;rft.aufirst=Philip+J.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D0mbsfr38GTgC%26pg%3DPA63&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Li-28"><span class="mw-cite-backlink">^ <a href="#cite_ref-Li_28-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Li_28-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Li_28-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFLi2006" class="citation book cs1">Li, Jian Ping (2006). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=FZiK3zXdK7sC&amp;pg=PA847"><i>Proceedings of the International Computer Conference 2006 on Wavelet Active Media Technology and Information Processing: Chongqing, China, 29-31 August 2006</i></a>. <a href="/wiki/World_Scientific" title="World Scientific">World Scientific</a>. p.&#160;847. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9789812709998" title="Special:BookSources/9789812709998"><bdi>9789812709998</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Proceedings+of+the+International+Computer+Conference+2006+on+Wavelet+Active+Media+Technology+and+Information+Processing%3A+Chongqing%2C+China%2C+29-31+August+2006&amp;rft.pages=847&amp;rft.pub=World+Scientific&amp;rft.date=2006&amp;rft.isbn=9789812709998&amp;rft.aulast=Li&amp;rft.aufirst=Jian+Ping&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DFZiK3zXdK7sC%26pg%3DPA847&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-history-29"><span class="mw-cite-backlink">^ <a href="#cite_ref-history_29-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-history_29-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-history_29-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-history_29-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-history_29-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-history_29-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-history_29-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.real.com/resources/digital-video-file-formats/">"The History of Video File Formats Infographic"</a>. <i><a href="/wiki/RealNetworks" title="RealNetworks">RealNetworks</a></i>. 22 April 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">5 August</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=RealNetworks&amp;rft.atitle=The+History+of+Video+File+Formats+Infographic&amp;rft.date=2012-04-22&amp;rft_id=http%3A%2F%2Fwww.real.com%2Fresources%2Fdigital-video-file-formats%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-h261-patents-30"><span class="mw-cite-backlink">^ <a href="#cite_ref-h261-patents_30-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-h261-patents_30-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.itu.int/ITU-T/recommendations/related_ps.aspx?id_prod=1088">"ITU-T Recommendation declared patent(s)"</a>. <i>ITU</i><span class="reference-accessdate">. Retrieved <span class="nowrap">12 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ITU&amp;rft.atitle=ITU-T+Recommendation+declared+patent%28s%29&amp;rft_id=https%3A%2F%2Fwww.itu.int%2FITU-T%2Frecommendations%2Frelated_ps.aspx%3Fid_prod%3D1088&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-mp2-patents-31"><span class="mw-cite-backlink">^ <a href="#cite_ref-mp2-patents_31-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mp2-patents_31-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.mpegla.com/wp-content/uploads/m2-att1.pdf">"MPEG-2 Patent List"</a> <span class="cs1-format">(PDF)</span>. <i><a href="/wiki/MPEG_LA" title="MPEG LA">MPEG LA</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">7 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MPEG+LA&amp;rft.atitle=MPEG-2+Patent+List&amp;rft_id=https%3A%2F%2Fwww.mpegla.com%2Fwp-content%2Fuploads%2Fm2-att1.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Shishikui-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-Shishikui_32-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFShishikuiNakanishiImaizumi1993" class="citation journal cs1">Shishikui, Yoshiaki; Nakanishi, Hiroshi; Imaizumi, Hiroyuki (October 26–28, 1993). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=j9XSBQAAQBAJ&amp;pg=PA611">"An HDTV Coding Scheme using Adaptive-Dimension DCT"</a>. <i>Signal Processing of HDTV: Proceedings of the International Workshop on HDTV '93, Ottawa, Canada</i>. <a href="/wiki/Elsevier" title="Elsevier">Elsevier</a>: 611–618. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2FB978-0-444-81844-7.50072-3">10.1016/B978-0-444-81844-7.50072-3</a>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781483298511" title="Special:BookSources/9781483298511"><bdi>9781483298511</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Signal+Processing+of+HDTV%3A+Proceedings+of+the+International+Workshop+on+HDTV+%2793%2C+Ottawa%2C+Canada&amp;rft.atitle=An+HDTV+Coding+Scheme+using+Adaptive-Dimension+DCT&amp;rft.pages=611-618&amp;rft.date=1993-10-26%2F1993-10-28&amp;rft_id=info%3Adoi%2F10.1016%2FB978-0-444-81844-7.50072-3&amp;rft.isbn=9781483298511&amp;rft.aulast=Shishikui&amp;rft.aufirst=Yoshiaki&amp;rft.au=Nakanishi%2C+Hiroshi&amp;rft.au=Imaizumi%2C+Hiroyuki&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dj9XSBQAAQBAJ%26pg%3DPA611&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-mp4-patents-33"><span class="mw-cite-backlink">^ <a href="#cite_ref-mp4-patents_33-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mp4-patents_33-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-mp4-patents_33-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.mpegla.com/wp-content/uploads/m4v-att1.pdf">"MPEG-4 Visual - Patent List"</a> <span class="cs1-format">(PDF)</span>. <i><a href="/wiki/MPEG_LA" title="MPEG LA">MPEG LA</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">6 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MPEG+LA&amp;rft.atitle=MPEG-4+Visual+-+Patent+List&amp;rft_id=https%3A%2F%2Fwww.mpegla.com%2Fwp-content%2Fuploads%2Fm4v-att1.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Bitmovin-34"><span class="mw-cite-backlink">^ <a href="#cite_ref-Bitmovin_34-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Bitmovin_34-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Bitmovin_34-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://cdn2.hubspot.net/hubfs/3411032/Bitmovin%20Magazine/Video%20Developer%20Report%202019/bitmovin-video-developer-report-2019.pdf">"Video Developer Report 2019"</a> <span class="cs1-format">(PDF)</span>. <i><a href="/wiki/Bitmovin" title="Bitmovin">Bitmovin</a></i>. 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">5 November</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Bitmovin&amp;rft.atitle=Video+Developer+Report+2019&amp;rft.date=2019&amp;rft_id=https%3A%2F%2Fcdn2.hubspot.net%2Fhubfs%2F3411032%2FBitmovin%2520Magazine%2FVideo%2520Developer%2520Report%25202019%2Fbitmovin-video-developer-report-2019.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-avc-patents-35"><span class="mw-cite-backlink">^ <a href="#cite_ref-avc-patents_35-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-avc-patents_35-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.mpegla.com/wp-content/uploads/avc-att1.pdf">"AVC/H.264 – Patent List"</a> <span class="cs1-format">(PDF)</span>. <i>MPEG LA</i><span class="reference-accessdate">. Retrieved <span class="nowrap">6 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MPEG+LA&amp;rft.atitle=AVC%2FH.264+%E2%80%93+Patent+List&amp;rft_id=https%3A%2F%2Fwww.mpegla.com%2Fwp-content%2Fuploads%2Favc-att1.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Wang-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-Wang_36-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFWangKwongKok2006" class="citation journal cs1">Wang, Hanli; Kwong, S.; Kok, C. (2006). "Efficient prediction algorithm of integer DCT coefficients for H.264/AVC optimization". <i>IEEE Transactions on Circuits and Systems for Video Technology</i>. <b>16</b> (4): 547–552. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1109%2FTCSVT.2006.871390">10.1109/TCSVT.2006.871390</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:2060937">2060937</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IEEE+Transactions+on+Circuits+and+Systems+for+Video+Technology&amp;rft.atitle=Efficient+prediction+algorithm+of+integer+DCT+coefficients+for+H.264%2FAVC+optimization&amp;rft.volume=16&amp;rft.issue=4&amp;rft.pages=547-552&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1109%2FTCSVT.2006.871390&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A2060937%23id-name%3DS2CID&amp;rft.aulast=Wang&amp;rft.aufirst=Hanli&amp;rft.au=Kwong%2C+S.&amp;rft.au=Kok%2C+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.etsi.org/deliver/etsi_ts/102000_102099/102005/01.01.01_60/ts_102005v010101p.pdf">"Digital Video Broadcasting (DVB); Specification for the use of video and audio coding in DVB services delivered directly over IP"</a> <span class="cs1-format">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Digital+Video+Broadcasting+%28DVB%29%3B+Specification+for+the+use+of+video+and+audio+coding+in+DVB+services+delivered+directly+over+IP&amp;rft_id=https%3A%2F%2Fwww.etsi.org%2Fdeliver%2Fetsi_ts%2F102000_102099%2F102005%2F01.01.01_60%2Fts_102005v010101p.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://blogs.cisco.com/collaboration/world-meet-thor-a-project-to-hammer-out-a-royalty-free-video-codec">"World, Meet Thor – a Project to Hammer Out a Royalty Free Video Codec"</a>. 11 August 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=World%2C+Meet+Thor+%E2%80%93+a+Project+to+Hammer+Out+a+Royalty+Free+Video+Codec&amp;rft.date=2015-08-11&amp;rft_id=https%3A%2F%2Fblogs.cisco.com%2Fcollaboration%2Fworld-meet-thor-a-project-to-hammer-out-a-royalty-free-video-codec&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-apple-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-apple_39-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFThomsonShah2017" class="citation web cs1">Thomson, Gavin; Shah, Athar (2017). <a rel="nofollow" class="external text" href="https://devstreaming-cdn.apple.com/videos/wwdc/2017/503i6plfvfi7o3222/503/503_introducing_heif_and_hevc.pdf">"Introducing HEIF and HEVC"</a> <span class="cs1-format">(PDF)</span>. <a href="/wiki/Apple_Inc." title="Apple Inc.">Apple Inc.</a><span class="reference-accessdate"> Retrieved <span class="nowrap">5 August</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Introducing+HEIF+and+HEVC&amp;rft.pub=Apple+Inc.&amp;rft.date=2017&amp;rft.aulast=Thomson&amp;rft.aufirst=Gavin&amp;rft.au=Shah%2C+Athar&amp;rft_id=https%3A%2F%2Fdevstreaming-cdn.apple.com%2Fvideos%2Fwwdc%2F2017%2F503i6plfvfi7o3222%2F503%2F503_introducing_heif_and_hevc.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-hevc-patents-40"><span class="mw-cite-backlink">^ <a href="#cite_ref-hevc-patents_40-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hevc-patents_40-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.mpegla.com/wp-content/uploads/hevc-att1.pdf">"HEVC Patent List"</a> <span class="cs1-format">(PDF)</span>. <i><a href="/wiki/MPEG_LA" title="MPEG LA">MPEG LA</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">6 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MPEG+LA&amp;rft.atitle=HEVC+Patent+List&amp;rft_id=https%3A%2F%2Fwww.mpegla.com%2Fwp-content%2Fuploads%2Fhevc-att1.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFISO" class="citation web cs1">ISO. <a rel="nofollow" class="external text" href="https://www.iso.org/home.html">"Home"</a>. <i>International Standards Organization</i>. ISO<span class="reference-accessdate">. Retrieved <span class="nowrap">3 August</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=International+Standards+Organization&amp;rft.atitle=Home&amp;rft.au=ISO&amp;rft_id=https%3A%2F%2Fwww.iso.org%2Fhome.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.iso.org/iso-standards-and-patents.html">"ISO Standards and Patents"</a>. <i>ISO</i><span class="reference-accessdate">. Retrieved <span class="nowrap">10 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ISO&amp;rft.atitle=ISO+Standards+and+Patents&amp;rft_id=https%3A%2F%2Fwww.iso.org%2Fiso-standards-and-patents.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFDavis1997" class="citation news cs1">Davis, Andrew (13 June 1997). <a rel="nofollow" class="external text" href="https://www.eetimes.com/document.asp?doc_id=1275886">"The H.320 Recommendation Overview"</a>. <i><a href="/wiki/EE_Times" title="EE Times">EE Times</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">7 November</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=EE+Times&amp;rft.atitle=The+H.320+Recommendation+Overview&amp;rft.date=1997-06-13&amp;rft.aulast=Davis&amp;rft.aufirst=Andrew&amp;rft_id=https%3A%2F%2Fwww.eetimes.com%2Fdocument.asp%3Fdoc_id%3D1275886&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation book cs1"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=8vhEAQAAIAAJ"><i>IEEE WESCANEX 97: communications, power, and computing&#160;: conference proceedings</i></a>. University of Manitoba, Winnipeg, Manitoba, Canada: <a href="/wiki/Institute_of_Electrical_and_Electronics_Engineers" title="Institute of Electrical and Electronics Engineers">Institute of Electrical and Electronics Engineers</a>. May 22–23, 1997. p.&#160;30. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780780341470" title="Special:BookSources/9780780341470"><bdi>9780780341470</bdi></a>. <q>H.263 is similar to, but more complex than H.261. It is currently the most widely used international video compression standard for video telephony on ISDN (Integrated Services Digital Network) telephone lines.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=IEEE+WESCANEX+97%3A+communications%2C+power%2C+and+computing+%3A+conference+proceedings&amp;rft.place=University+of+Manitoba%2C+Winnipeg%2C+Manitoba%2C+Canada&amp;rft.pages=30&amp;rft.pub=Institute+of+Electrical+and+Electronics+Engineers&amp;rft.date=1997-05-22%2F1997-05-23&amp;rft.isbn=9780780341470&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D8vhEAQAAIAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-j2kpart3-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-j2kpart3_45-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121005163250/http://jpeg.org/jpeg2000/j2kpart3.html">"Motion JPEG 2000 Part 3"</a>. <i>Joint Photographic Experts Group, JPEG, and Joint Bi-level Image experts Group, JBIG</i>. Archived from <a rel="nofollow" class="external text" href="http://www.jpeg.org/jpeg2000/j2kpart3.html">the original</a> on 5 October 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">21 June</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Joint+Photographic+Experts+Group%2C+JPEG%2C+and+Joint+Bi-level+Image+experts+Group%2C+JBIG&amp;rft.atitle=Motion+JPEG+2000+Part+3&amp;rft_id=http%3A%2F%2Fwww.jpeg.org%2Fjpeg2000%2Fj2kpart3.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFTaubmanMarcellin2012" class="citation book cs1">Taubman, David; Marcellin, Michael (2012). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=y7HeBwAAQBAJ&amp;pg=PA402"><i>JPEG2000 Image Compression Fundamentals, Standards and Practice: Image Compression Fundamentals, Standards and Practice</i></a>. <a href="/wiki/Springer_Science_%26_Business_Media" class="mw-redirect" title="Springer Science &amp; Business Media">Springer Science &amp; Business Media</a>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781461507994" title="Special:BookSources/9781461507994"><bdi>9781461507994</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=JPEG2000+Image+Compression+Fundamentals%2C+Standards+and+Practice%3A+Image+Compression+Fundamentals%2C+Standards+and+Practice&amp;rft.pub=Springer+Science+%26+Business+Media&amp;rft.date=2012&amp;rft.isbn=9781461507994&amp;rft.aulast=Taubman&amp;rft.aufirst=David&amp;rft.au=Marcellin%2C+Michael&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dy7HeBwAAQBAJ%26pg%3DPA402&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSwartz2005" class="citation book cs1">Swartz, Charles S. (2005). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=tYw3ehoBnjkC&amp;pg=PA147"><i>Understanding Digital Cinema: A Professional Handbook</i></a>. <a href="/wiki/Taylor_%26_Francis" title="Taylor &amp; Francis">Taylor &amp; Francis</a>. p.&#160;147. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780240806174" title="Special:BookSources/9780240806174"><bdi>9780240806174</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Understanding+Digital+Cinema%3A+A+Professional+Handbook&amp;rft.pages=147&amp;rft.pub=Taylor+%26+Francis&amp;rft.date=2005&amp;rft.isbn=9780240806174&amp;rft.aulast=Swartz&amp;rft.aufirst=Charles+S.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DtYw3ehoBnjkC%26pg%3DPA147&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.mpegla.com/wp-content/uploads/vc-1-att1.pdf">"VC-1 Patent List"</a> <span class="cs1-format">(PDF)</span>. <i><a href="/wiki/MPEG_LA" title="MPEG LA">MPEG LA</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MPEG+LA&amp;rft.atitle=VC-1+Patent+List&amp;rft_id=https%3A%2F%2Fwww.mpegla.com%2Fwp-content%2Fuploads%2Fvc-1-att1.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-hevcadvance-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-hevcadvance_49-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.hevcadvance.com/licensors/">"HEVC Advance Patent List"</a>. <i><a href="/w/index.php?title=HEVC_Advance&amp;action=edit&amp;redlink=1" class="new" title="HEVC Advance (page does not exist)">HEVC Advance</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">6 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HEVC+Advance&amp;rft.atitle=HEVC+Advance+Patent+List&amp;rft_id=https%3A%2F%2Fwww.hevcadvance.com%2Flicensors%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-50">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://datatracker.ietf.org/doc/html/rfc8761">"RFC 8761 - Video Codec Requirements and Evaluation Methodology"</a>. <i>datatracker.ietf.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2022-02-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=datatracker.ietf.org&amp;rft.atitle=&#82;FC+8761+-+Video+Codec+Requirements+and+Evaluation+Methodology&amp;rft_id=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc8761&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Bhojani-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-Bhojani_51-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBhojani" class="citation web cs1">Bhojani, D.R. <a rel="nofollow" class="external text" href="http://shodh.inflibnet.ac.in/bitstream/123456789/821/5/05_hypothesis.pdf">"4.1 Video Compression"</a> <span class="cs1-format">(PDF)</span>. <i>Hypothesis</i><span class="reference-accessdate">. Retrieved <span class="nowrap">6 March</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hypothesis&amp;rft.atitle=4.1+Video+Compression&amp;rft.aulast=Bhojani&amp;rft.aufirst=D.R.&amp;rft_id=http%3A%2F%2Fshodh.inflibnet.ac.in%2Fbitstream%2F123456789%2F821%2F5%2F05_hypothesis.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Jaiswal-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-Jaiswal_52-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFJaiswal2009" class="citation book cs1">Jaiswal, R.C. (2009). <i>Audio-Video Engineering</i>. Pune, Maharashtra: Nirali Prakashan. p.&#160;3.55. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9788190639675" title="Special:BookSources/9788190639675"><bdi>9788190639675</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Audio-Video+Engineering&amp;rft.place=Pune%2C+Maharashtra&amp;rft.pages=3.55&amp;rft.pub=Nirali+Prakashan&amp;rft.date=2009&amp;rft.isbn=9788190639675&amp;rft.aulast=Jaiswal&amp;rft.aufirst=R.C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-53">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.w3.org/TR/webcodecs/Overview.html">"WebCodecs"</a>. <i>www.w3.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2022-02-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.w3.org&amp;rft.atitle=WebCodecs&amp;rft_id=https%3A%2F%2Fwww.w3.org%2FTR%2Fwebcodecs%2FOverview.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-54">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.sciencedirect.com/topics/computer-science/video-rendering">"Video Rendering - an overview | ScienceDirect Topics"</a>. <i>www.sciencedirect.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2022-02-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.sciencedirect.com&amp;rft.atitle=Video+Rendering+-+an+overview+%7C+ScienceDirect+Topics&amp;rft_id=https%3A%2F%2Fwww.sciencedirect.com%2Ftopics%2Fcomputer-science%2Fvideo-rendering&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-adobe-55"><span class="mw-cite-backlink">^ <a href="#cite_ref-adobe_55-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-adobe_55-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFJan_Ozer" class="citation web cs1">Jan Ozer. <a rel="nofollow" class="external text" href="http://www.adobe.com/devnet/adobe-media-server/articles/h264_encoding.html">"Encoding options for H.264 video"</a>. Adobe.com<span class="reference-accessdate">. Retrieved <span class="nowrap">6 January</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Encoding+options+for+H.264+video&amp;rft.pub=Adobe.com&amp;rft.au=Jan+Ozer&amp;rft_id=http%3A%2F%2Fwww.adobe.com%2Fdevnet%2Fadobe-media-server%2Farticles%2Fh264_encoding.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+coding+format" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1361
+Cached time: 20230518213257
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.935 seconds
+Real time usage: 1.044 seconds
+Preprocessor visited node count: 3614/1000000
+Post‐expand include size: 105387/2097152 bytes
+Template argument size: 2196/2097152 bytes
+Highest expansion depth: 13/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 162203/5000000 bytes
+Lua time usage: 0.548/10.000 seconds
+Lua memory usage: 7722190/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  874.107      1 -total
+ 67.09%  586.424      2 Template:Reflist
+ 37.53%  328.059     30 Template:Cite_web
+  9.87%   86.314      1 Template:More_citations_needed
+  9.28%   81.144      1 Template:Ambox
+  8.90%   77.805     12 Template:Cite_book
+  7.71%   67.419      9 Template:Cite_journal
+  7.04%   61.502      1 Template:Short_description
+  3.97%   34.673      2 Template:Pagetype
+  3.04%   26.564      2 Template:As_of
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:33402026-0!canonical and timestamp 20230518213256 and revision id 1154662721. Rendering was triggered because: api-parse
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Video_coding_format&amp;oldid=1154662721">https://en.wikipedia.org/w/index.php?title=Video_coding_format&amp;oldid=1154662721</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Video_codecs" title="Category:Video codecs">Video codecs</a></li><li><a href="/wiki/Category:Video_compression" title="Category:Video compression">Video compression</a></li><li><a href="/wiki/Category:Video_formats" title="Category:Video formats">Video formats</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_January_2015" title="Category:Articles needing additional references from January 2015">Articles needing additional references from January 2015</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2019" title="Category:Articles containing potentially dated statements from 2019">Articles containing potentially dated statements from 2019</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 13 May 2023, at 21:52<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Video_coding_format&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class='vector-settings'>
+	
+<button
+	id=""
+	class="mw-ui-button mw-ui-icon-element vector-limited-width-toggle"
+	><span class="mw-ui-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+
+</button>
+
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1434","wgBackendResponseTime":126,"wgPageParseReport":{"limitreport":{"cputime":"0.935","walltime":"1.044","ppvisitednodes":{"value":3614,"limit":1000000},"postexpandincludesize":{"value":105387,"limit":2097152},"templateargumentsize":{"value":2196,"limit":2097152},"expansiondepth":{"value":13,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":162203,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  874.107      1 -total"," 67.09%  586.424      2 Template:Reflist"," 37.53%  328.059     30 Template:Cite_web","  9.87%   86.314      1 Template:More_citations_needed","  9.28%   81.144      1 Template:Ambox","  8.90%   77.805     12 Template:Cite_book","  7.71%   67.419      9 Template:Cite_journal","  7.04%   61.502      1 Template:Short_description","  3.97%   34.673      2 Template:Pagetype","  3.04%   26.564      2 Template:As_of"]},"scribunto":{"limitreport-timeusage":{"value":"0.548","limit":"10.000"},"limitreport-memusage":{"value":7722190,"limit":52428800}},"cachereport":{"origin":"mw1361","timestamp":"20230518213257","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Video coding format","url":"https:\/\/en.wikipedia.org\/wiki\/Video_coding_format","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7927899","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7927899","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2011-10-13T22:15:03Z","dateModified":"2023-05-13T21:52:39Z","headline":"digital format used to store compressed video data (sans containers)"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Video coding format","url":"https:\/\/en.wikipedia.org\/wiki\/Video_coding_format","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7927899","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7927899","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2011-10-13T22:15:03Z","dateModified":"2023-05-13T21:52:39Z","headline":"digital format used to store compressed video data (sans containers)"}</script>
+</body>
+</html>

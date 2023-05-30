@@ -1,0 +1,1647 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Chroma subsampling - Wikipedia</title>
+<script>document.documentElement.className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled";(function(){var cookie=document.cookie.match(/(?:^|; )enwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"1a471f83-e2ae-476b-9ae8-4104852ee06b","wgCSPNonce":false,
+"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Chroma_subsampling","wgTitle":"Chroma subsampling","wgCurRevisionId":1157636594,"wgRevisionId":1157636594,"wgArticleId":172944,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: multiple names: authors list","CS1 Italian-language sources (it)","Articles with short description","Short description matches Wikidata","Articles needing additional references from July 2022","All articles needing additional references","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from July 2022","Wikipedia articles needing clarification from July 2022","CS1 errors: missing periodical","Data compression","Film and video technology","Image compression"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":
+"Chroma_subsampling","wgRelevantArticleId":172944,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q355236","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":
+false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.ui.button":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","mediawiki.ui.icon":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp",
+"ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.ui.button%2Cicon%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.10">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-crossorigin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Common_chroma_subsampling_ratios.svg/1200px-Common_chroma_subsampling_ratios.svg.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="796">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Common_chroma_subsampling_ratios.svg/800px-Common_chroma_subsampling_ratios.svg.png">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="531">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Common_chroma_subsampling_ratios.svg/640px-Common_chroma_subsampling_ratios.svg.png">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="425">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Chroma subsampling - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Chroma_subsampling">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Chroma_subsampling&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Chroma_subsampling">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Chroma_subsampling rootpage-Chroma_subsampling skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-main-menu-dropdown mw-ui-icon-flush-left mw-ui-icon-flush-right"  >
+	<input type="checkbox"
+		id="vector-main-menu-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-main-menu-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Main menu"
+		
+	/>
+	<label
+		id="vector-main-menu-dropdown-label"
+		for="vector-main-menu-dropdown-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+
+		<span class="vector-menu-heading-label">Main menu</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box-notice vector-language-sidebar-alert mw-message-box">Language links are at the top of the page across from the title.</div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt=""
+		aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia"
+			src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline"
+			alt="The Free Encyclopedia"
+			src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search"
+	
+		id=""
+		class="mw-ui-button mw-ui-quiet mw-ui-icon-element search-toggle"
+		title="Search Wikipedia [f]"accesskey="f"><span class="mw-ui-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-moved">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Chroma+subsampling" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Chroma+subsampling" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-user-menu mw-ui-icon-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox"
+		id="vector-user-links-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-user-links-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Personal tools"
+		
+	/>
+	<label
+		id="vector-user-links-dropdown-label"
+		for="vector-user-links-dropdown-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Chroma+subsampling" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="mw-ui-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Chroma+subsampling" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="mw-ui-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Rationale"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Rationale">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Rationale</div>
+		</a>
+		
+			<button aria-controls="toc-Rationale-sublist" class="mw-ui-icon mw-ui-icon-wikimedia-expand mw-ui-icon-small vector-toc-toggle">
+				Toggle Rationale subsection
+			</button>
+		
+		<ul id="toc-Rationale-sublist" class="vector-toc-list">
+			<li id="toc-How_subsampling_works"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#How_subsampling_works">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1</span>How subsampling works</div>
+			</a>
+			
+			<ul id="toc-How_subsampling_works-sublist" class="vector-toc-list">
+				<li id="toc-Regarding_gamma_and_transfer_functions"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Regarding_gamma_and_transfer_functions">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1.1</span>Regarding gamma and transfer functions</div>
+			</a>
+			
+			<ul id="toc-Regarding_gamma_and_transfer_functions-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Sampling_systems_and_ratios"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Sampling_systems_and_ratios">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Sampling systems and ratios</div>
+		</a>
+		
+		<ul id="toc-Sampling_systems_and_ratios-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Types_of_sampling_and_subsampling"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Types_of_sampling_and_subsampling">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Types of sampling and subsampling</div>
+		</a>
+		
+			<button aria-controls="toc-Types_of_sampling_and_subsampling-sublist" class="mw-ui-icon mw-ui-icon-wikimedia-expand mw-ui-icon-small vector-toc-toggle">
+				Toggle Types of sampling and subsampling subsection
+			</button>
+		
+		<ul id="toc-Types_of_sampling_and_subsampling-sublist" class="vector-toc-list">
+			<li id="toc-4:4:4"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#4:4:4">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>4:4:4</div>
+			</a>
+			
+			<ul id="toc-4:4:4-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-4:2:2"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#4:2:2">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2</span>4:2:2</div>
+			</a>
+			
+			<ul id="toc-4:2:2-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-4:2:1"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#4:2:1">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.3</span>4:2:1</div>
+			</a>
+			
+			<ul id="toc-4:2:1-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-4:1:1"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#4:1:1">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.4</span>4:1:1</div>
+			</a>
+			
+			<ul id="toc-4:1:1-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-4:2:0"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#4:2:0">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.5</span>4:2:0</div>
+			</a>
+			
+			<ul id="toc-4:2:0-sublist" class="vector-toc-list">
+				<li id="toc-Sampling_positions"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Sampling_positions">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.5.1</span>Sampling positions</div>
+			</a>
+			
+			<ul id="toc-Sampling_positions-sublist" class="vector-toc-list">
+				<li id="toc-Interlaced_and_Progressive"
+			class="vector-toc-list-item vector-toc-level-4">
+			<a class="vector-toc-link" href="#Interlaced_and_Progressive">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.5.1.1</span>Interlaced and Progressive</div>
+			</a>
+			
+			<ul id="toc-Interlaced_and_Progressive-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-4:1:0"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#4:1:0">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.6</span>4:1:0</div>
+			</a>
+			
+			<ul id="toc-4:1:0-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-3:1:1"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#3:1:1">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.7</span>3:1:1</div>
+			</a>
+			
+			<ul id="toc-3:1:1-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Artifacts"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Artifacts">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Artifacts</div>
+		</a>
+		
+			<button aria-controls="toc-Artifacts-sublist" class="mw-ui-icon mw-ui-icon-wikimedia-expand mw-ui-icon-small vector-toc-toggle">
+				Toggle Artifacts subsection
+			</button>
+		
+		<ul id="toc-Artifacts-sublist" class="vector-toc-list">
+			<li id="toc-Gamma_luminance_error"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Gamma_luminance_error">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1</span>Gamma luminance error</div>
+			</a>
+			
+			<ul id="toc-Gamma_luminance_error-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Gamut_clipping"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Gamut_clipping">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.2</span>Gamut clipping</div>
+			</a>
+			
+			<ul id="toc-Gamut_clipping-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Terminology"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Terminology">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Terminology</div>
+		</a>
+		
+		<ul id="toc-Terminology-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-History"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#History">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>History</div>
+		</a>
+		
+		<ul id="toc-History-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>See also</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="mw-ui-button mw-ui-quiet mw-ui-icon-flush-left mw-ui-icon-element"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="mw-ui-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+				
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-menu vector-dropdown vector-menu-dropdown vector-page-titlebar-toc mw-ui-icon-flush-left"  >
+	<input type="checkbox"
+		id="vector-page-titlebar-toc-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-titlebar-toc"
+		class="vector-menu-checkbox "
+		
+		aria-label="Toggle the table of contents"
+		
+	/>
+	<label
+		id="vector-page-titlebar-toc-label"
+		for="vector-page-titlebar-toc-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+
+		<span class="vector-menu-heading-label">Toggle the table of contents</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Chroma subsampling</span></h1>
+				
+							
+<div id="p-lang-btn" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox"
+		id="p-lang-btn-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-lang-btn"
+		class="vector-menu-checkbox mw-interlanguage-selector"
+		aria-label="Go to an article in another language. Available in 14 languages"
+		
+		
+	/>
+	<label
+		id="p-lang-btn-label"
+		for="p-lang-btn-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-progressive mw-portlet-lang-heading-14"
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+
+		<span class="vector-menu-heading-label">14 languages</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Submostreig_de_la_croma" title="Submostreig de la croma – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Podvzorkov%C3%A1n%C3%AD_barvonosn%C3%BDch_slo%C5%BEek" title="Podvzorkování barvonosných složek – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Farbunterabtastung" title="Farbunterabtastung – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Submuestreo_de_crominancia" title="Submuestreo de crominancia – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Sous-%C3%A9chantillonnage_de_la_chrominance" title="Sous-échantillonnage de la chrominance – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%ED%81%AC%EB%A1%9C%EB%A7%88_%EC%84%9C%EB%B8%8C%EC%83%98%ED%94%8C%EB%A7%81" title="크로마 서브샘플링 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Sottocampionamento_della_crominanza" title="Sottocampionamento della crominanza – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%BB%E3%82%B5%E3%83%96%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0" title="クロマ・サブサンプリング – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Podpr%C3%B3bkowanie_chrominancji" title="Podpróbkowanie chrominancji – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Chroma_subsampling" title="Chroma subsampling – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%A6%D0%B2%D0%B5%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D1%83%D0%B1%D0%B4%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F" title="Цветовая субдискретизация – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D1%96%D1%80%D0%BD%D0%B0_%D1%81%D1%83%D0%B1%D0%B4%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D1%96%D1%8F" title="Колірна субдискретизація – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/L%E1%BA%A5y_m%E1%BA%ABu_ph%E1%BB%A5_s%E1%BA%AFc_%C4%91%E1%BB%99" title="Lấy mẫu phụ sắc độ – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E8%89%B2%E5%BA%A6%E6%8A%BD%E6%A0%B7" title="色度抽样 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li></ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q355236#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+				</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Chroma_subsampling" title="View the content page [c]" accesskey="c" class=""><span>Article</span></a>
+</li>
+<li id="ca-talk" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Talk:Chroma_subsampling" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t" class=""><span>Talk</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+								
+
+<div id="p-variants" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-variants emptyPortlet"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-label="Change language variant"
+		
+		
+	/>
+	<label
+		id="p-variants-label"
+		for="p-variants-checkbox"
+		class="vector-menu-heading "
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+
+	</div>
+</div>
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Chroma_subsampling" class=""><span>Read</span></a>
+</li>
+<li id="ca-edit" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=Chroma_subsampling&amp;action=edit" title="Edit this page [e]" accesskey="e" class=""><span>Edit</span></a>
+</li>
+<li id="ca-history" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=Chroma_subsampling&amp;action=history" title="Past revisions of this page [h]" accesskey="h" class=""><span>View history</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="More options">
+								
+<div id="vector-page-tools-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox"
+		id="vector-page-tools-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-tools-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Tools"
+		
+	/>
+	<label
+		id="vector-page-tools-dropdown-label"
+		for="vector-page-tools-dropdown-checkbox"
+		class="vector-menu-heading "
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-menu-heading-label">Tools</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Chroma_subsampling"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Chroma_subsampling&amp;action=edit"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Chroma_subsampling&amp;action=history"><span>View history</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Chroma_subsampling" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Chroma_subsampling" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Chroma_subsampling&amp;oldid=1157636594" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Chroma_subsampling&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Chroma_subsampling&amp;id=1157636594&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q355236" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Chroma_subsampling&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Chroma_subsampling&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Chroma_subsampling" hreflang="en"><span>Wikimedia Commons</span></a></li></ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="More options">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Practice of encoding images</div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Common_chroma_subsampling_ratios.svg" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Common_chroma_subsampling_ratios.svg/220px-Common_chroma_subsampling_ratios.svg.png" decoding="async" width="220" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Common_chroma_subsampling_ratios.svg/330px-Common_chroma_subsampling_ratios.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Common_chroma_subsampling_ratios.svg/440px-Common_chroma_subsampling_ratios.svg.png 2x" data-file-width="520" data-file-height="345" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Common_chroma_subsampling_ratios.svg" class="internal" title="Enlarge"></a></div>Widely used chroma subsampling formats</div></div></div>
+<p><b>Chroma subsampling</b> is the practice of encoding images by implementing less resolution for <a href="/wiki/Chrominance" title="Chrominance">chroma</a> <a href="/wiki/Information" title="Information">information</a> than for <a href="/wiki/Luma_(video)" title="Luma (video)">luma</a> information, taking advantage of the human visual system's lower acuity for color differences than for luminance.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>It is used in many video and still image encoding schemes&#160;&#8211;&#32;both analog and digital&#160;&#8211;&#32;including in <a href="/wiki/JPEG" title="JPEG">JPEG</a> encoding.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Rationale">Rationale</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chroma_subsampling&amp;action=edit&amp;section=1" title="Edit section: Rationale">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Colorcomp.jpg" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Colorcomp.jpg/220px-Colorcomp.jpg" decoding="async" width="220" height="110" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Colorcomp.jpg/330px-Colorcomp.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Colorcomp.jpg/440px-Colorcomp.jpg 2x" data-file-width="1236" data-file-height="616" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Colorcomp.jpg" class="internal" title="Enlarge"></a></div>In <a class="external text" href="https://upload.wikimedia.org/wikipedia/commons/0/06/Colorcomp.jpg">full size</a>, this image shows the difference between four subsampling schemes. Note how similar the color images appear. The lower row shows the resolution of the color information.</div></div></div>
+<p>Digital signals are often compressed to reduce file size and save transmission time. Since the human visual system is much more sensitive to variations in brightness than color, a video system can be optimized by devoting more bandwidth to the <a href="/wiki/Luma_(video)" title="Luma (video)">luma</a> component (usually denoted Y'), than to the color difference components <b>Cb</b> and <b>Cr</b>. In compressed images, for example, the 4:2:2 <a href="/wiki/YCbCr" title="YCbCr">Y'CbCr</a> scheme requires two-thirds the bandwidth of non-subsampled "4:4:4" <a href="/wiki/RGB" class="mw-redirect" title="RGB">R'G'B'</a>. This reduction results in almost no visual difference as perceived by the viewer.
+</p>
+<h3><span class="mw-headline" id="How_subsampling_works">How subsampling works</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chroma_subsampling&amp;action=edit&amp;section=2" title="Edit section: How subsampling works">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Visual_perception" title="Visual perception">human vision system</a> (HVS) processes color information, meaning <a href="/wiki/Hue" title="Hue">hue</a> and <a href="/wiki/Colorfulness" title="Colorfulness">colorfulness</a>, at about a third of the resolution of <a href="/wiki/Relative_luminance" title="Relative luminance">luminance</a>, meaning the lightness/darkness information in an image. Therefore it is possible to <a href="/wiki/Sampling_(signal_processing)" title="Sampling (signal processing)">sample</a> color information at a lower resolution while maintaining good image quality.
+</p><p>This is achieved by encoding <a href="/wiki/RGB_color_model" title="RGB color model">RGB</a> image data into a composite <a href="/wiki/Black_and_white" class="mw-redirect" title="Black and white">black and white</a> image, with separated color difference data (<a href="/wiki/Chrominance" title="Chrominance">chroma</a>). For example with <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle Y'C_{b}C_{r}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>Y</mi>
+          <mo>&#x2032;</mo>
+        </msup>
+        <msub>
+          <mi>C</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>b</mi>
+          </mrow>
+        </msub>
+        <msub>
+          <mi>C</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>r</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle Y'C_{b}C_{r}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4a594df6d7039a26b4a4b22177db138a4f8255c9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:7.82ex; height:2.843ex;" alt="{\displaystyle Y&#039;C_{b}C_{r}}"></span>, <a href="/wiki/Gamma_correction" title="Gamma correction">gamma encoded</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle R'G'B'}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>R</mi>
+          <mo>&#x2032;</mo>
+        </msup>
+        <msup>
+          <mi>G</mi>
+          <mo>&#x2032;</mo>
+        </msup>
+        <msup>
+          <mi>B</mi>
+          <mo>&#x2032;</mo>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle R'G'B'}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6e3b480a4ce2b0560d9a2972da346c8e235ed5cc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:7.409ex; height:2.509ex;" alt="R&#039;G&#039;B&#039;"></span> components are weighted and then summed together to create the <a href="/wiki/Luma_(video)" title="Luma (video)">luma</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle Y'}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>Y</mi>
+          <mo>&#x2032;</mo>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle Y'}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7bacdb2a4ddcc06c2dfbb7af3d92aec37bbaaf0d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.171ex; width:2.585ex; height:2.343ex;" alt="Y&#039;"></span> component. The color difference components are created by subtracting two of the weighted <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle R'G'B'}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>R</mi>
+          <mo>&#x2032;</mo>
+        </msup>
+        <msup>
+          <mi>G</mi>
+          <mo>&#x2032;</mo>
+        </msup>
+        <msup>
+          <mi>B</mi>
+          <mo>&#x2032;</mo>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle R'G'B'}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6e3b480a4ce2b0560d9a2972da346c8e235ed5cc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:7.409ex; height:2.509ex;" alt="R&#039;G&#039;B&#039;"></span> components from the third. A variety of <a href="/wiki/Image_scaling" title="Image scaling">filtering</a> methods can be used to limit the resolution.
+</p>
+<h4><span class="mw-headline" id="Regarding_gamma_and_transfer_functions">Regarding gamma and transfer functions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chroma_subsampling&amp;action=edit&amp;section=3" title="Edit section: Regarding gamma and transfer functions">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Gamma encoded luma <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle Y'}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>Y</mi>
+          <mo>&#x2032;</mo>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle Y'}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7bacdb2a4ddcc06c2dfbb7af3d92aec37bbaaf0d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.171ex; width:2.585ex; height:2.343ex;" alt="Y&#039;"></span> should not be confused with linear <a href="/wiki/Relative_luminance" title="Relative luminance">luminance</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle Y}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>Y</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle Y}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/961d67d6b454b4df2301ac571808a3538b3a6d3f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.171ex; width:1.773ex; height:2.009ex;" alt="Y"></span>. The presence of gamma encoding is denoted with the <a href="/wiki/Prime_symbol" class="mw-redirect" title="Prime symbol">prime symbol</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle '}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi></mi>
+          <mo>&#x2032;</mo>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle '}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/761bf83727fb142497cfbee036fd61b368d4fbf0" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.171ex; width:0.685ex; height:2.343ex;" alt="&#039;"></span> . In very early video systems, gamma-correction was necessary due to the nonlinear response of a <a href="/wiki/Cathode-ray_tube" title="Cathode-ray tube">cathode-ray tube</a> (CRT). 
+</p><p>While CRTs are no longer widely used, gamma or electro-optical transfer curves (EOTF), are still very useful due to the nonlinear response of human vision. The use of gamma improves perceived signal-to-noise in analogue systems, and allows for more efficient data encoding in digital systems. This encoding uses more levels for darker colors than for lighter ones, accommodating human vision sensitivity. <sup id="cite_ref-plea_2-0" class="reference"><a href="#cite_note-plea-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Sampling_systems_and_ratios">Sampling systems and ratios</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chroma_subsampling&amp;action=edit&amp;section=4" title="Edit section: Sampling systems and ratios">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The subsampling scheme is commonly expressed as a three-part ratio <i>J</i>:<i>a</i>:<i>b</i> (e.g. 4:2:2) or four parts, if alpha channel is present (e.g. 4:2:2:4), that describe the number of luminance and chrominance samples in a conceptual region that is <i>J</i> pixels wide and 2 pixels high. The parts are (in their respective order):
+</p>
+<ul><li><i>J</i>: horizontal sampling reference (width of the conceptual region). Usually, 4.</li>
+<li><i>a</i>: number of chrominance samples (<b>Cr</b>, <b>Cb</b>) in the first row of <i>J</i> pixels.</li>
+<li><i>b</i>: number of changes of chrominance samples (<b>Cr</b>, <b>Cb</b>) between first and second row of <i>J</i> pixels. Note that <i>b</i> has to be either zero or equal to <i>a</i> (except in rare irregular cases like 4:4:1 and 4:2:1, which do not follow this convention).</li>
+<li><i><a href="/wiki/Alpha_compositing" title="Alpha compositing">Alpha</a></i>: horizontal factor (relative to first digit). May be omitted if alpha component is not present, and is equal to <i>J</i> when present.</li></ul>
+<p>This notation is not valid for all combinations and has exceptions, e.g. 4:1:0 (where the height of the region is not 2 pixels, but 4 pixels, so if 8 bits per component are used, the media would be 9 bits per pixel) and 4:2:1.
+</p>
+<table style="border-collapse:collapse; text-align:center;">
+<tbody><tr>
+<td>
+</td>
+<td rowspan="11" style="width:1ex;"></td>
+<td colspan="4" style="font-size:larger; width:100px;"><b>4:1:1</b></td>
+<td colspan="2" rowspan="7">
+</td>
+<td rowspan="11" style="width:3ex;"></td>
+<td colspan="4" style="font-size:larger; width:100px;"><b>4:2:0</b></td>
+<td colspan="2" rowspan="7">
+</td>
+<td rowspan="11" style="width:3ex;"></td>
+<td colspan="4" style="font-size:larger; width:100px;"><b>4:2:2</b></td>
+<td colspan="2" rowspan="7">
+</td>
+<td rowspan="11" style="width:3ex;"></td>
+<td colspan="4" style="font-size:larger; width:100px;"><b>4:4:0</b></td>
+<td colspan="2" rowspan="7">
+</td>
+<td rowspan="11" style="width:3ex;"></td>
+<td colspan="4" style="font-size:larger; width:100px;"><b>4:4:4</b></td>
+<td colspan="2" rowspan="7">
+</td></tr>
+<tr>
+<td rowspan="2" style="height:50px;"><b>Y'CrCb</b>
+</td>
+<td style="background:#6666cc;">&#160;</td>
+<td style="background:#666699;"></td>
+<td style="background:#6666cc;"></td>
+<td style="background:#666699;">
+</td>
+<td style="background:#6666cc;"></td>
+<td style="background:#666699;"></td>
+<td style="background:#66cc66;"></td>
+<td style="background:#669966;">
+</td>
+<td style="background:#6666cc;"></td>
+<td style="background:#666699;"></td>
+<td style="background:#66cc66;"></td>
+<td style="background:#669966;">
+</td>
+<td style="background:#6666cc;"></td>
+<td style="background:#669999;"></td>
+<td style="background:#66cc66;"></td>
+<td style="background:#666666;">
+</td>
+<td style="background:#6666cc;"></td>
+<td style="background:#669999;"></td>
+<td style="background:#66cc66;"></td>
+<td style="background:#666666;">
+</td></tr>
+<tr>
+<td style="background:#996699;">&#160;</td>
+<td style="background:#cc66cc;"></td>
+<td style="background:#996699;"></td>
+<td style="background:#cc66cc;">
+</td>
+<td style="background:#666699;"></td>
+<td style="background:#6666cc;"></td>
+<td style="background:#669966;"></td>
+<td style="background:#66cc66;">
+</td>
+<td style="background:#996699;"></td>
+<td style="background:#cc66cc;"></td>
+<td style="background:#999966;"></td>
+<td style="background:#cccc66;">
+</td>
+<td style="background:#666699;"></td>
+<td style="background:#66cccc;"></td>
+<td style="background:#669966;"></td>
+<td style="background:#999999;">
+</td>
+<td style="background:#996699;"></td>
+<td style="background:#cccccc;"></td>
+<td style="background:#999966;"></td>
+<td style="background:#cc6666;">
+</td></tr>
+<tr>
+<td>
+</td>
+<td colspan="4" style="font-size:larger;"><b>=</b>
+</td>
+<td colspan="4" style="font-size:larger;"><b>=</b>
+</td>
+<td colspan="4" style="font-size:larger;"><b>=</b>
+</td>
+<td colspan="4" style="font-size:larger;"><b>=</b>
+</td>
+<td colspan="4" style="font-size:larger;"><b>=</b>
+</td></tr>
+<tr>
+<td rowspan="2" style="height:50px;"><b>Y'</b>
+</td>
+<td style="background:#cccccc;">&#160;</td>
+<td style="background:#999999;"></td>
+<td style="background:#cccccc;"></td>
+<td style="background:#999999;">
+</td>
+<td style="background:#cccccc;"></td>
+<td style="background:#999999;"></td>
+<td style="background:#cccccc;"></td>
+<td style="background:#999999;">
+</td>
+<td style="background:#cccccc;"></td>
+<td style="background:#999999;"></td>
+<td style="background:#cccccc;"></td>
+<td style="background:#999999;">
+</td>
+<td style="background:#cccccc;"></td>
+<td style="background:#999999;"></td>
+<td style="background:#cccccc;"></td>
+<td style="background:#999999;">
+</td>
+<td style="background:#cccccc;"></td>
+<td style="background:#999999;"></td>
+<td style="background:#cccccc;"></td>
+<td style="background:#999999;">
+</td></tr>
+<tr>
+<td style="background:#999999;">&#160;</td>
+<td style="background:#cccccc;"></td>
+<td style="background:#999999;"></td>
+<td style="background:#cccccc;">
+</td>
+<td style="background:#999999;"></td>
+<td style="background:#cccccc;"></td>
+<td style="background:#999999;"></td>
+<td style="background:#cccccc;">
+</td>
+<td style="background:#999999;"></td>
+<td style="background:#cccccc;"></td>
+<td style="background:#999999;"></td>
+<td style="background:#cccccc;">
+</td>
+<td style="background:#999999;"></td>
+<td style="background:#cccccc;"></td>
+<td style="background:#999999;"></td>
+<td style="background:#cccccc;">
+</td>
+<td style="background:#999999;"></td>
+<td style="background:#cccccc;"></td>
+<td style="background:#999999;"></td>
+<td style="background:#cccccc;">
+</td></tr>
+<tr>
+<td>
+</td>
+<td colspan="4" style="font-size:larger;"><b>+</b>
+</td>
+<td colspan="4" style="font-size:larger;"><b>+</b>
+</td>
+<td colspan="4" style="font-size:larger;"><b>+</b>
+</td>
+<td colspan="4" style="font-size:larger;"><b>+</b>
+</td>
+<td colspan="4" style="font-size:larger;"><b>+</b>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td style="padding-left:1ex;"><i>J</i></td>
+<td>=&#160;4
+</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td style="padding-left:1ex;"><i>J</i></td>
+<td>=&#160;4
+</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td style="padding-left:1ex;"><i>J</i></td>
+<td>=&#160;4
+</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td style="padding-left:1ex;"><i>J</i></td>
+<td>=&#160;4
+</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td style="padding-left:1ex;"><i>J</i></td>
+<td>=&#160;4
+</td></tr>
+<tr>
+<td rowspan="2" style="height:50px;"><b>(Cr, Cb)</b>
+</td>
+<td colspan="4" style="background:#6666ff;"><b>1</b>
+</td>
+<td style="padding-left:1ex;"><i>a</i></td>
+<td>=&#160;<b>1</b>
+</td>
+<td colspan="2" style="background:#6666ff;"><b>1</b>
+</td>
+<td colspan="2" style="background:#66ff66;"><b>2</b>
+</td>
+<td style="padding-left:1ex;"><i>a</i></td>
+<td>=&#160;<b>2</b>
+</td>
+<td colspan="2" style="background:#6666ff;"><b>1</b>
+</td>
+<td colspan="2" style="background:#66ff66;"><b>2</b>
+</td>
+<td style="padding-left:1ex;"><i>a</i></td>
+<td>=&#160;<b>2</b>
+</td>
+<td style="background:#6666ff;"><b>1</b>
+</td>
+<td style="background:#66ffff;"><b>2</b>
+</td>
+<td style="background:#66ff66;"><b>3</b>
+</td>
+<td style="background:#999999;"><b>4</b>
+</td>
+<td style="padding-left:1ex;"><i>a</i></td>
+<td>=&#160;<b>4</b>
+</td>
+<td style="background:#6666ff;"><b>1</b>
+</td>
+<td style="background:#66ffff;"><b>2</b>
+</td>
+<td style="background:#66ff66;"><b>3</b>
+</td>
+<td style="background:#999999;"><b>4</b>
+</td>
+<td style="padding-left:1ex;"><i>a</i></td>
+<td>=&#160;<b>4</b>
+</td></tr>
+<tr>
+<td colspan="4" style="background:#ff66ff;"><i><b>1</b></i>
+</td>
+<td style="padding-left:1ex;"><i>b</i></td>
+<td>=&#160;<i><b>1</b></i>
+</td>
+<td colspan="2" style="background:#6666ff; border-top:1px dotted;">
+</td>
+<td colspan="2" style="background:#66ff66; border-top:1px dotted;">
+</td>
+<td style="padding-left:1ex;"><i>b</i></td>
+<td>=&#160;<i><b>0</b></i>
+</td>
+<td colspan="2" style="background:#ff66ff;"><i><b>1</b></i>
+</td>
+<td colspan="2" style="background:#ffff66;"><i><b>2</b></i>
+</td>
+<td style="padding-left:1ex;"><i>b</i></td>
+<td>=&#160;<i><b>2</b></i>
+</td>
+<td style="background:#6666ff; border-top:1px dotted;">
+</td>
+<td style="background:#66ffff; border-top:1px dotted;">
+</td>
+<td style="background:#66ff66; border-top:1px dotted;">
+</td>
+<td style="background:#999999; border-top:1px dotted;">
+</td>
+<td style="padding-left:1ex;"><i>b</i></td>
+<td>=&#160;<i><b>0</b></i>
+</td>
+<td style="background:#ff66ff;"><i><b>1</b></i>
+</td>
+<td style="background:#ffffff;"><i><b>2</b></i>
+</td>
+<td style="background:#ffff66;"><i><b>3</b></i>
+</td>
+<td style="background:#ff6666;"><i><b>4</b></i>
+</td>
+<td style="padding-left:1ex;"><i>b</i></td>
+<td>=&#160;<i><b>4</b></i>
+</td></tr>
+<tr>
+<td>
+</td>
+<td colspan="6"><small>¼ horizontal resolution,<br />full vertical resolution</small>
+</td>
+<td colspan="6"><small>½ horizontal resolution,<br />½ vertical resolution</small>
+</td>
+<td colspan="6"><small>½ horizontal resolution,<br />full vertical resolution</small>
+</td>
+<td colspan="6"><small>full horizontal resolution,<br />½ vertical resolution</small>
+</td>
+<td colspan="6"><small>full horizontal resolution,<br />full vertical resolution</small>
+</td></tr></tbody></table>
+<p>The mapping examples given are only theoretical and for illustration. Also note that the diagram does not indicate any chroma filtering, which should be applied to avoid <a href="/wiki/Aliasing" title="Aliasing">aliasing</a>. To calculate required bandwidth factor relative to 4:4:4 (or 4:4:4:4), one needs to sum all the factors and divide the result by 12 (or 16, if alpha is present).
+</p>
+<h2><span class="mw-headline" id="Types_of_sampling_and_subsampling">Types of sampling and subsampling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chroma_subsampling&amp;action=edit&amp;section=5" title="Edit section: Types of sampling and subsampling">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="4:4:4">4:4:4</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chroma_subsampling&amp;action=edit&amp;section=6" title="Edit section: 4:4:4">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Each of the three <a href="/wiki/YCbCr" title="YCbCr">Y'CbCr</a> components has the same sample rate, thus there is no chroma subsampling. This scheme is sometimes used in high-end film scanners and cinematic post-production.
+</p><p>Note that "4:4:4" may instead be wrongly referring to <a href="/wiki/RGB" class="mw-redirect" title="RGB">R'G'B'</a> color space, which implicitly also does not have any chroma subsampling (except in JPEG R'G'B' can be subsampled). Formats such as <a href="/wiki/HDCAM_SR" class="mw-redirect" title="HDCAM SR">HDCAM SR</a> can record 4:4:4 R'G'B' over dual-link <a href="/wiki/HD-SDI" class="mw-redirect" title="HD-SDI">HD-SDI</a>.
+</p>
+<h3><span class="mw-headline" id="4:2:2">4:2:2</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chroma_subsampling&amp;action=edit&amp;section=7" title="Edit section: 4:2:2">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The two chroma components are sampled at half the horizontal sample rate of luma: the horizontal chroma resolution is halved. This reduces the bandwidth of an uncompressed video signal by one-third, which means for 8 bit per component without <a href="/wiki/Alpha_compositing" title="Alpha compositing">alpha</a> (24 bit per pixel) only 16 bits are enough, as in NV16.
+</p><p>Many high-end digital video formats and interfaces use this scheme:
+</p>
+<ul><li><a href="/wiki/AVC-Intra" title="AVC-Intra">AVC-Intra 100</a></li>
+<li><a href="/wiki/Betacam#Digital_Betacam" title="Betacam">Digital Betacam</a></li>
+<li><a href="/wiki/Betacam#Betacam_SX" title="Betacam">Betacam SX</a></li>
+<li><a href="/wiki/DV#DVCPRO" title="DV">DVCPRO50</a> and <a href="/wiki/DVCPRO_HD" class="mw-redirect" title="DVCPRO HD">DVCPRO HD</a></li>
+<li><a href="/wiki/Digital-S" title="Digital-S">Digital-S</a></li>
+<li><a href="/wiki/CCIR_601" class="mw-redirect" title="CCIR 601">CCIR 601</a> / <a href="/wiki/Serial_Digital_Interface" class="mw-redirect" title="Serial Digital Interface">Serial Digital Interface</a> / <a href="/wiki/D-1_(Sony)" title="D-1 (Sony)">D-1</a></li>
+<li><a href="/wiki/ProRes" class="mw-redirect" title="ProRes">ProRes (HQ, 422, LT, and Proxy)</a></li>
+<li><a href="/wiki/XDCAM" title="XDCAM">XDCAM HD422</a></li>
+<li><a href="/w/index.php?title=Canon_XF-300&amp;action=edit&amp;redlink=1" class="new" title="Canon XF-300 (page does not exist)">Canon MXF HD422</a></li></ul>
+<h3><span class="mw-headline" id="4:2:1">4:2:1</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chroma_subsampling&amp;action=edit&amp;section=8" title="Edit section: 4:2:1">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This sampling mode is not expressible in <i>J:a:b</i> notation. "4:2:1" is an obsolete term from a previous notational scheme, and very few software or hardware codecs use it. <b>Cb</b> horizontal resolution is half that of <b>Cr</b> (and a quarter of the horizontal resolution of <b>Y</b>).
+</p>
+<h3><span class="mw-headline" id="4:1:1">4:1:1</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chroma_subsampling&amp;action=edit&amp;section=9" title="Edit section: 4:1:1">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 4:1:1 chroma subsampling, the horizontal color resolution is quartered, and the bandwidth is halved compared to no chroma subsampling. Initially, 4:1:1 chroma subsampling of the <a href="/wiki/DV" title="DV">DV</a> format was not considered to be broadcast quality and was only acceptable for low-end and consumer applications.<sup id="cite_ref-dv-betacam_3-0" class="reference"><a href="#cite_note-dv-betacam-3">&#91;3&#93;</a></sup><sup id="cite_ref-dv-formats_4-0" class="reference"><a href="#cite_note-dv-formats-4">&#91;4&#93;</a></sup> However, <a href="/wiki/DV" title="DV">DV</a>-based formats (some of which use 4:1:1 chroma subsampling) have been used professionally in electronic news gathering and in playout servers. DV has also been sporadically used in feature films and in <a href="/wiki/Digital_cinematography" title="Digital cinematography">digital cinematography</a>.
+</p><p>In the <a href="/wiki/480i" title="480i">480i</a> "NTSC" system, if the luma is sampled at 13.5&#160;MHz, then this means that the <b>Cr</b> and <b>Cb</b> signals will each be sampled at 3.375&#160;MHz, which corresponds to a maximum <a href="/wiki/Nyquist%E2%80%93Shannon_sampling_theorem" title="Nyquist–Shannon sampling theorem">Nyquist</a> bandwidth of 1.6875&#160;MHz, whereas traditional "high-end broadcast <a href="/wiki/NTSC" title="NTSC">analog NTSC</a> encoder" would have a Nyquist bandwidth of 1.5&#160;MHz and 0.5&#160;MHz for the <a href="/wiki/YIQ" title="YIQ">I/Q</a> channels. However, in most equipment, especially cheap TV sets and <a href="/wiki/VHS" title="VHS">VHS</a>/<a href="/wiki/Betamax" title="Betamax">Betamax</a> <a href="/wiki/Videocassette_recorder" title="Videocassette recorder">VCRs</a>, the chroma channels have only the 0.5&#160;MHz bandwidth for both <b>Cr</b> and <b>Cb</b> (or equivalently for I/Q). Thus the DV system actually provides a superior color bandwidth compared to the best <a href="/wiki/Composite_video" title="Composite video">composite analog</a> specifications for NTSC, despite having only 1/4 of the chroma bandwidth of a "full" digital signal.
+</p><p>Formats that use 4:1:1 chroma subsampling include:
+</p>
+<ul><li><a href="/wiki/DV#DVCPRO" title="DV">DVCPRO</a> (<a href="/wiki/NTSC" title="NTSC">NTSC</a> and <a href="/wiki/PAL" title="PAL">PAL</a>)</li>
+<li><a href="/wiki/480i" title="480i">480i</a> "NTSC" <a href="/wiki/DV" title="DV">DV</a> and <a href="/wiki/DV#DVCAM" title="DV">DVCAM</a></li>
+<li>D-7</li></ul>
+<h3><span class="mw-headline" id="4:2:0">4:2:0</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chroma_subsampling&amp;action=edit&amp;section=10" title="Edit section: 4:2:0">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 4:2:0, the horizontal sampling is doubled compared to 4:1:1, but as the <b>Cb</b> and <b>Cr</b> channels are only sampled on each alternate line in this scheme, the vertical resolution is halved. The data rate is thus the same. This fits reasonably well with the <a href="/wiki/PAL" title="PAL">PAL</a> color encoding system, since this has only half the vertical chrominance resolution of <a href="/wiki/NTSC" title="NTSC">NTSC</a>. It would also fit extremely well with the <a href="/wiki/SECAM" title="SECAM">SECAM</a> color encoding system, since like that format, 4:2:0 only stores and transmits one color channel per line (the other channel being recovered from the previous line). However, little equipment has actually been produced that outputs a SECAM analogue video signal. In general, SECAM territories either have to use a PAL-capable display or a <a href="/wiki/Transcoder" class="mw-redirect" title="Transcoder">transcoder</a> to convert the PAL signal to SECAM for display.
+</p><p>Different variants of 4:2:0 chroma configurations are found in:
+</p>
+<ul><li>All <a href="/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">ISO</a>/<a href="/wiki/International_Electrotechnical_Commission" title="International Electrotechnical Commission">IEC</a> <a href="/wiki/MPEG" class="mw-redirect" title="MPEG">MPEG</a> and <a href="/wiki/ITU-T" title="ITU-T">ITU-T</a> <a href="/wiki/VCEG" class="mw-redirect" title="VCEG">VCEG</a> H.26x video coding standards including <a href="/wiki/H.262/MPEG-2_Part_2" title="H.262/MPEG-2 Part 2">H.262/MPEG-2 Part 2</a> implementations (although some profiles of <a href="/wiki/MPEG-4_Part_2" title="MPEG-4 Part 2">MPEG-4 Part 2</a> and <a href="/wiki/H.264/MPEG-4_AVC" class="mw-redirect" title="H.264/MPEG-4 AVC">H.264/MPEG-4 AVC</a> allow higher-quality sampling schemes such as 4:4:4)</li>
+<li><a href="/wiki/DVD-Video" title="DVD-Video">DVD-Video</a> and <a href="/wiki/Blu-ray_Disc" class="mw-redirect" title="Blu-ray Disc">Blu-ray Disc</a>.<sup id="cite_ref-AudioholicsHDMIApril2008_5-0" class="reference"><a href="#cite_note-AudioholicsHDMIApril2008-5">&#91;5&#93;</a></sup><sup id="cite_ref-TelairityDigitalColorCodingPDF_6-0" class="reference"><a href="#cite_note-TelairityDigitalColorCodingPDF-6">&#91;6&#93;</a></sup></li>
+<li><a href="/wiki/576i" title="576i">576i</a> "PAL" <a href="/wiki/DV" title="DV">DV</a> and <a href="/wiki/DV#DVCAM" title="DV">DVCAM</a></li>
+<li><a href="/wiki/HDV" title="HDV">HDV</a></li>
+<li><a href="/wiki/AVCHD" title="AVCHD">AVCHD</a> and <a href="/wiki/AVC-Intra" title="AVC-Intra">AVC-Intra 50</a></li>
+<li><a href="/wiki/Apple_Intermediate_Codec" title="Apple Intermediate Codec">Apple Intermediate Codec</a></li>
+<li>Most common <a href="/wiki/JPEG" title="JPEG">JPEG/JFIF</a> and <a href="/wiki/MJPEG" class="mw-redirect" title="MJPEG">MJPEG</a> implementations</li>
+<li><a href="/wiki/VC-1" title="VC-1">VC-1</a></li>
+<li><a href="/wiki/WebP" title="WebP">WebP</a></li>
+<li><a href="/wiki/YJK" title="YJK">YJK</a><b><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup></b>, a proprietary <a href="/wiki/Color_space" title="Color space">color space</a> implemented by the <a href="/wiki/Yamaha_V9958" title="Yamaha V9958">Yamaha V9958</a><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> graphic chip on <a href="/wiki/MSX2%2B" class="mw-redirect" title="MSX2+">MSX2+</a> computers.<sup id="cite_ref-auto_13-0" class="reference"><a href="#cite_note-auto-13">&#91;13&#93;</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup></li></ul>
+<p><b>Cb</b> and <b>Cr</b> are each subsampled at a factor of 2 both horizontally and vertically. Most digital video formats corresponding to 576i "PAL" use 4:2:0 chroma subsampling.
+</p>
+<h4><span class="mw-headline" id="Sampling_positions">Sampling positions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chroma_subsampling&amp;action=edit&amp;section=11" title="Edit section: Sampling positions">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>There are three variants of 4:2:0 schemes, having different horizontal and vertical sampling siting.<sup id="cite_ref-chroma-subsampling-notation_15-0" class="reference"><a href="#cite_note-chroma-subsampling-notation-15">&#91;15&#93;</a></sup>
+</p>
+<ul><li>In MPEG-2, MPEG-4 and AVC <b>Cb</b> and <b>Cr</b> are co-sited horizontally. <b>Cb</b> and <b>Cr</b> are sited between pixels in the vertical direction (sited interstitially).</li>
+<li>In JPEG/JFIF, H.261, and MPEG-1, <b>Cb</b> and <b>Cr</b> are sited interstitially, halfway between alternate luma samples.</li>
+<li>In 4:2:0 DV, <b>Cb</b> and <b>Cr</b> are co-sited in the horizontal direction. In the vertical direction, they are co-sited on alternating lines. That is also what is used in HEVC in BT.2020 and <a href="/wiki/Rec._2100#Chroma_sample_location" title="Rec. 2100">BT.2100</a> content (in particular on Blu-rays). Also called top-left.</li></ul>
+<h5><span class="mw-headline" id="Interlaced_and_Progressive">Interlaced and Progressive</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chroma_subsampling&amp;action=edit&amp;section=12" title="Edit section: Interlaced and Progressive">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p>With <a href="/wiki/Interlaced" class="mw-redirect" title="Interlaced">interlaced</a> material, 4:2:0 chroma subsampling can result in motion artifacts if it is implemented the same way as for progressive material. The luma samples are derived from separate time intervals, while the chroma samples would be derived from both time intervals. It is this difference that can result in motion artifacts. The MPEG-2 standard allows for an alternate interlaced sampling scheme, where 4:2:0 is applied to each field (not both fields at once). This solves the problem of motion artifacts, reduces the vertical chroma resolution by half, and can introduce comb-like artifacts in the image.
+</p><p><a href="/wiki/File:444-original-single-field.png" class="image"><img alt="444-original-single-field.png" src="//upload.wikimedia.org/wikipedia/commons/5/54/444-original-single-field.png" decoding="async" width="307" height="72" data-file-width="307" data-file-height="72" /></a>
+<br />Original. This image shows a single field. The moving text has some motion blur applied to it.
+</p><p><a href="/wiki/File:420-progressive-single-field.png" class="image"><img alt="420-progressive-single-field.png" src="//upload.wikimedia.org/wikipedia/commons/8/8e/420-progressive-single-field.png" decoding="async" width="307" height="72" data-file-width="307" data-file-height="72" /></a>
+<br />4:2:0 <b>progressive</b> sampling applied to moving <i>interlaced</i> material. Note that the chroma leads and trails the moving text. This image shows a single field.
+</p><p><a href="/wiki/File:420-interlaced-single-field.png" class="image"><img alt="420-interlaced-single-field.png" src="//upload.wikimedia.org/wikipedia/commons/b/b9/420-interlaced-single-field.png" decoding="async" width="307" height="72" data-file-width="307" data-file-height="72" /></a>
+<br />4:2:0 <b>interlaced</b> sampling applied to moving <i>interlaced</i> material. This image shows a single field.
+</p><p>In the 4:2:0 interlaced scheme, however, vertical resolution of the chroma is roughly halved, since the chroma samples effectively describe an area 2 samples wide by 4 samples tall instead of 2×2. As well, the spatial displacement between both fields can result in the appearance of comb-like chroma artifacts.
+</p><p><a href="/wiki/File:420-original444.png" class="image"><img alt="420-original444.png" src="//upload.wikimedia.org/wikipedia/commons/d/d9/420-original444.png" decoding="async" width="307" height="72" data-file-width="307" data-file-height="72" /></a>
+<br />Original still image.
+</p><p><a href="/wiki/File:420-progressive-still.png" class="image"><img alt="420-progressive-still.png" src="//upload.wikimedia.org/wikipedia/commons/1/1c/420-progressive-still.png" decoding="async" width="307" height="72" data-file-width="307" data-file-height="72" /></a>
+<br />4:2:0 <b>progressive</b> sampling applied to a still image. Both fields are shown.
+</p><p><a href="/wiki/File:420-interlaced-still.png" class="image"><img alt="420-interlaced-still.png" src="//upload.wikimedia.org/wikipedia/commons/c/c2/420-interlaced-still.png" decoding="async" width="307" height="72" data-file-width="307" data-file-height="72" /></a>
+<br />4:2:0 <b>interlaced</b> sampling applied to a still image. Both fields are shown.
+</p><p>If the interlaced material is to be de-interlaced, the comb-like chroma artifacts (from 4:2:0 interlaced sampling) can be removed by blurring the chroma vertically.<sup id="cite_ref-chroma-upsampling-error_16-0" class="reference"><a href="#cite_note-chroma-upsampling-error-16">&#91;16&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="4:1:0">4:1:0</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chroma_subsampling&amp;action=edit&amp;section=13" title="Edit section: 4:1:0">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This ratio is possible, and some <a href="/wiki/Codec" title="Codec">codecs</a> support it, but it is not widely used. This ratio uses half of the vertical and one-fourth the horizontal color resolutions, with only one-eighth of the bandwidth of the maximum color resolutions used. Uncompressed video in this format with 8-bit quantization uses 10 bytes for every macropixel (which is 4×2 pixels) or 10 bit for every pixel. It has the equivalent chrominance bandwidth of a PAL I signal decoded with a delay line decoder, and still very much superior to NTSC. Some video codecs may operate at 4:1:0.5 or 4:1:0.25 as an option, so as to allow similar to VHS quality.
+</p>
+<h3><span class="mw-headline" id="3:1:1">3:1:1</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chroma_subsampling&amp;action=edit&amp;section=14" title="Edit section: 3:1:1">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Used by Sony in their HDCAM High Definition recorders (not HDCAM SR). In the horizontal dimension, luma is sampled horizontally at three quarters of the full HD sampling rate&#160;&#8211;&#32; 1440 samples per row instead of 1920. Chroma is sampled at 480 samples per row, a third of the luma sampling rate. In the vertical dimension, both luma and chroma are sampled at the full HD sampling rate (1080 samples vertically).
+</p>
+<h2><span class="mw-headline" id="Artifacts">Artifacts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chroma_subsampling&amp;action=edit&amp;section=15" title="Edit section: Artifacts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1096954695/mw-parser-output/.tmulti">.mw-parser-output .tmulti .multiimageinner{display:flex;flex-direction:column}.mw-parser-output .tmulti .trow{display:flex;flex-direction:row;clear:left;flex-wrap:wrap;width:100%;box-sizing:border-box}.mw-parser-output .tmulti .tsingle{margin:1px;float:left}.mw-parser-output .tmulti .theader{clear:both;font-weight:bold;text-align:center;align-self:center;background-color:transparent;width:100%}.mw-parser-output .tmulti .thumbcaption{background-color:transparent}.mw-parser-output .tmulti .text-align-left{text-align:left}.mw-parser-output .tmulti .text-align-right{text-align:right}.mw-parser-output .tmulti .text-align-center{text-align:center}@media all and (max-width:720px){.mw-parser-output .tmulti .thumbinner{width:100%!important;box-sizing:border-box;max-width:none!important;align-items:center}.mw-parser-output .tmulti .trow{justify-content:center}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:100%!important;box-sizing:border-box;text-align:center}.mw-parser-output .tmulti .tsingle .thumbcaption{text-align:left}.mw-parser-output .tmulti .trow>.thumbcaption{text-align:center}}</style><div class="thumb tmulti tright"><div class="thumbinner multiimageinner" style="width:224px;max-width:224px"><div class="trow"><div class="tsingle" style="width:222px;max-width:222px"><div class="thumbimage"><a href="/wiki/File:Color-bars-original.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Color-bars-original.png/220px-Color-bars-original.png" decoding="async" width="220" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Color-bars-original.png/330px-Color-bars-original.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/Color-bars-original.png/440px-Color-bars-original.png 2x" data-file-width="605" data-file-height="93" /></a></div><div class="thumbcaption">Original image without color subsampling. 200% zoom.</div></div></div><div class="trow"><div class="tsingle" style="width:222px;max-width:222px"><div class="thumbimage"><a href="/wiki/File:Color-bars-vegas-dv.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Color-bars-vegas-dv.png/220px-Color-bars-vegas-dv.png" decoding="async" width="220" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Color-bars-vegas-dv.png/330px-Color-bars-vegas-dv.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Color-bars-vegas-dv.png/440px-Color-bars-vegas-dv.png 2x" data-file-width="605" data-file-height="93" /></a></div><div class="thumbcaption">Image after color subsampling (Sony Vegas DV codec, box filtering.)</div></div></div><div class="trow" style="display:flex"><div class="thumbcaption">Note the bleeding in lightness near the borders.</div></div></div></div>
+<p>Chroma subsampling suffers from two main types of artifacts, causing degradation more noticeable than intended where colors change abruptly.
+</p>
+<h3><span class="mw-headline" id="Gamma_luminance_error">Gamma luminance error</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chroma_subsampling&amp;action=edit&amp;section=16" title="Edit section: Gamma luminance error">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/Gamma_correction#Scaling_and_blending" title="Gamma correction">Gamma correction §&#160;Scaling and blending</a></div>
+<p>Gamma-corrected signals like Y'CbCr have an issue where chroma errors "bleed" into luma. In those signals, a low chroma actually makes a color appear less bright than one with equivalent luma. As a result, when a saturated color blends with an unsaturated or complementary color, a loss of luminance occurs at the border. This can be seen in the example between magenta and green.<sup id="cite_ref-better_17-0" class="reference"><a href="#cite_note-better-17">&#91;17&#93;</a></sup> This issue persists in HDR video where gamma is generalized into a transfer function "<a href="/wiki/EOTF" class="mw-redirect" title="EOTF">EOTF</a>". A steeper EOTF shows a stronger luminance loss.<sup id="cite_ref-Larbier_18-0" class="reference"><a href="#cite_note-Larbier-18">&#91;18&#93;</a></sup>
+</p><p>Some proposed corrections of this issue are:
+</p>
+<ul><li>Luma-weighted average (Kornelski, experiment for mozjpeg)<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup></li>
+<li>Iterative <i>sharp YUV</i> method, used by <a href="/wiki/WebP" title="WebP">WebP</a> and optionally <a href="/wiki/AVIF" title="AVIF">AVIF</a>. Sharp YUV assumes a <a href="/wiki/Bilinear_interpolation" title="Bilinear interpolation">bilinear</a> upscaling for chroma.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup></li>
+<li>RGB subsampling in linear space before chroma subsampling (HDRTools)<sup id="cite_ref-Larbier_18-1" class="reference"><a href="#cite_note-Larbier-18">&#91;18&#93;</a></sup></li></ul>
+<h3><span class="mw-headline" id="Gamut_clipping">Gamut clipping</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chroma_subsampling&amp;action=edit&amp;section=17" title="Edit section: Gamut clipping">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Another artifact that can occur with chroma subsampling is that out-of-<a href="/wiki/Gamut" title="Gamut">gamut</a> colors can occur upon chroma reconstruction. Suppose the image consisted of alternating 1-pixel red and black lines and the subsampling omitted the chroma for the black pixels.  Chroma from the red pixels will be reconstructed onto the black pixels, causing the new pixels to have positive red and <i>negative</i> green and blue values. As displays cannot output negative light (negative light does not exist), these negative values will effectively be clipped, and the resulting luma value will be too high.  Other sub-sampling filters (especially the averaging "box") has a similar issue that is harder to make a simple example out of. Similar artifacts arise in the less artificial example of gradation near a fairly sharp red/black boundary.<sup id="cite_ref-better_17-1" class="reference"><a href="#cite_note-better-17">&#91;17&#93;</a></sup>
+</p><p>It is possible for the decoder to deal with out-of-gamut colors by considering how much chroma a given luma value can hold and distribute it into the 4:4:4 intermediate accordingly, termed "in-range chroma reconstruction" by Glenn Chan. The "proportion" method is in spirit similar to Kornelski's luma-weighted average, while the "spill" method resembles <a href="/wiki/Error_diffusion" title="Error diffusion">error diffusion</a>.<sup id="cite_ref-better_17-2" class="reference"><a href="#cite_note-better-17">&#91;17&#93;</a></sup> Improving chroma reconstruction remains an active field of research.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Terminology">Terminology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chroma_subsampling&amp;action=edit&amp;section=18" title="Edit section: Terminology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The term <a href="/wiki/YUV" title="YUV">Y'UV</a> refers to an analog TV encoding scheme (ITU-R Rec. BT.470) while Y'CbCr refers to a digital encoding scheme.<sup id="cite_ref-plea_2-1" class="reference"><a href="#cite_note-plea-2">&#91;2&#93;</a></sup> One difference between the two is that the scale factors on the chroma components (U, V, Cb, and Cr) are different. However, the term YUV is often used erroneously to refer to Y'CbCr encoding. Hence, expressions like "4:2:2 YUV" always refer to 4:2:2 Y'CbCr, since there simply is no such thing as 4:x:x in analog encoding (such as YUV). Pixel formats used in Y'CbCr can be referred to as YUV too, for example yuv420p, yuvj420p and many others.
+</p><p>In a similar vein, the term luminance and the symbol Y are often used erroneously to refer to luma, which is denoted with the symbol Y'. Note that the <i>luma</i> (Y') of video engineering deviates from the <i>luminance</i> (Y) of color science (as defined by <a href="/wiki/International_Commission_on_Illumination" title="International Commission on Illumination">CIE</a>). Luma is formed as the weighted sum of <i>gamma-corrected</i> (tristimulus) RGB components. Luminance is formed as a weighed sum of <i>linear</i> (tristimulus) RGB components.
+</p><p>In practice, the <a href="/wiki/International_Commission_on_Illumination" title="International Commission on Illumination">CIE</a> symbol Y is often incorrectly used to denote luma. In 1993, <a href="/wiki/SMPTE" class="mw-redirect" title="SMPTE">SMPTE</a> adopted Engineering Guideline EG&#160;28, clarifying the two terms. Note that the prime symbol ' is used to indicate gamma correction.
+</p><p>Similarly, the chroma of video engineering differs from the chrominance of color science. The chroma of video engineering is formed from weighted tristimulus components (gamma corrected, OETF), not linear components. In video engineering practice, the terms <i>chroma</i>, <i>chrominance</i>, and <i>saturation</i> are often used interchangeably to refer to chrominance, but it is not a good practice, as ITU-T Rec H.273 says.
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chroma_subsampling&amp;action=edit&amp;section=19" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1097763485">.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}</style><table class="box-Unreferenced_section plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Chroma_subsampling&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span>  <span class="date-container"><i>(<span class="date">July 2022</span>)</i></span><span class="hide-when-compact"><i> (<small><a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a></small>)</i></span></div></td></tr></tbody></table>
+<p>Chroma subsampling was developed in the 1950s by <a href="/w/index.php?title=Alda_Bedford&amp;action=edit&amp;redlink=1" class="new" title="Alda Bedford (page does not exist)">Alda Bedford</a> for the development of color television by <a href="/wiki/RCA" title="RCA">RCA</a>, which developed into the <a href="/wiki/NTSC" title="NTSC">NTSC</a> standard; luma–chroma separation was developed earlier, in 1938 by <a href="/wiki/Georges_Valensi" title="Georges Valensi">Georges Valensi</a>. Through studies<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Avoid_weasel_words" class="mw-redirect" title="Wikipedia:Avoid weasel words"><span title="The material near this tag possibly uses too vague attribution or weasel words. (July 2022)">which?</span></a></i>&#93;</sup>, he showed that the human eye has high resolution only for black and white, somewhat less for "mid-range" colors like yellows and greens, and much less for colors on the end of the spectrum, reds and blues.<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="High resolution in what domain? (July 2022)">clarification needed</span></a></i>&#93;</sup>  knowledge allowed RCA to develop a system in which they discarded most of the blue signal after it comes from the camera, keeping most of the green and only some of the red; this is chroma subsampling in the <a href="/wiki/YIQ" title="YIQ">YIQ</a> color space and is roughly analogous to 4:2:1 subsampling, in that it has decreasing resolution for luma, yellow/green, and red/blue.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chroma_subsampling&amp;action=edit&amp;section=20" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Color_space" title="Color space">Color space</a></li>
+<li><a href="/wiki/Multiple_sub-Nyquist_sampling_encoding" title="Multiple sub-Nyquist sampling encoding">Multiple sub-Nyquist sampling encoding</a></li>
+<li><a href="/wiki/SMPTE" class="mw-redirect" title="SMPTE">SMPTE</a> - Society of Motion Picture and Television Engineers</li>
+<li><a href="/wiki/Digital_video" title="Digital video">Digital video</a></li>
+<li><a href="/wiki/High-definition_television" title="High-definition television">High-definition television</a></li>
+<li><a href="/wiki/YCbCr" title="YCbCr">YCbCr</a></li>
+<li><a href="/wiki/YPbPr" title="YPbPr">YPbPr</a></li>
+<li><a href="/wiki/Rec._601" title="Rec. 601">Rec. 601</a> 4:2:2 <a href="/wiki/SDTV" class="mw-redirect" title="SDTV">SDTV</a></li>
+<li><a href="/wiki/YUV" title="YUV">YUV</a></li>
+<li><a href="/wiki/YJK" title="YJK">YJK</a></li>
+<li><a href="/wiki/Color" title="Color">Color</a></li>
+<li><a href="/wiki/Color_vision" title="Color vision">Color vision</a>
+<ul><li><a href="/wiki/Rod_cell" title="Rod cell">Rod cell</a></li>
+<li><a href="/wiki/Cone_cell" title="Cone cell">Cone cell</a></li></ul></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chroma_subsampling&amp;action=edit&amp;section=21" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">
+<style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFS._Winkler,_C._J._van_den_Branden_Lambrecht,_and_M._Kunt2001" class="citation book cs1">S. Winkler, C. J. van den Branden Lambrecht, and M. Kunt (2001). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=_s2BlAeR66YC&amp;pg=PA209">"Vision and Video: Models and Applications"</a>.  In Christian J. van den Branden Lambrecht (ed.). <i>Vision models and applications to image and video processing</i>. Springer. p.&#160;209. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7923-7422-0" title="Special:BookSources/978-0-7923-7422-0"><bdi>978-0-7923-7422-0</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Vision+and+Video%3A+Models+and+Applications&amp;rft.btitle=Vision+models+and+applications+to+image+and+video+processing&amp;rft.pages=209&amp;rft.pub=Springer&amp;rft.date=2001&amp;rft.isbn=978-0-7923-7422-0&amp;rft.au=S.+Winkler%2C+C.+J.+van+den+Branden+Lambrecht%2C+and+M.+Kunt&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D_s2BlAeR66YC%26pg%3DPA209&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChroma+subsampling" class="Z3988"></span><span class="cs1-maint citation-comment"><code class="cs1-code">{{<a href="/wiki/Template:Cite_book" title="Template:Cite book">cite book</a>}}</code>:  CS1 maint: multiple names: authors list (<a href="/wiki/Category:CS1_maint:_multiple_names:_authors_list" title="Category:CS1 maint: multiple names: authors list">link</a>)</span></span>
+</li>
+<li id="cite_note-plea-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-plea_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-plea_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Poynton, Charles. <a rel="nofollow" class="external text" href="http://www.poynton.com/PDFs/YUV_and_luminance_harmful.pdf">"YUV and <i>luminance</i> considered harmful: A plea for precise terminology in video"</a>.</span>
+</li>
+<li id="cite_note-dv-betacam-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-dv-betacam_3-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFJenningsBertel_Schmitt1997" class="citation web cs1">Jennings, Roger; Bertel Schmitt (1997). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080702013821/http://www.dvcentral.org/DV-Beta.html">"DV vs. Betacam SP"</a>. <i>DV Central</i>. Archived from <a rel="nofollow" class="external text" href="http://www.dvcentral.org/DV-Beta.html">the original</a> on 2008-07-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-08-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=DV+Central&amp;rft.atitle=DV+vs.+Betacam+SP&amp;rft.date=1997&amp;rft.aulast=Jennings&amp;rft.aufirst=Roger&amp;rft.au=Bertel+Schmitt&amp;rft_id=http%3A%2F%2Fwww.dvcentral.org%2FDV-Beta.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChroma+subsampling" class="Z3988"></span></span>
+</li>
+<li id="cite_note-dv-formats-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-dv-formats_4-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFWilt2006" class="citation web cs1">Wilt, Adam J. (2006). <a rel="nofollow" class="external text" href="http://www.adamwilt.com/DV-FAQ-tech.html">"DV, DVCAM &amp; DVCPRO Formats"</a>. <i>adamwilt.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-08-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=adamwilt.com&amp;rft.atitle=DV%2C+DVCAM+%26+DVCPRO+Formats&amp;rft.date=2006&amp;rft.aulast=Wilt&amp;rft.aufirst=Adam+J.&amp;rft_id=http%3A%2F%2Fwww.adamwilt.com%2FDV-FAQ-tech.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChroma+subsampling" class="Z3988"></span></span>
+</li>
+<li id="cite_note-AudioholicsHDMIApril2008-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-AudioholicsHDMIApril2008_5-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFClint_DeBoer2008" class="citation news cs1">Clint DeBoer (2008-04-16). <a rel="nofollow" class="external text" href="http://www.audioholics.com/tweaks/calibrate-your-system/hdmi-black-levels-xvycc-rgb">"HDMI Enhanced Black Levels, xvYCC and RGB"</a>. <a href="/wiki/Audioholics" title="Audioholics">Audioholics</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-06-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=HDMI+Enhanced+Black+Levels%2C+xvYCC+and+RGB&amp;rft.date=2008-04-16&amp;rft.au=Clint+DeBoer&amp;rft_id=http%3A%2F%2Fwww.audioholics.com%2Ftweaks%2Fcalibrate-your-system%2Fhdmi-black-levels-xvycc-rgb&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChroma+subsampling" class="Z3988"></span></span>
+</li>
+<li id="cite_note-TelairityDigitalColorCodingPDF-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-TelairityDigitalColorCodingPDF_6-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140107171831/http://www.telairity.com/assets/downloads/Digital%20Color%20Coding.pdf">"Digital Color Coding"</a> <span class="cs1-format">(PDF)</span>. Telairity. Archived from <a rel="nofollow" class="external text" href="http://www.telairity.com/assets/downloads/Digital%20Color%20Coding.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2014-01-07<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-06-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Digital+Color+Coding&amp;rft_id=http%3A%2F%2Fwww.telairity.com%2Fassets%2Fdownloads%2FDigital%2520Color%2520Coding.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChroma+subsampling" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMSX_Licensing_Corporation2022" class="citation web cs1">MSX Licensing Corporation (2022). <a rel="nofollow" class="external text" href="http://map.grauw.nl/articles/yjk/">"The YJK screen modes"</a>. <i>MSX Assembly Page</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MSX+Assembly+Page&amp;rft.atitle=The+YJK+screen+modes&amp;rft.date=2022&amp;rft.au=MSX+Licensing+Corporation&amp;rft_id=http%3A%2F%2Fmap.grauw.nl%2Farticles%2Fyjk%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChroma+subsampling" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFNiemietz2014" class="citation book cs1">Niemietz, Ricardo Cancho (2014). <a rel="nofollow" class="external text" href="http://rs.gr8bit.ru/Documentation/Issues-on-YJK-colour-model-implemented-in-Yamaha-V9958-VDP-chip.pdf"><i>Issues on YJK colour model implemented in Yamaha V9958 VDP chip</i></a> <span class="cs1-format">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Issues+on+YJK+colour+model+implemented+in+Yamaha+V9958+VDP+chip&amp;rft.date=2014&amp;rft.aulast=Niemietz&amp;rft.aufirst=Ricardo+Cancho&amp;rft_id=http%3A%2F%2Frs.gr8bit.ru%2FDocumentation%2FIssues-on-YJK-colour-model-implemented-in-Yamaha-V9958-VDP-chip.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChroma+subsampling" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://neil.franklin.ch/Articles/20160430_VCFe_Video_als_Medium.html">"VCFe Vortrag vom 2016.04.30 - Homecomputer und Spielkonsolen - Videoarchitekturen als visuelles Medium"</a>. <i>neil.franklin.ch</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2022-11-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=neil.franklin.ch&amp;rft.atitle=VCFe+Vortrag+vom+2016.04.30+-+Homecomputer+und+Spielkonsolen+-+Videoarchitekturen+als+visuelles+Medium&amp;rft_id=http%3A%2F%2Fneil.franklin.ch%2FArticles%2F20160430_VCFe_Video_als_Medium.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChroma+subsampling" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation book cs1"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=8RwSAQAAMAAJ&amp;dq=%22Yamaha+V9958%22+-wikipedia&amp;pg=PA3984"><i>IC Master</i></a>. United Technical Publications. 2001.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=IC+Master&amp;rft.pub=United+Technical+Publications&amp;rft.date=2001&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D8RwSAQAAMAAJ%26dq%3D%2522Yamaha%2BV9958%2522%2B-wikipedia%26pg%3DPA3984&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChroma+subsampling" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMartín_Sesma2016" class="citation thesis cs1">Martín Sesma, Sergio (2016-10-03). <a rel="nofollow" class="external text" href="https://riunet.upv.es/handle/10251/70909"><i>Arqueología informática: los ordenadores MSX en los inicios de la microinformática doméstica</i></a> (Proyecto/Trabajo fin de carrera/grado thesis). Universitat Politècnica de València.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adissertation&amp;rft.title=Arqueolog%C3%ADa+inform%C3%A1tica%3A+los+ordenadores+MSX+en+los+inicios+de+la+microinform%C3%A1tica+dom%C3%A9stica&amp;rft.degree=Proyecto%2FTrabajo+fin+de+carrera%2Fgrado&amp;rft.inst=Universitat+Polit%C3%A8cnica+de+Val%C3%A8ncia&amp;rft.date=2016-10-03&amp;rft.aulast=Mart%C3%ADn+Sesma&amp;rft.aufirst=Sergio&amp;rft_id=https%3A%2F%2Friunet.upv.es%2Fhandle%2F10251%2F70909&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChroma+subsampling" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRedazione2008" class="citation web cs1 cs1-prop-foreign-lang-source">Redazione (2008-10-20). <a rel="nofollow" class="external text" href="https://www.cyberludus.com/2008/10/msx-vari-costruttori-1983/">"MSX - Vari Costruttori- 1983"</a>. <i>CyberLudus.com</i> (in Italian)<span class="reference-accessdate">. Retrieved <span class="nowrap">2022-11-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CyberLudus.com&amp;rft.atitle=MSX+-+Vari+Costruttori-+1983&amp;rft.date=2008-10-20&amp;rft.au=Redazione&amp;rft_id=https%3A%2F%2Fwww.cyberludus.com%2F2008%2F10%2Fmsx-vari-costruttori-1983%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChroma+subsampling" class="Z3988"></span></span>
+</li>
+<li id="cite_note-auto-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-auto_13-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://map.grauw.nl/resources/video/yamaha_v9958_ocr.pdf">"V9958 MSX-VIDEO TECHNICAL DATA BOOK"</a> <span class="cs1-format">(PDF)</span>. 1988.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=V9958+MSX-VIDEO+TECHNICAL+DATA+BOOK&amp;rft.date=1988&amp;rft_id=http%3A%2F%2Fmap.grauw.nl%2Fresources%2Fvideo%2Fyamaha_v9958_ocr.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChroma+subsampling" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFAlex1995" class="citation journal cs1">Alex, Wulms (1995). <a rel="nofollow" class="external text" href="http://www.msxarchive.nl/pub/msx/mirrors/hanso/hwdoityourself/msxplus.pdf">"Schermen op MSX - De 2+ schermen"</a> <span class="cs1-format">(PDF)</span>. <i>MSX Computer &amp; Club Magazine</i> (72).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=MSX+Computer+%26+Club+Magazine&amp;rft.atitle=Schermen+op+MSX+-+De+2%2B+schermen&amp;rft.issue=72&amp;rft.date=1995&amp;rft.aulast=Alex&amp;rft.aufirst=Wulms&amp;rft_id=http%3A%2F%2Fwww.msxarchive.nl%2Fpub%2Fmsx%2Fmirrors%2Fhanso%2Fhwdoityourself%2Fmsxplus.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChroma+subsampling" class="Z3988"></span></span>
+</li>
+<li id="cite_note-chroma-subsampling-notation-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-chroma-subsampling-notation_15-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFPoynton2008" class="citation web cs1">Poynton, Charles (2008). <a rel="nofollow" class="external text" href="http://www.poynton.com/PDFs/Chroma_subsampling_notation.pdf">"Chroma Subsampling Notation"</a> <span class="cs1-format">(PDF)</span>. <i>Poynton.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-10-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Poynton.com&amp;rft.atitle=Chroma+Subsampling+Notation&amp;rft.date=2008&amp;rft.aulast=Poynton&amp;rft.aufirst=Charles&amp;rft_id=http%3A%2F%2Fwww.poynton.com%2FPDFs%2FChroma_subsampling_notation.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChroma+subsampling" class="Z3988"></span></span>
+</li>
+<li id="cite_note-chroma-upsampling-error-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-chroma-upsampling-error_16-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMunsilStacey_Spears2003" class="citation web cs1">Munsil, Don; Stacey Spears (2003). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080606004931/http://www.hometheaterhifi.com/volume_8_2/dvd-benchmark-special-report-chroma-bug-4-2001.html">"DVD Player Benchmark – Chroma Upsampling Error"</a>. <i>Secrets of Home Theater and High Fidelity</i>. Archived from <a rel="nofollow" class="external text" href="http://www.hometheaterhifi.com/volume_8_2/dvd-benchmark-special-report-chroma-bug-4-2001.html">the original</a> on 2008-06-06<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-08-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Secrets+of+Home+Theater+and+High+Fidelity&amp;rft.atitle=DVD+Player+Benchmark+%E2%80%93+Chroma+Upsampling+Error&amp;rft.date=2003&amp;rft.aulast=Munsil&amp;rft.aufirst=Don&amp;rft.au=Stacey+Spears&amp;rft_id=http%3A%2F%2Fwww.hometheaterhifi.com%2Fvolume_8_2%2Fdvd-benchmark-special-report-chroma-bug-4-2001.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChroma+subsampling" class="Z3988"></span></span>
+</li>
+<li id="cite_note-better-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-better_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-better_17-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-better_17-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFChan2008" class="citation journal cs1">Chan, Glenn (May 2008). <a rel="nofollow" class="external text" href="http://www.glennchan.info/articles/technical/chroma/chroma1.htm">"Toward Better Chroma Subsampling: Recipient of the 2007 SMPTE Student Paper Award"</a>. <i>SMPTE Motion Imaging Journal</i>. <b>117</b> (4): 39–45. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.5594%2FJ15100">10.5594/J15100</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=SMPTE+Motion+Imaging+Journal&amp;rft.atitle=Toward+Better+Chroma+Subsampling%3A+Recipient+of+the+2007+SMPTE+Student+Paper+Award&amp;rft.volume=117&amp;rft.issue=4&amp;rft.pages=39-45&amp;rft.date=2008-05&amp;rft_id=info%3Adoi%2F10.5594%2FJ15100&amp;rft.aulast=Chan&amp;rft.aufirst=Glenn&amp;rft_id=http%3A%2F%2Fwww.glennchan.info%2Farticles%2Ftechnical%2Fchroma%2Fchroma1.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChroma+subsampling" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Larbier-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-Larbier_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Larbier_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFLarbier2015" class="citation journal cs1">Larbier, Pierre (October 2015). "High Dynamic Range: Compression Challenges". <i>SMPTE 2015 Annual Technical Conference and Exhibition</i>: 1–15. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.5594%2FM001639">10.5594/M001639</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=SMPTE+2015+Annual+Technical+Conference+and+Exhibition&amp;rft.atitle=High+Dynamic+Range%3A+Compression+Challenges&amp;rft.pages=1-15&amp;rft.date=2015-10&amp;rft_id=info%3Adoi%2F10.5594%2FM001639&amp;rft.aulast=Larbier&amp;rft.aufirst=Pierre&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChroma+subsampling" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://github.com/mozilla/mozjpeg/issues/193">"Gamma-correct chroma subsampling · Issue #193 · mozilla/mozjpeg"</a>. <i>GitHub</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GitHub&amp;rft.atitle=Gamma-correct+chroma+subsampling+%C2%B7+Issue+%23193+%C2%B7+mozilla%2Fmozjpeg&amp;rft_id=https%3A%2F%2Fgithub.com%2Fmozilla%2Fmozjpeg%2Fissues%2F193&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChroma+subsampling" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://fossies.org/linux/libwebp/sharpyuv/sharpyuv.h">"WebP: sharpyuv/sharpyuv.h | Fossies"</a>. <i>fossies.org</i>. <q>Assumes that the image will be upsampled using a bilinear filter. If nearest neighbor is used instead, the upsampled image might look worse than with standard downsampling.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=fossies.org&amp;rft.atitle=WebP%3A+sharpyuv%2Fsharpyuv.h+%7C+Fossies&amp;rft_id=https%3A%2F%2Ffossies.org%2Flinux%2Flibwebp%2Fsharpyuv%2Fsharpyuv.h&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChroma+subsampling" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFChungLiangWang2019" class="citation journal cs1">Chung, Kuo-Liang; Liang, Yan-Cheng; Wang, Ching-Sheng (March 2019). "Effective Content-Aware Chroma Reconstruction Method for Screen Content Images". <i>IEEE Transactions on Image Processing</i>. <b>28</b> (3): 1108–1117. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1109%2FTIP.2018.2875340">10.1109/TIP.2018.2875340</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IEEE+Transactions+on+Image+Processing&amp;rft.atitle=Effective+Content-Aware+Chroma+Reconstruction+Method+for+Screen+Content+Images&amp;rft.volume=28&amp;rft.issue=3&amp;rft.pages=1108-1117&amp;rft.date=2019-03&amp;rft_id=info%3Adoi%2F10.1109%2FTIP.2018.2875340&amp;rft.aulast=Chung&amp;rft.aufirst=Kuo-Liang&amp;rft.au=Liang%2C+Yan-Cheng&amp;rft.au=Wang%2C+Ching-Sheng&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChroma+subsampling" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<ul><li>Poynton, Charles. "Digital Video and HDTV: Algorithms and Interfaces". U.S.: Morgan Kaufmann Publishers, 2003.</li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFDouglas_A._Kerr2012" class="citation journal cs1">Douglas A. Kerr (2012-01-19). <a rel="nofollow" class="external text" href="http://dougkerr.net/Pumpkin/articles/Subsampling.pdf">"Chrominance Subsampling in Digital Images"</a> <span class="cs1-format">(PDF)</span>: 15<span class="reference-accessdate">. Retrieved <span class="nowrap">2022-02-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Chrominance+Subsampling+in+Digital+Images&amp;rft.pages=15&amp;rft.date=2012-01-19&amp;rft.au=Douglas+A.+Kerr&amp;rft_id=http%3A%2F%2Fdougkerr.net%2FPumpkin%2Farticles%2FSubsampling.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChroma+subsampling" class="Z3988"></span> <span class="cs1-hidden-error citation-comment"><code class="cs1-code">{{<a href="/wiki/Template:Cite_journal" title="Template:Cite journal">cite journal</a>}}</code>: </span><span class="cs1-hidden-error citation-comment">Cite journal requires <code class="cs1-code">&#124;journal=</code> (<a href="/wiki/Help:CS1_errors#missing_periodical" title="Help:CS1 errors">help</a>)</span></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chroma_subsampling&amp;action=edit&amp;section=22" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://www.nattress.com/Chroma_Investigation/chromasampling.htm">Chroma Sampling: An Investigation</a></li></ul>
+<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Data_compression_methods" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Compression_methods" title="Template:Compression methods"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Compression_methods" title="Template talk:Compression methods"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Compression_methods&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Data_compression_methods" style="font-size:114%;margin:0 4em"><a href="/wiki/Data_compression" title="Data compression">Data compression</a> methods</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Lossless_compression" title="Lossless compression">Lossless</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:7.0em;font-weight:normal;"><a href="/wiki/Entropy_coding" title="Entropy coding">Entropy type</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Arithmetic_coding" title="Arithmetic coding">Arithmetic</a></li>
+<li><a href="/wiki/Asymmetric_numeral_systems" title="Asymmetric numeral systems">Asymmetric numeral systems</a></li>
+<li><a href="/wiki/Golomb_coding" title="Golomb coding">Golomb</a></li>
+<li><a href="/wiki/Huffman_coding" title="Huffman coding">Huffman</a>
+<ul><li><a href="/wiki/Adaptive_Huffman_coding" title="Adaptive Huffman coding">Adaptive</a></li>
+<li><a href="/wiki/Canonical_Huffman_code" title="Canonical Huffman code">Canonical</a></li>
+<li><a href="/wiki/Modified_Huffman_coding" title="Modified Huffman coding">Modified</a></li></ul></li>
+<li><a href="/wiki/Range_coding" title="Range coding">Range</a></li>
+<li><a href="/wiki/Shannon_coding" title="Shannon coding">Shannon</a></li>
+<li><a href="/wiki/Shannon%E2%80%93Fano_coding" title="Shannon–Fano coding">Shannon–Fano</a></li>
+<li><a href="/wiki/Shannon%E2%80%93Fano%E2%80%93Elias_coding" title="Shannon–Fano–Elias coding">Shannon–Fano–Elias</a></li>
+<li><a href="/wiki/Tunstall_coding" title="Tunstall coding">Tunstall</a></li>
+<li><a href="/wiki/Unary_coding" title="Unary coding">Unary</a></li>
+<li><a href="/wiki/Universal_code_(data_compression)" title="Universal code (data compression)">Universal</a>
+<ul><li><a href="/wiki/Exponential-Golomb_coding" title="Exponential-Golomb coding">Exp-Golomb</a></li>
+<li><a href="/wiki/Fibonacci_coding" title="Fibonacci coding">Fibonacci</a></li>
+<li><a href="/wiki/Elias_gamma_coding" title="Elias gamma coding">Gamma</a></li>
+<li><a href="/wiki/Levenshtein_coding" title="Levenshtein coding">Levenshtein</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:7.0em;font-weight:normal;"><a href="/wiki/Dictionary_coder" title="Dictionary coder">Dictionary type</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Byte_pair_encoding" title="Byte pair encoding">Byte pair encoding</a></li>
+<li><a href="/wiki/LZ77_and_LZ78" title="LZ77 and LZ78">Lempel–Ziv</a>
+<ul><li><a href="/wiki/842_(compression_algorithm)" title="842 (compression algorithm)">842</a></li>
+<li><a href="/wiki/Brotli" title="Brotli">Brotli</a></li>
+<li><a href="/wiki/Deflate" title="Deflate">Deflate</a></li>
+<li><a href="/wiki/LZ4_(compression_algorithm)" title="LZ4 (compression algorithm)">LZ4</a></li>
+<li><a href="/wiki/LZFSE" title="LZFSE">LZFSE</a></li>
+<li><a href="/wiki/LZJB" title="LZJB">LZJB</a></li>
+<li><a href="/wiki/Lempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm" title="Lempel–Ziv–Markov chain algorithm">LZMA</a></li>
+<li><a href="/wiki/Lempel%E2%80%93Ziv%E2%80%93Oberhumer" title="Lempel–Ziv–Oberhumer">LZO</a></li>
+<li><a href="/wiki/LZRW" title="LZRW">LZRW</a></li>
+<li><a href="/wiki/Lempel%E2%80%93Ziv%E2%80%93Stac" title="Lempel–Ziv–Stac">LZS</a></li>
+<li><a href="/wiki/Lempel%E2%80%93Ziv%E2%80%93Storer%E2%80%93Szymanski" title="Lempel–Ziv–Storer–Szymanski">LZSS</a></li>
+<li><a href="/wiki/Lempel%E2%80%93Ziv%E2%80%93Welch" title="Lempel–Ziv–Welch">LZW</a></li>
+<li><a href="/wiki/LZWL" title="LZWL">LZWL</a></li>
+<li><a href="/wiki/LZX" title="LZX">LZX</a></li>
+<li><a href="/wiki/Snappy_(compression)" title="Snappy (compression)">Snappy</a></li>
+<li><a href="/wiki/Zstd" title="Zstd">Zstandard</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:7.0em;font-weight:normal;">Other types</th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Burrows%E2%80%93Wheeler_transform" title="Burrows–Wheeler transform">BWT</a></li>
+<li><a href="/wiki/Context_tree_weighting" title="Context tree weighting">CTW</a></li>
+<li><a href="/wiki/Delta_encoding" title="Delta encoding">Delta</a>
+<ul><li><a href="/wiki/Incremental_encoding" title="Incremental encoding">Incremental</a></li></ul></li>
+<li><a href="/wiki/Dynamic_Markov_compression" title="Dynamic Markov compression">DMC</a></li>
+<li><a href="/wiki/Differential_pulse-code_modulation" title="Differential pulse-code modulation">DPCM</a></li>
+<li><a href="/wiki/Discrete_cosine_transform" title="Discrete cosine transform">LDCT</a></li>
+<li><a href="/wiki/Move-to-front_transform" title="Move-to-front transform">MTF</a></li>
+<li><a href="/wiki/PAQ" title="PAQ">PAQ</a></li>
+<li><a href="/wiki/Prediction_by_partial_matching" title="Prediction by partial matching">PPM</a></li>
+<li><a href="/wiki/Run-length_encoding" title="Run-length encoding">RLE</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Lossy_compression" title="Lossy compression">Lossy</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:7.0em;font-weight:normal;"><a href="/wiki/Transform_coding" title="Transform coding">Transform type</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Discrete_cosine_transform" title="Discrete cosine transform">Discrete cosine transform</a>
+<ul><li><a href="/wiki/Discrete_cosine_transform" title="Discrete cosine transform">DCT</a></li>
+<li><a href="/wiki/Modified_discrete_cosine_transform" title="Modified discrete cosine transform">MDCT</a></li></ul></li>
+<li><a href="/wiki/Discrete_sine_transform" title="Discrete sine transform">DST</a></li>
+<li><a href="/wiki/Fast_Fourier_transform" title="Fast Fourier transform">FFT</a></li>
+<li><a href="/wiki/Wavelet_transform" title="Wavelet transform">Wavelet</a>
+<ul><li><a href="/wiki/Daubechies_wavelet" title="Daubechies wavelet">Daubechies</a></li>
+<li><a href="/wiki/Discrete_wavelet_transform" title="Discrete wavelet transform">DWT</a></li>
+<li><a href="/wiki/Set_partitioning_in_hierarchical_trees" title="Set partitioning in hierarchical trees">SPIHT</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:7.0em;font-weight:normal;">Predictive type</th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Differential_pulse-code_modulation" title="Differential pulse-code modulation">DPCM</a>
+<ul><li><a href="/wiki/Adaptive_differential_pulse-code_modulation" title="Adaptive differential pulse-code modulation">ADPCM</a></li></ul></li>
+<li><a href="/wiki/Linear_predictive_coding" title="Linear predictive coding">LPC</a>
+<ul><li><a href="/wiki/Algebraic_code-excited_linear_prediction" title="Algebraic code-excited linear prediction">ACELP</a></li>
+<li><a href="/wiki/Code-excited_linear_prediction" title="Code-excited linear prediction">CELP</a></li>
+<li><a href="/wiki/Log_area_ratio" title="Log area ratio">LAR</a></li>
+<li><a href="/wiki/Line_spectral_pairs" title="Line spectral pairs">LSP</a></li>
+<li><a href="/wiki/Warped_linear_predictive_coding" title="Warped linear predictive coding">WLPC</a></li></ul></li>
+<li>Motion
+<ul><li><a href="/wiki/Motion_compensation" title="Motion compensation">Compensation</a></li>
+<li><a href="/wiki/Motion_estimation" title="Motion estimation">Estimation</a></li>
+<li><a href="/wiki/Motion_vector" class="mw-redirect" title="Motion vector">Vector</a></li></ul></li>
+<li><a href="/wiki/Psychoacoustics" title="Psychoacoustics">Psychoacoustic</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Data_compression#Audio" title="Data compression">Audio</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:7.0em;font-weight:normal;">Concepts</th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Bit_rate" title="Bit rate">Bit rate</a>
+<ul><li><a href="/wiki/Average_bitrate" title="Average bitrate">ABR</a></li>
+<li><a href="/wiki/Constant_bitrate" title="Constant bitrate">CBR</a></li>
+<li><a href="/wiki/Variable_bitrate" title="Variable bitrate">VBR</a></li></ul></li>
+<li><a href="/wiki/Companding" title="Companding">Companding</a></li>
+<li><a href="/wiki/Convolution" title="Convolution">Convolution</a></li>
+<li><a href="/wiki/Dynamic_range" title="Dynamic range">Dynamic range</a></li>
+<li><a href="/wiki/Latency_(audio)" title="Latency (audio)">Latency</a></li>
+<li><a href="/wiki/Nyquist%E2%80%93Shannon_sampling_theorem" title="Nyquist–Shannon sampling theorem">Nyquist–Shannon theorem</a></li>
+<li><a href="/wiki/Sampling_(signal_processing)" title="Sampling (signal processing)">Sampling</a></li>
+<li><a href="/wiki/Sound_quality" title="Sound quality">Sound quality</a></li>
+<li><a href="/wiki/Speech_coding" title="Speech coding">Speech coding</a></li>
+<li><a href="/wiki/Sub-band_coding" title="Sub-band coding">Sub-band coding</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:7.0em;font-weight:normal;"><a href="/wiki/Audio_codec" title="Audio codec">Codec</a> parts</th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/A-law_algorithm" title="A-law algorithm">A-law</a></li>
+<li><a href="/wiki/%CE%9C-law_algorithm" title="Μ-law algorithm">μ-law</a></li>
+<li><a href="/wiki/Differential_pulse-code_modulation" title="Differential pulse-code modulation">DPCM</a>
+<ul><li><a href="/wiki/Adaptive_differential_pulse-code_modulation" title="Adaptive differential pulse-code modulation">ADPCM</a></li>
+<li><a href="/wiki/Delta_modulation" title="Delta modulation">DM</a></li></ul></li>
+<li><a href="/wiki/Fourier_transform" title="Fourier transform">FT</a>
+<ul><li><a href="/wiki/Fast_Fourier_transform" title="Fast Fourier transform">FFT</a></li></ul></li>
+<li><a href="/wiki/Linear_predictive_coding" title="Linear predictive coding">LPC</a>
+<ul><li><a href="/wiki/Algebraic_code-excited_linear_prediction" title="Algebraic code-excited linear prediction">ACELP</a></li>
+<li><a href="/wiki/Code-excited_linear_prediction" title="Code-excited linear prediction">CELP</a></li>
+<li><a href="/wiki/Log_area_ratio" title="Log area ratio">LAR</a></li>
+<li><a href="/wiki/Line_spectral_pairs" title="Line spectral pairs">LSP</a></li>
+<li><a href="/wiki/Warped_linear_predictive_coding" title="Warped linear predictive coding">WLPC</a></li></ul></li>
+<li><a href="/wiki/Modified_discrete_cosine_transform" title="Modified discrete cosine transform">MDCT</a></li>
+<li><a href="/wiki/Psychoacoustics" title="Psychoacoustics">Psychoacoustic model</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Image_compression" title="Image compression">Image</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:7.0em;font-weight:normal;">Concepts</th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a class="mw-selflink selflink">Chroma subsampling</a></li>
+<li><a href="/wiki/Coding_tree_unit" title="Coding tree unit">Coding tree unit</a></li>
+<li><a href="/wiki/Color_space" title="Color space">Color space</a></li>
+<li><a href="/wiki/Compression_artifact" title="Compression artifact">Compression artifact</a></li>
+<li><a href="/wiki/Image_resolution" title="Image resolution">Image resolution</a></li>
+<li><a href="/wiki/Macroblock" title="Macroblock">Macroblock</a></li>
+<li><a href="/wiki/Pixel" title="Pixel">Pixel</a></li>
+<li><a href="/wiki/Peak_signal-to-noise_ratio" title="Peak signal-to-noise ratio">PSNR</a></li>
+<li><a href="/wiki/Quantization_(image_processing)" title="Quantization (image processing)">Quantization</a></li>
+<li><a href="/wiki/Standard_test_image" title="Standard test image">Standard test image</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:7.0em;font-weight:normal;">Methods</th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Chain_code" title="Chain code">Chain code</a></li>
+<li><a href="/wiki/Discrete_cosine_transform" title="Discrete cosine transform">DCT</a></li>
+<li><a href="/wiki/Deflate" title="Deflate">Deflate</a></li>
+<li><a href="/wiki/Fractal_compression" title="Fractal compression">Fractal</a></li>
+<li><a href="/wiki/Karhunen%E2%80%93Lo%C3%A8ve_theorem" class="mw-redirect" title="Karhunen–Loève theorem">KLT</a></li>
+<li><a href="/wiki/Pyramid_(image_processing)" title="Pyramid (image processing)">LP</a></li>
+<li><a href="/wiki/Run-length_encoding" title="Run-length encoding">RLE</a></li>
+<li><a href="/wiki/Wavelet_transform" title="Wavelet transform">Wavelet</a>
+<ul><li><a href="/wiki/Daubechies_wavelet" title="Daubechies wavelet">Daubechies</a></li>
+<li><a href="/wiki/Discrete_wavelet_transform" title="Discrete wavelet transform">DWT</a></li>
+<li><a href="/wiki/Embedded_Zerotrees_of_Wavelet_transforms" title="Embedded Zerotrees of Wavelet transforms">EZW</a></li>
+<li><a href="/wiki/Set_partitioning_in_hierarchical_trees" title="Set partitioning in hierarchical trees">SPIHT</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Data_compression#Video" title="Data compression">Video</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:7.0em;font-weight:normal;">Concepts</th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Bit_rate" title="Bit rate">Bit rate</a>
+<ul><li><a href="/wiki/Average_bitrate" title="Average bitrate">ABR</a></li>
+<li><a href="/wiki/Constant_bitrate" title="Constant bitrate">CBR</a></li>
+<li><a href="/wiki/Variable_bitrate" title="Variable bitrate">VBR</a></li></ul></li>
+<li><a href="/wiki/Display_resolution" title="Display resolution">Display resolution</a></li>
+<li><a href="/wiki/Film_frame" title="Film frame">Frame</a></li>
+<li><a href="/wiki/Frame_rate" title="Frame rate">Frame rate</a></li>
+<li><a href="/wiki/Video_compression_picture_types" title="Video compression picture types">Frame types</a></li>
+<li><a href="/wiki/Interlaced_video" title="Interlaced video">Interlace</a></li>
+<li><a href="/wiki/Video#Characteristics_of_video_streams" title="Video">Video characteristics</a></li>
+<li><a href="/wiki/Video_quality" title="Video quality">Video quality</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:7.0em;font-weight:normal;"><a href="/wiki/Video_codec" title="Video codec">Codec</a> parts</th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Discrete_cosine_transform" title="Discrete cosine transform">DCT</a></li>
+<li><a href="/wiki/Differential_pulse-code_modulation" title="Differential pulse-code modulation">DPCM</a></li>
+<li><a href="/wiki/Deblocking_filter" title="Deblocking filter">Deblocking filter</a></li>
+<li><a href="/wiki/Lapped_transform" title="Lapped transform">Lapped transform</a></li>
+<li>Motion
+<ul><li><a href="/wiki/Motion_compensation" title="Motion compensation">Compensation</a></li>
+<li><a href="/wiki/Motion_estimation" title="Motion estimation">Estimation</a></li>
+<li><a href="/wiki/Motion_vector" class="mw-redirect" title="Motion vector">Vector</a></li></ul></li>
+<li><a href="/wiki/Wavelet_transform" title="Wavelet transform">Wavelet</a>
+<ul><li><a href="/wiki/Daubechies_wavelet" title="Daubechies wavelet">Daubechies</a></li>
+<li><a href="/wiki/Discrete_wavelet_transform" title="Discrete wavelet transform">DWT</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Information_theory" title="Information theory">Theory</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Entropy_(information_theory)" title="Entropy (information theory)">Entropy</a></li>
+<li><a href="/wiki/Grammar-based_code" title="Grammar-based code">Grammar</a></li>
+<li><a href="/wiki/Information_theory" title="Information theory">Information theory</a>
+<ul><li><a href="/wiki/Timeline_of_information_theory" title="Timeline of information theory">Timeline</a></li></ul></li>
+<li><a href="/wiki/Kolmogorov_complexity" title="Kolmogorov complexity">Kolmogorov complexity</a></li>
+<li><a href="/wiki/Quantization_(signal_processing)" title="Quantization (signal processing)">Quantization</a></li>
+<li><a href="/wiki/Rate%E2%80%93distortion_theory" title="Rate–distortion theory">Rate–distortion</a></li>
+<li><a href="/wiki/Redundancy_(information_theory)" title="Redundancy (information theory)">Redundancy</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/5/5c/Symbol_template_class.svg/16px-Symbol_template_class.svg.png" decoding="async" title="Template" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/5/5c/Symbol_template_class.svg/23px-Symbol_template_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/5/5c/Symbol_template_class.svg/31px-Symbol_template_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Template:Compression_formats" title="Template:Compression formats">Compression formats</a></li>
+<li><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/5/5c/Symbol_template_class.svg/16px-Symbol_template_class.svg.png" decoding="async" title="Template" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/5/5c/Symbol_template_class.svg/23px-Symbol_template_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/5/5c/Symbol_template_class.svg/31px-Symbol_template_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Template:Compression_software" title="Template:Compression software">Compression software</a> (<a href="/wiki/Codec" title="Codec">codecs</a>)</li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1359
+Cached time: 20230530000200
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.641 seconds
+Real time usage: 0.804 seconds
+Preprocessor visited node count: 1971/1000000
+Post‐expand include size: 95836/2097152 bytes
+Template argument size: 1526/2097152 bytes
+Highest expansion depth: 12/100
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 70444/5000000 bytes
+Lua time usage: 0.366/10.000 seconds
+Lua memory usage: 7807409/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  589.734      1 -total
+ 35.02%  206.529      1 Template:Reflist
+ 26.14%  154.128      6 Template:Navbox
+ 25.36%  149.531      1 Template:Compression_Methods
+ 15.49%   91.353      3 Template:Cite_book
+ 12.08%   71.265      1 Template:Unreferenced_section
+ 11.28%   66.494      1 Template:Unreferenced
+ 10.88%   64.148      1 Template:Ambox
+ 10.39%   61.261      1 Template:Short_description
+  7.93%   46.753     10 Template:Cite_web
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:172944-0!canonical and timestamp 20230530000204 and revision id 1157636594. Rendering was triggered because: edit-page
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Chroma_subsampling&amp;oldid=1157636594">https://en.wikipedia.org/w/index.php?title=Chroma_subsampling&amp;oldid=1157636594</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Data_compression" title="Category:Data compression">Data compression</a></li><li><a href="/wiki/Category:Film_and_video_technology" title="Category:Film and video technology">Film and video technology</a></li><li><a href="/wiki/Category:Image_compression" title="Category:Image compression">Image compression</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_multiple_names:_authors_list" title="Category:CS1 maint: multiple names: authors list">CS1 maint: multiple names: authors list</a></li><li><a href="/wiki/Category:CS1_Italian-language_sources_(it)" title="Category:CS1 Italian-language sources (it)">CS1 Italian-language sources (it)</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_July_2022" title="Category:Articles needing additional references from July 2022">Articles needing additional references from July 2022</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases" title="Category:All articles with specifically marked weasel-worded phrases">All articles with specifically marked weasel-worded phrases</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_July_2022" title="Category:Articles with specifically marked weasel-worded phrases from July 2022">Articles with specifically marked weasel-worded phrases from July 2022</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_July_2022" title="Category:Wikipedia articles needing clarification from July 2022">Wikipedia articles needing clarification from July 2022</a></li><li><a href="/wiki/Category:CS1_errors:_missing_periodical" title="Category:CS1 errors: missing periodical">CS1 errors: missing periodical</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 30 May 2023, at 00:01<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Chroma_subsampling&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class='vector-settings'>
+	
+<button
+	id=""
+	class="mw-ui-button mw-ui-icon-element vector-limited-width-toggle"
+	><span class="mw-ui-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+
+</button>
+
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1403","wgBackendResponseTime":112,"wgPageParseReport":{"limitreport":{"cputime":"0.641","walltime":"0.804","ppvisitednodes":{"value":1971,"limit":1000000},"postexpandincludesize":{"value":95836,"limit":2097152},"templateargumentsize":{"value":1526,"limit":2097152},"expansiondepth":{"value":12,"limit":100},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":70444,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  589.734      1 -total"," 35.02%  206.529      1 Template:Reflist"," 26.14%  154.128      6 Template:Navbox"," 25.36%  149.531      1 Template:Compression_Methods"," 15.49%   91.353      3 Template:Cite_book"," 12.08%   71.265      1 Template:Unreferenced_section"," 11.28%   66.494      1 Template:Unreferenced"," 10.88%   64.148      1 Template:Ambox"," 10.39%   61.261      1 Template:Short_description","  7.93%   46.753     10 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.366","limit":"10.000"},"limitreport-memusage":{"value":7807409,"limit":52428800}},"cachereport":{"origin":"mw1359","timestamp":"20230530000200","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Chroma subsampling","url":"https:\/\/en.wikipedia.org\/wiki\/Chroma_subsampling","sameAs":"http:\/\/www.wikidata.org\/entity\/Q355236","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q355236","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-01-22T23:09:32Z","dateModified":"2023-05-30T00:01:59Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f2\/Common_chroma_subsampling_ratios.svg","headline":"practice of encoding images"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Chroma subsampling","url":"https:\/\/en.wikipedia.org\/wiki\/Chroma_subsampling","sameAs":"http:\/\/www.wikidata.org\/entity\/Q355236","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q355236","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-01-22T23:09:32Z","dateModified":"2023-05-30T00:01:59Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f2\/Common_chroma_subsampling_ratios.svg","headline":"practice of encoding images"}</script>
+</body>
+</html>

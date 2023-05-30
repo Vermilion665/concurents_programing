@@ -20,7 +20,7 @@ def get_links():
         # в ответе на запрос случайной статьи в resp.url будет ссылка на эту статью
         #resp = s.get(RANDOM_URL, headers=HEADERS)
         #url = resp.url
-        url = 'https://en.wikipedia.org/wiki/Textbook'
+        url = 'https://en.wikipedia.org/wiki/JPEG'
         html = s.get(url, headers=HEADERS).text
         # получаем объект BeautifulSoup
         soup = BeautifulSoup(html, 'html.parser')

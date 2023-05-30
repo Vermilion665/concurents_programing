@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>SBC (codec) - Wikipedia</title>
+<script>document.documentElement.className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled";(function(){var cookie=document.cookie.match(/(?:^|; )enwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"fd4264f9-15a8-4316-af07-03fb1aa6fdcf","wgCSPNonce":false,
+"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"SBC_(codec)","wgTitle":"SBC (codec)","wgCurRevisionId":1152283245,"wgRevisionId":1152283245,"wgArticleId":20866283,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Audio codecs","Bluetooth"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"SBC_(codec)","wgRelevantArticleId":20866283,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,
+"wgWMEPageLength":10000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q1872544","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.ui.button":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","mediawiki.ui.icon":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":
+"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.ui.button%2Cicon%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.10">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-crossorigin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="SBC (codec) - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/SBC_(codec)">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=SBC_(codec)&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/SBC_(codec)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-SBC_codec rootpage-SBC_codec skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-main-menu-dropdown mw-ui-icon-flush-left mw-ui-icon-flush-right"  >
+	<input type="checkbox"
+		id="vector-main-menu-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-main-menu-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Main menu"
+		
+	/>
+	<label
+		id="vector-main-menu-dropdown-label"
+		for="vector-main-menu-dropdown-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+
+		<span class="vector-menu-heading-label">Main menu</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box-notice vector-language-sidebar-alert mw-message-box">Language links are at the top of the page across from the title.</div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt=""
+		aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia"
+			src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline"
+			alt="The Free Encyclopedia"
+			src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search"
+	
+		id=""
+		class="mw-ui-button mw-ui-quiet mw-ui-icon-element search-toggle"
+		title="Search Wikipedia [f]"accesskey="f"><span class="mw-ui-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-moved">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=SBC+%28codec%29" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=SBC+%28codec%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-user-menu mw-ui-icon-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox"
+		id="vector-user-links-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-user-links-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Personal tools"
+		
+	/>
+	<label
+		id="vector-user-links-dropdown-label"
+		for="vector-user-links-dropdown-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=SBC+%28codec%29" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="mw-ui-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=SBC+%28codec%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="mw-ui-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Design"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Design">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Design</div>
+		</a>
+		
+		<ul id="toc-Design-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Variants"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Variants">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Variants</div>
+		</a>
+		
+			<button aria-controls="toc-Variants-sublist" class="mw-ui-icon mw-ui-icon-wikimedia-expand mw-ui-icon-small vector-toc-toggle">
+				Toggle Variants subsection
+			</button>
+		
+		<ul id="toc-Variants-sublist" class="vector-toc-list">
+			<li id="toc-Overview"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Overview">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>Overview</div>
+			</a>
+			
+			<ul id="toc-Overview-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Middle_and_High_Quality"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Middle_and_High_Quality">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>Middle and High Quality</div>
+			</a>
+			
+			<ul id="toc-Middle_and_High_Quality-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Higher_quality_variants"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Higher_quality_variants">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.3</span>Higher quality variants</div>
+			</a>
+			
+			<ul id="toc-Higher_quality_variants-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-FastStream"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#FastStream">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.4</span>FastStream</div>
+			</a>
+			
+			<ul id="toc-FastStream-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Implementations"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Implementations">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Implementations</div>
+		</a>
+		
+		<ul id="toc-Implementations-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>See also</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="mw-ui-button mw-ui-quiet mw-ui-icon-flush-left mw-ui-icon-element"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="mw-ui-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+				
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-menu vector-dropdown vector-menu-dropdown vector-page-titlebar-toc mw-ui-icon-flush-left"  >
+	<input type="checkbox"
+		id="vector-page-titlebar-toc-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-titlebar-toc"
+		class="vector-menu-checkbox "
+		
+		aria-label="Toggle the table of contents"
+		
+	/>
+	<label
+		id="vector-page-titlebar-toc-label"
+		for="vector-page-titlebar-toc-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+
+		<span class="vector-menu-heading-label">Toggle the table of contents</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">SBC (codec)</span></h1>
+				
+							
+<div id="p-lang-btn" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox"
+		id="p-lang-btn-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-lang-btn"
+		class="vector-menu-checkbox mw-interlanguage-selector"
+		aria-label="Go to an article in another language. Available in 3 languages"
+		
+		
+	/>
+	<label
+		id="p-lang-btn-label"
+		for="p-lang-btn-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-progressive mw-portlet-lang-heading-3"
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+
+		<span class="vector-menu-heading-label">3 languages</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Low_Complexity_Subband_Codec" title="Low Complexity Subband Codec – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/SBC_(codec)" title="SBC (codec) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Low_Complexity_Subband_Codec" title="Low Complexity Subband Codec – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li></ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1872544#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+				</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/SBC_(codec)" title="View the content page [c]" accesskey="c" class=""><span>Article</span></a>
+</li>
+<li id="ca-talk" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Talk:SBC_(codec)" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t" class=""><span>Talk</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+								
+
+<div id="p-variants" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-variants emptyPortlet"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-label="Change language variant"
+		
+		
+	/>
+	<label
+		id="p-variants-label"
+		for="p-variants-checkbox"
+		class="vector-menu-heading "
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+
+	</div>
+</div>
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/SBC_(codec)" class=""><span>Read</span></a>
+</li>
+<li id="ca-edit" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=SBC_(codec)&amp;action=edit" title="Edit this page [e]" accesskey="e" class=""><span>Edit</span></a>
+</li>
+<li id="ca-history" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=SBC_(codec)&amp;action=history" title="Past revisions of this page [h]" accesskey="h" class=""><span>View history</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="More options">
+								
+<div id="vector-page-tools-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox"
+		id="vector-page-tools-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-tools-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Tools"
+		
+	/>
+	<label
+		id="vector-page-tools-dropdown-label"
+		for="vector-page-tools-dropdown-checkbox"
+		class="vector-menu-heading "
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-menu-heading-label">Tools</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/SBC_(codec)"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=SBC_(codec)&amp;action=edit"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=SBC_(codec)&amp;action=history"><span>View history</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/SBC_(codec)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/SBC_(codec)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=SBC_(codec)&amp;oldid=1152283245" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=SBC_(codec)&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=SBC_%28codec%29&amp;id=1152283245&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1872544" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=SBC_%28codec%29&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=SBC_(codec)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="More options">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Audio codec</div>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">This article is about the audio codec. For the video compression technique, see <a href="/wiki/Smart_Bitrate_Control" title="Smart Bitrate Control">Smart Bitrate Control</a>.</div>
+<p><b>SBC</b>, or low-complexity subband codec, is an audio <a href="/wiki/Subband_coding" class="mw-redirect" title="Subband coding">subband codec</a> specified by the <a href="/wiki/Bluetooth_Special_Interest_Group" title="Bluetooth Special Interest Group">Bluetooth Special Interest Group</a> (SIG) for the <a href="/wiki/Bluetooth_profile#Advanced_Audio_Distribution_Profile_(A2DP)" class="mw-redirect" title="Bluetooth profile">Advanced Audio Distribution Profile</a> (A2DP).<sup id="cite_ref-a2dp_1-0" class="reference"><a href="#cite_note-a2dp-1">&#91;1&#93;</a></sup> SBC is a digital audio encoder and decoder used to transfer data to Bluetooth audio output devices like headphones or loudspeakers. It can also be used on the Internet.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> It was designed with Bluetooth bandwidth limitations and processing power in mind to obtain a reasonably good audio quality at medium bit rates with low computational complexity.<sup id="cite_ref-a2dp_1-1" class="reference"><a href="#cite_note-a2dp-1">&#91;1&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> As of A2DP version 1.3, the Low Complexity Subband Coding remains the default codec and its implementation is mandatory for devices supporting that profile, but vendors are free to add their own codecs to match their needs.<sup id="cite_ref-a2dp_1-2" class="reference"><a href="#cite_note-a2dp-1">&#91;1&#93;</a></sup>
+</p><p>At CES 2020 the Bluetooth SIG announced <a href="/wiki/LC3_(codec)" title="LC3 (codec)">LC3</a> as the successor of SBC. LC3 is used in the LE Audio protocol based on the Bluetooth 5.2 Core Specification.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Design">Design</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SBC_(codec)&amp;action=edit&amp;section=1" title="Edit section: Design">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>SBC supports mono and stereo streams, and certain <a href="/wiki/Sample_frequency" class="mw-redirect" title="Sample frequency">sampling frequencies</a> up to 48&#160;kHz. Maximum bitrate required to be supported by decoders is 320&#160;kbit/s for mono and 512&#160;kbit/s for stereo streams. It uses 4 or 8 subbands, an adaptive bit allocation algorithm in combination with an adaptive block PCM quantizer.<sup id="cite_ref-a2dp_1-3" class="reference"><a href="#cite_note-a2dp-1">&#91;1&#93;</a></sup> Frans de Bont has based the SBC audio codec on his earlier work,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> and – in parts – on the <a href="/wiki/MPEG-1_Audio_Layer_II" title="MPEG-1 Audio Layer II">MPEG-1 Audio Layer II</a> standard. In addition, the SBC is based on the algorithms described in the EP-0400755B1.<sup id="cite_ref-patent_8-0" class="reference"><a href="#cite_note-patent-8">&#91;8&#93;</a></sup> The patent owners wrote that they allow the free usage of SBC in Bluetooth applications with a goal of boosting the use of this technology.
+</p>
+<h2><span class="mw-headline" id="Variants">Variants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SBC_(codec)&amp;action=edit&amp;section=2" title="Edit section: Variants">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SBC_(codec)&amp;action=edit&amp;section=3" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="text-align:center">
+<tbody><tr>
+<th rowspan="3" colspan="2" style="border-bottom:2px solid gray; background-color:#D8D9DD">
+</th>
+<th style="border-bottom:hidden; background-color:#D8D9DD; font-weight:lighter; border-bottom:2px solid gray" rowspan="3">SBC<sup id="cite_ref-a2dp_1-4" class="reference"><a href="#cite_note-a2dp-1">&#91;1&#93;</a></sup><sup id="cite_ref-calc_9-0" class="reference"><a href="#cite_note-calc-9">&#91;9&#93;</a></sup>
+</th>
+<th style="border-bottom:hidden; background-color:#D6F9D6" colspan="2">SBC profiles<sup id="cite_ref-a2dp_1-5" class="reference"><a href="#cite_note-a2dp-1">&#91;1&#93;</a></sup>
+</th>
+<th style="border-bottom:hidden; background-color:#D6F9D6" colspan="2" rowspan="2">FastStream<sup id="cite_ref-valdik_10-0" class="reference"><a href="#cite_note-valdik-10">&#91;10&#93;</a></sup>
+</th>
+<th style="border-bottom:hidden; background-color:#D8D9DD" rowspan="2"><a href="/wiki/Compact_Disc_Digital_Audio" title="Compact Disc Digital Audio">Audio CD</a>
+</th></tr>
+<tr>
+<th style="border-bottom:hidden; background-color:#D6F9D6; font-weight:lighter">Middle Quality
+</th>
+<th style="border-bottom:hidden; background-color:#D6F9D6; font-weight:lighter">High Quality
+</th></tr>
+<tr>
+<th style="background-color:#D6F9D6; border-bottom:2px solid gray; font-weight:lighter">
+</th>
+<th style="background-color:#D6F9D6; border-bottom:2px solid gray; font-weight:lighter">
+</th>
+<th style="background-color:#D6F9D6; border-bottom:2px solid gray; font-weight:lighter">main stream
+</th>
+<th style="background-color:#D6F9D6; border-bottom:2px solid gray; font-weight:lighter">back stream
+</th>
+<th style="background-color:#D8D9DD; border-bottom:2px solid gray"><small>(for reference)</small>
+</th></tr>
+<tr>
+<th rowspan="4">misc.
+</th>
+<th style="text-align:left">Launch
+</th>
+<td style="background-color:#F0F2F6">–</td>
+<td colspan="2">May 2003</td>
+<td colspan="2">March 2008<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup></td>
+<td style="background-color:#F0F2F6">1982
+</td></tr>
+<tr>
+<th style="text-align:left">Related <a href="/wiki/Patent" title="Patent">patents</a>
+</th>
+<td style="background-color:#F0F2F6"><style data-mw-deduplicate="TemplateStyles:r1041539562">.mw-parser-output .citation{word-wrap:break-word}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}</style><span class="citation patent"><a rel="nofollow" class="external text" href="https://worldwide.espacenet.com/textdoc?DB=EPODOC&amp;IDX=EP0400755B1">EP 0400755B1</a></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Apatent&amp;rft.number=0400755B1&amp;rft.cc=EP&amp;rft.title="><span style="display: none;">&#160;</span></span><sup id="cite_ref-patent_8-1" class="reference"><a href="#cite_note-patent-8">&#91;8&#93;</a></sup> (expired)</td>
+<td colspan="2">–</td>
+<td colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1041539562"><span class="citation patent"><a rel="nofollow" class="external text" href="https://worldwide.espacenet.com/textdoc?DB=EPODOC&amp;IDX=US9398620B1">US 9398620B1</a></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Apatent&amp;rft.number=9398620B1&amp;rft.cc=US&amp;rft.title="><span style="display: none;">&#160;</span></span><sup id="cite_ref-US9398620B1_12-0" class="reference"><a href="#cite_note-US9398620B1-12">&#91;12&#93;</a></sup> (expired)</td>
+<td style="background-color:#F0F2F6">–
+</td></tr>
+<tr>
+<th style="text-align:left"><a href="/wiki/Free_software" title="Free software">Free implementations</a>
+</th>
+<td style="background-color:#F0F2F6"><a href="/wiki/BlueZ" class="mw-redirect" title="BlueZ">BlueZ</a> libsbc</td>
+<td colspan="2"><a href="/wiki/PulseAudio" title="PulseAudio">PulseAudio</a>, <a href="/wiki/PipeWire" title="PipeWire">PipeWire</a></td>
+<td colspan="2"><a href="/wiki/PipeWire" title="PipeWire">PipeWire</a>, patches for PulseAudio<sup id="cite_ref-faststream-patch_13-0" class="reference"><a href="#cite_note-faststream-patch-13">&#91;13&#93;</a></sup></td>
+<td style="background-color:#F0F2F6">–
+</td></tr>
+<tr>
+<th style="text-align:left"><a href="/wiki/Proprietary_software" title="Proprietary software">Proprietary implementations</a>
+</th>
+<td style="background-color:#F0F2F6">–</td>
+<td colspan="2">multiple hardware implementations</td>
+<td colspan="2">hardware implementation in <a href="/wiki/Qualcomm" title="Qualcomm">Qualcomm</a> chips</td>
+<td style="background-color:#F0F2F6">–
+</td></tr>
+<tr>
+<th rowspan="5">Audio<br />Encoding
+</th>
+<th style="text-align:left">Channels
+</th>
+<td style="background-color:#F0F2F6">Mono (1)<br />Joint Stereo (2)</td>
+<td colspan="2"><br />Joint Stereo (2)</td>
+<td><br />Joint Stereo (2)</td>
+<td>Mono (1)<br />&#160;</td>
+<td style="background-color:#F0F2F6"><br />Stereo (2)
+</td></tr>
+<tr>
+<th style="text-align:left"><a href="/wiki/Sampling_rate" class="mw-redirect" title="Sampling rate">Sampling rate</a>
+</th>
+<td style="background-color:#F0F2F6">16&#160;kHz<br />32&#160;kHz<br />44.1&#160;kHz<br />48&#160;kHz&#160;</td>
+<td colspan="2"><br /><br />44.1&#160;kHz<br />48&#160;kHz&#160;</td>
+<td><br /><br />44.1&#160;kHz<br />48&#160;kHz&#160;</td>
+<td>16&#160;kHz<br /><br /><br />&#160;</td>
+<td style="background-color:#F0F2F6"><br /><br />44.1&#160;kHz<br />&#160;
+</td></tr>
+<tr>
+<th style="text-align:left"><a href="/wiki/Bit_rate" title="Bit rate">Bit rate</a>
+</th>
+<td style="background-color:#F0F2F6">up to <b>510 kbit/s</b> <small>(@ 44.1&#160;kHz)</small><br />up to <b>507 kbit/s</b> <small>(@ 48&#160;kHz)</small></td>
+<td><b>229 kbit/s</b> <small>(@ 44.1&#160;kHz)</small><br /><b>237 kbit/s</b> <small>(@ 48&#160;kHz)</small></td>
+<td><b>328 kbit/s</b> <small>(@ 44.1&#160;kHz)</small><br /><b>345 kbit/s</b> <small>(@ 48&#160;kHz)</small></td>
+<td><b>212 kbit/s</b> <small>(@ 48&#160;kHz)</small></td>
+<td><b>72 kbit/s</b> <small>(@ 16&#160;kHz)</small></td>
+<td style="background-color:#F0F2F6"><b>1411 kbit/s</b> <small>(@ 44.1&#160;kHz)</small>
+</td></tr>
+<tr>
+<th style="text-align:left">Subbands
+</th>
+<td style="background-color:#F0F2F6">4 or 8</td>
+<td colspan="4">8</td>
+<td style="background-color:#F0F2F6">?
+</td></tr>
+<tr>
+<th style="text-align:left">Bitpool
+</th>
+<td style="background-color:#F0F2F6">2 - 86 <small>(@ 44.1&#160;kHz)</small><br />2 - 78 <small>(@ 48&#160;kHz)</small></td>
+<td>35 <small>(@ 44.1&#160;kHz)</small><br />33 <small>(@ 48&#160;kHz)</small></td>
+<td>53 <small>(@ 44.1&#160;kHz)</small><br />51 <small>(@ 48&#160;kHz)</small></td>
+<td>29</td>
+<td>32</td>
+<td style="background-color:#F0F2F6">?
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Middle_and_High_Quality">Middle and High Quality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SBC_(codec)&amp;action=edit&amp;section=4" title="Edit section: Middle and High Quality">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A2DP recommends encoders to support Middle Quality and High Quality presets as specified in the above table. As a result, most operating systems are using the High Quality profile as the default or even the only one supported encoding profile.<sup id="cite_ref-valdik_10-1" class="reference"><a href="#cite_note-valdik-10">&#91;10&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Higher_quality_variants">Higher quality variants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SBC_(codec)&amp;action=edit&amp;section=5" title="Edit section: Higher quality variants">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>However, A2DP requires decoders to support higher quality streams, up to 512 kbit/s, and there are some experimental encoders that use this feature: for example, SBC XQ, used by <a href="/wiki/Lineage_OS" class="mw-redirect" title="Lineage OS">Lineage OS</a><sup id="cite_ref-xq_14-0" class="reference"><a href="#cite_note-xq-14">&#91;14&#93;</a></sup> and <a href="/wiki/PipeWire" title="PipeWire">PipeWire</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> With higher bit rate, audio quality is comparable to <a href="/wiki/AptX#aptX_HD" title="AptX">aptX HD</a> (529 kbit/s).<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="FastStream">FastStream</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SBC_(codec)&amp;action=edit&amp;section=6" title="Edit section: FastStream">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>While A2DP officially supports only one-way audio streams, <a href="/wiki/CSR_(company)" class="mw-redirect" title="CSR (company)">CSR</a> has found a way to send a voice-back stream opposite to the main stereo stream, making it possible to use A2DP in headsets with microphones. It was implemented in the FastStream codec, which is the SBC codec with set parameters and the voice-back stream added.<sup id="cite_ref-valdik_10-2" class="reference"><a href="#cite_note-valdik-10">&#91;10&#93;</a></sup><sup id="cite_ref-faststream-patch_13-1" class="reference"><a href="#cite_note-faststream-patch-13">&#91;13&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Implementations">Implementations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SBC_(codec)&amp;action=edit&amp;section=7" title="Edit section: Implementations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The A2DP test specification (V1.0) contains a <a href="/wiki/Reference_implementation" title="Reference implementation">reference implementation</a> of the encoder and decoder for the SBC codec. A Linux implementation is available at <a href="/wiki/BlueZ" class="mw-redirect" title="BlueZ">BlueZ</a> - The Linux Bluetooth stack.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SBC_(codec)&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Audio_codec" title="Audio codec">Audio codec</a></li>
+<li><a href="/wiki/AptX" title="AptX">aptX</a></li>
+<li><a href="/wiki/Bluetooth_profile" class="mw-redirect" title="Bluetooth profile">Bluetooth profile</a></li>
+<li><a href="/wiki/Adaptive_differential_pulse-code_modulation" title="Adaptive differential pulse-code modulation">Adaptive differential pulse-code modulation</a></li>
+<li><a href="/wiki/List_of_codecs" title="List of codecs">List of codecs</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SBC_(codec)&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-a2dp-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-a2dp_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-a2dp_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-a2dp_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-a2dp_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-a2dp_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-a2dp_1-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text">Bluetooth SIG, Specification of the Bluetooth System, Profiles, Advanced Audio Distribution Profile version 1.3. <a rel="nofollow" class="external free" href="https://www.bluetooth.org/docman/handlers/DownloadDoc.ashx?doc_id=260859&amp;vId=290074">https://www.bluetooth.org/docman/handlers/DownloadDoc.ashx?doc_id=260859&amp;vId=290074</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">C. Hoene, F. de Bont, "RTP Payload Format for Bluetooth's SBC audio codec", IETF draft, work in progress, Dec. 2010, <a rel="nofollow" class="external free" href="https://tools.ietf.org/html/draft-ietf-avt-rtp-sbc-01">https://tools.ietf.org/html/draft-ietf-avt-rtp-sbc-01</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">
+<style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFStephen_Wray2008" class="citation web cs1">Stephen Wray (26 June 2008). <a rel="nofollow" class="external text" href="http://www.edn.com/design/consumer/4326740/Bluetooth-Sufficient-fidelity-even-for-average-listeners-">"Bluetooth: Sufficient fidelity even for average listeners?"</a>. EDN Network<span class="reference-accessdate">. Retrieved <span class="nowrap">4 January</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bluetooth%3A+Sufficient+fidelity+even+for+average+listeners%3F&amp;rft.pub=EDN+Network&amp;rft.date=2008-06-26&amp;rft.au=Stephen+Wray&amp;rft_id=http%3A%2F%2Fwww.edn.com%2Fdesign%2Fconsumer%2F4326740%2FBluetooth-Sufficient-fidelity-even-for-average-listeners-&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASBC+%28codec%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.bluetooth.com/blog/bluetooth-audio-gets-a-big-upgrade-at-ces-2020/">"Bluetooth Audio Gets a Big Upgrade at CES 2020"</a>. <i>Bluetooth® Technology Website</i>. 2020-01-13<span class="reference-accessdate">. Retrieved <span class="nowrap">2022-01-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Bluetooth%C2%AE+Technology+Website&amp;rft.atitle=Bluetooth+Audio+Gets+a+Big+Upgrade+at+CES+2020&amp;rft.date=2020-01-13&amp;rft_id=https%3A%2F%2Fwww.bluetooth.com%2Fblog%2Fbluetooth-audio-gets-a-big-upgrade-at-ces-2020%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASBC+%28codec%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFFrumusanu" class="citation web cs1">Frumusanu, Andrei. <a rel="nofollow" class="external text" href="https://www.anandtech.com/show/15349/bluetooth-sig-announces-le-audio-standard-new-baseline-for-next-decade">"CES 2020: Bluetooth SIG Announces LE Audio Standard: New Baseline For Next Decade"</a>. <i>www.anandtech.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2022-01-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.anandtech.com&amp;rft.atitle=CES+2020%3A+Bluetooth+SIG+Announces+LE+Audio+Standard%3A+New+Baseline+For+Next+Decade&amp;rft.aulast=Frumusanu&amp;rft.aufirst=Andrei&amp;rft_id=https%3A%2F%2Fwww.anandtech.com%2Fshow%2F15349%2Fbluetooth-sig-announces-le-audio-standard-new-baseline-for-next-decade&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASBC+%28codec%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://ticcorp.com/blogs/news/what-is-le-audio-and-lc3-the-latest-in-bluetooth-audio">"What is LE Audio and LC3, the latest in Bluetooth audio?"</a>. <i>TIC</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2022-01-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=TIC&amp;rft.atitle=What+is+LE+Audio+and+LC3%2C+the+latest+in+Bluetooth+audio%3F&amp;rft_id=https%3A%2F%2Fticcorp.com%2Fblogs%2Fnews%2Fwhat-is-le-audio-and-lc3-the-latest-in-bluetooth-audio&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASBC+%28codec%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">F. de Bont, M. Groenewegen and W. Oomen, "A High Quality Audio-Coding System at 128 kb/s", 98th AES Convention, Febr. 25-28, 1995.</span>
+</li>
+<li id="cite_note-patent-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-patent_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-patent_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">J.B. Rault, Y.F. Dehery, J.Y. Roudaut, A.A.M. Bruekers, R.N.J. Veldhuis, "Digital transmission system using subband coding of a digital signal", Publication number: EP0400755 (B1), Priority number(s): EP19900201369 19900530; EP19890201408 19890602</span>
+</li>
+<li id="cite_note-calc-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-calc_9-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFValdikSS" class="citation web cs1">ValdikSS. <a rel="nofollow" class="external text" href="https://btcodecs.valdikss.org.ru/sbc-bitrate-calculator/">"Bluetooth A2DP SBC Codec Bitrate Calculator"</a>. ValdikSS<span class="reference-accessdate">. Retrieved <span class="nowrap">6 April</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bluetooth+A2DP+SBC+Codec+Bitrate+Calculator&amp;rft.pub=ValdikSS&amp;rft.au=ValdikSS&amp;rft_id=https%3A%2F%2Fbtcodecs.valdikss.org.ru%2Fsbc-bitrate-calculator%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASBC+%28codec%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-valdik-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-valdik_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-valdik_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-valdik_10-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFValdikSS2019" class="citation web cs1">ValdikSS (18 June 2019). <a rel="nofollow" class="external text" href="https://habr.com/en/post/456182/">"Audio over Bluetooth: most detailed information about profiles, codecs, and devices"</a>. Habr<span class="reference-accessdate">. Retrieved <span class="nowrap">6 April</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Audio+over+Bluetooth%3A+most+detailed+information+about+profiles%2C+codecs%2C+and+devices&amp;rft.pub=Habr&amp;rft.date=2019-06-18&amp;rft.au=ValdikSS&amp;rft_id=https%3A%2F%2Fhabr.com%2Fen%2Fpost%2F456182%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASBC+%28codec%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFCSR" class="citation web cs1">CSR. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080509054609/www.csr.com/pr/pr328.htm">"CSR presents handset makers with revolutionary audio processing technology"</a>. CSR. Archived from <a rel="nofollow" class="external text" href="http://www.csr.com/pr/pr328.htm">the original</a> on 2008-05-09<span class="reference-accessdate">. Retrieved <span class="nowrap">9 May</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=CSR+presents+handset+makers+with+revolutionary+audio+processing+technology&amp;rft.pub=CSR&amp;rft.au=CSR&amp;rft_id=http%3A%2F%2Fwww.csr.com%2Fpr%2Fpr328.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASBC+%28codec%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-US9398620B1-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-US9398620B1_12-0">^</a></b></span> <span class="reference-text">J.J. Lazzeroni, M.K. Carevich, J.D. Vertz, P.E.H. Hauser, S.J. Kingston, "Simultaneous voice and audio traffic between two devices on a wireless personal-area network", Publication number: US9398620 (B1)</span>
+</li>
+<li id="cite_note-faststream-patch-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-faststream-patch_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-faststream-patch_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFPali_Rohár2019" class="citation web cs1">Pali Rohár (2 June 2019). <a rel="nofollow" class="external text" href="https://lists.freedesktop.org/archives/pulseaudio-discuss/2019-June/031175.html">"&#91;PATCH v11 07/11&#93; bluetooth: Add A2DP FastStream codec support"</a>. pulseaudio-discuss mailing list<span class="reference-accessdate">. Retrieved <span class="nowrap">6 April</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%5BPATCH+v11+07%2F11%5D+bluetooth%3A+Add+A2DP+FastStream+codec+support&amp;rft.pub=pulseaudio-discuss+mailing+list&amp;rft.date=2019-06-02&amp;rft.au=Pali+Roh%C3%A1r&amp;rft_id=https%3A%2F%2Flists.freedesktop.org%2Farchives%2Fpulseaudio-discuss%2F2019-June%2F031175.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASBC+%28codec%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-xq-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-xq_14-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFValdikSS2019" class="citation web cs1">ValdikSS (6 July 2019). <a rel="nofollow" class="external text" href="https://lineageos.org/engineering/Bluetooth-SBC-XQ/">"Bluetooth SBC Dual Channel HD audio mode"</a>. Lineage OS<span class="reference-accessdate">. Retrieved <span class="nowrap">6 April</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bluetooth+SBC+Dual+Channel+HD+audio+mode&amp;rft.pub=Lineage+OS&amp;rft.date=2019-07-06&amp;rft.au=ValdikSS&amp;rft_id=https%3A%2F%2Flineageos.org%2Fengineering%2FBluetooth-SBC-XQ%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASBC+%28codec%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFFrederic_Danis2022" class="citation web cs1">Frederic Danis (29 April 2022). <a rel="nofollow" class="external text" href="https://www.collabora.com/news-and-blog/news-and-events/pipewire-bluetooth-support-status-update.html">"PipeWire: Bluetooth support status update"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 August</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=PipeWire%3A+Bluetooth+support+status+update&amp;rft.date=2022-04-29&amp;rft.au=Frederic+Danis&amp;rft_id=https%3A%2F%2Fwww.collabora.com%2Fnews-and-blog%2Fnews-and-events%2Fpipewire-bluetooth-support-status-update.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASBC+%28codec%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSerge_Smirnoff2019" class="citation web cs1">Serge Smirnoff (29 June 2019). <a rel="nofollow" class="external text" href="http://soundexpert.org/articles/-/blogs/audio-quality-of-sbc-xq-bluetooth-audio-codec">"Audio quality of SBC XQ Bluetooth audio codec"</a>. SoundExpert<span class="reference-accessdate">. Retrieved <span class="nowrap">6 April</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Audio+quality+of+SBC+XQ+Bluetooth+audio+codec&amp;rft.pub=SoundExpert&amp;rft.date=2019-06-29&amp;rft.au=Serge+Smirnoff&amp;rft_id=http%3A%2F%2Fsoundexpert.org%2Farticles%2F-%2Fblogs%2Faudio-quality-of-sbc-xq-bluetooth-audio-codec&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASBC+%28codec%29" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1349
+Cached time: 20230520095334
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.221 seconds
+Real time usage: 0.272 seconds
+Preprocessor visited node count: 1346/1000000
+Post‐expand include size: 21460/2097152 bytes
+Template argument size: 858/2097152 bytes
+Highest expansion depth: 12/100
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 35632/5000000 bytes
+Lua time usage: 0.125/10.000 seconds
+Lua memory usage: 5030284/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  246.536      1 -total
+ 55.37%  136.518      1 Template:Reflist
+ 46.10%  113.663     11 Template:Cite_web
+ 26.47%   65.270      1 Template:Short_description
+ 14.13%   34.841      2 Template:Pagetype
+  8.19%   20.186      5 Template:Main_other
+  7.32%   18.040      1 Template:About
+  7.29%   17.968      1 Template:SDcat
+  6.64%   16.369      2 Template:Patent
+  5.84%   14.388      2 Template:Cite_patent
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:20866283-0!canonical and timestamp 20230520095334 and revision id 1152283245. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=SBC_(codec)&amp;oldid=1152283245">https://en.wikipedia.org/w/index.php?title=SBC_(codec)&amp;oldid=1152283245</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Audio_codecs" title="Category:Audio codecs">Audio codecs</a></li><li><a href="/wiki/Category:Bluetooth" title="Category:Bluetooth">Bluetooth</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 29 April 2023, at 08:32<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=SBC_(codec)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class='vector-settings'>
+	
+<button
+	id=""
+	class="mw-ui-button mw-ui-icon-element vector-limited-width-toggle"
+	><span class="mw-ui-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+
+</button>
+
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1352","wgBackendResponseTime":112,"wgPageParseReport":{"limitreport":{"cputime":"0.221","walltime":"0.272","ppvisitednodes":{"value":1346,"limit":1000000},"postexpandincludesize":{"value":21460,"limit":2097152},"templateargumentsize":{"value":858,"limit":2097152},"expansiondepth":{"value":12,"limit":100},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":35632,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  246.536      1 -total"," 55.37%  136.518      1 Template:Reflist"," 46.10%  113.663     11 Template:Cite_web"," 26.47%   65.270      1 Template:Short_description"," 14.13%   34.841      2 Template:Pagetype","  8.19%   20.186      5 Template:Main_other","  7.32%   18.040      1 Template:About","  7.29%   17.968      1 Template:SDcat","  6.64%   16.369      2 Template:Patent","  5.84%   14.388      2 Template:Cite_patent"]},"scribunto":{"limitreport-timeusage":{"value":"0.125","limit":"10.000"},"limitreport-memusage":{"value":5030284,"limit":52428800}},"cachereport":{"origin":"mw1349","timestamp":"20230520095334","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"SBC (codec)","url":"https:\/\/en.wikipedia.org\/wiki\/SBC_(codec)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1872544","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1872544","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-12-28T15:21:57Z","dateModified":"2023-04-29T08:32:34Z","headline":"audio codec used for bluetooth transmission"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"SBC (codec)","url":"https:\/\/en.wikipedia.org\/wiki\/SBC_(codec)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1872544","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1872544","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-12-28T15:21:57Z","dateModified":"2023-04-29T08:32:34Z","headline":"audio codec used for bluetooth transmission"}</script>
+</body>
+</html>

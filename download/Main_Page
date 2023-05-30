@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Wikipedia, the free encyclopedia</title>
-<script>document.documentElement.className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled";(function(){var cookie=document.cookie.match(/(?:^|; )enwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"8b2581b0-21bc-4467-9323-426f054e7059","wgCSPNonce":false,
+<script>document.documentElement.className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled";(function(){var cookie=document.cookie.match(/(?:^|; )enwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"c6e65026-7ff9-42f5-8c68-ea7ae5238589","wgCSPNonce":false,
 "wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Main_Page","wgTitle":"Main Page","wgCurRevisionId":1114291180,"wgRevisionId":1114291180,"wgArticleId":15580374,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing German-language text"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Main_Page","wgRelevantArticleId":15580374,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":3000,"wgNoticeProject":
 "wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q5296","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","mediawiki.ui.button":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","mediawiki.ui.icon":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready"};RLPAGEMODULES=["site",
 "mediawiki.page.ready","skins.vector.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.interface","wikibase.client.vector-2022","ext.growthExperiments.SuggestedEditSession"];</script>
@@ -450,7 +450,7 @@ You can view its source [e]" accesskey="e" class=""><span>View source</span></a>
 <div id="mp-welcomecount">
 <div id="mp-welcome"><h1><span class="mw-headline" id="Welcome_to_Wikipedia">Welcome to <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a></span></h1>,</div>
 <div id="mp-free">the <a href="/wiki/Free_content" title="Free content">free</a> <a href="/wiki/Encyclopedia" title="Encyclopedia">encyclopedia</a> that <a href="/wiki/Help:Introduction_to_Wikipedia" title="Help:Introduction to Wikipedia">anyone can edit</a>.</div>
-<div id="articlecount"><a href="/wiki/Special:Statistics" title="Special:Statistics">6,662,120</a> articles in <a href="/wiki/English_language" title="English language">English</a></div>
+<div id="articlecount"><a href="/wiki/Special:Statistics" title="Special:Statistics">6,662,191</a> articles in <a href="/wiki/English_language" title="English language">English</a></div>
 </div>
 </div>
 <div id="mp-upper">
@@ -729,13 +729,13 @@ Recently featured: <link rel="mw-deduplicated-inline-style" href="mw-data:Templa
 </div>
 <!-- 
 NewPP limit report
-Parsed by mw1372
-Cached time: 20230530165054
+Parsed by mw1432
+Cached time: 20230530183955
 Cache expiry: 3600
 Reduced expiry: true
 Complications: [no‐toc]
-CPU time usage: 0.408 seconds
-Real time usage: 0.513 seconds
+CPU time usage: 0.318 seconds
+Real time usage: 0.431 seconds
 Preprocessor visited node count: 4323/1000000
 Post‐expand include size: 118535/2097152 bytes
 Template argument size: 9005/2097152 bytes
@@ -743,25 +743,25 @@ Highest expansion depth: 18/100
 Expensive parser function count: 13/500
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 38281/5000000 bytes
-Lua time usage: 0.123/10.000 seconds
+Lua time usage: 0.109/10.000 seconds
 Lua memory usage: 16046509/52428800 bytes
 Number of Wikibase entities loaded: 0/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  367.773      1 -total
- 30.21%  111.109      1 Wikipedia:Selected_anniversaries/May_30
- 29.35%  107.957      1 Wikipedia:Main_Page/Tomorrow
- 23.12%   85.036      1 Template:Lang
- 18.49%   67.983      8 Template:Main_page_image
- 17.84%   65.611      1 Wikipedia:Today's_featured_article/May_30,_2023
- 13.94%   51.280      2 Template:Wikipedia_languages
- 12.86%   47.281      8 Template:Str_number/trim
- 10.50%   38.598      1 Template:Did_you_know/Queue/4
-  9.65%   35.497      2 Template:Main_page_image/TFA
+100.00%  328.117      1 -total
+ 34.16%  112.072      1 Wikipedia:Selected_anniversaries/May_30
+ 26.60%   87.280      1 Template:Lang
+ 24.42%   80.128      1 Wikipedia:Main_Page/Tomorrow
+ 19.27%   63.236      1 Wikipedia:Today's_featured_article/May_30,_2023
+ 17.25%   56.600      8 Template:Main_page_image
+ 12.12%   39.762      8 Template:Str_number/trim
+ 10.51%   34.489      1 Template:Did_you_know/Queue/4
+  9.99%   32.789      2 Template:Main_page_image/TFA
+  9.83%   32.243     26 Template:Flatlist
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:15580374-0!canonical and timestamp 20230530165053 and revision id 1114291180. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key enwiki:pcache:idhash:15580374-0!canonical and timestamp 20230530183954 and revision id 1114291180. Rendering was triggered because: page-view
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
 <div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Main_Page&amp;oldid=1114291180">https://en.wikipedia.org/w/index.php?title=Main_Page&amp;oldid=1114291180</a>"</div></div>
@@ -846,7 +846,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 </button>
 
 </div>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1441","wgBackendResponseTime":104,"wgPageParseReport":{"limitreport":{"cputime":"0.408","walltime":"0.513","ppvisitednodes":{"value":4323,"limit":1000000},"postexpandincludesize":{"value":118535,"limit":2097152},"templateargumentsize":{"value":9005,"limit":2097152},"expansiondepth":{"value":18,"limit":100},"expensivefunctioncount":{"value":13,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":38281,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  367.773      1 -total"," 30.21%  111.109      1 Wikipedia:Selected_anniversaries/May_30"," 29.35%  107.957      1 Wikipedia:Main_Page/Tomorrow"," 23.12%   85.036      1 Template:Lang"," 18.49%   67.983      8 Template:Main_page_image"," 17.84%   65.611      1 Wikipedia:Today's_featured_article/May_30,_2023"," 13.94%   51.280      2 Template:Wikipedia_languages"," 12.86%   47.281      8 Template:Str_number/trim"," 10.50%   38.598      1 Template:Did_you_know/Queue/4","  9.65%   35.497      2 Template:Main_page_image/TFA"]},"scribunto":{"limitreport-timeusage":{"value":"0.123","limit":"10.000"},"limitreport-memusage":{"value":16046509,"limit":52428800}},"cachereport":{"origin":"mw1372","timestamp":"20230530165054","ttl":3600,"transientcontent":true}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1414","wgBackendResponseTime":105,"wgPageParseReport":{"limitreport":{"cputime":"0.318","walltime":"0.431","ppvisitednodes":{"value":4323,"limit":1000000},"postexpandincludesize":{"value":118535,"limit":2097152},"templateargumentsize":{"value":9005,"limit":2097152},"expansiondepth":{"value":18,"limit":100},"expensivefunctioncount":{"value":13,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":38281,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  328.117      1 -total"," 34.16%  112.072      1 Wikipedia:Selected_anniversaries/May_30"," 26.60%   87.280      1 Template:Lang"," 24.42%   80.128      1 Wikipedia:Main_Page/Tomorrow"," 19.27%   63.236      1 Wikipedia:Today's_featured_article/May_30,_2023"," 17.25%   56.600      8 Template:Main_page_image"," 12.12%   39.762      8 Template:Str_number/trim"," 10.51%   34.489      1 Template:Did_you_know/Queue/4","  9.99%   32.789      2 Template:Main_page_image/TFA","  9.83%   32.243     26 Template:Flatlist"]},"scribunto":{"limitreport-timeusage":{"value":"0.109","limit":"10.000"},"limitreport-memusage":{"value":16046509,"limit":52428800}},"cachereport":{"origin":"mw1432","timestamp":"20230530183955","ttl":3600,"transientcontent":true}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Main Page","url":"https:\/\/en.wikipedia.org\/wiki\/Main_Page","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5296","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5296","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-01-26T15:28:12Z","dateModified":"2022-10-05T19:27:50Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/68\/Tournenie_%28HS85-10-21122%29.jpg","headline":"Wikimedia project page"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Main Page","url":"https:\/\/en.wikipedia.org\/wiki\/Main_Page","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5296","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5296","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-01-26T15:28:12Z","dateModified":"2022-10-05T19:27:50Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/68\/Tournenie_%28HS85-10-21122%29.jpg","headline":"Wikimedia project page"}</script>
 </body>
 </html>

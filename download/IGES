@@ -1,0 +1,1094 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>IGES - Wikipedia</title>
+<script>document.documentElement.className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled";(function(){var cookie=document.cookie.match(/(?:^|; )enwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"8c487578-ae59-4871-9820-a2be6472a3d1","wgCSPNonce":false,
+"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"IGES","wgTitle":"IGES","wgCurRevisionId":1124646131,"wgRevisionId":1124646131,"wgArticleId":1057827,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","CAD file formats","Computer file formats","Computer-aided design software","Graphics file formats"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"IGES","wgRelevantArticleId":1057827,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},
+"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q616714","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.ui.button":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","mediawiki.ui.icon":"ready","jquery.makeCollapsible.styles":
+"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.ui.button%2Cicon%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.10">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-crossorigin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Initial_Graphics_Exchange_Specification_Logo.svg/1200px-Initial_Graphics_Exchange_Specification_Logo.svg.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1692">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Initial_Graphics_Exchange_Specification_Logo.svg/800px-Initial_Graphics_Exchange_Specification_Logo.svg.png">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="1128">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Initial_Graphics_Exchange_Specification_Logo.svg/640px-Initial_Graphics_Exchange_Specification_Logo.svg.png">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="902">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="IGES - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/IGES">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=IGES&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/IGES">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-IGES rootpage-IGES skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-main-menu-dropdown mw-ui-icon-flush-left mw-ui-icon-flush-right"  >
+	<input type="checkbox"
+		id="vector-main-menu-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-main-menu-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Main menu"
+		
+	/>
+	<label
+		id="vector-main-menu-dropdown-label"
+		for="vector-main-menu-dropdown-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+
+		<span class="vector-menu-heading-label">Main menu</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box-notice vector-language-sidebar-alert mw-message-box">Language links are at the top of the page across from the title.</div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt=""
+		aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia"
+			src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline"
+			alt="The Free Encyclopedia"
+			src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search"
+	
+		id=""
+		class="mw-ui-button mw-ui-quiet mw-ui-icon-element search-toggle"
+		title="Search Wikipedia [f]"accesskey="f"><span class="mw-ui-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-moved">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=IGES" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=IGES" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-user-menu mw-ui-icon-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox"
+		id="vector-user-links-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-user-links-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Personal tools"
+		
+	/>
+	<label
+		id="vector-user-links-dropdown-label"
+		for="vector-user-links-dropdown-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=IGES" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="mw-ui-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=IGES" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="mw-ui-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-History"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#History">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>History</div>
+		</a>
+		
+		<ul id="toc-History-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-File_format"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#File_format">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>File format</div>
+		</a>
+		
+		<ul id="toc-File_format-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Foreign-language_support"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Foreign-language_support">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Foreign-language support</div>
+		</a>
+		
+		<ul id="toc-Foreign-language_support-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-A_recursive_standard"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#A_recursive_standard">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>A recursive standard</div>
+		</a>
+		
+		<ul id="toc-A_recursive_standard-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>See also</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="mw-ui-button mw-ui-quiet mw-ui-icon-flush-left mw-ui-icon-element"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="mw-ui-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+				
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-menu vector-dropdown vector-menu-dropdown vector-page-titlebar-toc mw-ui-icon-flush-left"  >
+	<input type="checkbox"
+		id="vector-page-titlebar-toc-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-titlebar-toc"
+		class="vector-menu-checkbox "
+		
+		aria-label="Toggle the table of contents"
+		
+	/>
+	<label
+		id="vector-page-titlebar-toc-label"
+		for="vector-page-titlebar-toc-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+
+		<span class="vector-menu-heading-label">Toggle the table of contents</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">IGES</span></h1>
+				
+							
+<div id="p-lang-btn" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox"
+		id="p-lang-btn-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-lang-btn"
+		class="vector-menu-checkbox mw-interlanguage-selector"
+		aria-label="Go to an article in another language. Available in 9 languages"
+		
+		
+	/>
+	<label
+		id="p-lang-btn-label"
+		for="p-lang-btn-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-progressive mw-portlet-lang-heading-9"
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+
+		<span class="vector-menu-heading-label">9 languages</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/IGES" title="IGES – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Initial_Graphics_Exchange_Specification" title="Initial Graphics Exchange Specification – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/IGES" title="IGES – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Initial_Graphics_Exchange_Specification" title="Initial Graphics Exchange Specification – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/IGES" title="IGES – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/IGES" title="IGES – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Initial_Graphics_Exchange_Specification" title="Initial Graphics Exchange Specification – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/IGES" title="IGES – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/IGES" title="IGES – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li></ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q616714#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+				</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/IGES" title="View the content page [c]" accesskey="c" class=""><span>Article</span></a>
+</li>
+<li id="ca-talk" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Talk:IGES" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t" class=""><span>Talk</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+								
+
+<div id="p-variants" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-variants emptyPortlet"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-label="Change language variant"
+		
+		
+	/>
+	<label
+		id="p-variants-label"
+		for="p-variants-checkbox"
+		class="vector-menu-heading "
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+
+	</div>
+</div>
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/IGES" class=""><span>Read</span></a>
+</li>
+<li id="ca-edit" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=IGES&amp;action=edit" title="Edit this page [e]" accesskey="e" class=""><span>Edit</span></a>
+</li>
+<li id="ca-history" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=IGES&amp;action=history" title="Past revisions of this page [h]" accesskey="h" class=""><span>View history</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="More options">
+								
+<div id="vector-page-tools-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox"
+		id="vector-page-tools-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-tools-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Tools"
+		
+	/>
+	<label
+		id="vector-page-tools-dropdown-label"
+		for="vector-page-tools-dropdown-checkbox"
+		class="vector-menu-heading "
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-menu-heading-label">Tools</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/IGES"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=IGES&amp;action=edit"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=IGES&amp;action=history"><span>View history</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/IGES" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/IGES" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=IGES&amp;oldid=1124646131" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=IGES&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=IGES&amp;id=1124646131&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q616714" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=IGES&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=IGES&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="More options">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Initial Graphics Exchange Specification</div>
+<div class="thumb tright"><div class="thumbinner" style="width:172px;"><a href="/wiki/File:Initial_Graphics_Exchange_Specification_Logo.svg" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Initial_Graphics_Exchange_Specification_Logo.svg/170px-Initial_Graphics_Exchange_Specification_Logo.svg.png" decoding="async" width="170" height="240" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Initial_Graphics_Exchange_Specification_Logo.svg/255px-Initial_Graphics_Exchange_Specification_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Initial_Graphics_Exchange_Specification_Logo.svg/340px-Initial_Graphics_Exchange_Specification_Logo.svg.png 2x" data-file-width="239" data-file-height="337" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Initial_Graphics_Exchange_Specification_Logo.svg" class="internal" title="Enlarge"></a></div>Logo of the IGES Project from <a href="/wiki/National_Institute_of_Standards_and_Technology" title="National Institute of Standards and Technology">NIST</a></div></div></div>
+<p>The <b>Initial Graphics Exchange Specification (IGES)</b> is a vendor-neutral <a href="/wiki/List_of_file_formats" title="List of file formats">file format</a> that allows the <a href="/wiki/CAD_data_exchange" title="CAD data exchange">digital exchange</a> of information among <a href="/wiki/Computer-aided_design" title="Computer-aided design">computer-aided design</a> (CAD) systems. It's an ASCII-based textual format.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup class="reference nowrap"><span title="Page: 59">&#58;&#8202;59&#8202;</span></sup>
+</p><p>The official title of IGES is <i><b>Digital Representation for Communication of Product Definition Data</b></i>, first published in March, 1980 by the U.S. <a href="/wiki/National_Bureau_of_Standards" class="mw-redirect" title="National Bureau of Standards">National Bureau of Standards</a> as <b>NBSIR 80-1978</b>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>  Many documents (like early versions of the <a href="/wiki/Defense_Standard" class="mw-redirect" title="Defense Standard">Defense Standards</a> MIL-PRF-28000<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> and MIL-STD-1840<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>) referred to it as <b><a href="/wiki/American_Society_of_Mechanical_Engineers" title="American Society of Mechanical Engineers">ASME</a> Y14.26M</b>, the designation of the <a href="/wiki/ANSI" class="mw-redirect" title="ANSI">ANSI</a> committee that approved IGES Version 1.0.
+</p><p>Using IGES, a CAD user can exchange product data models in the form of <a href="/wiki/Circuit_diagram" title="Circuit diagram">circuit diagrams</a>, <a href="/wiki/Wire_frame_model" class="mw-redirect" title="Wire frame model">wireframe</a>, <a href="/wiki/Freeform_surface_modelling" title="Freeform surface modelling">freeform surface</a> or <a href="/wiki/Solid_modeling" title="Solid modeling">solid modeling</a> <a href="/wiki/Representation_(arts)" title="Representation (arts)">representations</a>. Applications supported by IGES include traditional <a href="/wiki/Engineering_drawing" title="Engineering drawing">engineering drawings</a>, models for analysis, and other <a href="/wiki/Manufacturing" title="Manufacturing">manufacturing</a> functions.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IGES&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>IGES was an initiative of the <a href="/wiki/United_States_Air_Force" title="United States Air Force">United States Air Force</a> (USAF) <a href="/wiki/Integrated_Computer_Aided_Manufacturing" class="mw-redirect" title="Integrated Computer Aided Manufacturing">Integrated Computer Aided Manufacturing</a> (ICAM) project (1976-1984).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>ICAM sought to develop procedures (<a href="/wiki/IDEF" title="IDEF">IDEF</a>) processes (<a href="/wiki/Group_Technology" class="mw-redirect" title="Group Technology">Group Technology</a>) and software (<a href="/wiki/CAD/CAM" title="CAD/CAM">CAD/CAM</a>) that would integrate all operations in Aerospace manufacturing and thus greatly reduce costs.  Earlier the USAF Manufacturing Technology Program had funded the Automatically Programmed Tools (APT) language for programming Numerically Controlled (NC) machine tools.  To close the data gap between parts design and manufacturing, one of the ICAM goals was to develop CAD software that would automatically generate numerical control programs for the very complex Computer Numerically Controlled (CNC) machine tools used throughout the <a href="/wiki/Aerospace" title="Aerospace">Aerospace</a> industry.  A serious issue was the incompatibility of data produced by the many <a href="/wiki/Computer-aided_design" title="Computer-aided design">CAD</a> systems in use at the time.  USAF/ICAM called a meeting at the <a href="/wiki/National_Bureau_of_Standards" class="mw-redirect" title="National Bureau of Standards">National Bureau of Standards</a> (now known as <a href="/wiki/National_Institute_of_Standards_and_Technology" title="National Institute of Standards and Technology">National Institute of Standards and Technology</a> or <a href="/wiki/NIST" class="mw-redirect" title="NIST">NIST</a>) in 1978 to address this issue.  <a href="/wiki/Boeing" title="Boeing">Boeing</a> offered to sell its CAD translation software to USAF for one United States dollar.  <a href="/wiki/USAF" class="mw-redirect" title="USAF">USAF</a> accepted this offer and contracted NIST to bring together a group of  users and vendors, including Boeing, <a href="/wiki/General_Electric" title="General Electric">General Electric</a>, <a href="/wiki/Xerox" title="Xerox">Xerox</a>, <a href="/wiki/Computervision" title="Computervision">Computervision</a>, <a href="/wiki/Applicon" title="Applicon">Applicon</a> and others to further develop and test this software.  Though it was the practice to begin the name of ICAM developments with the word integrated (for example the IDEFs) believing that there would be rapid development of graphical exchange software, USAF decided that the IGES would be the Initial Graphics Exchange Specification not the Integrated Graphics Exchange Specification.
+</p><p>Since 1988, the <a href="/wiki/United_States_Department_of_Defense" title="United States Department of Defense">DoD</a> has required that all <a href="/wiki/Digital_data" title="Digital data">digital</a> <a href="/wiki/Product_and_manufacturing_information" title="Product and manufacturing information">product and manufacturing information</a> (PMI) for weapons systems contracts (the engineering drawings, circuit diagrams, <i>etc</i>.) be delivered in <a href="/wiki/Computer_file" title="Computer file">electronic</a> form such as IGES format. As a consequence, <a href="/wiki/CAx" class="mw-redirect" title="CAx">CAx</a> software vendors who want to market their products to DoD subcontractors and their partners needed to support the import (reading) and export (writing) of IGES format files.
+</p><p>An ANSI standard since 1980, IGES has been used in the <a href="/wiki/Automotive_industry" title="Automotive industry">automotive</a>, <a href="/wiki/Aerospace" title="Aerospace">aerospace</a>, and <a href="/wiki/Shipbuilding" title="Shipbuilding">shipbuilding</a> industries. It has been used for weapons systems from <a href="/wiki/Trident_(missile)" title="Trident (missile)">Trident missile</a> <a href="/wiki/Guidance_system" title="Guidance system">guidance systems</a> to entire <a href="/wiki/Aircraft_carrier" title="Aircraft carrier">aircraft carriers</a>. These part models may have to be used years after the vendor of the original design system has gone out of business. IGES files provide a way to access this data decades from now. Today, plugin viewers for <a href="/wiki/Web_browser" title="Web browser">Web browsers</a> allow IGES files created 20 years ago to be viewed from anywhere in the world.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>After the initial release of <a href="/wiki/ISO_10303" title="ISO 10303">STEP (ISO 10303)</a> in 1994, interest in further development of IGES declined, and Version 5.3 (1996) was the last published standard.
+</p>
+<h2><span class="mw-headline" id="File_format">File format</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IGES&amp;action=edit&amp;section=2" title="Edit section: File format">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>An IGES file is composed of 80-character <a href="/wiki/ASCII" title="ASCII">ASCII</a> records, a record length derived from the <a href="/wiki/Punched_card" title="Punched card">punched card</a> era. Text strings are represented in "<a href="/wiki/Hollerith_constant" title="Hollerith constant">Hollerith</a>" format, the number of characters in the string, followed by the letter "H", followed by the text string, <i>e.g.</i>, "4HSLOT" (this is the text string format used in early versions of the <a href="/wiki/Fortran" title="Fortran">Fortran</a> language). Early IGES translators had problems with <a href="/wiki/IBM" title="IBM">IBM</a> <a href="/wiki/Mainframe_computer" title="Mainframe computer">mainframe computers</a> because the mainframes used <a href="/wiki/EBCDIC" title="EBCDIC">EBCDIC</a> encoding for text, and some EBCDIC-ASCII translators would either substitute the wrong character, or improperly set the <a href="/wiki/Parity_bit" title="Parity bit">parity bit</a>, causing a misread.
+</p><p>Here is a very small IGES file from 1987,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> containing only two POINT (Type 116), two CIRCULAR ARC (Type 100), and two LINE (Type 110) entities. It represents a slot, with the points at the centers of the two half-circles that form the ends of the slot, and the two lines that form the sides.
+</p>
+<pre>                                                                        S      1
+1H,,1H;,4HSLOT,37H$1$DUA2:[IGESLIB.BDRAFT.B2I]SLOT.IGS;,                G      1
+17HBravo3 BravoDRAFT,31HBravo3-&gt;IGES V3.002 (02-Oct-87),32,38,6,38,15,  G      2
+4HSLOT,1.,1,4HINCH,8,0.08,13H871006.192927,1.E-06,6.,                   G      3
+31HD. A. Harrod, Tel. 313/995-6333,24HAPPLICON - Ann Arbor, MI,4,0;     G      4
+     116       1       0       1       0       0       0       0       1D      1
+     116       1       5       1       0                               0D      2
+     116       2       0       1       0       0       0       0       1D      3
+     116       1       5       1       0                               0D      4
+     100       3       0       1       0       0       0       0       1D      5
+     100       1       2       1       0                               0D      6
+     100       4       0       1       0       0       0       0       1D      7
+     100       1       2       1       0                               0D      8
+     110       5       0       1       0       0       0       0       1D      9
+     110       1       3       1       0                               0D     10
+     110       6       0       1       0       0       0       0       1D     11
+     110       1       3       1       0                               0D     12
+116,0.,0.,0.,0,0,0;                                                    1P      1
+116,5.,0.,0.,0,0,0;                                                    3P      2
+100,0.,0.,0.,0.,1.,0.,-1.,0,0;                                         5P      3
+100,0.,5.,0.,5.,-1.,5.,1.,0,0;                                         7P      4
+110,0.,-1.,0.,5.,-1.,0.,0,0;                                           9P      5
+110,0.,1.,0.,5.,1.,0.,0,0;                                            11P      6
+S      1G      4D     12P      6                                        T      1
+</pre><p>The file is divided into 5 sections: <b>S</b>tart, <b>G</b>lobal, <b>D</b>irectory Entry, <b>P</b>arameter Data, and <b>T</b>erminate indicated by the characters S, G, D, P, or T in column 73. The characteristics and geometric information for an entity is split between two sections; one in a two record, fixed-length format (the Directory Entry, or DE Section), the other in a multiple record, comma delimited format (the Parameter Data, or PD Section), as can be seen in a more human-readable representation of the file.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>When displayed, the user should see two <a href="/wiki/Yellow" title="Yellow">yellow</a> points (hard to see on a <a href="/wiki/White" title="White">white</a> background, but most CAD systems use a <a href="/wiki/Black" title="Black">black</a> background), one located at the <a href="/wiki/Origin_(mathematics)" title="Origin (mathematics)">origin</a> of model space [0,0,0], two <a href="/wiki/Red" title="Red">red</a> circular arcs, and two <a href="/wiki/Green" title="Green">green</a> lines.
+</p>
+<div class="center"><div class="floatnone"><a href="/wiki/File:Slot.gif" class="image"><img alt="Slot.gif" src="//upload.wikimedia.org/wikipedia/commons/9/90/Slot.gif" decoding="async" width="700" height="274" data-file-width="700" data-file-height="274" /></a></div></div>
+<h2><span class="mw-headline" id="Foreign-language_support">Foreign-language support</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IGES&amp;action=edit&amp;section=3" title="Edit section: Foreign-language support">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:193px;"><a href="/wiki/File:Fc2001x.gif" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/f/f8/Fc2001x.gif" decoding="async" width="191" height="240" class="thumbimage" data-file-width="191" data-file-height="240" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Fc2001x.gif" class="internal" title="Enlarge"></a></div>fc2001x.igs is an example IGES file that demonstrates Font Code 2001 (<b><a href="/wiki/Kanji#History" title="Kanji">Kanji</a></b>)</div></div></div>
+<p>Due to its growing international popularity (several countries, including Australia and the UK, adopted IGES as their own National Standards for PMI interoperability), support was added to the TEXT (Type 212) entity to support the <a href="/wiki/ISO/IEC_8859-1" title="ISO/IEC 8859-1">ISO 8859 (Latin-1)</a> alphabet for European characters.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>In the 1990s, IGES added support for the <a href="/wiki/JIS_encoding" title="JIS encoding">JIS encoding</a> for <a href="/wiki/Kanji" title="Kanji">Kanji</a> (<a href="https://en.wiktionary.org/wiki/%E6%BC%A2%E5%AD%97" class="extiw" title="wikt:漢字">漢字</a>) as double-byte characters (<a href="/wiki/JIS_X_0208" title="JIS X 0208">JIS-6226</a>), allowing members of the <a href="/wiki/Japan_Automobile_Manufacturers_Association" title="Japan Automobile Manufacturers Association">Japan Automobile Manufacturers Association</a> (JAMA) to exchange part models with their American and European partners without loss of the Kanji text.
+</p><p>The current version of IGES does not support <a href="/wiki/Unicode" title="Unicode">Unicode</a> 16- or 32-bit character encoding, so Arabic and other scripts (like Thai) cannot be represented.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="A_recursive_standard">A recursive standard</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IGES&amp;action=edit&amp;section=4" title="Edit section: A recursive standard">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>One of the unique features of the IGES standard is that it was the first <a href="/wiki/ANSI" class="mw-redirect" title="ANSI">ANSI</a> standard to be documented using itself. Since Version 4.0, all of the technical illustrations for the printed version of the standard have been generated from IGES files. The <a href="/wiki/Electronic_publishing" title="Electronic publishing">electronic publishing</a> system (<a href="/wiki/LaTeX" title="LaTeX">LaTeX</a>) integrates <a href="/wiki/Raster_graphics" title="Raster graphics">raster images</a> generated from IGES files into the <a href="/wiki/PostScript" title="PostScript">PostScript</a> sent to the <a href="/wiki/Laser_printer" class="mw-redirect" title="Laser printer">laser printer</a>, so text and images are printed on the same page for subsequent use as <a href="/wiki/Camera-ready" title="Camera-ready">camera-ready</a> copy for commercial publication. Beginning with IGES Version 5.2, this is how the standard was generated, and Version 5.3 (the most recent ANSI-approved version) is available as a <a href="/wiki/PDF" title="PDF">PDF</a> document.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p><p>Many of the illustrations (all of which conform to the Defense Department's MIL-D-28000 Engineering Drawings Subset of IGES) use the entities that they describe, e.g., the illustration of the LEADER (ARROW) ENTITY (Type 214) can be used as a test case for translator implementers, because it contains all 12 arrow head styles defined by the standard. These <a href="/wiki/WYSIWYG" title="WYSIWYG">WYSIWYG</a> example files can be distinguished by a leading "F" and trailing "X" in the file name (like f214x.igs<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>), and this library is called the <b>IGES X-files</b> by members of the IGES <a href="/wiki/Community" title="Community">community</a>.
+</p><p>Here is one of the example figures, Figure 2 from Appendix A (fmeparte.igs<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>), that has appeared in every version of IGES since Version 3.0. It uses linear, angular, and ordinate dimension entities, as well as examples of both <a href="/wiki/Conic_section" title="Conic section">circular and conic arcs</a>. It is usually the first part used when testing an IGES translator, because the standard has a picture of what it should look like.
+</p>
+<div class="center"><div class="floatnone"><a href="/wiki/File:Figa2.gif" class="image"><img alt="Figa2.gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Figa2.gif/500px-Figa2.gif" decoding="async" width="500" height="339" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Figa2.gif/750px-Figa2.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/1/13/Figa2.gif 2x" data-file-width="885" data-file-height="600" /></a></div></div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IGES&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div style="clear:both;"></div>
+<ul><li><a href="/wiki/ISO_10303-21" title="ISO 10303-21">ISO 10303-21</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IGES&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist reflist-columns references-column-width" style="column-width: 30em;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFSchoonmaker2003" class="citation book cs1">Schoonmaker, Stephen J. (2003). <a rel="nofollow" class="external text" href="https://www.worldcat.org/oclc/54090798"><i>The CAD guidebook&#160;: a basic manual for understanding and improving computer-aided design</i></a>. New York: Marcel Dekker. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8247-4569-8" title="Special:BookSources/0-8247-4569-8"><bdi>0-8247-4569-8</bdi></a>. <a href="/wiki/OCLC_(identifier)" class="mw-redirect" title="OCLC (identifier)">OCLC</a>&#160;<a rel="nofollow" class="external text" href="https://www.worldcat.org/oclc/54090798">54090798</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+CAD+guidebook+%3A+a+basic+manual+for+understanding+and+improving+computer-aided+design&amp;rft.place=New+York&amp;rft.pub=Marcel+Dekker&amp;rft.date=2003&amp;rft_id=info%3Aoclcnum%2F54090798&amp;rft.isbn=0-8247-4569-8&amp;rft.aulast=Schoonmaker&amp;rft.aufirst=Stephen+J.&amp;rft_id=https%3A%2F%2Fwww.worldcat.org%2Foclc%2F54090798&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIGES" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-1978.pdf">Initial Graphics Exchange Specification IGES Version 1.0</a>, Roger N. Nagel, Ph.D., Project Manager Walt W. Braithwaite, M.S., Boeing Philip R Kennicott, Ph.D., General Electric, National Bureau of Standards, NBSIR 80-1978, March 1980</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.everyspec.com/MIL-PRF/MIL-PRF-010000-29999/MIL-PRF-28000B_NOTICE-1_27385/">"MIL-PRF-28000B"</a>. <i>everyspec.com</i>. 2011-05-26.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=everyspec.com&amp;rft.atitle=MIL-PRF-28000B&amp;rft.date=2011-05-26&amp;rft_id=http%3A%2F%2Fwww.everyspec.com%2FMIL-PRF%2FMIL-PRF-010000-29999%2FMIL-PRF-28000B_NOTICE-1_27385%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIGES" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.everyspec.com/MIL-STD/MIL-STD-1800-1999/MIL-STD-1840C_4779/">"MIL-STD-1840C"</a>. <i>everyspec.com</i>. 2011-05-26.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=everyspec.com&amp;rft.atitle=MIL-STD-1840C&amp;rft.date=2011-05-26&amp;rft_id=http%3A%2F%2Fwww.everyspec.com%2FMIL-STD%2FMIL-STD-1800-1999%2FMIL-STD-1840C_4779%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIGES" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.pcmag.com/encyclopedia_term/0,,t=&amp;i=44758,00.asp">"IGES"</a>. <i>PC Magazine</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=PC+Magazine&amp;rft.atitle=IGES&amp;rft_id=https%3A%2F%2Fwww.pcmag.com%2Fencyclopedia_term%2F0%2C%2Ct%3D%26i%3D44758%2C00.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIGES" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160305022829/http://www.wiz-worx.com/java/figa2.htm">"Rotate an IGES part from 1990 with Java"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.wiz-worx.com/java/figa2.htm">the original</a> on 2016-03-05.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Rotate+an+IGES+part+from+1990+with+Java&amp;rft_id=http%3A%2F%2Fwww.wiz-worx.com%2Fjava%2Ffiga2.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIGES" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100815044620/http://www.wiz-worx.com/iges5x/misc/slot.shtml">"MISC - IGES Example File slot"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.wiz-worx.com/iges5x/misc/slot.shtml">the original</a> on 2010-08-15<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-01-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=MISC+-+IGES+Example+File+slot&amp;rft_id=http%3A%2F%2Fwww.wiz-worx.com%2Figes5x%2Fmisc%2Fslot.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIGES" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120926172932/http://www.wiz-worx.com/iges5x/misc/peek/slot.txt">"MISC - IGES Example File slot (dump)"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.wiz-worx.com/iges5x/misc/peek/slot.txt">the original</a> on 2012-09-26<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-08-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=MISC+-+IGES+Example+File+slot+%28dump%29&amp;rft_id=http%3A%2F%2Fwww.wiz-worx.com%2Figes5x%2Fmisc%2Fpeek%2Fslot.txt&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIGES" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.wiz-worx.com/iges5x/misc/font3001.shtml">"MISC - IGES Example File font3001"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=MISC+-+IGES+Example+File+font3001&amp;rft_id=http%3A%2F%2Fwww.wiz-worx.com%2Figes5x%2Fmisc%2Ffont3001.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIGES" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">But see IGES RFC 603, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://archive.today/20120719004148/http://ts.nist.gov/Standards/IGES/rfc603.cfm">"MSID Standards Activities"</a>. Archived from <a rel="nofollow" class="external text" href="http://ts.nist.gov/Standards/IGES/rfc603.cfm">the original</a> on 2012-07-19<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-10-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=MSID+Standards+Activities&amp;rft_id=http%3A%2F%2Fts.nist.gov%2FStandards%2FIGES%2Frfc603.cfm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIGES" class="Z3988"></span> that proposes flagged UTF-8.</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120821190122/http://www.uspro.org/documents/IGES5-3_forDownload.pdf">"IGES 5.3 (ANSI-1996)"</a> <span class="cs1-format">(PDF)</span>. <i>US Product Data Association</i>. 1996-09-23. Archived from <a rel="nofollow" class="external text" href="http://www.uspro.org/documents/IGES5-3_forDownload.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2012-08-21<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-07-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=US+Product+Data+Association&amp;rft.atitle=IGES+5.3+%28ANSI-1996%29&amp;rft.date=1996-09-23&amp;rft_id=http%3A%2F%2Fwww.uspro.org%2Fdocuments%2FIGES5-3_forDownload.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIGES" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100301144417/http://www.wiz-worx.com/iges5x/wysiwyg/f214x.shtml">"WYSIWYG - IGES Example File f214x"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.wiz-worx.com/iges5x/wysiwyg/f214x.shtml">the original</a> on 2010-03-01<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-01-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=WYSIWYG+-+IGES+Example+File+f214x&amp;rft_id=http%3A%2F%2Fwww.wiz-worx.com%2Figes5x%2Fwysiwyg%2Ff214x.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIGES" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100228145242/http://www.wiz-worx.com/iges5x/misc/figa2.shtml">"MISC - IGES Example File figa2"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.wiz-worx.com/iges5x/misc/figa2.shtml">the original</a> on 2010-02-28<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-01-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=MISC+-+IGES+Example+File+figa2&amp;rft_id=http%3A%2F%2Fwww.wiz-worx.com%2Figes5x%2Fmisc%2Ffiga2.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIGES" class="Z3988"></span></span>
+</li>
+</ol></div>
+<dl><dt>Notes</dt></dl>
+<ul><li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFIGES1980" class="citation cs2">Nagel, Roger N.; Braithwaite, Walt W.; Kennicott, Philip R. (1980), <i>Initial Graphics Exchange Specification IGES, Version 1.0</i>, Washington DC: National Bureau of Standards, NBSIR 80-1978</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Initial+Graphics+Exchange+Specification+IGES%2C+Version+1.0&amp;rft.place=Washington+DC&amp;rft.pub=National+Bureau+of+Standards&amp;rft.date=1980&amp;rft.aulast=Nagel&amp;rft.aufirst=Roger+N.&amp;rft.au=Braithwaite%2C+Walt+W.&amp;rft.au=Kennicott%2C+Philip+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIGES" class="Z3988"></span></li>
+<li>1982 <a rel="nofollow" class="external free" href="https://books.google.com/books/about/Digital_representation_for_communication.html?id=5LDgAAAAMAAJ">https://books.google.com/books/about/Digital_representation_for_communication.html?id=5LDgAAAAMAAJ</a></li>
+<li>1990 <a rel="nofollow" class="external free" href="https://books.google.com/books/about/Digital_representation_for_communication.html?id=tyFZAAAAYAAJ">https://books.google.com/books/about/Digital_representation_for_communication.html?id=tyFZAAAAYAAJ</a></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation cs2"><i>Digital Representation for Communication of Product Definition Data: IGES 5.2 (Initial Graphics Exchange Specification Version 5.2)</i>, US Product Data Association, November 1993, <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-88538900-8" title="Special:BookSources/978-1-88538900-8"><bdi>978-1-88538900-8</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Digital+Representation+for+Communication+of+Product+Definition+Data%3A+IGES+5.2+%28Initial+Graphics+Exchange+Specification+Version+5.2%29&amp;rft.pub=US+Product+Data+Association&amp;rft.date=1993-11&amp;rft.isbn=978-1-88538900-8&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIGES" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFIGES/PDES_Organization1996" class="citation cs2">IGES/PDES Organization (September 23, 1996), <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120821190122/http://www.uspro.org/documents/IGES5-3_forDownload.pdf"><i>Initial Graphics Exchange Specification: IGES 5.3</i></a> <span class="cs1-format">(PDF)</span>, N. Charleston, SC: U.S. Product Data Association, archived from <a rel="nofollow" class="external text" href="http://www.uspro.org/documents/IGES5-3_forDownload.pdf">the original</a> <span class="cs1-format">(PDF)</span> on August 21, 2012, <q>Formerly an ANSI Standard September 23, 1996 &#8211; September 2006</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Initial+Graphics+Exchange+Specification%3A+IGES+5.3&amp;rft.place=N.+Charleston%2C+SC&amp;rft.pub=U.S.+Product+Data+Association&amp;rft.date=1996-09-23&amp;rft.au=IGES%2FPDES+Organization&amp;rft_id=http%3A%2F%2Fwww.uspro.org%2Fdocuments%2FIGES5-3_forDownload.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIGES" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFIGES/PDES_Organization2006" class="citation cs2">IGES/PDES Organization (June 28, 2006), <i>The Initial Graphics Exchange Specification (IGES) Version 5.x (Draft)</i>, IGES/PDES Organization</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Initial+Graphics+Exchange+Specification+%28IGES%29+Version+5.x+%28Draft%29&amp;rft.pub=IGES%2FPDES+Organization&amp;rft.date=2006-06-28&amp;rft.au=IGES%2FPDES+Organization&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIGES" class="Z3988"></span>. Baseline version was January 12, 1999.</li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFIGES/PDES_Organization2001" class="citation cs2">IGES/PDES Organization (November 30, 2001), <i>The Initial Graphics Exchange Specification (IGES) Version 6.0 (Draft)</i></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Initial+Graphics+Exchange+Specification+%28IGES%29+Version+6.0+%28Draft%29&amp;rft.date=2001-11-30&amp;rft.au=IGES%2FPDES+Organization&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIGES" class="Z3988"></span>. Baseline version was January 5, 1998.</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IGES&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120417202421/http://www.nist.gov/el/msid/standards.cfm">"A General Description of IGES"</a>. <i><a href="/wiki/National_Institute_of_Standards_and_Technology" title="National Institute of Standards and Technology">nist.gov</a></i>. Archived from <a rel="nofollow" class="external text" href="http://ts.nist.gov/standards/iges/">the original</a> on 2012-04-17.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=nist.gov&amp;rft.atitle=A+General+Description+of+IGES&amp;rft_id=http%3A%2F%2Fts.nist.gov%2Fstandards%2Figes%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIGES" class="Z3988"></span></li></ul>
+<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Vector_graphics_markup_languages_and_file_formats" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Vector_graphics_markup_languages" title="Template:Vector graphics markup languages"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Vector_graphics_markup_languages" title="Template talk:Vector graphics markup languages"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Vector_graphics_markup_languages&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Vector_graphics_markup_languages_and_file_formats" style="font-size:114%;margin:0 4em"><a href="/wiki/Vector_graphics" title="Vector graphics">Vector graphics</a> <a href="/wiki/Vector_graphics_markup_language" class="mw-redirect" title="Vector graphics markup language">markup languages</a> and file formats</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">By <a href="/wiki/List_of_vector_graphics_markup_languages" class="mw-redirect" title="List of vector graphics markup languages">type</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">2D</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Asymptote_(vector_graphics_language)" title="Asymptote (vector graphics language)">Asymptote</a></li>
+<li><a href="/wiki/Computer_Graphics_Metafile" title="Computer Graphics Metafile">CGM</a></li>
+<li><a href="/wiki/Office_Open_XML_file_formats#DrawingML" title="Office Open XML file formats">DrawingML</a></li>
+<li><a href="/wiki/Graphics_Layout_Engine" title="Graphics Layout Engine">Graphics Layout Engine</a></li>
+<li><a href="/wiki/GeoGebra" title="GeoGebra">GeoGebra</a></li>
+<li><a href="/wiki/Haiku_Vector_Icon_Format" title="Haiku Vector Icon Format">HVIF</a></li>
+<li><a href="/wiki/Lottie_(file_format)" title="Lottie (file format)">Lottie</a></li>
+<li><a href="/wiki/MetaPost" title="MetaPost">MetaPost</a></li>
+<li><a href="/wiki/PGF/TikZ" title="PGF/TikZ">PGF/TikZ</a></li>
+<li><a href="/wiki/Precision_Graphics_Markup_Language" title="Precision Graphics Markup Language">PGML</a></li>
+<li><a href="/wiki/PSTricks" title="PSTricks">PSTricks</a></li>
+<li><a href="/wiki/Remote_Imaging_Protocol" title="Remote Imaging Protocol">Remote Imaging Protocol</a></li>
+<li><a href="/wiki/Scalable_Vector_Graphics" class="mw-redirect" title="Scalable Vector Graphics">SVG</a></li>
+<li><a href="/wiki/SWF" title="SWF">SWF</a></li>
+<li><a href="/wiki/Vector_Markup_Language" title="Vector Markup Language">VML</a></li>
+<li><a href="/wiki/Windows_Metafile" title="Windows Metafile">WMF</a>
+<ul><li><a href="/wiki/Windows_Metafile#Variants" title="Windows Metafile">EMF</a></li></ul></li>
+<li><a href="/wiki/Extensible_Application_Markup_Language" title="Extensible Application Markup Language">XAML</a></li>
+<li><a href="/wiki/Xar_(graphics)" title="Xar (graphics)">Xar</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">3D</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/3DMLW" title="3DMLW">3DMLW</a></li>
+<li><a href="/wiki/3DXML" title="3DXML">3DXML</a></li>
+<li><a href="/wiki/Asymptote_(vector_graphics_language)" title="Asymptote (vector graphics language)">Asymptote</a></li>
+<li><a href="/wiki/COLLADA" title="COLLADA">COLLADA</a></li>
+<li><a href="/wiki/Design_Web_Format" title="Design Web Format">DWF</a></li>
+<li><a href="/wiki/GeoGebra" title="GeoGebra">GeoGebra</a></li>
+<li><a href="/wiki/GlTF" title="GlTF">glTF</a></li>
+<li><a class="mw-selflink selflink">IGES</a></li>
+<li><a href="/wiki/JT_(visualization_format)" title="JT (visualization format)">JT</a></li>
+<li><a href="/wiki/Open_Game_Engine_Exchange" title="Open Game Engine Exchange">OpenGEX</a></li>
+<li><a href="/wiki/PRC_(file_format)" title="PRC (file format)">PRC</a></li>
+<li><a href="/wiki/ISO_10303" title="ISO 10303">STEP</a></li>
+<li><a href="/wiki/STL_(file_format)" title="STL (file format)">STL</a></li>
+<li><a href="/wiki/Universal_3D" title="Universal 3D">U3D</a></li>
+<li><a href="/wiki/VRML" title="VRML">VRML</a></li>
+<li><a href="/wiki/X3D" title="X3D">X3D</a></li>
+<li><a href="/wiki/Extensible_Application_Markup_Language" title="Extensible Application Markup Language">XAML</a></li>
+<li><a href="/wiki/XVL" title="XVL">XVL</a></li>
+<li><a href="/wiki/XVRML" title="XVRML">xVRML</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">See also</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Web3D" title="Web3D">Web3D</a></li>
+<li><a href="/wiki/Web3D_Consortium" title="Web3D Consortium">Web3D Consortium</a></li>
+<li><a href="/wiki/Linden_Scripting_Language" class="mw-redirect" title="Linden Scripting Language">Linden Scripting Language</a></li>
+<li><a href="/wiki/Scene_description_language" title="Scene description language">Scene description language</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox" aria-labelledby="Graphics_file_formats" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Graphics_file_formats" title="Template:Graphics file formats"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Graphics_file_formats" title="Template talk:Graphics file formats"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Graphics_file_formats&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Graphics_file_formats" style="font-size:114%;margin:0 4em"><a href="/wiki/Image_file_format" title="Image file format">Graphics file formats</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Raster_graphics" title="Raster graphics">Raster</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/ANI_(file_format)" title="ANI (file format)"> ANI</a></li>
+<li><a href="/wiki/ANIM" title="ANIM">ANIM</a></li>
+<li><a href="/wiki/APNG" title="APNG">APNG</a></li>
+<li><a href="/wiki/ART_image_file_format" title="ART image file format"> ART</a></li>
+<li><a href="/wiki/AVIF" title="AVIF">AVIF</a></li>
+<li><a href="/wiki/BMP_file_format" title="BMP file format"> BMP</a></li>
+<li><a href="/wiki/Better_Portable_Graphics" title="Better Portable Graphics"> BPG</a></li>
+<li><a href="/wiki/BSAVE" title="BSAVE"> BSAVE</a></li>
+<li><a href="/wiki/CALS_Raster_file_format" title="CALS Raster file format"> CAL</a></li>
+<li><a href="/wiki/Cineon" title="Cineon"> CIN</a></li>
+<li><a href="/wiki/Cartesian_Perceptual_Compression" title="Cartesian Perceptual Compression"> CPC</a></li>
+<li><a href="/wiki/CPT_(file_format)" title="CPT (file format)"> CPT</a></li>
+<li><a href="/wiki/DirectDraw_Surface" title="DirectDraw Surface"> DDS</a></li>
+<li><a href="/wiki/Digital_Picture_Exchange" title="Digital Picture Exchange"> DPX</a></li>
+<li><a href="/wiki/ECW_(file_format)" title="ECW (file format)"> ECW</a></li>
+<li><a href="/wiki/OpenEXR" title="OpenEXR"> EXR</a></li>
+<li><a href="/wiki/FITS" title="FITS">FITS</a></li>
+<li><a href="/wiki/FLIC_(file_format)" title="FLIC (file format)"> FLIC</a></li>
+<li><a href="/wiki/Free_Lossless_Image_Format" title="Free Lossless Image Format"> FLIF</a></li>
+<li><a href="/wiki/FlashPix" title="FlashPix"> FPX</a></li>
+<li><a href="/wiki/GIF" title="GIF">GIF</a></li>
+<li><a href="/wiki/HDRi_(data_format)" class="mw-redirect" title="HDRi (data format)"> HDRi</a></li>
+<li><a href="/wiki/High_Efficiency_Video_Coding#Main_Still_Picture" title="High Efficiency Video Coding"> HEVC</a></li>
+<li><a href="/wiki/ICER" title="ICER">ICER</a></li>
+<li><a href="/wiki/Apple_Icon_Image_format" title="Apple Icon Image format"> ICNS</a></li>
+<li><a href="/wiki/ICO_(file_format)" title="ICO (file format)"> ICO / CUR</a></li>
+<li><a href="/wiki/Image_Cytometry_Standard" title="Image Cytometry Standard"> ICS</a></li>
+<li><a href="/wiki/ILBM" title="ILBM">ILBM</a></li>
+<li><a href="/wiki/JBIG" title="JBIG">JBIG</a></li>
+<li><a href="/wiki/JBIG2" title="JBIG2">JBIG2</a></li>
+<li><a href="/wiki/JPEG_Network_Graphics" title="JPEG Network Graphics"> JNG</a></li>
+<li><a href="/wiki/JPEG" title="JPEG">JPEG</a></li>
+<li><a href="/wiki/Lossless_JPEG#JPEG-LS" title="Lossless JPEG"> JPEG-LS</a></li>
+<li><a href="/wiki/JPEG_2000" title="JPEG 2000">JPEG 2000</a></li>
+<li><a href="/wiki/JPEG_XL" title="JPEG XL">JPEG XL</a></li>
+<li><a href="/wiki/JPEG_XR" title="JPEG XR">JPEG XR</a></li>
+<li><a href="/wiki/JPEG_XS" title="JPEG XS">JPEG XS</a></li>
+<li><a href="/wiki/JPEG_XT" title="JPEG XT">JPEG XT</a>
+<ul><li><a href="/wiki/JPEG-HDR" class="mw-redirect" title="JPEG-HDR">JPEG-HDR</a></li></ul></li>
+<li><a href="/wiki/Krita" title="Krita"> KRA</a></li>
+<li><a href="/wiki/Multiple-image_Network_Graphics" title="Multiple-image Network Graphics"> MNG</a></li>
+<li><a href="/wiki/Magick_Image_File_Format" title="Magick Image File Format"> MIFF</a></li>
+<li><a href="/wiki/Nearly_raw_raster_data" class="mw-redirect" title="Nearly raw raster data"> NRRD</a></li>
+<li><a href="/wiki/Netpbm#PAM_graphics_format" title="Netpbm"> PAM</a></li>
+<li><a href="/wiki/Netpbm" title="Netpbm"> PBM / PGM / PPM / PNM</a></li>
+<li><a href="/wiki/PCX" title="PCX">PCX</a></li>
+<li><a href="/wiki/OpenRaster" title="OpenRaster">ORA</a></li>
+<li><a href="/wiki/Progressive_Graphics_File" title="Progressive Graphics File"> PGF</a></li>
+<li><a href="/wiki/PICtor_PIC_image_format" title="PICtor PIC image format"> PICtor</a></li>
+<li><a href="/wiki/PNG" title="PNG">PNG</a></li>
+<li><a href="/wiki/Adobe_Photoshop#PSD" title="Adobe Photoshop"> PSD / PSB</a></li>
+<li><a href="/wiki/PaintShop_Pro" title="PaintShop Pro"> PSP</a></li>
+<li><a href="/wiki/QOI_(image_format)" title="QOI (image format)"> QOI</a></li>
+<li><a href="/wiki/QuickTime_VR" title="QuickTime VR"> QTVR</a></li>
+<li><a href="/wiki/Sun_Raster" title="Sun Raster"> RAS</a></li>
+<li><a href="/wiki/RGBE_image_format" title="RGBE image format"> RGBE</a>
+<ul><li><a href="/wiki/Logluv_TIFF" title="Logluv TIFF">Logluv TIFF</a></li></ul></li>
+<li><a href="/wiki/Silicon_Graphics_Image" title="Silicon Graphics Image"> SGI</a></li>
+<li><a href="/wiki/Truevision_TGA" title="Truevision TGA"> TGA</a></li>
+<li><a href="/wiki/Tagged_Image_File_Format" class="mw-redirect" title="Tagged Image File Format"> TIFF</a>
+<ul><li><a href="/wiki/TIFF/EP" title="TIFF/EP">TIFF/EP</a></li>
+<li><a href="/wiki/Tagged_Image_File_Format#TIFF/IT" class="mw-redirect" title="Tagged Image File Format"> TIFF/IT</a></li></ul></li>
+<li><a href="/wiki/Ulead_PhotoImpact" title="Ulead PhotoImpact"> UFO / UFP</a></li>
+<li><a href="/wiki/Wireless_Application_Protocol_Bitmap_Format" title="Wireless Application Protocol Bitmap Format"> WBMP</a></li>
+<li><a href="/wiki/WebP" title="WebP">WebP</a></li>
+<li><a href="/wiki/X_BitMap" title="X BitMap"> XBM</a></li>
+<li><a href="/wiki/XCF_(file_format)" title="XCF (file format)"> XCF</a></li>
+<li><a href="/wiki/X_PixMap" title="X PixMap"> XPM</a></li>
+<li><a href="/wiki/Xwd" title="Xwd"> XWD</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Raw_image_format" title="Raw image format">Raw</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Camera_Image_File_Format" title="Camera Image File Format"> CIFF</a></li>
+<li><a href="/wiki/Digital_Negative" title="Digital Negative"> DNG</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Vector_graphics" title="Vector graphics">Vector</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Adobe_Illustrator_Artwork" title="Adobe Illustrator Artwork"> AI</a></li>
+<li><a href="/wiki/CorelDRAW#CDR_file_format" title="CorelDRAW"> CDR</a></li>
+<li><a href="/wiki/Computer_Graphics_Metafile" title="Computer Graphics Metafile"> CGM</a></li>
+<li><a href="/wiki/AutoCAD_DXF" title="AutoCAD DXF"> DXF</a></li>
+<li><a href="/wiki/Extended_Vector_Animation" title="Extended Vector Animation"> EVA</a></li>
+<li><a href="/wiki/Enhanced_Metafile" class="mw-redirect" title="Enhanced Metafile"> EMF</a></li>
+<li><a href="/wiki/EMF%2B" class="mw-redirect" title="EMF+">EMF+</a></li>
+<li><a href="/wiki/Gerber_format" title="Gerber format"> Gerber</a></li>
+<li><a href="/wiki/Haiku_Vector_Icon_Format" title="Haiku Vector Icon Format"> HVIF</a></li>
+<li><a class="mw-selflink selflink">IGES</a></li>
+<li><a href="/wiki/Precision_Graphics_Markup_Language" title="Precision Graphics Markup Language"> PGML</a></li>
+<li><a href="/wiki/Scalable_Vector_Graphics" class="mw-redirect" title="Scalable Vector Graphics"> SVG</a></li>
+<li><a href="/wiki/Vector_Markup_Language" title="Vector Markup Language"> VML</a></li>
+<li><a href="/wiki/Windows_Metafile" title="Windows Metafile"> WMF</a></li>
+<li><a href="/wiki/Xar_(graphics)" title="Xar (graphics)"> Xar</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Image_file_format#Compound_formats" title="Image file format">Compound</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Computable_Document_Format" title="Computable Document Format"> CDF</a></li>
+<li><a href="/wiki/DjVu" title="DjVu">DjVu</a></li>
+<li><a href="/wiki/Encapsulated_PostScript" title="Encapsulated PostScript"> EPS</a></li>
+<li><a href="/wiki/Portable_Document_Format" class="mw-redirect" title="Portable Document Format"> PDF</a></li>
+<li><a href="/wiki/PICT" title="PICT">PICT</a></li>
+<li><a href="/wiki/PostScript" title="PostScript"> PS</a></li>
+<li><a href="/wiki/SWF" title="SWF">SWF</a></li>
+<li><a href="/wiki/Extensible_Application_Markup_Language" title="Extensible Application Markup Language"> XAML</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Metadata" title="Metadata">Metadata</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Exif" title="Exif">Exchangeable image file format (Exif)</a></li>
+<li><a href="/wiki/International_Press_Telecommunications_Council#Photo_metadata" title="International Press Telecommunications Council">International Press Telecommunications Council §&#160;Photo metadata</a></li>
+<li><a href="/wiki/Extensible_Metadata_Platform" title="Extensible Metadata Platform">Extensible Metadata Platform (XMP)</a></li>
+<li><a href="/wiki/GIF#Metadata" title="GIF">GIF §&#160;Metadata</a></li>
+<li><a href="/wiki/Steganography" title="Steganography">Steganography</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><b><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Category:Graphics_file_formats" title="Category:Graphics file formats">Category</a></b></li>
+<li><b><a href="/wiki/File:Symbol_na_class.svg" class="image" title="Non-article page"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6a/Symbol_na_class.svg/16px-Symbol_na_class.svg.png" decoding="async" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/6a/Symbol_na_class.svg/23px-Symbol_na_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/6a/Symbol_na_class.svg/31px-Symbol_na_class.svg.png 2x" data-file-width="180" data-file-height="185" /></a> <a href="/wiki/Comparison_of_graphics_file_formats" title="Comparison of graphics file formats">Comparison</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox" aria-labelledby="CAD_software" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:CAD_software" title="Template:CAD software"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:CAD_software" title="Template talk:CAD software"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:CAD_software&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="CAD_software" style="font-size:114%;margin:0 4em"><a href="/wiki/Computer-aided_design" title="Computer-aided design">CAD</a> software</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Free_and_open-source_software" title="Free and open-source software">Free and open-source</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Mechanical</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/BRL-CAD" title="BRL-CAD">BRL-CAD</a></li>
+<li><a href="/wiki/FreeCAD" title="FreeCAD">FreeCAD</a></li>
+<li><a href="/wiki/HeeksCAD" title="HeeksCAD">HeeksCAD</a></li>
+<li><a href="/wiki/LibreCAD" title="LibreCAD">LibreCAD</a></li>
+<li><a href="/wiki/Open_Cascade_Technology" title="Open Cascade Technology">Open Cascade Technology</a></li>
+<li><a href="/wiki/OpenSCAD" title="OpenSCAD">OpenSCAD</a></li>
+<li><a href="/wiki/QCAD" title="QCAD">QCAD</a></li>
+<li><a href="/wiki/Salome_(software)" title="Salome (software)">Salome</a></li>
+<li><a href="/wiki/SolveSpace" title="SolveSpace">SolveSpace</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Electronic_design_automation" title="Electronic design automation">Electrical</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Electric_(software)" title="Electric (software)">Electric</a></li>
+<li><a href="/wiki/FreePCB" title="FreePCB">FreePCB</a></li>
+<li><a href="/wiki/Fritzing" title="Fritzing">Fritzing</a></li>
+<li><a href="/wiki/GEDA" title="GEDA">gEDA</a></li>
+<li><a href="/wiki/KiCad" title="KiCad">KiCad</a></li>
+<li><a href="/wiki/KTechLab" title="KTechLab">kTechLab</a></li>
+<li><a href="/wiki/Magic_(software)" title="Magic (software)">Magic</a></li>
+<li><a href="/wiki/Ngspice" title="Ngspice">ngspice</a></li>
+<li><a href="/wiki/Oregano_(software)" title="Oregano (software)">Oregano</a></li>
+<li><a href="/wiki/Quite_Universal_Circuit_Simulator" title="Quite Universal Circuit Simulator">QUCS</a></li>
+<li><a href="/wiki/XCircuit" title="XCircuit">XCircuit</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Proprietary_software" title="Proprietary software">Proprietary</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Mechanical</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Alibre_Design" title="Alibre Design">Alibre Design</a></li>
+<li><a href="/wiki/AutoCAD" title="AutoCAD">AutoCAD</a></li>
+<li><a href="/wiki/Autodesk_Alias" title="Autodesk Alias">Autodesk Alias</a></li>
+<li><a href="/wiki/Autodesk_Inventor" title="Autodesk Inventor">Autodesk Inventor</a></li>
+<li><a href="/wiki/Autodesk_Revit" title="Autodesk Revit">Autodesk Revit</a></li>
+<li><a href="/wiki/ArchiCAD" class="mw-redirect" title="ArchiCAD">ArchiCAD</a></li>
+<li><a href="/wiki/BricsCAD" title="BricsCAD">BricsCAD</a></li>
+<li><a href="/wiki/CADKEY" title="CADKEY">CADKEY</a></li>
+<li><a href="/wiki/CATIA" title="CATIA">CATIA</a></li>
+<li><a href="/wiki/Cimatron" title="Cimatron">Cimatron</a></li>
+<li><a href="/wiki/Cobalt_(CAD_program)" title="Cobalt (CAD program)">Cobalt</a></li>
+<li><a href="/wiki/DesignSpark_Mechanical" title="DesignSpark Mechanical">DesignSpark Mechanical</a></li>
+<li><a href="/wiki/PTC_Creo_Elements/Direct_Drafting" title="PTC Creo Elements/Direct Drafting">Creo Elements/Direct Drafting</a></li>
+<li><a href="/wiki/PTC_Creo_Elements/Pro" title="PTC Creo Elements/Pro">Creo Elements/Pro</a></li>
+<li><a href="/wiki/EasyCAD" class="mw-redirect" title="EasyCAD">EasyCAD</a></li>
+<li><a href="/wiki/FastCAD" title="FastCAD">FastCAD</a></li>
+<li><a href="/wiki/FINE_MEP" title="FINE MEP">FINE</a></li>
+<li><a href="/wiki/FORAN_System" title="FORAN System">FORAN</a></li>
+<li><a href="/wiki/Fusion_360" title="Fusion 360">Fusion 360</a></li>
+<li><a href="/wiki/GstarCAD" title="GstarCAD">GstarCAD</a></li>
+<li><a href="/wiki/IRONCAD" title="IRONCAD">IRONCAD</a></li>
+<li><a href="/wiki/KeyCreator" title="KeyCreator">KeyCreator</a></li>
+<li><a href="/wiki/MEDUSA" title="MEDUSA">MEDUSA</a></li>
+<li><a href="/wiki/MicroStation" title="MicroStation">MicroStation</a></li>
+<li><a href="/wiki/Siemens_NX" title="Siemens NX">NX</a></li>
+<li><a href="/wiki/Onshape" title="Onshape">Onshape</a></li>
+<li><a href="/wiki/PDMS_(software)" title="PDMS (software)">PDMS</a></li>
+<li><a href="/wiki/Pro/DESKTOP" title="Pro/DESKTOP">Pro/DESKTOP</a></li>
+<li><a href="/wiki/Rhinoceros_3D" title="Rhinoceros 3D">Rhinoceros 3D</a>
+<ul><li><a href="/wiki/Grasshopper_3D" title="Grasshopper 3D">Grasshopper 3D</a></li></ul></li>
+<li><a href="/wiki/RUCAPS" title="RUCAPS">RUCAPS</a></li>
+<li><a href="/wiki/Solid_Edge" title="Solid Edge">Solid Edge</a></li>
+<li><a href="/wiki/SolidWorks" title="SolidWorks">SolidWorks</a></li>
+<li><a href="/wiki/SpaceClaim" title="SpaceClaim">SpaceClaim</a></li>
+<li><a href="/wiki/T-FLEX_CAD" title="T-FLEX CAD">T-FLEX CAD</a></li>
+<li><a href="/wiki/Tinkercad" title="Tinkercad">Tinkercad</a></li>
+<li><a href="/wiki/TurboCAD" title="TurboCAD">TurboCAD</a></li>
+<li><a href="/wiki/VariCAD" title="VariCAD">VariCAD</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Electronic_design_automation" title="Electronic design automation">Electrical</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Allegro_(CAD_software)" class="mw-redirect" title="Allegro (CAD software)">Allegro</a></li>
+<li><a href="/wiki/AutoCAD_Electrical" class="mw-redirect" title="AutoCAD Electrical">AutoCAD Electrical</a></li>
+<li><a href="/wiki/Autotrax" title="Autotrax">Autotrax</a></li>
+<li><a href="/wiki/Altium_Designer" title="Altium Designer">Altium Designer</a></li>
+<li><a href="/wiki/BoardStation" class="mw-redirect" title="BoardStation">BoardStation</a></li>
+<li><a href="/wiki/CADSTAR" title="CADSTAR">CADSTAR</a></li>
+<li><a href="/wiki/CircuitMaker" title="CircuitMaker">CircuitMaker</a></li>
+<li><a href="/wiki/CR-2000" class="mw-redirect" title="CR-2000">CR-2000</a></li>
+<li><a href="/wiki/CR-3000" class="mw-redirect" title="CR-3000">CR-3000</a></li>
+<li><a href="/wiki/CR-5000" title="CR-5000">CR-5000</a></li>
+<li><a href="/wiki/CR-8000" title="CR-8000">CR-8000</a></li>
+<li><a href="/wiki/Delta_Design" class="mw-redirect" title="Delta Design">Delta Design</a></li>
+<li><a href="/wiki/DesignSpark_PCB" title="DesignSpark PCB">DesignSpark PCB</a></li>
+<li><a href="/wiki/DipTrace" title="DipTrace">DipTrace</a></li>
+<li><a href="/wiki/EAGLE_(program)" title="EAGLE (program)">EAGLE</a></li>
+<li><a href="/wiki/EasyEDA" title="EasyEDA">EasyEDA</a></li>
+<li><a href="/wiki/Easytrax" class="mw-redirect" title="Easytrax">Easytrax</a></li>
+<li><a href="/wiki/FreeStyle_(CAD_software)" class="mw-redirect" title="FreeStyle (CAD software)">FreeStyle</a></li>
+<li><a href="/wiki/IntegraStation" class="mw-redirect" title="IntegraStation">IntegraStation</a></li>
+<li><a href="/wiki/LTspice" title="LTspice">LTspice</a></li>
+<li><a href="/wiki/Micro-Cap" title="Micro-Cap">Micro-Cap</a></li>
+<li><a href="/wiki/NI_Multisim" title="NI Multisim">Multisim</a></li>
+<li><a href="/wiki/OrCAD" title="OrCAD">OrCAD</a></li>
+<li><a href="/wiki/PADS_(CAD_software)" class="mw-redirect" title="PADS (CAD software)">PADS</a></li>
+<li><a href="/wiki/P-CAD" title="P-CAD">P-CAD</a></li>
+<li><a href="/wiki/PCB_(software)" title="PCB (software)">PCB</a></li>
+<li><a href="/wiki/Protel_(CAD_software)" class="mw-redirect" title="Protel (CAD software)">Protel</a></li>
+<li><a href="/wiki/Proteus_Design_Suite" title="Proteus Design Suite">Proteus</a></li>
+<li><a href="/wiki/Pulsonix" title="Pulsonix">Pulsonix</a></li>
+<li><a href="/wiki/SolidWorks" title="SolidWorks">SolidWorks Electrical</a></li>
+<li><a href="/wiki/TangoPCB" class="mw-redirect" title="TangoPCB">Tango</a></li>
+<li><a href="/wiki/TARGET_(CAD_software)" title="TARGET (CAD software)">TARGET</a></li>
+<li><a href="/wiki/TopoR" title="TopoR">TopoR</a></li>
+<li><a href="/wiki/NI_Ultiboard" title="NI Ultiboard">Ultiboard</a></li>
+<li><a href="/wiki/Upverter" title="Upverter">Upverter</a></li>
+<li><a href="/wiki/Xpedition_(CAD_software)" class="mw-redirect" title="Xpedition (CAD software)">Xpedition</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">File formats</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/3D_Manufacturing_Format" title="3D Manufacturing Format">3MF</a></li>
+<li><a href="/wiki/ACIS#File_format" title="ACIS">ACIS</a></li>
+<li><a href="/wiki/Additive_manufacturing_file_format" title="Additive manufacturing file format">AMF</a></li>
+<li><a href="/wiki/C3D_Toolkit" title="C3D Toolkit">C3D</a></li>
+<li><a href="/wiki/KeyCreator" title="KeyCreator">CKD</a></li>
+<li><a href="/wiki/Specctra" title="Specctra">DSN</a></li>
+<li><a href="/wiki/Design_Web_Format" title="Design Web Format">DWF</a></li>
+<li><a href="/wiki/Open_Packaging_Conventions" title="Open Packaging Conventions">DWFX</a></li>
+<li><a href="/wiki/.dwg" title=".dwg">DWG</a></li>
+<li><a href="/wiki/AutoCAD_DXF" title="AutoCAD DXF">DXF</a></li>
+<li><a class="mw-selflink selflink">IGES</a></li>
+<li><a href="/wiki/Wavefront_.obj_file" title="Wavefront .obj file">OBJ</a></li>
+<li><a href="/wiki/Open_Design_Alliance" title="Open Design Alliance">OpenDWG</a></li>
+<li><a href="/wiki/PLY_(file_format)" title="PLY (file format)">PLY</a></li>
+<li><a href="/wiki/PSpice_circuit_file" class="mw-redirect" title="PSpice circuit file">PSpice</a></li>
+<li><a href="/wiki/Specctra" title="Specctra">SES</a></li>
+<li><a href="/wiki/ISO_10303" title="ISO 10303">STEP</a></li>
+<li><a href="/wiki/STL_(file_format)" title="STL (file format)">STL</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geometric_modeling_kernel" title="Geometric modeling kernel">Modeling kernels</a></th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/ACIS" title="ACIS">ACIS</a></li>
+<li><a href="/wiki/C3D_Toolkit" title="C3D Toolkit">C3D</a></li>
+<li><a href="/wiki/Open_Cascade_Technology" title="Open Cascade Technology">Open Cascade Technology</a></li>
+<li><a href="/wiki/Parasolid" title="Parasolid">Parasolid</a></li>
+<li><a href="/wiki/Russian_Geometric_Kernel" title="Russian Geometric Kernel"> RGK</a></li>
+<li><a href="/wiki/Romulus_(modelling_kernel)" title="Romulus (modelling kernel)">Romulus</a></li>
+<li><a href="/wiki/KernelCAD" class="mw-redirect" title="KernelCAD">KernelCAD</a></li>
+<li><a href="/wiki/ShapeManager" title="ShapeManager">ShapeManager</a></li>
+<li><a href="/wiki/Teigha" class="mw-redirect" title="Teigha">Teigha</a></li>
+<li><a href="/wiki/IntelliCAD" title="IntelliCAD">IntelliCAD</a></li>
+<li><a href="/wiki/Solid_Modeling_Solutions" title="Solid Modeling Solutions">SMLib</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Old</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"><a href="/wiki/DAC-1" title="DAC-1">DAC-1</a> (1963)&#160;<b>&#183;</b>&#32;<a href="/wiki/Sketchpad" title="Sketchpad">Sketchpad</a> (1963)&#160;<b>&#183;</b>&#32;<a href="/wiki/UNISURF" title="UNISURF">UNISURF</a> (1968)</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><a href="/wiki/History_of_CAD_software" title="History of CAD software">History of CAD software</a></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1476
+Cached time: 20230528141535
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.383 seconds
+Real time usage: 0.464 seconds
+Preprocessor visited node count: 1441/1000000
+Post‐expand include size: 90011/2097152 bytes
+Template argument size: 585/2097152 bytes
+Highest expansion depth: 15/100
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 67919/5000000 bytes
+Lua time usage: 0.211/10.000 seconds
+Lua memory usage: 6199046/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  350.331      1 -total
+ 42.97%  150.525      1 Template:Reflist
+ 28.11%   98.469      6 Template:Navbox
+ 22.01%   77.122      1 Template:Cite_book
+ 18.49%   64.775      1 Template:Vector_graphics_markup_languages
+ 13.41%   46.983     11 Template:Cite_web
+ 13.22%   46.319      1 Template:Short_description
+  6.49%   22.740      1 Template:Graphics_file_formats
+  6.48%   22.713      2 Template:Pagetype
+  5.78%   20.261      5 Template:Citation
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1057827-0!canonical and timestamp 20230528141535 and revision id 1124646131. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=IGES&amp;oldid=1124646131">https://en.wikipedia.org/w/index.php?title=IGES&amp;oldid=1124646131</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:CAD_file_formats" title="Category:CAD file formats">CAD file formats</a></li><li><a href="/wiki/Category:Computer_file_formats" title="Category:Computer file formats">Computer file formats</a></li><li><a href="/wiki/Category:Computer-aided_design_software" title="Category:Computer-aided design software">Computer-aided design software</a></li><li><a href="/wiki/Category:Graphics_file_formats" title="Category:Graphics file formats">Graphics file formats</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 29 November 2022, at 20:04<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=IGES&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class='vector-settings'>
+	
+<button
+	id=""
+	class="mw-ui-button mw-ui-icon-element vector-limited-width-toggle"
+	><span class="mw-ui-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+
+</button>
+
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1369","wgBackendResponseTime":120,"wgPageParseReport":{"limitreport":{"cputime":"0.383","walltime":"0.464","ppvisitednodes":{"value":1441,"limit":1000000},"postexpandincludesize":{"value":90011,"limit":2097152},"templateargumentsize":{"value":585,"limit":2097152},"expansiondepth":{"value":15,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":67919,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  350.331      1 -total"," 42.97%  150.525      1 Template:Reflist"," 28.11%   98.469      6 Template:Navbox"," 22.01%   77.122      1 Template:Cite_book"," 18.49%   64.775      1 Template:Vector_graphics_markup_languages"," 13.41%   46.983     11 Template:Cite_web"," 13.22%   46.319      1 Template:Short_description","  6.49%   22.740      1 Template:Graphics_file_formats","  6.48%   22.713      2 Template:Pagetype","  5.78%   20.261      5 Template:Citation"]},"scribunto":{"limitreport-timeusage":{"value":"0.211","limit":"10.000"},"limitreport-memusage":{"value":6199046,"limit":52428800}},"cachereport":{"origin":"mw1476","timestamp":"20230528141535","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"IGES","url":"https:\/\/en.wikipedia.org\/wiki\/IGES","sameAs":"http:\/\/www.wikidata.org\/entity\/Q616714","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q616714","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-10-11T16:24:57Z","dateModified":"2022-11-29T20:04:57Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/53\/Initial_Graphics_Exchange_Specification_Logo.svg","headline":"file format"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"IGES","url":"https:\/\/en.wikipedia.org\/wiki\/IGES","sameAs":"http:\/\/www.wikidata.org\/entity\/Q616714","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q616714","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-10-11T16:24:57Z","dateModified":"2022-11-29T20:04:57Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/53\/Initial_Graphics_Exchange_Specification_Logo.svg","headline":"file format"}</script>
+</body>
+</html>

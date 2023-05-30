@@ -1,0 +1,1135 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>File format - Wikipedia</title>
+<script>document.documentElement.className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled";(function(){var cookie=document.cookie.match(/(?:^|; )enwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"e0b2d92e-56a4-457a-aa73-97bb8d468504","wgCSPNonce":false,
+"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"File_format","wgTitle":"File format","wgCurRevisionId":1157002036,"wgRevisionId":1157002036,"wgArticleId":18933600,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Articles that may contain original research from April 2022","All articles that may contain original research","Articles needing additional references from April 2022","All articles needing additional references","Articles with multiple maintenance issues","All articles with unsourced statements","Articles with unsourced statements from March 2019","Wikipedia articles needing clarification from January 2014","Articles with unsourced statements from December 2022","Articles lacking in-text citations from October 2008","All articles lacking in-text citations","Articles with Curlie links",
+"Articles with GND identifiers","Computer file formats"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"File_format","wgRelevantArticleId":18933600,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q235557",
+"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.pygments":"ready","ext.tmh.player.styles":"ready","mediawiki.ui.button":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","mediawiki.ui.icon":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.tmh.player","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","mmv.head","mmv.bootstrap.autostart",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.pygments%2CwikimediaBadges%7Cext.tmh.player.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cjquery.makeCollapsible.styles%7Cmediawiki.ui.button%2Cicon%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.10">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-crossorigin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="File format - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/File_format">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=File_format&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/File_format">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-File_format rootpage-File_format skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-main-menu-dropdown mw-ui-icon-flush-left mw-ui-icon-flush-right"  >
+	<input type="checkbox"
+		id="vector-main-menu-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-main-menu-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Main menu"
+		
+	/>
+	<label
+		id="vector-main-menu-dropdown-label"
+		for="vector-main-menu-dropdown-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+
+		<span class="vector-menu-heading-label">Main menu</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box-notice vector-language-sidebar-alert mw-message-box">Language links are at the top of the page across from the title.</div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt=""
+		aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia"
+			src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline"
+			alt="The Free Encyclopedia"
+			src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search"
+	
+		id=""
+		class="mw-ui-button mw-ui-quiet mw-ui-icon-element search-toggle"
+		title="Search Wikipedia [f]"accesskey="f"><span class="mw-ui-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-moved">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=File+format" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=File+format" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-user-menu mw-ui-icon-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox"
+		id="vector-user-links-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-user-links-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Personal tools"
+		
+	/>
+	<label
+		id="vector-user-links-dropdown-label"
+		for="vector-user-links-dropdown-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=File+format" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="mw-ui-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=File+format" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="mw-ui-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Specifications"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Specifications">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Specifications</div>
+		</a>
+		
+		<ul id="toc-Specifications-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Patents"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Patents">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Patents</div>
+		</a>
+		
+		<ul id="toc-Patents-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Identifying_file_type"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Identifying_file_type">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Identifying file type</div>
+		</a>
+		
+			<button aria-controls="toc-Identifying_file_type-sublist" class="mw-ui-icon mw-ui-icon-wikimedia-expand mw-ui-icon-small vector-toc-toggle">
+				Toggle Identifying file type subsection
+			</button>
+		
+		<ul id="toc-Identifying_file_type-sublist" class="vector-toc-list">
+			<li id="toc-Filename_extension"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Filename_extension">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>Filename extension</div>
+			</a>
+			
+			<ul id="toc-Filename_extension-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Internal_metadata"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Internal_metadata">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2</span>Internal metadata</div>
+			</a>
+			
+			<ul id="toc-Internal_metadata-sublist" class="vector-toc-list">
+				<li id="toc-File_header"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#File_header">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2.1</span>File header</div>
+			</a>
+			
+			<ul id="toc-File_header-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Magic_number"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Magic_number">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2.2</span>Magic number</div>
+			</a>
+			
+			<ul id="toc-Magic_number-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-External_metadata"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#External_metadata">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.3</span>External metadata</div>
+			</a>
+			
+			<ul id="toc-External_metadata-sublist" class="vector-toc-list">
+				<li id="toc-Mac_OS_type-codes"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Mac_OS_type-codes">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.3.1</span>Mac OS type-codes</div>
+			</a>
+			
+			<ul id="toc-Mac_OS_type-codes-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-macOS_uniform_type_identifiers_(UTIs)"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#macOS_uniform_type_identifiers_(UTIs)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.3.2</span>macOS uniform type identifiers (UTIs)</div>
+			</a>
+			
+			<ul id="toc-macOS_uniform_type_identifiers_(UTIs)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-VSAM_Catalog"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#VSAM_Catalog">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.3.3</span>VSAM Catalog</div>
+			</a>
+			
+			<ul id="toc-VSAM_Catalog-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-VTOC"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#VTOC">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.3.4</span>VTOC</div>
+			</a>
+			
+			<ul id="toc-VTOC-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-OS/2_extended_attributes"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#OS/2_extended_attributes">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.3.5</span>OS/2 extended attributes</div>
+			</a>
+			
+			<ul id="toc-OS/2_extended_attributes-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-POSIX_extended_attributes"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#POSIX_extended_attributes">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.3.6</span>POSIX extended attributes</div>
+			</a>
+			
+			<ul id="toc-POSIX_extended_attributes-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-PRONOM_unique_identifiers_(PUIDs)"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#PRONOM_unique_identifiers_(PUIDs)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.3.7</span>PRONOM unique identifiers (PUIDs)</div>
+			</a>
+			
+			<ul id="toc-PRONOM_unique_identifiers_(PUIDs)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-MIME_types"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#MIME_types">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.3.8</span>MIME types</div>
+			</a>
+			
+			<ul id="toc-MIME_types-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-File_format_identifiers_(FFIDs)"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#File_format_identifiers_(FFIDs)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.3.9</span>File format identifiers (FFIDs)</div>
+			</a>
+			
+			<ul id="toc-File_format_identifiers_(FFIDs)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-File_content_based_format_identification"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#File_content_based_format_identification">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.3.10</span>File content based format identification</div>
+			</a>
+			
+			<ul id="toc-File_content_based_format_identification-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-File_structure"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#File_structure">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>File structure</div>
+		</a>
+		
+			<button aria-controls="toc-File_structure-sublist" class="mw-ui-icon mw-ui-icon-wikimedia-expand mw-ui-icon-small vector-toc-toggle">
+				Toggle File structure subsection
+			</button>
+		
+		<ul id="toc-File_structure-sublist" class="vector-toc-list">
+			<li id="toc-Unstructured_formats_(raw_memory_dumps)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Unstructured_formats_(raw_memory_dumps)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1</span>Unstructured formats (raw memory dumps)</div>
+			</a>
+			
+			<ul id="toc-Unstructured_formats_(raw_memory_dumps)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Chunk-based_formats"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Chunk-based_formats">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.2</span>Chunk-based formats</div>
+			</a>
+			
+			<ul id="toc-Chunk-based_formats-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Directory-based_formats"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Directory-based_formats">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.3</span>Directory-based formats</div>
+			</a>
+			
+			<ul id="toc-Directory-based_formats-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>See also</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="mw-ui-button mw-ui-quiet mw-ui-icon-flush-left mw-ui-icon-element"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="mw-ui-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+				
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-menu vector-dropdown vector-menu-dropdown vector-page-titlebar-toc mw-ui-icon-flush-left"  >
+	<input type="checkbox"
+		id="vector-page-titlebar-toc-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-titlebar-toc"
+		class="vector-menu-checkbox "
+		
+		aria-label="Toggle the table of contents"
+		
+	/>
+	<label
+		id="vector-page-titlebar-toc-label"
+		for="vector-page-titlebar-toc-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+
+		<span class="vector-menu-heading-label">Toggle the table of contents</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">File format</span></h1>
+				
+							
+<div id="p-lang-btn" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox"
+		id="p-lang-btn-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-lang-btn"
+		class="vector-menu-checkbox mw-interlanguage-selector"
+		aria-label="Go to an article in another language. Available in 42 languages"
+		
+		
+	/>
+	<label
+		id="p-lang-btn-label"
+		for="p-lang-btn-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-progressive mw-portlet-lang-heading-42"
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+
+		<span class="vector-menu-heading-label">42 languages</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%B5%D9%8A%D8%BA%D8%A9_%D9%85%D9%84%D9%81" title="صيغة ملف – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AB%E0%A6%BE%E0%A6%87%E0%A6%B2_%E0%A6%AB%E0%A6%B0%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F" title="ফাইল ফরম্যাট – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2_%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82" title="Файлов формат – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/Formati_datoteka" title="Formati datoteka – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Format_de_fitxer" title="Format de fitxer – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Form%C3%A1t_souboru" title="Formát souboru – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Filformat" title="Filformat – Danish" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Dateiformat" title="Dateiformat – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Failivorming" title="Failivorming – Estonian" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%9C%CE%BF%CF%81%CF%86%CF%8C%CF%84%CF%85%CF%80%CE%BF" title="Μορφότυπο – Greek" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Formato_de_archivo" title="Formato de archivo – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Fitxategi_formatu" title="Fitxategi formatu – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%82%D8%A7%D9%84%D8%A8_%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87" title="قالب پرونده – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%ED%8C%8C%EC%9D%BC_%ED%98%95%EC%8B%9D" title="파일 형식 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Datote%C4%8Dni_format" title="Datotečni format – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Format_berkas" title="Format berkas – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a href="https://is.wikipedia.org/wiki/Skr%C3%A1asni%C3%B0" title="Skráasnið – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Formato_di_file" title="Formato di file – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%A4%D7%95%D7%A8%D7%9E%D7%98_%D7%A7%D7%95%D7%91%D7%A5" title="פורמט קובץ – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-sw mw-list-item"><a href="https://sw.wikipedia.org/wiki/Umbizo_jalada" title="Umbizo jalada – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target"><span>Kiswahili</span></a></li><li class="interlanguage-link interwiki-lb mw-list-item"><a href="https://lb.wikipedia.org/wiki/Dateiformat" title="Dateiformat – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target"><span>Lëtzebuergesch</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/F%C3%A1jlform%C3%A1tum" title="Fájlformátum – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AB%E0%B4%AF%E0%B5%BD_%E0%B4%AB%E0%B5%8B%E0%B5%BC%E0%B4%AE%E0%B4%BE%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%8D" title="ഫയൽ ഫോർമാറ്റ് – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Format_fail" title="Format fail – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Bestandsformaat" title="Bestandsformaat – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88" title="ファイルフォーマット – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-mhr mw-list-item"><a href="https://mhr.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82" title="Файлформат – Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target"><span>Олык марий</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Format_pliku" title="Format pliku – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Formato_de_arquivo" title="Formato de arquivo – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D1%80%D0%BC%D0%B0%D1%82_%D1%84%D0%B0%D0%B9%D0%BB%D0%B0" title="Формат файла – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/File_format" title="File format – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Form%C3%A1t_s%C3%BAboru" title="Formát súboru – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Tiedostomuoto" title="Tiedostomuoto – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Filformat" title="Filformat – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AF%8B%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81_%E0%AE%B5%E0%AE%9F%E0%AE%BF%E0%AE%B5%E0%AE%AE%E0%AF%8D" title="கோப்பு வடிவம் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-tg mw-list-item"><a href="https://tg.wikipedia.org/wiki/%D2%9A%D0%BE%D0%BB%D0%B0%D0%B1%D0%B8_%D0%BF%D0%B0%D1%80%D0%B2%D0%B0%D0%BD%D0%B4%D0%B0" title="Қолаби парванда – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target"><span>Тоҷикӣ</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%A4%D0%BE%D1%80%D0%BC%D0%B0%D1%82_%D1%84%D0%B0%D0%B9%D0%BB%D1%83" title="Формат файлу – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vec mw-list-item"><a href="https://vec.wikipedia.org/wiki/Forma_de_file" title="Forma de file – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target"><span>Vèneto</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Bnh_d%E1%BA%A1ng_t%E1%BA%ADp_tin" title="Định dạng tập tin – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8F" title="文件格式 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E6%AA%94%E6%A1%88%E6%A0%BC%E5%BC%8F" title="檔案格式 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E6%AA%94%E6%A1%88%E6%A0%BC%E5%BC%8F" title="檔案格式 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li></ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q235557#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+				</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/File_format" title="View the content page [c]" accesskey="c" class=""><span>Article</span></a>
+</li>
+<li id="ca-talk" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Talk:File_format" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t" class=""><span>Talk</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+								
+
+<div id="p-variants" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-variants emptyPortlet"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-label="Change language variant"
+		
+		
+	/>
+	<label
+		id="p-variants-label"
+		for="p-variants-checkbox"
+		class="vector-menu-heading "
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+
+	</div>
+</div>
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/File_format" class=""><span>Read</span></a>
+</li>
+<li id="ca-edit" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=File_format&amp;action=edit" title="Edit this page [e]" accesskey="e" class=""><span>Edit</span></a>
+</li>
+<li id="ca-history" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=File_format&amp;action=history" title="Past revisions of this page [h]" accesskey="h" class=""><span>View history</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="More options">
+								
+<div id="vector-page-tools-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox"
+		id="vector-page-tools-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-tools-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Tools"
+		
+	/>
+	<label
+		id="vector-page-tools-dropdown-label"
+		for="vector-page-tools-dropdown-checkbox"
+		class="vector-menu-heading "
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-menu-heading-label">Tools</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/File_format"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=File_format&amp;action=edit"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=File_format&amp;action=history"><span>View history</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/File_format" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/File_format" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=File_format&amp;oldid=1157002036" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=File_format&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=File_format&amp;id=1157002036&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q235557" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=File_format&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=File_format&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:File_formats" hreflang="en"><span>Wikimedia Commons</span></a></li></ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="More options">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Structure of information stored on a computer</div>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">"File type" redirects here. File type may also refer to <a href="/wiki/Unix_file_types" title="Unix file types">Unix file types</a> or <a href="/wiki/Filename_extension" title="Filename extension">Filename extension</a>.</div>
+<style data-mw-deduplicate="TemplateStyles:r1097763485">.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}</style><style data-mw-deduplicate="TemplateStyles:r1086701767">.mw-parser-output .multiple-issues-text{width:95%;margin:0.2em 0}.mw-parser-output .multiple-issues-text>.mw-collapsible-content{margin-top:0.3em}.mw-parser-output .compact-ambox .ambox{border:none;border-collapse:collapse;background-color:transparent;margin:0 0 0 1.6em!important;padding:0!important;width:auto;display:block}body.mediawiki .mw-parser-output .compact-ambox .ambox.mbox-small-left{font-size:100%;width:auto;margin:0}.mw-parser-output .compact-ambox .ambox .mbox-text{padding:0!important;margin:0!important}.mw-parser-output .compact-ambox .ambox .mbox-text-span{display:list-item;line-height:1.5em;list-style-type:disc}.mw-parser-output .compact-ambox .ambox .mbox-image,.mw-parser-output .compact-ambox .ambox .mbox-imageright,.mw-parser-output .compact-ambox .ambox .mbox-empty-cell,.mw-parser-output .compact-ambox .hide-when-compact{display:none}</style><table class="box-Multiple_issues plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span"><div class="multiple-issues-text mw-collapsible"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="https://en.wikipedia.org/w/index.php?title=File_format&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:File_format" title="Talk:File format">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small>
+<div class="mw-collapsible-content">
+      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1097763485"><table class="box-Original_research plainlinks metadata ambox ambox-content ambox-Original_research" role="presentation"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>possibly contains <a href="/wiki/Wikipedia:No_original_research" title="Wikipedia:No original research">original research</a></b>.<span class="hide-when-compact"> Please <a class="external text" href="https://en.wikipedia.org/w/index.php?title=File_format&amp;action=edit">improve it</a> by <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verifying</a> the claims made and adding <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a>. Statements consisting only of original research should be removed.</span>  <span class="date-container"><i>(<span class="date">April 2022</span>)</i></span><span class="hide-when-compact"><i> (<small><a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a></small>)</i></span></div></td></tr></tbody></table>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1097763485"><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=File_format&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22File+format%22">"File format"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22File+format%22+-wikipedia&amp;tbs=ar:1">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22File+format%22&amp;tbs=bkt:s&amp;tbm=bks">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22File+format%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22File+format%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22File+format%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <span class="date-container"><i>(<span class="date">April 2022</span>)</i></span><span class="hide-when-compact"><i> (<small><a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a></small>)</i></span></div></td></tr></tbody></table>
+    </div>
+</div><span class="hide-when-compact"><i> (<small><a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a></small>)</i></span></div></td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><audio id="mwe_player_0" controls="" preload="none" class="thumbimage" width="220" style="width:220px;" data-durationhint="13" data-mwtitle="Bass_loop_1_(Carrai_Pass).wav" data-mwprovider="wikimediacommons"><source src="//upload.wikimedia.org/wikipedia/commons/transcoded/8/8e/Bass_loop_1_%28Carrai_Pass%29.wav/Bass_loop_1_%28Carrai_Pass%29.wav.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Ogg Vorbis" data-shorttitle="Ogg Vorbis" data-transcodekey="ogg" data-width="0" data-height="0" data-bandwidth="42688" /><source src="//upload.wikimedia.org/wikipedia/commons/transcoded/8/8e/Bass_loop_1_%28Carrai_Pass%29.wav/Bass_loop_1_%28Carrai_Pass%29.wav.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" data-bandwidth="105016" /><source src="//upload.wikimedia.org/wikipedia/commons/8/8e/Bass_loop_1_%28Carrai_Pass%29.wav" type="audio/wav" data-title="Original WAV file (1.41 Mbps)" data-shorttitle="WAV source" data-width="0" data-height="0" data-bandwidth="1411200" /></audio>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Bass_loop_1_(Carrai_Pass).wav" class="internal" title="Enlarge"></a></div>wav-file: 2.1 Megabytes.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><audio id="mwe_player_1" controls="" preload="none" class="thumbimage" width="220" style="width:220px;" data-durationhint="20" data-mwtitle="Boogie_riff_1.ogg" data-mwprovider="wikimediacommons"><source src="//upload.wikimedia.org/wikipedia/commons/1/1b/Boogie_riff_1.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (65 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="65301" /><source src="//upload.wikimedia.org/wikipedia/commons/transcoded/1/1b/Boogie_riff_1.ogg/Boogie_riff_1.ogg.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" data-bandwidth="103264" /></audio>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Boogie_riff_1.ogg" class="internal" title="Enlarge"></a></div>ogg-file: 154 kilobytes.</div></div></div>
+<p>A <b>file format</b> is a <a href="/wiki/Computer_standard" class="mw-redirect" title="Computer standard">standard</a> way that information is encoded for storage in a <a href="/wiki/Computer_file" title="Computer file">computer file</a>. It specifies how <a href="/wiki/Bit" title="Bit">bits</a> are used to encode information in a <a href="/wiki/Digital_storage" class="mw-redirect" title="Digital storage">digital storage</a> medium. File formats may be either <a href="/wiki/Proprietary_format" class="mw-redirect" title="Proprietary format">proprietary</a> or <a href="/wiki/Open_format" class="mw-redirect" title="Open format">free</a>.
+</p><p>Some file formats are designed for very particular types of data: <a href="/wiki/Portable_Network_Graphics" class="mw-redirect" title="Portable Network Graphics">PNG</a> files, for example, store <a href="/wiki/Raster_graphics" title="Raster graphics">bitmapped</a> <a href="/wiki/Graphics_file_format" class="mw-redirect" title="Graphics file format">images</a> using <a href="/wiki/Lossless_data_compression" class="mw-redirect" title="Lossless data compression">lossless data compression</a>. Other file formats, however, are designed for storage of several different types of data: the <a href="/wiki/Ogg" title="Ogg">Ogg</a> format can act as a <a href="/wiki/Container_format_(digital)" class="mw-redirect" title="Container format (digital)">container</a> for different types of <a href="/wiki/Multimedia" title="Multimedia">multimedia</a> including any combination of <a href="/wiki/Sound" title="Sound">audio</a> and <a href="/wiki/Video" title="Video">video</a>, with or without text (such as <a href="/wiki/Subtitle" class="mw-redirect" title="Subtitle">subtitles</a>), and <a href="/wiki/Metadata" title="Metadata">metadata</a>. A <a href="/wiki/Text_file" title="Text file">text file</a> can contain any stream of characters, including possible <a href="/wiki/Control_character" title="Control character">control characters</a>, and is encoded in one of various <a href="/wiki/Character_encoding" title="Character encoding">character encoding schemes</a>. Some file formats, such as <a href="/wiki/HTML" title="HTML">HTML</a>, <a href="/wiki/Scalable_vector_graphics" class="mw-redirect" title="Scalable vector graphics">scalable vector graphics</a>, and the <a href="/wiki/Source_code" title="Source code">source code</a> of <a href="/wiki/Computer_software" class="mw-redirect" title="Computer software">computer software</a> are text files with defined <a href="/wiki/Syntax_(programming_languages)" title="Syntax (programming languages)">syntaxes</a> that allow them to be used for specific purposes.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Specifications">Specifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_format&amp;action=edit&amp;section=1" title="Edit section: Specifications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>File formats often have a published <a href="/wiki/Specification" class="mw-redirect" title="Specification">specification</a> describing the encoding method and enabling testing of program intended functionality. Not all formats have freely available specification documents, partly because some developers view their specification documents as <a href="/wiki/Trade_secret" title="Trade secret">trade secrets</a>, and partly because other developers never author a formal specification document, letting precedent set by other already existing programs that use the format define the format via how these existing programs use it.
+</p><p>If the developer of a format doesn't publish free specifications, another developer looking to utilize that kind of file must either <a href="/wiki/Reverse_engineering" title="Reverse engineering">reverse engineer</a> the file to find out how to read it or acquire the specification document from the format's developers for a fee and by signing a <a href="/wiki/Non-disclosure_agreement" title="Non-disclosure agreement">non-disclosure agreement</a>. The latter approach is possible only when a formal specification document exists. Both strategies require significant time, money, or both; therefore, file formats with publicly available specifications tend to be supported by more programs.
+</p>
+<h2><span class="mw-headline" id="Patents">Patents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_format&amp;action=edit&amp;section=2" title="Edit section: Patents">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Patent" title="Patent">Patent</a> law, rather than <a href="/wiki/Copyright" title="Copyright">copyright</a>, is more often used to protect a file format. Although patents for file formats are not directly permitted under US law, some formats encode data using patented <a href="/wiki/Algorithm" title="Algorithm">algorithms</a>. For example, using compression with the <a href="/wiki/GIF" title="GIF">GIF</a> file format requires the use of a patented algorithm, and though the patent owner did not initially enforce their patent, they later began collecting <a href="/wiki/Royalty_payment" title="Royalty payment">royalty fees</a>. This has resulted in a significant decrease in the use of GIFs, and is partly responsible for the development of the alternative <a href="/wiki/Portable_Network_Graphics" class="mw-redirect" title="Portable Network Graphics">PNG</a> format. However, the GIF patent expired in the US in mid-2003, and worldwide in mid-2004.
+</p>
+<h2><span class="mw-headline" id="Identifying_file_type">Identifying file type</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_format&amp;action=edit&amp;section=3" title="Edit section: Identifying file type">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Different <a href="/wiki/Operating_system" title="Operating system">operating systems</a> have traditionally taken different approaches to determining a particular file's format, with each approach having its own advantages and disadvantages. Most modern operating systems and individual applications need to use all of the following approaches to read "foreign" file formats, if not work with them completely.
+</p>
+<h3><span class="mw-headline" id="Filename_extension">Filename extension</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_format&amp;action=edit&amp;section=4" title="Edit section: Filename extension">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Filename_extension" title="Filename extension">Filename extension</a></div>
+<p>One popular method used by many operating systems, including <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Windows</a>, <a href="/wiki/MacOS" title="MacOS">macOS</a>, <a href="/wiki/CP/M" title="CP/M">CP/M</a>, <a href="/wiki/DOS" title="DOS">DOS</a>, <a href="/wiki/OpenVMS" title="OpenVMS">VMS</a>, and <a href="/wiki/VM_(operating_system)" title="VM (operating system)">VM/CMS</a>, is to determine the format of a file based on the end of its name, more specifically the letters following the final period. This portion of the filename is known as the <a href="/wiki/Filename_extension" title="Filename extension">filename extension</a>. For example, <a href="/wiki/HTML" title="HTML">HTML</a> documents are identified by names that end with <style data-mw-deduplicate="TemplateStyles:r886049734">.mw-parser-output .monospaced{font-family:monospace,monospace}</style><span class="monospaced">.html</span> (or <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">.htm</span>), and <a href="/wiki/GIF" title="GIF">GIF</a> images by <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">.gif</span>. In the original <a href="/wiki/File_Allocation_Table" title="File Allocation Table">FAT</a> <a href="/wiki/File_system" title="File system">file system</a>, file names were limited to an eight-character identifier and a three-character extension, known as an <a href="/wiki/8.3_filename" title="8.3 filename">8.3 filename</a>. There are a limited number of three-letter extensions, which can cause a given extension to be used by more than one program. Many formats still use three-character extensions even though modern operating systems and application programs no longer have this limitation. Since there is no standard list of extensions, more than one format can use the same extension, which can confuse both the operating system and users.
+</p><p>One artifact of this approach is that the system can easily be tricked into treating a file as a different format simply by renaming it &#8212; an <a href="/wiki/HTML" title="HTML">HTML</a> file can, for instance, be easily treated as <a href="/wiki/Plain_text" title="Plain text">plain text</a> by renaming it from <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">filename.html</span> to <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">filename.txt</span>. Although this strategy was useful to expert users who could easily understand and manipulate this information, it was often confusing to less technical users, who could accidentally make a file unusable (or "lose" it) by renaming it incorrectly.
+</p><p>This led most versions of Windows and Mac OS to hide the extension when listing files. This prevents the user from accidentally changing the file type, and allows expert users to turn this feature off and display the extensions.
+</p><p>Hiding the extension, however, can create the appearance of two or more identical filenames in the same folder. For example, a company logo may be needed both in <a href="/wiki/Encapsulated_PostScript" title="Encapsulated PostScript"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">.eps</span></a> format (for publishing) and <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">.png</span> format (for web sites). With the extensions visible, these would appear as the unique filenames: "<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">CompanyLogo.eps</span>" and "<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">CompanyLogo.png</span>". On the other hand, hiding the extensions would make both appear as "<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">CompanyLogo</span>", which can lead to confusion.
+</p><p>Hiding extensions can also pose a security risk.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> For example, a malicious user could create an <a href="/wiki/Trojan_horse_(computing)" title="Trojan horse (computing)">executable program</a> with an innocent name such as "<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">Holiday photo.jpg.exe</span>". The "<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">.exe</span>" would be hidden and an unsuspecting user would see "<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">Holiday photo.jpg</span>", which would appear to be a <a href="/wiki/JPEG" title="JPEG">JPEG</a> image, usually unable to harm the machine. However, the operating system would still see the "<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">.exe</span>" extension and run the program, which would then be able to cause harm to the computer. The same is true with files with only one extension: as it is not shown to the user, no information about the file can be deduced without explicitly investigating the file. To further trick users, it is possible to store an icon inside the program, in which case some operating systems' icon assignment for the executable file (<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">.exe</span>) would be overridden with an icon commonly used to represent JPEG images, making the program look like an image. Extensions can also be spoofed: some <a href="/wiki/Microsoft_Word" title="Microsoft Word">Microsoft Word</a> macro viruses create a Word file in template format and save it with a <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">.doc</span> extension. Since Word generally ignores extensions and looks at the format of the file, these would open as templates, execute, and spread the virus.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2019)">citation needed</span></a></i>&#93;</sup> This represents a practical problem for Windows systems where extension-hiding is turned on by default.
+</p>
+<h3><span class="mw-headline" id="Internal_metadata">Internal metadata</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_format&amp;action=edit&amp;section=5" title="Edit section: Internal metadata">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A second way to identify a file format is to <i>use information</i> regarding the format stored inside the file itself, either information meant for this purpose or <a href="/wiki/String_(computer_science)#Non-text_strings" title="String (computer science)">binary strings</a> that happen to always be in specific locations in files of some formats. Since the easiest place to locate them is at the beginning, such area is usually called a <i>file header</i> when it is greater than a few <a href="/wiki/Byte" title="Byte">bytes</a>, or a <i>magic number</i> if it is just a few bytes long.
+</p>
+<h4><span class="mw-headline" id="File_header">File header</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_format&amp;action=edit&amp;section=6" title="Edit section: File header">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The metadata contained in a <a href="/wiki/Header_(computing)" title="Header (computing)">file header</a> are usually stored at the start of the file, but might be present in other areas too, often including the end, depending on the file format or the type of data contained. Character-based (text) files usually have character-based headers, whereas binary formats usually have binary headers, although this is not a rule.  Text-based file headers usually take up more space, but being human-readable, they can easily be examined by using simple software such as a text editor or a hexadecimal editor.
+</p><p>As well as identifying the file format, file headers may contain metadata about the file and its contents. For example, most <a href="/wiki/Image_file_formats" class="mw-redirect" title="Image file formats">image files</a> store information about image format, size, resolution and <a href="/wiki/Color_space" title="Color space">color space</a>, and optionally <a href="/wiki/Author" title="Author">authoring</a> information such as who made the image, when and where it was made, what camera model and photographic settings were used (<a href="/wiki/Exif" title="Exif">Exif</a>), and so on. Such metadata may be used by software reading or interpreting the file during the loading process and afterwards.
+</p><p>File headers may be used by an operating system to quickly gather information about a file without loading it all into memory, but doing so uses more of a computer's resources than reading directly from the <a href="/wiki/File_system#Directories" title="File system">directory</a> information. For instance, when a <a href="/wiki/Graphical_user_interface" title="Graphical user interface">graphic</a> <a href="/wiki/File_manager" title="File manager">file manager</a> has to display the contents of a folder, it must read the headers of many files before it can display the appropriate icons, but these will be located in different places on the storage medium thus taking longer to access.  A folder containing many files with complex metadata such as <a href="/wiki/Thumbnail" title="Thumbnail">thumbnail</a> information may require considerable time before it can be displayed.
+</p><p>If a header is <a href="/wiki/Hard_coding" title="Hard coding">binary hard-coded</a> such that the header itself needs complex interpretation in order to be recognized, especially for metadata content protection's sake, there is a risk that the file format can be misinterpreted.  It may even have been badly written at the source.  This can result in corrupt metadata which, in extremely bad cases, might even render the file unreadable.<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="Hard-coding or not does not seem relevant. Coding meant to protect metadata corruption should not make it easier. The issue is probably about complex coding and insufficient standardisation (January 2014)">clarification needed</span></a></i>&#93;</sup>
+</p><p>A more complex example of file headers are those used for <a href="/wiki/Digital_container_format" class="mw-redirect" title="Digital container format">wrapper</a> (or container) file formats.
+</p>
+<h4><span class="mw-headline" id="Magic_number">Magic number</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_format&amp;action=edit&amp;section=7" title="Edit section: Magic number">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Magic_number_(programming)#In_files" title="Magic number (programming)">Magic number (programming) §&#160;In files</a></div>
+<p>One way to incorporate file type metadata, often associated with <a href="/wiki/Unix" title="Unix">Unix</a> and its derivatives, is to store a "magic number" inside the file itself. Originally, this term was used for a specific set of 2-byte identifiers at the beginnings of files, but since any binary sequence can be regarded as a number, any feature of a file format which uniquely distinguishes it can be used for identification. <a href="/wiki/GIF" title="GIF">GIF</a> images, for instance, always begin with the <a href="/wiki/ASCII" title="ASCII">ASCII</a> representation of either <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">GIF87a</span> or <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">GIF89a</span>, depending upon the standard to which they adhere. Many file types, especially plain-text files, are harder to spot by this method. HTML files, for example, might begin with the string <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">&lt;html&gt;</span> (which is not case sensitive), or an appropriate <a href="/wiki/Document_type_definition" title="Document type definition">document type definition</a> that starts with <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">&lt;!DOCTYPE HTML&gt;</span>, or, for <a href="/wiki/XHTML" title="XHTML">XHTML</a>, the <a href="/wiki/XML" title="XML">XML</a> identifier, which begins with <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">&lt;?xml</span>. The files can also begin with HTML comments, random text, or several empty lines, but still be usable HTML.
+</p><p>The magic number approach offers better guarantees that the format will be identified correctly, and can often determine more precise information about the file. Since reasonably reliable "magic number" tests can be fairly complex, and each file must effectively be tested against every possibility in the magic database, this approach is relatively inefficient, especially for displaying large lists of files (in contrast, file name and metadata-based methods need to check only one piece of data, and match it against a sorted index). Also, data must be read from the file itself, increasing latency as opposed to metadata stored in the directory. Where file types don't lend themselves to recognition in this way, the system must fall back to metadata. It is, however, the best way for a program to check if the file it has been told to process is of the correct format: while the file's name or metadata may be altered independently of its content, failing a well-designed magic number test is a pretty sure sign that the file is either corrupt or of the wrong type. On the other hand, a valid magic number does not guarantee that the file is not corrupt or is of a correct type.
+</p><p>So-called <a href="/wiki/Shebang_(Unix)" title="Shebang (Unix)">shebang</a> lines in <a href="/wiki/Scripting_language" title="Scripting language">script files</a> are a special case of magic numbers. Here, the magic number is human-readable text that identifies a specific <a href="/wiki/Interpreter_(computing)" title="Interpreter (computing)">command interpreter</a> and options to be passed to the command interpreter.
+</p><p>Another operating system using magic numbers is <a href="/wiki/AmigaOS" title="AmigaOS">AmigaOS</a>, where magic numbers were called "Magic Cookies" and were adopted as a standard system to recognize executables in <a href="/wiki/Amiga_Hunk" title="Amiga Hunk">Hunk</a> executable file format and also to let single programs, tools and utilities deal automatically with their saved data files, or any other kind of file types when saving and loading data. This system was then enhanced with the <a href="/wiki/Amiga_support_and_maintenance_software#Datatypes" title="Amiga support and maintenance software">Amiga standard Datatype</a> recognition system. Another method was the <a href="/wiki/FourCC" title="FourCC">FourCC</a> method, originating in <a href="/wiki/OSType" class="mw-redirect" title="OSType">OSType</a> on Macintosh, later adapted by <a href="/wiki/Interchange_File_Format" title="Interchange File Format">Interchange File Format</a> (IFF) and derivatives.
+</p>
+<h3><span class="mw-headline" id="External_metadata">External metadata</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_format&amp;action=edit&amp;section=8" title="Edit section: External metadata">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A final way of storing the format of a file is to explicitly store information about the format in the file system, rather than within the file itself.
+</p><p>This approach keeps the metadata separate from both the main data and the name, but is also less <a href="/wiki/Porting" title="Porting">portable</a> than either filename extensions or "magic numbers", since the format has to be converted from filesystem to filesystem. While this is also true to an extent with filename extensions&#8212; for instance, for compatibility with <a href="/wiki/MS-DOS_partition_table" class="mw-redirect" title="MS-DOS partition table">MS-DOS</a>'s three character limit&#8212; most forms of storage have a roughly equivalent definition of a file's data and name, but may have varying or no representation of further metadata.
+</p><p>Note that zip files or archive files solve the problem of handling metadata. A utility program collects multiple files together along with metadata about each file and the folders/directories they came from all within one new file (e.g. a <a href="/wiki/Zip_(file_format)" class="mw-redirect" title="Zip (file format)">zip</a> file with extension <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">.zip</span>). The new file is also compressed and possibly encrypted, but now is transmissible as a single file across operating systems by <a href="/wiki/File_Transfer_Protocol" title="File Transfer Protocol">FTP</a> transmissions or sent by email as an attachment. At the destination, the single file received has to be unzipped by a compatible utility to be useful. The problems of handling metadata are solved this way using zip files or archive files.
+</p>
+<h4><span class="mw-headline" id="Mac_OS_type-codes">Mac OS type-codes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_format&amp;action=edit&amp;section=9" title="Edit section: Mac OS type-codes">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The <a href="/wiki/Macintosh_operating_systems" class="mw-redirect" title="Macintosh operating systems">Mac OS</a>' <a href="/wiki/Hierarchical_File_System_(Apple)" title="Hierarchical File System (Apple)">Hierarchical File System</a> stores codes for <i><a href="/wiki/Creator_code" title="Creator code">creator</a></i> and <i><a href="/wiki/Type_code" class="mw-redirect" title="Type code">type</a></i> as part of the directory entry for each file. These codes are referred to as OSTypes. These codes could be any 4-byte sequence but were often selected so that the ASCII representation formed a sequence of meaningful characters, such as an abbreviation of the application's name or the developer's initials. For instance a <a href="/wiki/HyperCard" title="HyperCard">HyperCard</a> "stack" file has a <i>creator</i> of <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">WILD</span> (from Hypercard's previous name, "WildCard") and a <i>type</i> of <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">STAK</span>. The <a href="/wiki/BBEdit" title="BBEdit">BBEdit</a> text editor has a creator code of <code class="mw-highlight mw-highlight-lang-text mw-content-ltr" id="" style="" dir="ltr">R*ch</code> referring to its original programmer, <a href="/w/index.php?title=Rich_Siegel&amp;action=edit&amp;redlink=1" class="new" title="Rich Siegel (page does not exist)">Rich Siegel</a>. The type code specifies the format of the file, while the creator code specifies the default program to open it with when double-clicked by the user. For example, the user could have several text files all with the type code of <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">TEXT</span>, but each open in a different program, due to having differing creator codes. This feature was intended so that, for example, human-readable plain-text files could be opened in a general-purpose text editor, while programming or HTML code files would open in a specialized editor or <a href="/wiki/Integrated_development_environment" title="Integrated development environment">IDE</a>. However, this feature was often the source of user confusion, as which program would launch when the files were double-clicked was often unpredictable. <a href="/wiki/RISC_OS" title="RISC OS">RISC OS</a> uses a similar system, consisting of a 12-bit number which can be looked up in a table of descriptions—e.g. the <a href="/wiki/Hexadecimal" title="Hexadecimal">hexadecimal</a> number <code class="mw-highlight mw-highlight-lang-text mw-content-ltr" id="" style="" dir="ltr">FF5</code> is "aliased" to <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">PoScript</span>, representing a <a href="/wiki/PostScript" title="PostScript">PostScript</a> file.
+</p>
+<h4><span id="macOS_uniform_type_identifiers_.28UTIs.29"></span><span class="mw-headline" id="macOS_uniform_type_identifiers_(UTIs)">macOS uniform type identifiers (UTIs)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_format&amp;action=edit&amp;section=10" title="Edit section: macOS uniform type identifiers (UTIs)">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Uniform_Type_Identifier" title="Uniform Type Identifier">Uniform Type Identifier</a></div>
+<p>A Uniform Type Identifier (UTI) is a method used in <a href="/wiki/MacOS" title="MacOS">macOS</a> for uniquely identifying "typed" classes of entities, such as file formats. It was developed by <a href="/wiki/Apple_Inc." title="Apple Inc.">Apple</a> as a replacement for OSType (type &amp; creator codes).
+</p><p>The UTI is a <a href="/wiki/Core_Foundation" title="Core Foundation">Core Foundation</a> <a href="/wiki/String_(computer_science)" title="String (computer science)">string</a>, which uses a <a href="/wiki/Reverse-DNS" class="mw-redirect" title="Reverse-DNS">reverse-DNS</a> string. Some common and standard types use a domain called <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">public</span> (e.g. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">public.png</span> for a <a href="/wiki/Portable_Network_Graphics" class="mw-redirect" title="Portable Network Graphics">Portable Network Graphics</a> image), while other domains can be used for third-party types (e.g. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">com.adobe.pdf</span> for <a href="/wiki/Portable_Document_Format" class="mw-redirect" title="Portable Document Format">Portable Document Format</a>). UTIs can be defined within a hierarchical structure, known as a conformance hierarchy. Thus, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">public.png</span> conforms to a supertype of <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">public.image</span>, which itself conforms to a supertype of <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">public.data</span>. A UTI can exist in multiple hierarchies, which provides great flexibility.
+</p><p>In addition to file formats, UTIs can also be used for other entities which can exist in macOS, including:
+</p>
+<ul><li>Pasteboard data</li>
+<li><a href="/wiki/Directory_(computing)" title="Directory (computing)">Folders</a> (directories)</li>
+<li>Translatable types (as handled by the Translation Manager)</li>
+<li>Bundles</li>
+<li>Frameworks</li>
+<li>Streaming data</li>
+<li>Aliases and symlinks</li></ul>
+<h4><span class="mw-headline" id="VSAM_Catalog">VSAM Catalog</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_format&amp;action=edit&amp;section=11" title="Edit section: VSAM Catalog">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In IBM <a href="/wiki/OS/VS" title="OS/VS">OS/VS</a> through <a href="/wiki/Z/OS" title="Z/OS">z/OS</a>, the VSAM catalog
+(prior to <a href="/wiki/Data_Facility_Storage_Management_Subsystem_(MVS)#ICF_catalog" title="Data Facility Storage Management Subsystem (MVS)">ICF catalogs</a>)
+and the VSAM Volume Record in the VSAM Volume Data Set (VVDS) (with ICF catalogs) identifies the type
+of VSAM dataset.
+</p>
+<h4><span class="mw-headline" id="VTOC">VTOC</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_format&amp;action=edit&amp;section=12" title="Edit section: VTOC">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In IBM <a href="/wiki/OS/360" class="mw-redirect" title="OS/360">OS/360</a> through <a href="/wiki/Z/OS" title="Z/OS">z/OS</a>, a format 1 or 7 <a href="/wiki/Volume_Table_of_Contents#Data_Set_Control_Block_types" title="Volume Table of Contents">Data Set Control Block</a> (DSCB) in the <a href="/wiki/Volume_Table_of_Contents" title="Volume Table of Contents">Volume Table of Contents</a> (VTOC) identifies the
+Dataset Organization (<a href="/wiki/DSORG" class="mw-redirect" title="DSORG">DSORG</a>) of the dataset described by it.
+</p>
+<h4><span id="OS.2F2_extended_attributes"></span><span class="mw-headline" id="OS/2_extended_attributes">OS/2 extended attributes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_format&amp;action=edit&amp;section=13" title="Edit section: OS/2 extended attributes">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The <a href="/wiki/High_Performance_File_System" title="High Performance File System">HPFS</a>, FAT12, and FAT16 (but not FAT32) filesystems allow the storage of "extended attributes" with files. These comprise an arbitrary set of triplets with a name, a coded type for the value, and a value, where the names are unique and values can be up to 64 KB long. There are standardized meanings for certain types and names (under <a href="/wiki/OS/2" title="OS/2">OS/2</a>). One such is that the ".TYPE" extended attribute is used to determine the file type. Its value comprises a list of one or more file types associated with the file, each of which is a string, such as "Plain Text" or "HTML document". Thus a file may have several types.
+</p><p>The <a href="/wiki/NTFS" title="NTFS">NTFS</a> filesystem also allows storage of OS/2 extended attributes, as one of the file <i>forks</i>, but this feature is merely present to support the OS/2 subsystem (not present in XP), so the Win32 subsystem treats this information as an opaque block of data and does not use it. Instead, it relies on other file forks to store meta-information in Win32-specific formats. OS/2 extended attributes can still be read and written by Win32 programs, but the data must be entirely parsed by applications.
+</p>
+<h4><span class="mw-headline" id="POSIX_extended_attributes">POSIX extended attributes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_format&amp;action=edit&amp;section=14" title="Edit section: POSIX extended attributes">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>On Unix and <a href="/wiki/Unix-like" title="Unix-like">Unix-like</a> systems, the <a href="/wiki/Ext2" title="Ext2">ext2</a>, <a href="/wiki/Ext3" title="Ext3">ext3</a>, <a href="/wiki/Ext4" title="Ext4">ext4</a>, <a href="/wiki/ReiserFS" title="ReiserFS">ReiserFS</a> version 3, <a href="/wiki/XFS" title="XFS">XFS</a>, <a href="/wiki/IBM_Journaled_File_System_2_(JFS2)" class="mw-redirect" title="IBM Journaled File System 2 (JFS2)">JFS</a>, <a href="/wiki/Berkeley_Fast_File_System" class="mw-redirect" title="Berkeley Fast File System">FFS</a>, and <a href="/wiki/HFS_Plus" title="HFS Plus">HFS+</a> filesystems allow the storage of extended attributes with files. These include an arbitrary list of "name=value" strings, where the names are unique and a value can be accessed through its related name.
+</p>
+<h4><span id="PRONOM_unique_identifiers_.28PUIDs.29"></span><span class="mw-headline" id="PRONOM_unique_identifiers_(PUIDs)">PRONOM unique identifiers (PUIDs)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_format&amp;action=edit&amp;section=15" title="Edit section: PRONOM unique identifiers (PUIDs)">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The <a href="/wiki/PRONOM_technical_registry#The_PRONOM_Persistent_Unique_Identifier_(PUID)_scheme" class="mw-redirect" title="PRONOM technical registry">PRONOM Persistent Unique Identifier (PUID)</a> is an extensible scheme of persistent, unique, and unambiguous identifiers for file formats, which has been developed by <a href="/wiki/The_National_Archives_(UK)" class="mw-redirect" title="The National Archives (UK)">The National Archives of the UK</a> as part of its <a href="/wiki/PRONOM_technical_registry" class="mw-redirect" title="PRONOM technical registry">PRONOM technical registry</a> service. PUIDs can be expressed as <a href="/wiki/Uniform_Resource_Identifier" title="Uniform Resource Identifier">Uniform Resource Identifiers</a> using the <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">info:pronom/</span> namespace. Although not yet widely used outside of the UK government and some <a href="/wiki/Digital_preservation" title="Digital preservation">digital preservation</a> programs, the PUID scheme does provide greater granularity than most alternative schemes.
+</p>
+<h4><span class="mw-headline" id="MIME_types">MIME types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_format&amp;action=edit&amp;section=16" title="Edit section: MIME types">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/MIME" title="MIME">MIME</a> types are widely used in many <a href="/wiki/Internet" title="Internet">Internet</a>-related applications, and increasingly elsewhere, although their usage for on-disc type information is rare. These consist of a standardised system of identifiers (managed by <a href="/wiki/Internet_Assigned_Numbers_Authority" title="Internet Assigned Numbers Authority">IANA</a>) consisting of a <i>type</i> and a <i>sub-type</i>, separated by a <a href="/wiki/Slash_(punctuation)" title="Slash (punctuation)">slash</a>&#8212;for instance, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">text/html</span> or <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049734"><span class="monospaced">image/gif</span>. These were originally intended as a way of identifying what type of file was attached to an <a href="/wiki/E-mail" class="mw-redirect" title="E-mail">e-mail</a>, independent of the source and target operating systems. MIME types identify files on <a href="/wiki/BeOS" title="BeOS">BeOS</a>, <a href="/wiki/AmigaOS_4.0" class="mw-redirect" title="AmigaOS 4.0">AmigaOS 4.0</a> and <a href="/wiki/MorphOS" title="MorphOS">MorphOS</a>, as well as store unique application signatures for application launching. In AmigaOS and MorphOS, the Mime type system works in parallel with Amiga specific Datatype system.
+</p><p>There are problems with the MIME types though; several organizations and people have created their own MIME types without registering them properly with IANA, which makes the use of this standard awkward in some cases.
+</p>
+<h4><span id="File_format_identifiers_.28FFIDs.29"></span><span class="mw-headline" id="File_format_identifiers_(FFIDs)">File format identifiers (FFIDs)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_format&amp;action=edit&amp;section=17" title="Edit section: File format identifiers (FFIDs)">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>File format identifiers are another, not widely used way to identify file formats according to their origin and their file category. It was created for the Description Explorer suite of software. It is composed of several digits of the form <code class="mw-highlight mw-highlight-lang-text mw-content-ltr" id="" style="" dir="ltr">NNNNNNNNN-XX-YYYYYYY</code>. The first part indicates the organization origin/maintainer (this number represents a value in a company/standards organization database), and the 2 following digits categorize the type of file in <a href="/wiki/Hexadecimal" title="Hexadecimal">hexadecimal</a>. The final part is composed of the usual filename extension of the file or the international standard number of the file, padded left with zeros. For example, the PNG file specification has the FFID of <code class="mw-highlight mw-highlight-lang-text mw-content-ltr" id="" style="" dir="ltr">000000001-31-0015948</code> where <code class="mw-highlight mw-highlight-lang-text mw-content-ltr" id="" style="" dir="ltr">31</code> indicates an image file, <code class="mw-highlight mw-highlight-lang-text mw-content-ltr" id="" style="" dir="ltr">0015948</code> is the standard number and <code class="mw-highlight mw-highlight-lang-text mw-content-ltr" id="" style="" dir="ltr">000000001</code> indicates the <a href="/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">International Organization for Standardization</a> (ISO).
+</p>
+<h4><span class="mw-headline" id="File_content_based_format_identification">File content based format identification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_format&amp;action=edit&amp;section=18" title="Edit section: File content based format identification">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Another less popular way to identify the file format is to examine the file contents for distinguishable patterns among file types. The contents of a file are a sequence of bytes and a byte has 256 unique permutations (0–255). Thus, counting the occurrence of byte patterns that is often referred to as byte frequency distribution gives distinguishable patterns to identify file types. There are many content-based file type identification schemes that use a byte frequency distribution to build the representative models for file type and use any statistical and data mining techniques to identify file types.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="File_structure">File structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_format&amp;action=edit&amp;section=19" title="Edit section: File structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are several types of ways to structure data in a file. The most usual ones are described below.
+</p>
+<h3><span id="Unstructured_formats_.28raw_memory_dumps.29"></span><span class="mw-headline" id="Unstructured_formats_(raw_memory_dumps)">Unstructured formats (raw memory dumps)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_format&amp;action=edit&amp;section=20" title="Edit section: Unstructured formats (raw memory dumps)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Earlier file formats used raw data formats that consisted of directly dumping the memory images of one or more structures into the file.
+</p><p>This has several drawbacks. Unless the memory images also have reserved spaces for future extensions, extending and improving this type of structured file is very difficult. It also creates files that might be specific to one platform or programming language (for example a structure containing a <a href="/wiki/Pascal_(programming_language)" title="Pascal (programming language)">Pascal</a> string is not recognized as such in <a href="/wiki/C_(programming_language)" title="C (programming language)">C</a>). On the other hand, developing tools for reading and writing these types of files is very simple.
+</p><p>The limitations of the unstructured formats led to the development of other types of file formats that could be easily extended and be backward compatible at the same time.
+</p>
+<h3><span class="mw-headline" id="Chunk-based_formats">Chunk-based formats</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_format&amp;action=edit&amp;section=21" title="Edit section: Chunk-based formats">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In this kind of file structure, each piece of data is embedded in a container that somehow identifies the data. The container's scope can be identified by start- and end-markers of some kind, by an explicit length field somewhere, or by fixed requirements of the file format's definition.
+</p><p>Throughout the 1970s, many programs used formats of this general kind. For example, word-processors such as <a href="/wiki/Troff" title="Troff">troff</a>, <a href="/wiki/SCRIPT_(markup)" title="SCRIPT (markup)">Script</a>, and <a href="/wiki/Scribe_(markup_language)" title="Scribe (markup language)">Scribe</a>, and database export files such as <a href="/wiki/Comma-separated_values" title="Comma-separated values">CSV</a>. <a href="/wiki/Electronic_Arts" title="Electronic Arts">Electronic Arts</a> and <a href="/wiki/Commodore_International" title="Commodore International">Commodore</a>-<a href="/wiki/Amiga" title="Amiga">Amiga</a> also used this type of file format in 1985, with their IFF (Interchange File Format) file format.
+</p><p>A container is sometimes called a <i>"chunk"</i>, although "chunk" may also imply that each piece is small, and/or that chunks do not contain other chunks; many formats do not impose those requirements.
+</p><p>The information that identifies a particular "chunk" may be called many different things, often terms including "field name", "identifier", "label", or "tag". The identifiers are often human-readable, and classify parts of the data: for example, as a "surname", "address", "rectangle", "font name", etc. These are not the same thing as identifiers in the sense of a database key or serial number (although an identifier may well identify its <em>associated data</em> as such a key).
+</p><p>With this type of file structure, tools that do not know certain chunk identifiers simply skip those that they do not understand. Depending on the
+actual meaning of the skipped data, this may or may not be useful (<a href="/wiki/CSS" title="CSS">CSS</a> explicitly defines such behavior).
+</p><p>This concept has been used again and again by <a href="/wiki/RIFF_(File_format)" class="mw-redirect" title="RIFF (File format)">RIFF</a> (Microsoft-IBM equivalent of IFF), PNG, JPEG storage, DER (<a href="/wiki/Distinguished_Encoding_Rules" class="mw-redirect" title="Distinguished Encoding Rules">Distinguished Encoding Rules</a>) encoded streams and files (which were originally described in CCITT X.409:1984 and therefore predate IFF), and <a href="/wiki/SDXF" title="SDXF">Structured Data Exchange Format (SDXF)</a>.
+</p><p>Indeed, any data format must <em>somehow</em> identify the significance of its component parts, and embedded boundary-markers are an obvious way to do so:
+</p>
+<ul><li><a href="/wiki/MIME#MIME_header_fields" title="MIME">MIME headers</a> do this with a colon-separated label at the start of each logical line. MIME headers cannot contain other MIME headers, though the data content of some headers has sub-parts that can be extracted by other conventions.</li>
+<li><a href="/wiki/Comma-separated_values" title="Comma-separated values">CSV</a> and similar files often do this using a header records with field names, and with commas to mark the field boundaries. Like MIME, CSV has no provision for structures with more than one level.</li>
+<li><a href="/wiki/XML" title="XML">XML</a> and its kin can be loosely considered a kind of chunk-based format, since data elements are identified by markup that is akin to chunk identifiers. However, it has formal advantages such as <a href="/wiki/XML_schema" title="XML schema">schemas</a> and <a href="/wiki/Verification_and_validation_(software)" class="mw-redirect" title="Verification and validation (software)">validation</a>, as well as the ability to represent more complex structures such as <a href="/wiki/Tree_(data_structure)" title="Tree (data structure)">trees</a>, <a href="/wiki/Directed_acyclic_graph" title="Directed acyclic graph">DAGs</a>, and <a href="/wiki/Chart" title="Chart">charts</a>. If XML is considered a "chunk" format, then <a href="/wiki/SGML" class="mw-redirect" title="SGML">SGML</a> and its predecessor <a href="/wiki/IBM_GML" class="mw-redirect" title="IBM GML">IBM GML</a> are among the earliest examples of such formats.</li>
+<li><a href="/wiki/JSON" title="JSON">JSON</a> is similar to XML without schemas, cross-references, or a definition for the meaning of repeated field-names, and is often convenient for programmers.</li>
+<li><a href="/wiki/YAML" title="YAML">YAML</a> is similar to JSON, but use indentation to separate data chunks and aim to be more human-readable than JSON or XML.</li>
+<li><a href="/wiki/Protocol_Buffers" title="Protocol Buffers">Protocol Buffers</a> are in turn similar to JSON, notably replacing boundary-markers in the data with field numbers, which are mapped to/from names by some external mechanism.</li></ul>
+<h3><span class="mw-headline" id="Directory-based_formats">Directory-based formats</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_format&amp;action=edit&amp;section=22" title="Edit section: Directory-based formats">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This is another extensible format, that closely resembles a file system (<a href="/wiki/Object_Linking_and_Embedding" title="Object Linking and Embedding">OLE</a> Documents are actual filesystems), where the file is composed of 'directory entries' that contain the location of the data within the file itself as well as its signatures (and in certain cases its type). Good examples of these types of file structures are <a href="/wiki/Disk_image" title="Disk image">disk images</a>, <a href="/wiki/Executable" title="Executable">executables</a>, OLE documents <a href="/wiki/TIFF" title="TIFF">TIFF</a>, <a href="/wiki/Library_(computing)" title="Library (computing)">libraries</a>.
+</p><p>Some file formats like ODT and DOCX, being <a href="/wiki/PKZIP" title="PKZIP">PKZIP</a>-based, are both chunked and carry a directory.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2022)">citation needed</span></a></i>&#93;</sup>
+</p><p>The structure of a directory-based file format lends itself to modifications more easily than unstructured or chunk-based formats.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2022)">citation needed</span></a></i>&#93;</sup> The nature of this type of format allows users to carefully construct files that causes reader software to do things the authors of the format never intended to happen.  An example of this is the <a href="/wiki/Zip_bomb" title="Zip bomb">zip bomb</a>.  Directory-based file formats also use values that point at other areas in the file but if some later data value points back at data that was read earlier, it can result in an infinite loop for any reader software that assumes the input file is valid and blindly follows the loop.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2022)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_format&amp;action=edit&amp;section=23" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Audio_file_format" title="Audio file format">Audio file format</a></li>
+<li><a href="/wiki/Chemical_file_format" title="Chemical file format">Chemical file format</a></li>
+<li><a href="/wiki/Comparison_of_executable_file_formats" title="Comparison of executable file formats">Comparison of executable file formats</a></li>
+<li><a href="/wiki/Digital_container_format" class="mw-redirect" title="Digital container format">Digital container format</a></li>
+<li><a href="/wiki/Document_file_format" title="Document file format">Document file format</a></li>
+<li><a href="/wiki/PRONOM_technical_registry#DROID" class="mw-redirect" title="PRONOM technical registry">DROID</a> file format identification utility</li>
+<li><a href="/wiki/File_(command)" title="File (command)">File (command)</a>, a file type identification utility</li>
+<li><a href="/wiki/File_conversion" class="mw-redirect" title="File conversion">File conversion</a></li>
+<li><a href="/wiki/Future_proofing" class="mw-redirect" title="Future proofing">Future proofing</a></li>
+<li><a href="/wiki/Graphics_file_format_summary" class="mw-redirect" title="Graphics file format summary">Graphics file format summary</a></li>
+<li><a href="/wiki/Image_file_formats" class="mw-redirect" title="Image file formats">Image file formats</a></li>
+<li><a href="/wiki/List_of_archive_formats" title="List of archive formats">List of archive formats</a></li>
+<li><a href="/wiki/List_of_file_formats" title="List of file formats">List of file formats</a></li>
+<li><a href="/wiki/List_of_file_signatures" title="List of file signatures">List of file signatures</a>, or "magic numbers"</li>
+<li><a href="/wiki/List_of_filename_extensions_(alphabetical)" class="mw-redirect" title="List of filename extensions (alphabetical)">List of filename extensions (alphabetical)</a></li>
+<li><a href="/wiki/List_of_free_file_formats" class="mw-redirect" title="List of free file formats">List of free file formats</a></li>
+<li><a href="/wiki/List_of_motion_and_gesture_file_formats" title="List of motion and gesture file formats">List of motion and gesture file formats</a></li>
+<li><a href="/wiki/Magic_number_(programming)" title="Magic number (programming)">Magic number (programming)</a></li>
+<li><a href="/wiki/Object_file" title="Object file">Object file</a></li>
+<li><a href="/wiki/Video_file_format" title="Video file format">Video file format</a></li>
+<li><a href="/wiki/Windows_file_types" class="mw-redirect" title="Windows file types">Windows file types</a></li>
+<li><a href="/wiki/Filename_extension" title="Filename extension">Filename extension</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_format&amp;action=edit&amp;section=24" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1097763485"><table class="box-More_footnotes plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article includes a list of general <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">references</a>, but <b>it lacks sufficient corresponding <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>.<span class="hide-when-compact"> Please help to <a href="/wiki/Wikipedia:WikiProject_Reliability" title="Wikipedia:WikiProject Reliability">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span>  <span class="date-container"><i>(<span class="date">October 2008</span>)</i></span><span class="hide-when-compact"><i> (<small><a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a></small>)</i></span></div></td></tr></tbody></table>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist reflist-columns references-column-width" style="column-width: 30em;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFPC_World2003" class="citation web cs1">PC World (23 December 2003). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080423022237/http://www.pcworld.com/article/id,113758-page,1/article.html">"Windows Tips: For Security Reasons, It Pays To Know Your File Extensions"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.pcworld.com/article/id,113758-page,1/article.html">the original</a> on 23 April 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">20 June</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Windows+Tips%3A+For+Security+Reasons%2C+It+Pays+To+Know+Your+File+Extensions&amp;rft.date=2003-12-23&amp;rft.au=PC+World&amp;rft_id=http%3A%2F%2Fwww.pcworld.com%2Farticle%2Fid%2C113758-page%2C1%2Farticle.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFile+format" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090814051001/http://www.forensicswiki.org/wiki/File_Format_Identification">"File Format Identification"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.forensicswiki.org/wiki/File_Format_Identification">the original</a> on 2009-08-14<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-07-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=File+Format+Identification&amp;rft_id=http%3A%2F%2Fwww.forensicswiki.org%2Fwiki%2FFile_Format_Identification&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFile+format" class="Z3988"></span></span>
+</li>
+</ol></div>
+<style data-mw-deduplicate="TemplateStyles:r1054258005">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li{margin-left:0;padding-left:3.2em;text-indent:-3.2em}.mw-parser-output .refbegin-hanging-indents ul,.mw-parser-output .refbegin-hanging-indents ul li{list-style:none}@media(max-width:720px){.mw-parser-output .refbegin-hanging-indents>ul>li{padding-left:1.6em;text-indent:-1.6em}}.mw-parser-output .refbegin-columns{margin-top:0.3em}.mw-parser-output .refbegin-columns ul{margin-top:0}.mw-parser-output .refbegin-columns li{page-break-inside:avoid;break-inside:avoid-column}</style><div class="refbegin refbegin-columns references-column-width" style="column-width: 30em">
+<dl><dd><ul><li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20041225112451/http://www.markcrocker.com/rexxtipsntricks/rxtt28.2.0301.html">"Extended Attribute Data Types"</a>. <i>REXX Tips &amp; Tricks, Version 2.80</i>. Archived from <a rel="nofollow" class="external text" href="http://markcrocker.com/rexxtipsntricks/rxtt28.2.0301.html">the original</a> on December 25, 2004<span class="reference-accessdate">. Retrieved <span class="nowrap">February 9,</span> 2005</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=REXX+Tips+%26+Tricks%2C+Version+2.80&amp;rft.atitle=Extended+Attribute+Data+Types&amp;rft_id=http%3A%2F%2Fmarkcrocker.com%2Frexxtipsntricks%2Frxtt28.2.0301.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFile+format" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20050321120229/http://markcrocker.com/rexxtipsntricks/rxtt28.2.0300.html">"Extended Attributes used by the WPS"</a>. <i>REXX Tips &amp; Tricks, Version 2.80</i>. Archived from <a rel="nofollow" class="external text" href="http://markcrocker.com/rexxtipsntricks/rxtt28.2.0300.html">the original</a> on March 21, 2005<span class="reference-accessdate">. Retrieved <span class="nowrap">February 9,</span> 2005</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=REXX+Tips+%26+Tricks%2C+Version+2.80&amp;rft.atitle=Extended+Attributes+used+by+the+WPS&amp;rft_id=http%3A%2F%2Fmarkcrocker.com%2Frexxtipsntricks%2Frxtt28.2.0300.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFile+format" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080321102208/http://www.howzatt.demon.co.uk/articles/06may93.html">"Extended Attributes - what are they and how can you use them&#160;?"</a>. <i>Roger Orr</i>. Archived from <a rel="nofollow" class="external text" href="http://www.howzatt.demon.co.uk/articles/06may93.html">the original</a> on March 21, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">February 9,</span> 2005</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Roger+Orr&amp;rft.atitle=Extended+Attributes+-+what+are+they+and+how+can+you+use+them+%3F&amp;rft_id=http%3A%2F%2Fwww.howzatt.demon.co.uk%2Farticles%2F06may93.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFile+format" class="Z3988"></span></li></ul></dd></dl>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_format&amp;action=edit&amp;section=25" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1134653256">.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:#f9f9f9;display:flow-root}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</style><div class="side-box side-box-right plainlinks sistersitebox"><style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style>
+<div class="side-box-flex">
+<div class="side-box-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" decoding="async" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="512" data-file-height="512" /></div>
+<div class="side-box-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/Special:Search/file_format" class="extiw" title="wiktionary:Special:Search/file format">file format</a></b></i> in Wiktionary, the free dictionary.</div></div>
+</div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1126788409"><style data-mw-deduplicate="TemplateStyles:r1045330069">.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}</style><table class="sidebar nomobile nowraplinks" style="width:auto;text-align:left;"><tbody><tr><td class="sidebar-pretitle"><a href="/wiki/Wikipedia:The_Wikipedia_Library" title="Wikipedia:The Wikipedia Library">Library resources</a> about <br /> <b>File Use</b> <hr /></td></tr><tr><td class="sidebar-content plainlist">
+<ul><li><a class="external text" href="https://ftl.toolforge.org/cgi-bin/ftl?st=wp&amp;su=File+format">Resources in your library</a></li></ul></td>
+</tr></tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="https://curlie.org//Computers/Data_Formats/">File format</a> at <a href="/wiki/Curlie" class="mw-redirect" title="Curlie">Curlie</a></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation cs2"><a rel="nofollow" class="external text" href="http://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-formats"><i>Best Practices for File Formats</i></a>, US: <a href="/wiki/Stanford_University_Libraries" title="Stanford University Libraries">Stanford University Libraries</a>, Data Management Services</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Best+Practices+for+File+Formats&amp;rft.place=US&amp;rft.pub=Stanford+University+Libraries%2C+Data+Management+Services&amp;rft_id=http%3A%2F%2Flibrary.stanford.edu%2Fresearch%2Fdata-management-services%2Fdata-best-practices%2Fbest-practices-file-formats&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFile+format" class="Z3988"></span> ("The file formats you use have a direct impact on your ability to open those files at a later date and on the ability of other people to access those data")</li></ul>
+<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Computer_files" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Computer_files" title="Template:Computer files"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Computer_files" title="Template talk:Computer files"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Computer_files&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Computer_files" style="font-size:114%;margin:0 4em"><a href="/wiki/Computer_file" title="Computer file">Computer files</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Types</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Binary_file" title="Binary file">Binary file</a> / <a href="/wiki/Text_file" title="Text file">text file</a></li>
+<li><a class="mw-selflink selflink">File format</a>
+<ul><li><a href="/wiki/List_of_file_formats" title="List of file formats">List of file formats</a></li>
+<li><a href="/wiki/List_of_file_signatures" title="List of file signatures">File signatures</a></li>
+<li><a href="/wiki/Magic_number_(programming)" title="Magic number (programming)">Magic number</a></li></ul></li>
+<li><a href="/wiki/Metafile" class="mw-redirect" title="Metafile">Metafile</a></li>
+<li><a href="/wiki/Sidecar_file" title="Sidecar file">Sidecar file</a></li>
+<li><a href="/wiki/Sparse_file" title="Sparse file">Sparse file</a></li>
+<li><a href="/wiki/Swap_file" class="mw-redirect" title="Swap file">Swap file</a></li>
+<li><a href="/wiki/System_file" title="System file">System file</a></li>
+<li><a href="/wiki/Temporary_file" title="Temporary file">Temporary file</a></li>
+<li><a href="/wiki/Zero-byte_file" title="Zero-byte file">Zero-byte file</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Properties</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Filename" title="Filename">Filename</a>
+<ul><li><a href="/wiki/8.3_filename" title="8.3 filename">8.3 filename</a></li>
+<li><a href="/wiki/Long_filename" title="Long filename">Long filename</a></li>
+<li><a href="/wiki/Filename_mangling" title="Filename mangling">Filename mangling</a></li></ul></li>
+<li><a href="/wiki/Filename_extension" title="Filename extension">Filename extension</a>
+<ul><li><a href="/wiki/List_of_filename_extensions" title="List of filename extensions">List of filename extensions</a></li></ul></li>
+<li><a href="/wiki/File_attribute" title="File attribute">File attribute</a>
+<ul><li><a href="/wiki/Extended_file_attributes" title="Extended file attributes">Extended file attributes</a></li></ul></li>
+<li><a href="/wiki/File_size" title="File size">File size</a></li>
+<li><a href="/wiki/Hidden_file_and_hidden_directory" title="Hidden file and hidden directory">Hidden file / Hidden directory</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Organisation</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Directory_(computing)" title="Directory (computing)">Directory/folder</a>
+<ul><li><a href="/wiki/NTFS_links" title="NTFS links">NTFS links</a></li>
+<li><a href="/wiki/Temporary_folder" title="Temporary folder">Temporary folder</a></li></ul></li>
+<li><a href="/wiki/Directory_structure" title="Directory structure">Directory structure</a></li>
+<li><a href="/wiki/File_sequence" title="File sequence">File sequence</a></li>
+<li><a href="/wiki/File_system" title="File system">File system</a>
+<ul><li><a href="/wiki/Filesystem_Hierarchy_Standard" title="Filesystem Hierarchy Standard">Filesystem Hierarchy Standard</a></li></ul></li>
+<li><a href="/wiki/Path_(computing)" title="Path (computing)">Path</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/File_operation" class="mw-redirect" title="File operation">Operations</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Open_(system_call)" title="Open (system call)">Open</a></li>
+<li><a href="/wiki/Close_(system_call)" title="Close (system call)">Close</a></li>
+<li><a href="/wiki/Read_(system_call)" title="Read (system call)">Read</a></li>
+<li><a href="/wiki/Write_(system_call)" title="Write (system call)">Write</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Linking</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/File_descriptor" title="File descriptor">File descriptor</a></li>
+<li><a href="/wiki/Hard_link" title="Hard link">Hard link</a></li>
+<li><a href="/wiki/Shortcut_(computing)" title="Shortcut (computing)">Shortcut</a>
+<ul><li><a href="/wiki/Alias_(Mac_OS)" title="Alias (Mac OS)">Alias</a></li>
+<li><a href="/wiki/Shadow_(OS/2)" title="Shadow (OS/2)">Shadow</a></li></ul></li>
+<li><a href="/wiki/Symbolic_link" title="Symbolic link">Symbolic link</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Management</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/File_comparison" title="File comparison">File comparison</a></li>
+<li><a href="/wiki/Data_compression" title="Data compression">Data compression</a></li>
+<li><a href="/wiki/File_manager" title="File manager">File manager</a>
+<ul><li><a href="/wiki/Comparison_of_file_managers" title="Comparison of file managers">Comparison of file managers</a></li></ul></li>
+<li><a href="/wiki/File_system_permissions" class="mw-redirect" title="File system permissions">File system permissions</a></li>
+<li><a href="/wiki/File_transfer" title="File transfer">File transfer</a>
+<ul><li><a href="/wiki/File_sharing" title="File sharing">File sharing</a></li></ul></li>
+<li><a href="/wiki/File_verification" title="File verification">File verification</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox authority-control" aria-label="Navbox" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a>: National <a href="https://www.wikidata.org/wiki/Q235557#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" class="noprint" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4433979-3">Germany</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1395
+Cached time: 20230528135541
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.435 seconds
+Real time usage: 0.689 seconds
+Preprocessor visited node count: 3388/1000000
+Post‐expand include size: 87804/2097152 bytes
+Template argument size: 14354/2097152 bytes
+Highest expansion depth: 15/100
+Expensive parser function count: 19/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 45118/5000000 bytes
+Lua time usage: 0.255/10.000 seconds
+Lua memory usage: 5408271/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  600.951      1 -total
+ 22.94%  137.867      7 Template:Code
+ 17.45%  104.867      4 Template:Ambox
+ 13.93%   83.708      5 Template:Cite_web
+ 13.05%   78.450      1 Template:Reflist
+ 10.81%   64.960      1 Template:Computer_files
+ 10.79%   64.832      1 Template:Multiple_issues
+ 10.58%   63.563      1 Template:Navbox
+  7.62%   45.787      1 Template:Short_description
+  4.87%   29.264      1 Template:Original_research
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:18933600-0!canonical and timestamp 20230528135541 and revision id 1157002036. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=File_format&amp;oldid=1157002036">https://en.wikipedia.org/w/index.php?title=File_format&amp;oldid=1157002036</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Category</a>: <ul><li><a href="/wiki/Category:Computer_file_formats" title="Category:Computer file formats">Computer file formats</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_that_may_contain_original_research_from_April_2022" title="Category:Articles that may contain original research from April 2022">Articles that may contain original research from April 2022</a></li><li><a href="/wiki/Category:All_articles_that_may_contain_original_research" title="Category:All articles that may contain original research">All articles that may contain original research</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_April_2022" title="Category:Articles needing additional references from April 2022">Articles needing additional references from April 2022</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_with_multiple_maintenance_issues" title="Category:Articles with multiple maintenance issues">Articles with multiple maintenance issues</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2019" title="Category:Articles with unsourced statements from March 2019">Articles with unsourced statements from March 2019</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_January_2014" title="Category:Wikipedia articles needing clarification from January 2014">Wikipedia articles needing clarification from January 2014</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2022" title="Category:Articles with unsourced statements from December 2022">Articles with unsourced statements from December 2022</a></li><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_October_2008" title="Category:Articles lacking in-text citations from October 2008">Articles lacking in-text citations from October 2008</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:Articles_with_Curlie_links" title="Category:Articles with Curlie links">Articles with Curlie links</a></li><li><a href="/wiki/Category:Articles_with_GND_identifiers" title="Category:Articles with GND identifiers">Articles with GND identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 25 May 2023, at 18:11<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=File_format&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class='vector-settings'>
+	
+<button
+	id=""
+	class="mw-ui-button mw-ui-icon-element vector-limited-width-toggle"
+	><span class="mw-ui-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+
+</button>
+
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1418","wgBackendResponseTime":107,"wgPageParseReport":{"limitreport":{"cputime":"0.435","walltime":"0.689","ppvisitednodes":{"value":3388,"limit":1000000},"postexpandincludesize":{"value":87804,"limit":2097152},"templateargumentsize":{"value":14354,"limit":2097152},"expansiondepth":{"value":15,"limit":100},"expensivefunctioncount":{"value":19,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":45118,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  600.951      1 -total"," 22.94%  137.867      7 Template:Code"," 17.45%  104.867      4 Template:Ambox"," 13.93%   83.708      5 Template:Cite_web"," 13.05%   78.450      1 Template:Reflist"," 10.81%   64.960      1 Template:Computer_files"," 10.79%   64.832      1 Template:Multiple_issues"," 10.58%   63.563      1 Template:Navbox","  7.62%   45.787      1 Template:Short_description","  4.87%   29.264      1 Template:Original_research"]},"scribunto":{"limitreport-timeusage":{"value":"0.255","limit":"10.000"},"limitreport-memusage":{"value":5408271,"limit":52428800}},"cachereport":{"origin":"mw1395","timestamp":"20230528135541","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"File format","url":"https:\/\/en.wikipedia.org\/wiki\/File_format","sameAs":"http:\/\/www.wikidata.org\/entity\/Q235557","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q235557","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-11-11T15:05:05Z","dateModified":"2023-05-25T18:11:01Z","headline":"formalized structure of information stored on a computer"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"File format","url":"https:\/\/en.wikipedia.org\/wiki\/File_format","sameAs":"http:\/\/www.wikidata.org\/entity\/Q235557","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q235557","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-11-11T15:05:05Z","dateModified":"2023-05-25T18:11:01Z","headline":"formalized structure of information stored on a computer"}</script>
+</body>
+</html>

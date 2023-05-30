@@ -1,0 +1,800 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-disabled vector-feature-zebra-design-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Category:Graphics file formats - Wikipedia</title>
+<script>document.documentElement.className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-disabled vector-feature-zebra-design-disabled";(function(){var cookie=document.cookie.match(/(?:^|; )enwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"a966ed6a-cbb9-40aa-93e2-472388c1688f","wgCSPNonce":false,
+"wgCanonicalNamespace":"Category","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":14,"wgPageName":"Category:Graphics_file_formats","wgTitle":"Graphics file formats","wgCurRevisionId":1043658303,"wgRevisionId":1043658303,"wgArticleId":737744,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Commons category link is on Wikidata","Template Category TOC via CatAutoTOC on category with 201–300 pages","CatAutoTOC generates standard Category TOC","Computer file formats","Office document file formats","Spreadsheet file formats","Graphics standards","Image processing"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Category:Graphics_file_formats","wgRelevantArticleId":737744,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{
+"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":300,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q7058231","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading",
+"mediawiki.action.styles":"ready","ext.categoryTree.styles":"ready","mediawiki.helplink":"ready","mediawiki.ui.button":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","mediawiki.ui.icon":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.tmh.player.styles":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.categoryTree","site","mediawiki.page.ready","skins.vector.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.tmh.player","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface",
+"wikibase.client.vector-2022"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.tmh.player.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.action.styles%7Cmediawiki.helplink%7Cmediawiki.ui.button%2Cicon%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.10">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-crossorigin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Category:Graphics file formats - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Category:Graphics_file_formats">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Category:Graphics_file_formats&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Category:Graphics_file_formats">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-14 ns-subject mw-editable page-Category_Graphics_file_formats rootpage-Category_Graphics_file_formats skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-main-menu-dropdown mw-ui-icon-flush-left mw-ui-icon-flush-right"  >
+	<input type="checkbox"
+		id="vector-main-menu-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-main-menu-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Main menu"
+		
+	/>
+	<label
+		id="vector-main-menu-dropdown-label"
+		for="vector-main-menu-dropdown-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+
+		<span class="vector-menu-heading-label">Main menu</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box-notice vector-language-sidebar-alert mw-message-box">Language links are at the top of the page across from the title.</div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt=""
+		aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia"
+			src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline"
+			alt="The Free Encyclopedia"
+			src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search"
+	
+		id=""
+		class="mw-ui-button mw-ui-quiet mw-ui-icon-element search-toggle"
+		title="Search Wikipedia [f]"accesskey="f"><span class="mw-ui-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-moved">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Category%3AGraphics+file+formats" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Category%3AGraphics+file+formats" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-user-menu mw-ui-icon-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox"
+		id="vector-user-links-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-user-links-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Personal tools"
+		
+	/>
+	<label
+		id="vector-user-links-dropdown-label"
+		for="vector-user-links-dropdown-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Category%3AGraphics+file+formats" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="mw-ui-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Category%3AGraphics+file+formats" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="mw-ui-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container vector-sidebar-container-no-toc">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-namespace">Category</span><span class="mw-page-title-separator">:</span><span class="mw-page-title-main">Graphics file formats</span></h1>
+				
+							
+<div id="p-lang-btn" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox"
+		id="p-lang-btn-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-lang-btn"
+		class="vector-menu-checkbox mw-interlanguage-selector"
+		aria-label="Go to an article in another language. Available in 40 languages"
+		
+		
+	/>
+	<label
+		id="p-lang-btn-label"
+		for="p-lang-btn-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-progressive mw-portlet-lang-heading-40"
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+
+		<span class="vector-menu-heading-label">40 languages</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81:%D8%AA%D9%86%D8%B3%D9%8A%D9%82%D8%A7%D8%AA_%D9%85%D9%84%D9%81%D8%A7%D8%AA_%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%85%D9%8A%D8%A7%D8%AA" title="تصنيف:تنسيقات ملفات الرسوميات – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Kateqoriya:Qrafik_formatlar" title="Kateqoriya:Qrafik formatlar – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A6%AF%E0%A6%BC%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A7%80:%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AB%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8_%E0%A6%AB%E0%A6%BE%E0%A6%87%E0%A6%B2_%E0%A6%AB%E0%A6%B0%E0%A6%AE%E0%A7%87%E0%A6%9F" title="বিষয়শ্রেণী:গ্রাফিক্স ফাইল ফরমেট – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D1%8D%D0%B3%D0%BE%D1%80%D1%8B%D1%8F:%D0%93%D1%80%D0%B0%D1%84%D1%96%D1%87%D0%BD%D1%8B%D1%8F_%D1%84%D0%B0%D1%80%D0%BC%D0%B0%D1%82%D1%8B" title="Катэгорыя:Графічныя фарматы – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-be-x-old mw-list-item"><a href="https://be-tarask.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D1%8D%D0%B3%D0%BE%D1%80%D1%8B%D1%8F:%D0%A4%D0%B0%D1%80%D0%BC%D0%B0%D1%82%D1%8B_%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%87%D0%BD%D1%8B%D1%85_%D1%84%D0%B0%D0%B9%D0%BB%D0%B0%D1%9E" title="Катэгорыя:Фарматы графічных файлаў – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target"><span>Беларуская (тарашкевіца)</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%93%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%BD%D0%B8_%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8_%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8" title="Категория:Графични файлови формати – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Categoria:Formats_de_fitxer_d%27imatge" title="Categoria:Formats de fitxer d&#039;imatge – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Kategorie:Grafick%C3%A9_souborov%C3%A9_form%C3%A1ty" title="Kategorie:Grafické souborové formáty – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Kategori:Grafiske_filformater" title="Kategori:Grafiske filformater – Danish" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Kategorie:Grafikformat" title="Kategorie:Grafikformat – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Categor%C3%ADa:Formatos_gr%C3%A1ficos" title="Categoría:Formatos gráficos – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Kategoria:Irudientzako_fitxategi_formatuak" title="Kategoria:Irudientzako fitxategi formatuak – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D8%AF%D9%87:%D9%82%D8%A7%D9%84%D8%A8%E2%80%8C%D9%87%D8%A7%DB%8C_%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%DA%AF%D8%B1%D8%A7%D9%81%DB%8C%DA%A9%DB%8C" title="رده:قالب‌های پرونده‌های گرافیکی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Format_de_fichier_graphique" title="Catégorie:Format de fichier graphique – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EB%B6%84%EB%A5%98:%EA%B7%B8%EB%9E%98%ED%94%BD_%ED%8C%8C%EC%9D%BC_%ED%8F%AC%EB%A7%B7" title="분류:그래픽 파일 포맷 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D4%BF%D5%A1%D5%BF%D5%A5%D5%A3%D5%B8%D6%80%D5%AB%D5%A1:%D4%B3%D6%80%D5%A1%D6%86%D5%AB%D5%AF%D5%A1%D5%AF%D5%A1%D5%B6_%D6%86%D5%B8%D6%80%D5%B4%D5%A1%D5%BF%D5%B6%D5%A5%D6%80" title="Կատեգորիա:Գրաֆիկական ֆորմատներ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Kategori:Format_gambar" title="Kategori:Format gambar – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Categoria:Formati_di_file_grafici" title="Categoria:Formati di file grafici – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%A4%D7%95%D7%A8%D7%9E%D7%98%D7%99%D7%9D_%D7%92%D7%A8%D7%A4%D7%99%D7%99%D7%9D" title="קטגוריה:פורמטים גרפיים – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-jv mw-list-item"><a href="https://jv.wikipedia.org/wiki/Kategori:Format_gambar" title="Kategori:Format gambar – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target"><span>Jawa</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Kateg%C3%B3ria:Grafikus_f%C3%A1jlform%C3%A1tumok" title="Kategória:Grafikus fájlformátumok – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%98%D0%B0:%D0%93%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%BA%D0%B8_%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%82%D0%B5%D1%87%D0%BD%D0%B8_%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8" title="Категорија:Графички податотечни формати – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B5%E0%B5%BC%E0%B4%97%E0%B5%8D%E0%B4%97%E0%B4%82:%E0%B4%9A%E0%B4%BF%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B5%BE%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BE%E0%B4%AF%E0%B5%81%E0%B4%B3%E0%B5%8D%E0%B4%B3_%E0%B4%95%E0%B4%AE%E0%B5%8D%E0%B4%AA%E0%B5%8D%E0%B4%AF%E0%B5%82%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%BC_%E0%B4%AB%E0%B4%AF%E0%B5%BD_%E0%B4%A4%E0%B4%B0%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B5%BE" title="വർഗ്ഗം:ചിത്രങ്ങൾക്കായുള്ള കമ്പ്യൂട്ടർ ഫയൽ തരങ്ങൾ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Kategori:Format_fail_grafik" title="Kategori:Format fail grafik – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Categorie:Afbeeldingsformaat" title="Categorie:Afbeeldingsformaat – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/Category:%E7%94%BB%E5%83%8F%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88" title="Category:画像ファイルフォーマット – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Kategoria:Formaty_plik%C3%B3w_graficznych" title="Kategoria:Formaty plików graficznych – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Categoria:Formatos_digitais_de_imagem" title="Categoria:Formatos digitais de imagem – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Categorie:Formate_de_fi%C8%99iere_grafice" title="Categorie:Formate de fișiere grafice – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%93%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D1%8B" title="Категория:Графические форматы – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Kateg%C3%B3ria:Grafick%C3%A9_s%C3%BAborov%C3%A9_form%C3%A1ty" title="Kategória:Grafické súborové formáty – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%98%D0%B0:%D0%A4%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8_%D1%84%D0%B0%D1%98%D0%BB%D0%BE%D0%B2%D0%B0_%D1%81%D0%BB%D0%B8%D0%BA%D0%B0" title="Категорија:Формати фајлова слика – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Luokka:Kuvatiedostomuodot" title="Luokka:Kuvatiedostomuodot – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Kategori:Digitala_bildformat" title="Kategori:Digitala bildformat – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-te mw-list-item"><a href="https://te.wikipedia.org/wiki/%E0%B0%B5%E0%B0%B0%E0%B1%8D%E0%B0%97%E0%B0%82:%E0%B0%97%E0%B1%8D%E0%B0%B0%E0%B0%BE%E0%B0%AB%E0%B0%BF%E0%B0%95%E0%B1%8D%E0%B0%B8%E0%B1%8D_%E0%B0%AB%E0%B1%88%E0%B0%B2%E0%B1%8D_%E0%B0%AB%E0%B0%BE%E0%B0%B0%E0%B1%8D%E0%B0%AE%E0%B0%BE%E0%B0%9F%E0%B1%8D%E0%B0%B8%E0%B1%8D" title="వర్గం:గ్రాఫిక్స్ ఫైల్ ఫార్మాట్స్ – Telugu" lang="te" hreflang="te" class="interlanguage-link-target"><span>తెలుగు</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%9F%E0%B8%B4%E0%B8%81%E0%B8%AA%E0%B9%8C" title="หมวดหมู่:รูปแบบไฟล์ภาพกราฟิกส์ – Thai" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Kategori:Grafik_dosya_bi%C3%A7imleri" title="Kategori:Grafik dosya biçimleri – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%93%D1%80%D0%B0%D1%84%D1%96%D1%87%D0%BD%D1%96_%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8" title="Категорія:Графічні формати – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:%C4%90%E1%BB%8Bnh_d%E1%BA%A1ng_t%E1%BA%ADp_tin_h%C3%ACnh_%E1%BA%A3nh" title="Thể loại:Định dạng tập tin hình ảnh – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/Category:%E5%9B%BE%E5%BD%A2%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8F" title="Category:图形文件格式 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li></ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7058231#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+				</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-nstab-category" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Category:Graphics_file_formats" title="View the category page [c]" accesskey="c" class=""><span>Category</span></a>
+</li>
+<li id="ca-talk" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Category_talk:Graphics_file_formats" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t" class=""><span>Talk</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+								
+
+<div id="p-variants" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-variants emptyPortlet"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-label="Change language variant"
+		
+		
+	/>
+	<label
+		id="p-variants-label"
+		for="p-variants-checkbox"
+		class="vector-menu-heading "
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+
+	</div>
+</div>
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Category:Graphics_file_formats" class=""><span>Read</span></a>
+</li>
+<li id="ca-edit" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=Category:Graphics_file_formats&amp;action=edit" title="Edit this page [e]" accesskey="e" class=""><span>Edit</span></a>
+</li>
+<li id="ca-history" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=Category:Graphics_file_formats&amp;action=history" title="Past revisions of this page [h]" accesskey="h" class=""><span>View history</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="More options">
+								
+<div id="vector-page-tools-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox"
+		id="vector-page-tools-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-tools-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Tools"
+		
+	/>
+	<label
+		id="vector-page-tools-dropdown-label"
+		for="vector-page-tools-dropdown-checkbox"
+		class="vector-menu-heading "
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-menu-heading-label">Tools</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Category:Graphics_file_formats"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Category:Graphics_file_formats&amp;action=edit"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Category:Graphics_file_formats&amp;action=history"><span>View history</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Category:Graphics_file_formats" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Category:Graphics_file_formats" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Category:Graphics_file_formats&amp;oldid=1043658303" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Category:Graphics_file_formats&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7058231" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Category%3AGraphics_file_formats&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Category:Graphics_file_formats&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Image_file_formats" hreflang="en"><span>Wikimedia Commons</span></a></li></ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="More options">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-mw-helplink" class="mw-indicator"><a href="/wiki/Help:Category" target="_blank" class="mw-helplink">Help</a></div>
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><style data-mw-deduplicate="TemplateStyles:r1134653256">.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:#f9f9f9;display:flow-root}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</style><div class="side-box side-box-right plainlinks sistersitebox"><style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style>
+<div class="side-box-flex">
+<div class="side-box-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></div>
+<div class="side-box-text plainlist">Wikimedia Commons has media related to <span style="font-weight: bold; font-style: italic;"><a href="https://commons.wikimedia.org/wiki/Category:Image_file_formats" class="extiw" title="commons:Category:Image file formats">Image file formats</a></span>.</div></div>
+</div>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">The main article for this <a href="/wiki/Help:Categories" title="Help:Categories">category</a> is <b><a href="/wiki/Image_file_formats" class="mw-redirect" title="Image file formats">Image file formats</a></b>.</div>
+<div style="display:block; margin-top: 1em; padding-right: 2em"><style data-mw-deduplicate="TemplateStyles:r1111373058">.mw-parser-output .toc-top-false-title{font-weight:bold;text-align:center}.mw-parser-output .toc-top .hlist ul{text-align:inherit}@media all and (min-width:720px){.mw-parser-output .toc-top{clear:left}.mw-parser-output .toc-top-left{float:left}.mw-parser-output .toc-top-right{float:right;clear:right}.mw-parser-output .toc-top-center{margin:auto;clear:none}}body.skin-vector-2022 .mw-parser-output .toc-top{padding:7px}body.skin-vector-2022 .mw-parser-output .toc-top #toc-title-text{border-bottom:0;margin-top:0;font-weight:bold;text-align:center}</style><div class="toc plainlinks toc-top toc-top-left" role="navigation" aria-labelledby="toc-title-text-template" id="toc">
+<div class="toctitle"><h2 id="toc-title-text"><span class="mw-headline" id="Contents">Contents </span></h2></div>
+<style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist">
+<ul><li><a class="external text" href="https://en.wikipedia.org/wiki/Category:Graphics_file_formats">Top</a></li>
+<li><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Graphics_file_formats&amp;from=0">0–9</a></li>
+<li><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Graphics_file_formats&amp;from=A">A</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Graphics_file_formats&amp;from=B">B</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Graphics_file_formats&amp;from=C">C</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Graphics_file_formats&amp;from=D">D</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Graphics_file_formats&amp;from=E">E</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Graphics_file_formats&amp;from=F">F</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Graphics_file_formats&amp;from=G">G</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Graphics_file_formats&amp;from=H">H</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Graphics_file_formats&amp;from=I">I</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Graphics_file_formats&amp;from=J">J</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Graphics_file_formats&amp;from=K">K</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Graphics_file_formats&amp;from=L">L</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Graphics_file_formats&amp;from=M">M</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Graphics_file_formats&amp;from=N">N</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Graphics_file_formats&amp;from=O">O</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Graphics_file_formats&amp;from=P">P</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Graphics_file_formats&amp;from=Q">Q</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Graphics_file_formats&amp;from=R">R</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Graphics_file_formats&amp;from=S">S</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Graphics_file_formats&amp;from=T">T</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Graphics_file_formats&amp;from=U">U</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Graphics_file_formats&amp;from=V">V</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Graphics_file_formats&amp;from=W">W</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Graphics_file_formats&amp;from=X">X</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Graphics_file_formats&amp;from=Y">Y</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Graphics_file_formats&amp;from=Z">Z</a></li></ul>
+</div></div></div><div style="clear:both;"></div>
+<!-- 
+NewPP limit report
+Parsed by mw1354
+Cached time: 20230523105522
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [no‐toc]
+CPU time usage: 0.120 seconds
+Real time usage: 0.163 seconds
+Preprocessor visited node count: 446/1000000
+Post‐expand include size: 28992/2097152 bytes
+Template argument size: 3323/2097152 bytes
+Highest expansion depth: 21/100
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4572/5000000 bytes
+Lua time usage: 0.033/10.000 seconds
+Lua memory usage: 1305831/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  151.857      1 -total
+ 47.95%   72.814      1 Template:CatAutoTOC
+ 46.65%   70.835      2 Template:Category_other
+ 43.74%   66.420      1 Template:Auto_category_TOC/core
+ 39.40%   59.825      1 Template:Category_TOC
+ 39.23%   59.579      1 Template:Commons_category
+ 37.68%   57.222      1 Template:Sister_project
+ 36.34%   55.183      1 Template:Side_box
+ 33.18%   50.386      1 Template:TOC_top
+ 27.15%   41.234      1 Template:Flatlist
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:737744-0!canonical and timestamp 20230523105522 and revision id 1043658303. Rendering was triggered because: page-view
+ -->
+</div><div class="mw-category-generated" lang="en" dir="ltr"><div id="mw-subcategories">
+<h2>Subcategories</h2>
+<p>This category has the following 12 subcategories, out of 12 total.
+</p><div lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-category mw-category-columns"><div class="mw-category-group"><h3>0–9</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet"></span> <a href="/wiki/Category:3D_graphics_file_formats" title="Category:3D graphics file formats">3D graphics file formats</a>‎ <span title="Contains 0 subcategories, 21 pages, and 0 files" dir="ltr">(21 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>A</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Adobe_Flash" data-ct-state="collapsed"></span> </span> <a href="/wiki/Category:Adobe_Flash" title="Category:Adobe Flash">Adobe Flash</a>‎ <span title="Contains 5 subcategories, 43 pages, and 0 files" dir="ltr">(5 C, 43 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>G</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="GIS_file_formats" data-ct-state="collapsed"></span> </span> <a href="/wiki/Category:GIS_file_formats" title="Category:GIS file formats">GIS file formats</a>‎ <span title="Contains 4 subcategories, 32 pages, and 0 files" dir="ltr">(4 C, 32 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>H</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet"></span> <a href="/wiki/Category:High_dynamic_range_file_formats" title="Category:High dynamic range file formats">High dynamic range file formats</a>‎ <span title="Contains 0 subcategories, 11 pages, and 0 files" dir="ltr">(11 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>J</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet"></span> <a href="/wiki/Category:JBIG" title="Category:JBIG">JBIG</a>‎ <span title="Contains 0 subcategories, 6 pages, and 0 files" dir="ltr">(6 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="JPEG" data-ct-state="collapsed"></span> </span> <a href="/wiki/Category:JPEG" title="Category:JPEG">JPEG</a>‎ <span title="Contains 1 subcategory, 39 pages, and 0 files" dir="ltr">(1 C, 39 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>O</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Office_document_file_formats" data-ct-state="collapsed"></span> </span> <a href="/wiki/Category:Office_document_file_formats" title="Category:Office document file formats">Office document file formats</a>‎ <span title="Contains 7 subcategories, 10 pages, and 0 files" dir="ltr">(7 C, 10 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>P</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet"></span> <a href="/wiki/Category:PDF_standards" title="Category:PDF standards">PDF standards</a>‎ <span title="Contains 0 subcategories, 5 pages, and 0 files" dir="ltr">(5 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet"></span> <a href="/wiki/Category:Portable_Network_Graphics" title="Category:Portable Network Graphics">Portable Network Graphics</a>‎ <span title="Contains 0 subcategories, 12 pages, and 0 files" dir="ltr">(12 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>R</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Raster_graphics_file_formats" data-ct-state="collapsed"></span> </span> <a href="/wiki/Category:Raster_graphics_file_formats" title="Category:Raster graphics file formats">Raster graphics file formats</a>‎ <span title="Contains 1 subcategory, 18 pages, and 0 files" dir="ltr">(1 C, 18 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>S</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Spreadsheet_file_formats" data-ct-state="collapsed"></span> </span> <a href="/wiki/Category:Spreadsheet_file_formats" title="Category:Spreadsheet file formats">Spreadsheet file formats</a>‎ <span title="Contains 2 subcategories, 25 pages, and 0 files" dir="ltr">(2 C, 25 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>V</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Vector_graphics_file_formats" data-ct-state="collapsed"></span> </span> <a href="/wiki/Category:Vector_graphics_file_formats" title="Category:Vector graphics file formats">Vector graphics file formats</a>‎ <span title="Contains 3 subcategories, 8 pages, and 0 files" dir="ltr">(3 C, 8 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div></div></div>
+</div><div id="mw-pages">
+<h2><span class="anchor" id="Pages_in_category"></span>Pages in category "Graphics file formats"</h2>
+<p>The following 200 pages are in this category, out of approximately 214 total. <a href="/wiki/Wikipedia:FAQ/Categorization#Why_might_a_category_list_not_be_up_to_date?" title="Wikipedia:FAQ/Categorization">This list may not reflect recent changes</a>.
+</p>(previous page) (<a href="/w/index.php?title=Category:Graphics_file_formats&amp;pagefrom=Vector+graphics%0AVector+graphics#mw-pages" title="Category:Graphics file formats">next page</a>)<div lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-category mw-category-columns"><div class="mw-category-group"><h3> </h3>
+<ul><li><a href="/wiki/Template:Graphics_file_formats" title="Template:Graphics file formats">Template:Graphics file formats</a></li></ul></div><div class="mw-category-group"><h3>.</h3>
+<ul><li><span class="redirect-in-category"><a href="/wiki/.3fr" class="mw-redirect" title=".3fr">.3fr</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.ai_(file_format)" class="mw-redirect" title=".ai (file format)">.ai (file format)</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.ani" class="mw-redirect" title=".ani">.ani</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.ari" class="mw-redirect" title=".ari">.ari</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.arw" class="mw-redirect" title=".arw">.arw</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.bay" class="mw-redirect" title=".bay">.bay</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.bmp" class="mw-redirect" title=".bmp">.bmp</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.cap" class="mw-redirect" title=".cap">.cap</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.cgm" class="mw-redirect" title=".cgm">.cgm</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.cin" class="mw-redirect" title=".cin">.cin</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.cpc" class="mw-redirect" title=".cpc">.cpc</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.cr2" class="mw-redirect" title=".cr2">.cr2</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.crw" class="mw-redirect" title=".crw">.crw</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.dcr" class="mw-redirect" title=".dcr">.dcr</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.dcs" class="mw-redirect" title=".dcs">.dcs</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.djv" class="mw-redirect" title=".djv">.djv</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.djvu" class="mw-redirect" title=".djvu">.djvu</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.dng" class="mw-redirect" title=".dng">.dng</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.drf" class="mw-redirect" title=".drf">.drf</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.drw" class="mw-redirect" title=".drw">.drw</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.ecw" class="mw-redirect" title=".ecw">.ecw</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.eip" class="mw-redirect" title=".eip">.eip</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.erf" class="mw-redirect" title=".erf">.erf</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.exif" class="mw-redirect" title=".exif">.exif</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.exr" class="mw-redirect" title=".exr">.exr</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.fff" class="mw-redirect" title=".fff">.fff</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.fodg" class="mw-redirect" title=".fodg">.fodg</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.fpx" class="mw-redirect" title=".fpx">.fpx</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.gfa" class="mw-redirect" title=".gfa">.gfa</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.gif" class="mw-redirect" title=".gif">.gif</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.gs_(file_format)" class="mw-redirect" title=".gs (file format)">.gs (file format)</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.hdp" class="mw-redirect" title=".hdp">.hdp</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.heif" class="mw-redirect" title=".heif">.heif</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.icns" class="mw-redirect" title=".icns">.icns</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.ico" class="mw-redirect" title=".ico">.ico</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.iff" class="mw-redirect" title=".iff">.iff</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.iiq" class="mw-redirect" title=".iiq">.iiq</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.img" class="mw-redirect" title=".img">.img</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.ipe" class="mw-redirect" title=".ipe">.ipe</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.jls" class="mw-redirect" title=".jls">.jls</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.jng" class="mw-redirect" title=".jng">.jng</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.jp2" class="mw-redirect" title=".jp2">.jp2</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.jpe" class="mw-redirect" title=".jpe">.jpe</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.jpeg" class="mw-redirect" title=".jpeg">.jpeg</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.jpg" class="mw-redirect" title=".jpg">.jpg</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.jpx" class="mw-redirect" title=".jpx">.jpx</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.jxr" class="mw-redirect" title=".jxr">.jxr</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.k25" class="mw-redirect" title=".k25">.k25</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.kdc" class="mw-redirect" title=".kdc">.kdc</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.lbm" class="mw-redirect" title=".lbm">.lbm</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.mdc" class="mw-redirect" title=".mdc">.mdc</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.mef" class="mw-redirect" title=".mef">.mef</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.mng" class="mw-redirect" title=".mng">.mng</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.mos" class="mw-redirect" title=".mos">.mos</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.nef" class="mw-redirect" title=".nef">.nef</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.nrw" class="mw-redirect" title=".nrw">.nrw</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.obm" class="mw-redirect" title=".obm">.obm</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.odg" class="mw-redirect" title=".odg">.odg</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.orf" class="mw-redirect" title=".orf">.orf</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.pam" class="mw-redirect" title=".pam">.pam</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.pbm" class="mw-redirect" title=".pbm">.pbm</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.pcx" class="mw-redirect" title=".pcx">.pcx</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.pef" class="mw-redirect" title=".pef">.pef</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.pgf" class="mw-redirect" title=".pgf">.pgf</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.pgm" class="mw-redirect" title=".pgm">.pgm</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.pic" class="mw-redirect" title=".pic">.pic</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.png" class="mw-redirect" title=".png">.png</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.pnm" class="mw-redirect" title=".pnm">.pnm</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.ppm" class="mw-redirect" title=".ppm">.ppm</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.psd" class="mw-redirect" title=".psd">.psd</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.ptx" class="mw-redirect" title=".ptx">.ptx</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.pxn" class="mw-redirect" title=".pxn">.pxn</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.r3d" class="mw-redirect" title=".r3d">.r3d</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.raf" class="mw-redirect" title=".raf">.raf</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.ras" class="mw-redirect" title=".ras">.ras</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.rw2" class="mw-redirect" title=".rw2">.rw2</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.rwl" class="mw-redirect" title=".rwl">.rwl</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.rwz" class="mw-redirect" title=".rwz">.rwz</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.sr2" class="mw-redirect" title=".sr2">.sr2</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.srf" class="mw-redirect" title=".srf">.srf</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.srw" class="mw-redirect" title=".srw">.srw</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.svg" class="mw-redirect" title=".svg">.svg</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.svgz" class="mw-redirect" title=".svgz">.svgz</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.swf" class="mw-redirect" title=".swf">.swf</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.tga" class="mw-redirect" title=".tga">.tga</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.tga_file" class="mw-redirect" title=".tga file">.tga file</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.tif" class="mw-redirect" title=".tif">.tif</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.tiff" class="mw-redirect" title=".tiff">.tiff</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.wdp" class="mw-redirect" title=".wdp">.wdp</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.webp" class="mw-redirect" title=".webp">.webp</a></span></li>
+<li><a href="/wiki/.x" title=".x">.x</a></li>
+<li><span class="redirect-in-category"><a href="/wiki/.x3f" class="mw-redirect" title=".x3f">.x3f</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.xbm" class="mw-redirect" title=".xbm">.xbm</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.xpm" class="mw-redirect" title=".xpm">.xpm</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/.xwd" class="mw-redirect" title=".xwd">.xwd</a></span></li></ul></div><div class="mw-category-group"><h3>*</h3>
+<ul><li><a href="/wiki/Comparison_of_graphics_file_formats" title="Comparison of graphics file formats">Comparison of graphics file formats</a></li>
+<li><a href="/wiki/Image_file_format" title="Image file format">Image file format</a></li></ul></div><div class="mw-category-group"><h3>0–9</h3>
+<ul><li><a href="/wiki/2D_plus_Delta" title="2D plus Delta">2D plus Delta</a></li>
+<li><a href="/wiki/2D-plus-depth" title="2D-plus-depth">2D-plus-depth</a></li></ul></div><div class="mw-category-group"><h3>A</h3>
+<ul><li><a href="/wiki/Adobe_Animate" title="Adobe Animate">Adobe Animate</a></li>
+<li><a href="/wiki/Adobe_Shockwave" title="Adobe Shockwave">Adobe Shockwave</a></li>
+<li><a href="/wiki/Adobe_Shockwave_Player" title="Adobe Shockwave Player">Adobe Shockwave Player</a></li>
+<li><a href="/wiki/Advanced_Function_Presentation" title="Advanced Function Presentation">Advanced Function Presentation</a></li>
+<li><a href="/wiki/Advanced_Scientific_Data_Format" title="Advanced Scientific Data Format">Advanced Scientific Data Format</a></li>
+<li><a href="/wiki/ANI_(file_format)" title="ANI (file format)">ANI (file format)</a></li>
+<li><a href="/wiki/ANIM" title="ANIM">ANIM</a></li>
+<li><a href="/wiki/APNG" title="APNG">APNG</a></li>
+<li><a href="/wiki/Apple_Icon_Image_format" title="Apple Icon Image format">Apple Icon Image format</a></li>
+<li><a href="/wiki/ART_image_file_format" title="ART image file format">ART image file format</a></li></ul></div><div class="mw-category-group"><h3>B</h3>
+<ul><li><a href="/wiki/Better_Portable_Graphics" title="Better Portable Graphics">Better Portable Graphics</a></li>
+<li><a href="/wiki/Bitmap" title="Bitmap">Bitmap</a></li>
+<li><a href="/wiki/BSAVE" title="BSAVE">BSAVE</a></li></ul></div><div class="mw-category-group"><h3>C</h3>
+<ul><li><a href="/wiki/CALS_Raster_file_format" title="CALS Raster file format">CALS Raster file format</a></li>
+<li><a href="/wiki/Camera_Image_File_Format" title="Camera Image File Format">Camera Image File Format</a></li>
+<li><a href="/wiki/Cartesian_Perceptual_Compression" title="Cartesian Perceptual Compression">Cartesian Perceptual Compression</a></li>
+<li><a href="/wiki/CDXL" title="CDXL">CDXL</a></li>
+<li><a href="/wiki/CinemaDNG" title="CinemaDNG">CinemaDNG</a></li>
+<li><a href="/wiki/Cineon" title="Cineon">Cineon</a></li>
+<li><a href="/wiki/Computer_Graphics_Metafile" title="Computer Graphics Metafile">Computer Graphics Metafile</a></li>
+<li><a href="/wiki/CPT_(file_format)" title="CPT (file format)">CPT (file format)</a></li></ul></div><div class="mw-category-group"><h3>D</h3>
+<ul><li><a href="/wiki/Digital_Negative" title="Digital Negative">Digital Negative</a></li>
+<li><a href="/wiki/Digital_Picture_Exchange" title="Digital Picture Exchange">Digital Picture Exchange</a></li>
+<li><a href="/wiki/DirectDraw_Surface" title="DirectDraw Surface">DirectDraw Surface</a></li>
+<li><a href="/wiki/DjVu" title="DjVu">DjVu</a></li>
+<li><a href="/wiki/DMPL" title="DMPL">DMPL</a></li>
+<li><span class="redirect-in-category"><a href="/wiki/.dpx" class="mw-redirect" title=".dpx">.dpx</a></span></li>
+<li><a href="/wiki/Drawn_File" title="Drawn File">Drawn File</a></li></ul></div><div class="mw-category-group"><h3>E</h3>
+<ul><li><a href="/wiki/Encapsulated_PostScript" title="Encapsulated PostScript">Encapsulated PostScript</a></li>
+<li><a href="/wiki/Exif" title="Exif">Exif</a></li>
+<li><a href="/wiki/Extended_Vector_Animation" title="Extended Vector Animation">Extended Vector Animation</a></li></ul></div><div class="mw-category-group"><h3>F</h3>
+<ul><li><a href="/wiki/FITS" title="FITS">FITS</a></li>
+<li><a href="/wiki/FlashPix" title="FlashPix">FlashPix</a></li>
+<li><a href="/wiki/FLIC_(file_format)" title="FLIC (file format)">FLIC (file format)</a></li>
+<li><a href="/wiki/Free_Lossless_Image_Format" title="Free Lossless Image Format">Free Lossless Image Format</a></li>
+<li><a href="/wiki/FXG" title="FXG">FXG</a></li></ul></div><div class="mw-category-group"><h3>H</h3>
+<ul><li><a href="/wiki/Haiku_Vector_Icon_Format" title="Haiku Vector Icon Format">Haiku Vector Icon Format</a></li>
+<li><a href="/wiki/Hershey_fonts" title="Hershey fonts">Hershey fonts</a></li>
+<li><a href="/wiki/High_Efficiency_Video_Coding" title="High Efficiency Video Coding">High Efficiency Video Coding</a></li>
+<li><a href="/wiki/High_Efficiency_Video_Coding_implementations_and_products" title="High Efficiency Video Coding implementations and products">High Efficiency Video Coding implementations and products</a></li>
+<li><a href="/wiki/High_Efficiency_Video_Coding_tiers_and_levels" title="High Efficiency Video Coding tiers and levels">High Efficiency Video Coding tiers and levels</a></li></ul></div><div class="mw-category-group"><h3>I</h3>
+<ul><li><a href="/wiki/ICER" title="ICER">ICER</a></li>
+<li><a href="/wiki/IGES" title="IGES">IGES</a></li>
+<li><a href="/wiki/ILBM" title="ILBM">ILBM</a></li>
+<li><a href="/wiki/Image_Cytometry_Standard" title="Image Cytometry Standard">Image Cytometry Standard</a></li>
+<li><span class="redirect-in-category"><a href="/wiki/ISO_12234-2" class="mw-redirect" title="ISO 12234-2">ISO 12234-2</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/ISO_12639" class="mw-redirect" title="ISO 12639">ISO 12639</a></span></li>
+<li><a href="/wiki/IVUE" title="IVUE">IVUE</a></li></ul></div><div class="mw-category-group"><h3>J</h3>
+<ul><li><a href="/wiki/JBIG" title="JBIG">JBIG</a></li>
+<li><a href="/wiki/JBIG2" title="JBIG2">JBIG2</a></li>
+<li><a href="/wiki/JEDMICS" title="JEDMICS">JEDMICS</a></li>
+<li><a href="/wiki/Joint_Bi-level_Image_Experts_Group" title="Joint Bi-level Image Experts Group">Joint Bi-level Image Experts Group</a></li>
+<li><a href="/wiki/JPEG_2000" title="JPEG 2000">JPEG 2000</a></li>
+<li><a href="/wiki/JPEG_File_Interchange_Format" title="JPEG File Interchange Format">JPEG File Interchange Format</a></li>
+<li><a href="/wiki/JPEG_XR" title="JPEG XR">JPEG XR</a></li>
+<li><a href="/wiki/JPEG_XT" title="JPEG XT">JPEG XT</a></li>
+<li><a href="/wiki/JPEGmini" title="JPEGmini">JPEGmini</a></li>
+<li><a href="/wiki/JT_(visualization_format)" title="JT (visualization format)">JT (visualization format)</a></li></ul></div><div class="mw-category-group"><h3>L</h3>
+<ul><li><a href="/wiki/Layered_Image_File_Format" title="Layered Image File Format">Layered Image File Format</a></li>
+<li><a href="/wiki/Lossless_JPEG" title="Lossless JPEG">Lossless JPEG</a></li></ul></div><div class="mw-category-group"><h3>M</h3>
+<ul><li><a href="/wiki/Magick_Image_File_Format" title="Magick Image File Format">Magick Image File Format</a></li>
+<li><a href="/wiki/MBM_(file_format)" title="MBM (file format)">MBM (file format)</a></li>
+<li><a href="/wiki/MODCA" title="MODCA">MODCA</a></li>
+<li><a href="/wiki/Motion_JPEG_2000" title="Motion JPEG 2000">Motion JPEG 2000</a></li>
+<li><a href="/wiki/MTV_Ray_Tracer_graphic_file" title="MTV Ray Tracer graphic file">MTV Ray Tracer graphic file</a></li>
+<li><span class="redirect-in-category"><a href="/wiki/Multi-Picture_Format" class="mw-redirect" title="Multi-Picture Format">Multi-Picture Format</a></span></li>
+<li><a href="/wiki/Multiple-image_Network_Graphics" title="Multiple-image Network Graphics">Multiple-image Network Graphics</a></li></ul></div><div class="mw-category-group"><h3>N</h3>
+<ul><li><a href="/wiki/Netpbm" title="Netpbm">Netpbm</a></li>
+<li><span class="redirect-in-category"><a href="/wiki/Netpbm_format" class="mw-redirect" title="Netpbm format">Netpbm format</a></span></li>
+<li><a href="/wiki/Nrrd" title="Nrrd">Nrrd</a></li></ul></div><div class="mw-category-group"><h3>O</h3>
+<ul><li><a href="/wiki/ODB%2B%2B" title="ODB++">ODB++</a></li>
+<li><a href="/wiki/OpenFlight" title="OpenFlight">OpenFlight</a></li>
+<li><a href="/wiki/OpenRaster" title="OpenRaster">OpenRaster</a></li>
+<li><a href="/wiki/ORF_format" title="ORF format">ORF format</a></li></ul></div><div class="mw-category-group"><h3>P</h3>
+<ul><li><span class="redirect-in-category"><a href="/wiki/PAM_graphics_format" class="mw-redirect" title="PAM graphics format">PAM graphics format</a></span></li>
+<li><a href="/wiki/PDF" title="PDF">PDF</a></li>
+<li><a href="/wiki/PDF/X" title="PDF/X">PDF/X</a></li>
+<li><a href="/wiki/PICT" title="PICT">PICT</a></li>
+<li><a href="/wiki/PICtor_PIC_image_format" title="PICtor PIC image format">PICtor PIC image format</a></li>
+<li><a href="/wiki/Precision_Graphics_Markup_Language" title="Precision Graphics Markup Language">Precision Graphics Markup Language</a></li>
+<li><a href="/wiki/Progressive_Graphics_File" title="Progressive Graphics File">Progressive Graphics File</a></li></ul></div><div class="mw-category-group"><h3>Q</h3>
+<ul><li><a href="/wiki/QuickTime_VR" title="QuickTime VR">QuickTime VR</a></li></ul></div><div class="mw-category-group"><h3>R</h3>
+<ul><li><a href="/wiki/Raster_graphics" title="Raster graphics">Raster graphics</a></li>
+<li><a href="/wiki/Raw_image_format" title="Raw image format">Raw image format</a></li>
+<li><a href="/wiki/ReGIS" title="ReGIS">ReGIS</a></li>
+<li><a href="/wiki/RGBE_image_format" title="RGBE image format">RGBE image format</a></li></ul></div><div class="mw-category-group"><h3>S</h3>
+<ul><li><a href="/wiki/Scitex_CT" title="Scitex CT">Scitex CT</a></li>
+<li><a href="/wiki/Segmented_Hyper_Graphics" title="Segmented Hyper Graphics">Segmented Hyper Graphics</a></li>
+<li><a href="/wiki/Semigraphics" title="Semigraphics">Semigraphics</a></li>
+<li><a href="/wiki/Silicon_Graphics_Image" title="Silicon Graphics Image">Silicon Graphics Image</a></li>
+<li><a href="/wiki/Sixel" title="Sixel">Sixel</a></li>
+<li><a href="/wiki/Stereoscopic_video_coding" title="Stereoscopic video coding">Stereoscopic video coding</a></li>
+<li><a href="/wiki/Sun_Raster" title="Sun Raster">Sun Raster</a></li>
+<li><a href="/wiki/SVG" title="SVG">SVG</a></li>
+<li><a href="/wiki/SWF" title="SWF">SWF</a></li></ul></div><div class="mw-category-group"><h3>T</h3>
+<ul><li><a href="/wiki/TIFF/EP" title="TIFF/EP">TIFF/EP</a></li>
+<li><span class="redirect-in-category"><a href="/wiki/TIFF-F" class="mw-redirect" title="TIFF-F">TIFF-F</a></span></li>
+<li><span class="redirect-in-category"><a href="/wiki/TIFF-FX" class="mw-redirect" title="TIFF-FX">TIFF-FX</a></span></li>
+<li><a href="/wiki/TrigML" title="TrigML">TrigML</a></li></ul></div><div class="mw-category-group"><h3>V</h3>
+<ul><li><a href="/wiki/VDA_6.1" title="VDA 6.1">VDA 6.1</a></li></ul></div></div></div>(previous page) (<a href="/w/index.php?title=Category:Graphics_file_formats&amp;pagefrom=Vector+graphics%0AVector+graphics#mw-pages" title="Category:Graphics file formats">next page</a>)
+</div></div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Category:Graphics_file_formats&amp;oldid=1043658303">https://en.wikipedia.org/w/index.php?title=Category:Graphics_file_formats&amp;oldid=1043658303</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Computer_file_formats" title="Category:Computer file formats">Computer file formats</a></li><li><a href="/wiki/Category:Office_document_file_formats" title="Category:Office document file formats">Office document file formats</a></li><li><a href="/wiki/Category:Spreadsheet_file_formats" title="Category:Spreadsheet file formats">Spreadsheet file formats</a></li><li><a href="/wiki/Category:Graphics_standards" title="Category:Graphics standards">Graphics standards</a></li><li><a href="/wiki/Category:Image_processing" title="Category:Image processing">Image processing</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-ns-shown">Hidden categories: <ul><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li><li><a href="/wiki/Category:Template_Category_TOC_via_CatAutoTOC_on_category_with_201%E2%80%93300_pages" title="Category:Template Category TOC via CatAutoTOC on category with 201–300 pages">Template Category TOC via CatAutoTOC on category with 201–300 pages</a></li><li><a href="/wiki/Category:CatAutoTOC_generates_standard_Category_TOC" title="Category:CatAutoTOC generates standard Category TOC">CatAutoTOC generates standard Category TOC</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 11 September 2021, at 07:58<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Category:Graphics_file_formats&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class='vector-settings'>
+	
+<button
+	id=""
+	class="mw-ui-button mw-ui-icon-element vector-limited-width-toggle"
+	><span class="mw-ui-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+
+</button>
+
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1397","wgBackendResponseTime":202,"wgPageParseReport":{"limitreport":{"cputime":"0.120","walltime":"0.163","ppvisitednodes":{"value":446,"limit":1000000},"postexpandincludesize":{"value":28992,"limit":2097152},"templateargumentsize":{"value":3323,"limit":2097152},"expansiondepth":{"value":21,"limit":100},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":4572,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  151.857      1 -total"," 47.95%   72.814      1 Template:CatAutoTOC"," 46.65%   70.835      2 Template:Category_other"," 43.74%   66.420      1 Template:Auto_category_TOC/core"," 39.40%   59.825      1 Template:Category_TOC"," 39.23%   59.579      1 Template:Commons_category"," 37.68%   57.222      1 Template:Sister_project"," 36.34%   55.183      1 Template:Side_box"," 33.18%   50.386      1 Template:TOC_top"," 27.15%   41.234      1 Template:Flatlist"]},"scribunto":{"limitreport-timeusage":{"value":"0.033","limit":"10.000"},"limitreport-memusage":{"value":1305831,"limit":52428800}},"cachereport":{"origin":"mw1354","timestamp":"20230523105522","ttl":1814400,"transientcontent":false}}});});</script>
+</body>
+</html>

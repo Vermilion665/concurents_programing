@@ -42,7 +42,7 @@ async def download_page(link):
             a = await response.text('utf-8')
             path = os.getcwd()
             filename = link.rstrip("/").split("/")[-1]
-            full_path = os.path.join(path, 'Downloads',filename)
+            full_path = os.path.join(path, 'download', filename)
             await aio_file_write(full_path, a)
             print(f'Downloaded file {link}')
 
